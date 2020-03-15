@@ -1,7 +1,8 @@
 import requests
 import ast
 import json
-from bs4 import BeautifulSoup
+
+# from bs4 import BeautifulSoup
 
 # TODO:
 # 1. Convert all single quotes to double quotes in r.text
@@ -26,12 +27,23 @@ if __name__ == '__main__':
                'title': '',
                'startSal': '',
                'endSal': ''}
-    r = requests.get(url, params=payload)
 
-    rTextFixedDoubleQuote = r.text.replace("\'", "\"")
-    print(rTextFixedDoubleQuote)
-    rTextJson = json.loads(rTextFixedDoubleQuote)
-    print(rTextJson)
+    pgNum = 1
+    while True:
+
+        payload['page'] = pgNum
+        r = requests.get(url, params=payload)
+        rTextFixedDoubleQuote = r.text.replace("\'", "\"")
+        rTextJson = json.loads(rTextFixedDoubleQuote)
+
+        obj = open("pg" + str(pgNum) + ".json", "w")
+
+        obj.write(rTextFixedDoubleQuote)
+
+        if pgNum == 5:  # rTextJson['total']
+            break
+        pgNum += 1
+
 
     """
     url = "https://ucannualwage.ucop.edu/wage/search.action"
