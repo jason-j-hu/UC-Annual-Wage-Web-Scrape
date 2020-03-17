@@ -2,12 +2,15 @@ import json
 
 if __name__ == "__main__":
 
-    obj = open('allJsonAppendedTogether.json', 'w')
+    obj = open('allJsonAppendedTogether.json', 'w+')
 
     with open('pg1.json', 'r') as jsonStr:
         jsonStrText = json.load(jsonStr)
         obj.write(json.dumps(jsonStrText))
 
+    #print(json.load(obj))
+
+    """
     pgNum = 2
 
     while pgNum <= 5:
@@ -16,7 +19,7 @@ if __name__ == "__main__":
             for dataRow in jsonStrText['rows']:
                 dataRow['id'] = pgNum * 10 + int(dataRow['id'])
                 # TODO: append data rows to the allJsonAppendedTogether.json file
-        pgNum += 1
+        pgNum += 1"""
 
     obj.close()
 
