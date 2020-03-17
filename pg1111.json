@@ -1,0 +1,26 @@
+{
+"page" : "1111",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","JEFFREY DAVID","NIEMIEC","CLIN NURSE 2","149752.00","140165.00","522.00","9065.00"]},
+{"id":"2","cell":["2","2018","Berkeley","MELISSA","MURRAY","PROF-AY-LAW","149750.00","144750.00","0.00","5000.00"]},
+{"id":"3","cell":["3","2018","Davis","VERONICA L","MORALES","ASST PROF-AY-B/E/E","149748.00","111190.00","0.00","38558.00"]},
+{"id":"4","cell":["4","2018","San Francisco","TAMARA NICOLE","HERRING","CLIN NURSE 2","149746.00","134062.00","4378.00","11306.00"]},
+{"id":"5","cell":["5","2018","San Francisco","JONATHAN R","PRUGH","USER EXPERIENCE DESIGNER 4","149741.00","149741.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","ELLEN B","OWENS","FAC PROJECT MGT SPEC 4","149734.00","149734.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","DANIEL C","ROSELAND","CLIN NURSE 2","149733.00","124322.00","6299.00","19112.00"]},
+{"id":"8","cell":["8","2018","Irvine","KAILEN A","MOONEY","PROF-AY","149733.00","122000.00","0.00","27733.00"]},
+{"id":"9","cell":["9","2018","Davis","KYUNGSOOK","KOO","CLIN NURSE 2","149727.00","141551.00","1754.00","6422.00"]},
+{"id":"10","cell":["10","2018","Irvine","TONDA R","ALLEN","CLIN NURSE 3","149718.00","120617.00","25282.00","3819.00"]},
+{"id":"11","cell":["11","2018","San Diego","JAYSON LEE","NEWTON","MRI TCHNO SR","149711.00","123710.00","17063.00","8938.00"]},
+{"id":"12","cell":["12","2018","Irvine","NANCE L.","HOVE","DIR","149710.00","94992.00","0.00","54718.00"]},
+{"id":"13","cell":["13","2018","San Diego","REBECCA SANDRA","SIPILI","SYS ADMSTN MGR 2","149707.00","149707.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Riverside","KAUSTABH","GHOSH","ASSOC PROF-AY-B/E/E","149703.00","109667.00","0.00","40036.00"]},
+{"id":"15","cell":["15","2018","San Diego","TAK KEI","WONG","ASSOC PROF-AY","149700.00","111633.00","0.00","38067.00"]},
+{"id":"16","cell":["16","2018","San Diego","AMY ELIZABETH","SCHULTZ","PAT REL MGR 1","149700.00","144067.00","0.00","5633.00"]},
+{"id":"17","cell":["17","2018","Berkeley","ROBERT","ABIAD","AEROSPACE ENGR 4","149699.00","148699.00","0.00","1000.00"]},
+{"id":"18","cell":["18","2018","Davis","TANDA","PANELO","CLIN NURSE 2","149697.00","139862.00","4083.00","5752.00"]},
+{"id":"19","cell":["19","2018","San Diego","SUSAN RAPAYRAPAY","PAMPO","CLIN NURSE 2","149692.00","112844.00","4849.00","31999.00"]},
+{"id":"20","cell":["20","2018","San Diego","JENNIFER ELIZABE","MARTIN","FUNDRAISER 5","149688.00","145688.00","0.00","4000.00"]}]
+}

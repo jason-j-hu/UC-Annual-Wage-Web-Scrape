@@ -1,0 +1,26 @@
+{
+"page" : "3892",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","NEIL H","RASKIN","RECALL HCOMP","69926.00","68250.00","0.00","1676.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","69926.00","61420.00","0.00","8506.00"]},
+{"id":"3","cell":["3","2018","Davis","JOSEPH D,JR.","PROUDMAN","DIGITAL COMM SPEC 3","69926.00","69926.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","PETYA P","MONOVA","VOC NURSE SR","69925.00","68908.00","1017.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","CHANNELLE E.","WILLIAMS","CLIN SOCIAL WORKER 1 NEX","69925.00","62691.00","0.00","7234.00"]},
+{"id":"6","cell":["6","2018","Irvine","NELSON LAWRENCE","FERGUSON","CLIN SOCIAL WORKER 2","69924.00","69924.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","STACY","ARVIZU","CLIN SOCIAL WORKER 2","69924.00","69924.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","VIVEK","SINGH","POSTDOC-EMPLOYEE","69924.00","69924.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","WENDY LORNA","MORRIS","ADM CRD OFCR","69922.00","61466.00","0.00","8456.00"]},
+{"id":"10","cell":["10","2018","Davis","MALGORZATA","BZYMEK","ASSOC PROJ SCIENTIST-FY","69921.00","69921.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","TIFFANY LE","DAO","RSCH ADM 2","69920.00","69920.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","DIEGO","PEDROSA","BIOINFORMATICS PROGR 2","69920.00","69920.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","SONG","SETO","ADMIN ANL","69919.00","69164.00","755.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","CATHERINE","MCCONNEY","STDT SVC ADVISOR 3","69918.00","68413.00","0.00","1505.00"]},
+{"id":"15","cell":["15","2018","San Diego","RICHARD TIMOTHY","ELLIS","LAB MECHN PRN","69917.00","69867.00","50.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","AMBER L","VLASNIK","STDT LIFE DEV SPEC 3","69917.00","69417.00","0.00","500.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","JAMIE-ROSE","VILLANUEVA","CLIN NURSE 2","69915.00","56820.00","5274.00","7821.00"]},
+{"id":"18","cell":["18","2018","Riverside","KATHERINE","BEACH","FUNDRAISER 3","69915.00","68915.00","0.00","1000.00"]},
+{"id":"19","cell":["19","2018","Berkeley","DEBRA","RINGHAND","FINANCIAL SVC ANL 2","69915.00","68678.00","1237.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","BENNIE","MITCHELL","PROCUREMENT ANL 2","69914.00","69914.00","0.00","0.00"]}]
+}

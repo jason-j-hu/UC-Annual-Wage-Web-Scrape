@@ -1,0 +1,26 @@
+{
+"page" : "1700",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","CHRISTINE J","GRAHAM","CLIN NURSE 2","122932.00","108837.00","2015.00","12080.00"]},
+{"id":"2","cell":["2","2018","San Diego","ANDREW TAIT","PIETRUSZKA","ACAD PRG MGT OFCR 4","122929.00","111449.00","0.00","11480.00"]},
+{"id":"3","cell":["3","2018","Davis","SARAH NICOLE","BOYLE","CLIN INFORMATICS SUPV 2","122922.00","115118.00","0.00","7804.00"]},
+{"id":"4","cell":["4","2018","San Diego","NATHALIE BOULOS","GHOLMIEH","DATA SYS MGR 1","122922.00","122922.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","MARIA ANTONIA","VEGA","CLIN NURSE 2","122920.00","104822.00","0.00","18098.00"]},
+{"id":"6","cell":["6","2018","San Francisco","MICHAEL STEPHEN","LAWRENCE","RADLG TCHNO SR","122920.00","113802.00","0.00","9118.00"]},
+{"id":"7","cell":["7","2018","Davis","WALTER CHARLES","BROUSSARD","POLICE OFCR","122919.00","83947.00","34775.00","4197.00"]},
+{"id":"8","cell":["8","2018","San Diego","AMAR","SHARMA","REGL AND CMPLNC HC SPEC 3","122919.00","121919.00","0.00","1000.00"]},
+{"id":"9","cell":["9","2018","San Francisco","DAVID D","MCCRAY","BIOMED EQUIP TCHN 2","122915.00","112957.00","9175.00","783.00"]},
+{"id":"10","cell":["10","2018","Davis","COLLEEN M","TENBRINK","CLIN NURSE 2","122914.00","109539.00","6860.00","6515.00"]},
+{"id":"11","cell":["11","2018","San Diego","EVANGELINE CASTR","AGDIGOS","CLIN NURSE 2","122913.00","109320.00","3212.00","10381.00"]},
+{"id":"12","cell":["12","2018","San Francisco","AMY","PRADHAN","ADMIN OFCR 4","122912.00","117912.00","0.00","5000.00"]},
+{"id":"13","cell":["13","2018","San Diego","MARIA CONCEPCION","JURAM","CLIN NURSE 2","122912.00","109650.00","2193.00","11069.00"]},
+{"id":"14","cell":["14","2018","San Diego","MICHELE ELIZABET","DAY","RSCH DATA ANL 4","122911.00","121411.00","0.00","1500.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","BRENT","KERR","ADMIN ANL PRN 1","122910.00","109583.00","0.00","13327.00"]},
+{"id":"16","cell":["16","2018","San Francisco","PAULO D","CALVO","BIOMED EQUIP TCHN 3","122909.00","120966.00","1903.00","40.00"]},
+{"id":"17","cell":["17","2018","San Francisco","KFIR M","ELAD","CLIN LAB SCI SPEC","122907.00","121102.00","658.00","1147.00"]},
+{"id":"18","cell":["18","2018","San Francisco","AUBREY O","ALDEN","CLIN NURSE 2","122905.00","106954.00","3584.00","12367.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","JAMES","DONELAN","LECT-AY-CONTINUING","122904.00","94263.00","0.00","28641.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","KEITH","SAKODA","PERSONNEL ANL PRN 2","122902.00","113193.00","0.00","9709.00"]}]
+}

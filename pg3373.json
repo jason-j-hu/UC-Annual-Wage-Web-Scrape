@@ -1,0 +1,26 @@
+{
+"page" : "3373",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","JOAN","CASEY","POSTDOC-EMPLOYEE","78356.00","78356.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","CLAUDIA","NICASTRO BATTY","STDT DISABILITY SPEC 4","78353.00","78353.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","MIRIANA","LLAMAS CARDENAS","ADMIN ANL PRN 1","78350.00","74751.00","0.00","3599.00"]},
+{"id":"4","cell":["4","2018","San Diego","HEATHER LYNN DOC","AMARGO","CLIN NURSE 2","78349.00","73683.00","265.00","4401.00"]},
+{"id":"5","cell":["5","2018","Davis","DARCY L","HANNIBAL","INSTITUTIONAL RSCH ANL 4","78348.00","78348.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","KESHA","MILLER","STDT AFFAIRS OFCR 4 SUPV","78347.00","74140.00","0.00","4207.00"]},
+{"id":"7","cell":["7","2018","San Francisco","LYN MARIE","BATIA","CARE SUPV 2","78346.00","78346.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Santa Cruz","PHILIP WADE","GARZA","FOOD SVC MGR 1","78346.00","77596.00","0.00","750.00"]},
+{"id":"9","cell":["9","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","78344.00","60644.00","0.00","17700.00"]},
+{"id":"10","cell":["10","2018","Berkeley","EDGAR","GREEN","SCRTY GUARD SR","78342.00","46086.00","30526.00","1730.00"]},
+{"id":"11","cell":["11","2018","Riverside","NICOLE","CLARK","EHS SPEC 3","78340.00","78340.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","RHODA ROMUALDO","GONZALEZ","HOSP LAB TCHN 2","78339.00","64268.00","6821.00","7250.00"]},
+{"id":"13","cell":["13","2018","San Francisco","HUI","ZENG","RSCH ADM 3","78338.00","78338.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","JEAN","LEE","ADMIN ANL SR","78338.00","74328.00","0.00","4010.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","NINETTE","REGALADO","MGT SVC OFCR 2","78336.00","74991.00","0.00","3345.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","SUSAN","CLINTON","OCCUPATIONAL THER 1 NEX","78335.00","77895.00","0.00","440.00"]},
+{"id":"17","cell":["17","2018","Irvine","AMANDA LYNN","BRINK","PERSONNEL ANL PRN","78333.00","78333.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","78332.00","58497.00","0.00","19835.00"]},
+{"id":"19","cell":["19","2018","Riverside","VICTOR","PERRY","VISUAL COMM SPEC 4","78327.00","77827.00","0.00","500.00"]},
+{"id":"20","cell":["20","2018","San Francisco","MICHELL L.","WALDEN","PHARMACY TCHN 2","78326.00","70546.00","1892.00","5888.00"]}]
+}

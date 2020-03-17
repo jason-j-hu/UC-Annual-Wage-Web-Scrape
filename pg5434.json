@@ -1,0 +1,26 @@
+{
+"page" : "5434",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","JOSHUA B","RAYNES","CLIN LAB SUPV 2","53366.00","47887.00","0.00","5479.00"]},
+{"id":"2","cell":["2","2018","Davis","EMILIA A","AGUIRRE","HEALTH EDUCATOR 2","53366.00","53366.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","JAESON GERARD","GOMEZ","HOSP BLANK AST 2","53366.00","48016.00","3865.00","1485.00"]},
+{"id":"4","cell":["4","2018","Davis","DANIEL R","CORDES","RSCH ADM 2","53365.00","52562.00","803.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","JASON GLENN","TOMA","ADMIN ANL SR","53365.00","50256.00","0.00","3109.00"]},
+{"id":"6","cell":["6","2018","Davis","RENE CASTRO","JUAREZ","STOREKEEPER SR","53365.00","53261.00","104.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","JESSE","DE LA PENA","INFO SYS ANL 2","53365.00","53365.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","CANDICE","JONES","ADMIN CARE CLIN PARTNER","53365.00","44287.00","2832.00","6246.00"]},
+{"id":"9","cell":["9","2018","Santa Barbara","GEORGINA","STOOKE-VAUGHAN","POSTDOC-EMPLOYEE","53364.00","53364.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","TRACI M","MASTERSON","MED OFC SVC CRD 3","53364.00","53066.00","298.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","PATRICIA","GRILLO","PUBLICATIONS PROD SPEC 3","53364.00","53364.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","GRIFFIN PENN","COLLINS","CLIN RSCH CRD","53363.00","50830.00","1136.00","1397.00"]},
+{"id":"13","cell":["13","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","53363.00","36177.00","0.00","17186.00"]},
+{"id":"14","cell":["14","2018","San Francisco","RAYMOND JUNIOR","SANDERS","AUTO EQUIP OPR PRN","53363.00","52551.00","812.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","CRISTINA","SOTELO GOMEZ","HOSP BLANK AST 3","53363.00","52631.00","469.00","263.00"]},
+{"id":"16","cell":["16","2018","San Diego","QIYUN","ZHU","POSTDOC-EMPLOYEE","53363.00","53363.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","ELIBERTO","GARZA","BLDG MAINT WORKER SR","53362.00","53362.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","STEVEN M","TOWNSEND","BLDG MAINT WORKER SR","53362.00","53362.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","KRISTA M","NEWBERRY","CURRICULUM PLNR 2","53361.00","50821.00","1061.00","1479.00"]},
+{"id":"20","cell":["20","2018","San Diego","TERESA","HALE","HOSP BLANK AST 3","53361.00","51802.00","756.00","803.00"]}]
+}

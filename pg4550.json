@@ -1,0 +1,26 @@
+{
+"page" : "4550",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","JESSICA ARLENE","GERMAN","ADMIN ANL SR","61856.00","61856.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","TREVIN NICHOLAS","TUOVINEN","HOSP LAB TCHN 1","61856.00","56624.00","3728.00","1504.00"]},
+{"id":"3","cell":["3","2018","San Francisco","STEPHANIE","HUERTA","K to 14 ACAD PREP SPEC 3","61855.00","60775.00","0.00","1080.00"]},
+{"id":"4","cell":["4","2018","Irvine","AUDELIO A.","RIOS","PAT BILLER 3","61855.00","57472.00","3723.00","660.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","LYNDA","YOEURTH","VOC NURSE SR","61853.00","59784.00","1433.00","636.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JESSE","NAJERA","PROGR ANL 2","61853.00","61793.00","60.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","PETER","STEEL","BLDG MAINT WORKER SR","61853.00","61174.00","679.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","JESSICA","VILLARREAL","ADMIN SPEC","61852.00","61789.00","63.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","VICTOR R","ARAMBULA","GI ENDOSCOPY TCHN 1","61850.00","52870.00","2973.00","6007.00"]},
+{"id":"10","cell":["10","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","61849.00","58449.00","0.00","3400.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MARYBETH","JUEZAN","ADMIN ANL","61848.00","61182.00","666.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","WILLIAM","CUMBERLAND","RECALL FACULTY","61848.00","61848.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","DIANE G","AMOX","CLIN NURSE 4","61848.00","61848.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","JOSE","CARDOZA","ADMIN ANL","61847.00","61775.00","72.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","JOSE","AMAYA","FOOD SVC WORKER SR","61846.00","36290.00","23890.00","1666.00"]},
+{"id":"16","cell":["16","2018","San Francisco","ITOHAN LOVETH","COLON","PAT CARE AST","61845.00","47654.00","5935.00","8256.00"]},
+{"id":"17","cell":["17","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","61845.00","58445.00","0.00","3400.00"]},
+{"id":"18","cell":["18","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","61844.00","58444.00","0.00","3400.00"]},
+{"id":"19","cell":["19","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","61844.00","58444.00","0.00","3400.00"]},
+{"id":"20","cell":["20","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","61844.00","58444.00","0.00","3400.00"]}]
+}

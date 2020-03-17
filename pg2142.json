@@ -1,0 +1,26 @@
+{
+"page" : "2142",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","KEERTHY","PUTTAGUNTA","QA RELEASE MGT ANL 4","108037.00","108037.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","LAURIE SHANNON","ADERHOLDT","CLIN NURSE 2","108036.00","105048.00","0.00","2988.00"]},
+{"id":"3","cell":["3","2018","San Francisco","STEPHANIE J","CATTRELL","CLIN NURSE 2","108035.00","102118.00","399.00","5518.00"]},
+{"id":"4","cell":["4","2018","San Diego","KRISTIN CALAFATA","BRAY","CLIN NURSE 2","108033.00","97506.00","2694.00","7833.00"]},
+{"id":"5","cell":["5","2018","Davis","TAMI L","ROBINSON","CASE MGR NEX","108031.00","107304.00","567.00","160.00"]},
+{"id":"6","cell":["6","2018","San Francisco","ELSA","VARGHESE","PAT RCDS ABSTRACTOR 4","108029.00","106889.00","0.00","1140.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","BETH","RUTKOWSKI","ADMIN ANL PRN SUPV","108029.00","108029.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","KRIS","DELANEY","PROJ SCIENTIST-FY-B/E/E","108025.00","108025.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","AILEE","MOON","ASSOC PROF-AY","108025.00","108025.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","JULIO","RODRIGUEZ","CONTRACTS AND GRANTS SUPV 2","108024.00","104182.00","0.00","3842.00"]},
+{"id":"11","cell":["11","2018","San Francisco","PHILIP","HOPEWELL","RECALL FACULTY","108021.00","100944.00","0.00","7077.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","JEFFREY","YOSHIDA","PROGR ANL 2","108019.00","105827.00","0.00","2192.00"]},
+{"id":"13","cell":["13","2018","Irvine","CHARLES","ROJSIRIVAT","CT TCHNO","108018.00","87067.00","14111.00","6840.00"]},
+{"id":"14","cell":["14","2018","San Diego","MARK DOUGLAS","GARY","ANATOMICAL SVC PROFL 4","108017.00","105517.00","0.00","2500.00"]},
+{"id":"15","cell":["15","2018","Irvine","NOAH A","BENNANI","APPLICATIONS PROGR 3","108016.00","105805.00","0.00","2211.00"]},
+{"id":"16","cell":["16","2018","Berkeley","RAFAEL","ORTIZ","CUSTODIAN LEADER SR","108015.00","53549.00","54033.00","433.00"]},
+{"id":"17","cell":["17","2018","Santa Cruz","GEORGE THORIN","HOLBERT","INFO SYS ANL 4","108009.00","107059.00","0.00","950.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","JESSE","ALBERTI","MGT SVC OFCR 3 SUPV","108008.00","106808.00","0.00","1200.00"]},
+{"id":"19","cell":["19","2018","Santa Cruz","EVA C","BERTRAM","ASSOC PROF-AY","108008.00","106258.00","0.00","1750.00"]},
+{"id":"20","cell":["20","2018","Riverside","RACHEL","WU","ASST PROF-AY","108004.00","83108.00","0.00","24896.00"]}]
+}

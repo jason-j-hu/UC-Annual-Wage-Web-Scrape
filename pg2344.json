@@ -1,0 +1,26 @@
+{
+"page" : "2344",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","KERRI K","GREEN","CLIN LAB SCI","102327.00","96657.00","4934.00","736.00"]},
+{"id":"2","cell":["2","2018","San Francisco","NATALIA L","BROWNE","FINANCIAL ANL 3","102325.00","91325.00","0.00","11000.00"]},
+{"id":"3","cell":["3","2018","Davis","AIDOMIAS","EABISA","ORGANIZATIONAL CNSLT 4","102324.00","101449.00","0.00","875.00"]},
+{"id":"4","cell":["4","2018","Davis","BERNADETTE P","TANO","EHS SPEC 3","102321.00","102321.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","MIKE","CHOE","ENGR AST","102319.00","74597.00","26722.00","1000.00"]},
+{"id":"6","cell":["6","2018","San Diego","G. STEPHEN","PORTER","RSCH AND DEV ENGR 4","102319.00","100319.00","0.00","2000.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","JORDAN","CATRON","ADMIN ANL PRN 1","102317.00","102317.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","EVA","YUEN","AUDIT PROFL 4","102314.00","102314.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","*****","*****","HS ASST CLIN PROF-HCOMP","102313.00","52036.00","0.00","50277.00"]},
+{"id":"10","cell":["10","2018","UCOP","ALAN","ROPER","INSTRUCTIONAL DESIGNER 3","102311.00","102311.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","COLLEEN","MESECK","CLIN NURSE 2","102310.00","85908.00","1895.00","14507.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","BRENDA","PADRON","ADMIN ANL PRN 1","102310.00","98310.00","0.00","4000.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","BYRON","SANDOVAL","CUSTODIAL MGR 2","102309.00","102309.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","CAROLINE E.","PRIOLEAU","COMM SPEC 3","102308.00","97308.00","0.00","5000.00"]},
+{"id":"15","cell":["15","2018","Davis","SCOTT","FISCHBEIN","APPLICATIONS PROGR 4","102308.00","102308.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","KAREN ANN","PEPPER","LAB RSCH SUPV 2","102306.00","100256.00","0.00","2050.00"]},
+{"id":"17","cell":["17","2018","San Diego","FORMAN A.","WILLIAMS","RECALL FACULTY","102304.00","102304.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","SARAHMAY","SANCHEZ","PUBL ADMSTN ANL PRN SUPV","102303.00","97498.00","0.00","4805.00"]},
+{"id":"19","cell":["19","2018","Davis","MUHAMMAD","SHAHID","CLIN DOC SPEC 4","102300.00","102300.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","GABRIELA","MACIAS","PROGR ANL 3","102299.00","102299.00","0.00","0.00"]}]
+}

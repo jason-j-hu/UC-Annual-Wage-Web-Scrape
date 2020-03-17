@@ -1,0 +1,26 @@
+{
+"page" : "5272",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","FLORGIN","DELA LUNA","ADMIN ANL PRN 1","54856.00","51725.00","0.00","3131.00"]},
+{"id":"2","cell":["2","2018","Santa Cruz","CYNTHIA GAIL","PIERCE","RECR SUPV 2","54856.00","54856.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","SUJIT","DAS","POSTDOC-EMPLOYEE","54855.00","54855.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","RACHEL I","LA VALLEY","CARE SUPV 1","54855.00","51832.00","3023.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","JOSEPH","DUDLEY","ADMIN ANL PRN 2","54855.00","54855.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","JENNIFER SUE","ANONSEN","PAT BILLER 3","54855.00","50050.00","4805.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","NARGIS","ASLAMI","BLANK AST 3","54854.00","53780.00","1074.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","OMOTUNDE","ADESINA","PRACTICE CRD 2","54854.00","53164.00","668.00","1022.00"]},
+{"id":"9","cell":["9","2018","Davis","BETHANY E","ROBLES","NURSE PD","54854.00","50017.00","363.00","4474.00"]},
+{"id":"10","cell":["10","2018","Davis","SHELINE","CALVERT","BLANK AST 4","54854.00","54854.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","KRISTIN","DEVERAUX","HEALTH PROFNS EDUC SPEC 2","54854.00","53354.00","0.00","1500.00"]},
+{"id":"12","cell":["12","2018","San Diego","JOHN MICHAEL","MAURY","CURRICULUM PLNR 2","54853.00","51720.00","133.00","3000.00"]},
+{"id":"13","cell":["13","2018","Davis","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","54852.00","47758.00","0.00","7094.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","OSCAR","RIVERA","MED CTR SCRTY OFCR SR","54852.00","47433.00","5845.00","1574.00"]},
+{"id":"15","cell":["15","2018","San Francisco","BADAMLYANKHUA","BAYARJARGAL","PRACTICE CRD 2","54851.00","53701.00","10.00","1140.00"]},
+{"id":"16","cell":["16","2018","Davis","SUMAN L","KUMAR","GI ENDOSCOPY TCHN 2","54851.00","51281.00","3570.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","TERRI A","RAMIREZ","BLANK AST 3","54850.00","48808.00","3542.00","2500.00"]},
+{"id":"18","cell":["18","2018","San Diego","JEANETTE M","MELISKA","CAREER SVC SPEC 2","54850.00","54850.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","NANCY","LE CLAIRE","TEACHER-UNEX-CONTRACT YR","54850.00","0.00","0.00","54850.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","CHRISTINA","BRASFIELD","APPLICATIONS PROGR 3","54849.00","54849.00","0.00","0.00"]}]
+}

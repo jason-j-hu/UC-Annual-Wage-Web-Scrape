@@ -1,0 +1,26 @@
+{
+"page" : "2424",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","KELLEN DAVENPORT","VAWTER","CLIN NURSE 2","100154.00","94102.00","3662.00","2390.00"]},
+{"id":"2","cell":["2","2018","San Francisco","MEI YIN","HUANG","LAB PROCESSING SUPV 1","100150.00","91509.00","1639.00","7002.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","BAI YU","CLEMENS","PROJ SCIENTIST-FY","100150.00","100150.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","QINGMEI","JIA","PROJ SCIENTIST-FY","100150.00","100150.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","BRYAN","CHUE","PROGR ANL 4","100148.00","95527.00","0.00","4621.00"]},
+{"id":"6","cell":["6","2018","San Diego","SALEEN GUARNE","DEL ROSARIO","CLIN NURSE 2","100148.00","87456.00","2241.00","10451.00"]},
+{"id":"7","cell":["7","2018","Santa Cruz","CARL W","RAND","COMM MGR 1","100145.00","83845.00","0.00","16300.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","JOSE","TERRAZAS","MGT SVC OFCR 2","100143.00","96374.00","0.00","3769.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","JOSE","GIL","PROGR ANL 4","100142.00","100142.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","JEANNE M","YAMASHIRO","CLIN NURSE 2","100141.00","92619.00","2481.00","5041.00"]},
+{"id":"11","cell":["11","2018","Irvine","BRYCE A","MANDER","ASST PROF-HCOMP","100140.00","90700.00","0.00","9440.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","AMY","RAUB","PUBL ADMSTN ANL PRN","100140.00","100140.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Irvine","SENGPHENG","VONGPHAKDY","CLIN NURSE 2","100138.00","89793.00","3509.00","6836.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","CHRISTINA","KIM","CLIN NURSE 2","100136.00","87203.00","359.00","12574.00"]},
+{"id":"15","cell":["15","2018","San Diego","ELIZABETH B","DUENAS GIRGIS","COMPENSATION ANL 3","100135.00","98335.00","0.00","1800.00"]},
+{"id":"16","cell":["16","2018","Santa Cruz","VALENTIN","BERRELLEZA","SKLD CRAFTS AND TRADES SUPV 2","100133.00","93783.00","2472.00","3878.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","BRITTANNIE","HANSON","CLIN NURSE 2","100132.00","83712.00","1206.00","15214.00"]},
+{"id":"18","cell":["18","2018","Berkeley","DAVID","TRIEBWASSER","TCHL PROJECT MGT PROFL 4","100130.00","99630.00","0.00","500.00"]},
+{"id":"19","cell":["19","2018","San Diego","JUNG JOO","HWANG","INDUSTRY ALLNS SPEC 4","100128.00","100128.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","KEVIN XUEFENG","GAO","DATA SYS ANL 4","100125.00","81933.00","0.00","18192.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "5001",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","DIANA","VALDIVIA ORDORICA","ACAD ACHIEVEMENT CNSLR 3","57358.00","57358.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","VAN THI","VO","FINANCIAL SVC ANL 2","57358.00","56358.00","0.00","1000.00"]},
+{"id":"3","cell":["3","2018","San Diego","CHRIS E","WISNESKI","HOSP BLANK AST 3","57358.00","54963.00","594.00","1801.00"]},
+{"id":"4","cell":["4","2018","San Diego","NORA A","VALDOVINOS","COMPUTER RESC SPEC 2","57357.00","54029.00","0.00","3328.00"]},
+{"id":"5","cell":["5","2018","San Diego","DEBRA A","RUBIO","ADMIN OFCR 2","57356.00","56606.00","0.00","750.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","ROBERT","RICHARD","RES-FY","57356.00","57356.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","DANIEL PAUL","LAWRENCE","POSTDOC-EMPLOYEE","57355.00","57355.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","ANDRADI","VILLALOBOS","SRA 2 NEX","57355.00","57355.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","MAYRA","HERNANDEZ","HOSP BLANK AST 3","57354.00","56290.00","747.00","317.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","LATRECE","SENECA","STDT LIFE DEV SPEC 3","57354.00","57354.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","DIEGO","MARTINEZ","CUSTODIAN LD","57354.00","47820.00","7829.00","1705.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","WILSON","TRAN","ADMIN ANL SUPV NEX","57352.00","54237.00","3115.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","JAMES","HUFFERD","PLNG SPEC 5","57352.00","36120.00","0.00","21232.00"]},
+{"id":"14","cell":["14","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","57351.00","38279.00","0.00","19072.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","XIAOMENG","WU","SRA 2 NEX","57351.00","57351.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","MARY N","HAAN","RECALL FACULTY","57350.00","57350.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","EMILY THAO TIEN","LE","STDT AFFAIRS OFCR 3 EX","57350.00","57350.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","BERTHA A","MORALES AYALA","HOSP BLANK AST 3","57348.00","53578.00","2754.00","1016.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","CARLOS","CORLETTO","PAT TRANSPORT TCHN 2","57347.00","47722.00","4406.00","5219.00"]},
+{"id":"20","cell":["20","2018","San Diego","TRACY LEE","FRANKLIN","BLDG MAINT WORKER LD","57347.00","55693.00","1642.00","12.00"]}]
+}

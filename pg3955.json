@@ -1,0 +1,26 @@
+{
+"page" : "3955",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","JACOB RILEY","DEWEES","PAT CARE TCHN","68985.00","61996.00","2051.00","4938.00"]},
+{"id":"2","cell":["2","2018","Davis","NICHOLAS M","KORY","DATA SYS ANL 3","68983.00","68983.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","JAY R","FIELDS","HOSP UNIT SVC CRD 3","68981.00","66446.00","1635.00","900.00"]},
+{"id":"4","cell":["4","2018","Irvine","KELLY ROSE","SCHOBY","ADMIN ANL SR","68981.00","68981.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","JESSICA","CEJA CHAVEZ","RADLG TCHNO","68981.00","65697.00","1709.00","1575.00"]},
+{"id":"6","cell":["6","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","68980.00","63180.00","0.00","5800.00"]},
+{"id":"7","cell":["7","2018","Berkeley","MICHELLE","SAMUEL","ACAD ACHIEVEMENT CNSLR 3","68977.00","68977.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","HERMAN CESAR,JR","MARTINEZ","ANESTHESIA TCHN 2","68976.00","65254.00","2348.00","1374.00"]},
+{"id":"9","cell":["9","2018","Santa Barbara","SAYWARD","HALLING","ACADEMIC COORD I-FY","68976.00","68976.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","YVETTE","MARTINEZ-VU","ACADEMIC COORD II-FY","68976.00","68976.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Santa Barbara","SUSAN","ESPARZA","BUS TCHL SUPP SUPV 2","68973.00","68973.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","CAM TU","THACH","GEN ACCOUNTANT 3","68972.00","67672.00","0.00","1300.00"]},
+{"id":"13","cell":["13","2018","Berkeley","BRUCE","WILLIAMS","LIBRARY PROFL 4","68972.00","68972.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","BRANDALYN NICOLE","KUNKEL","RESP CARE PRACT TCHN","68970.00","61185.00","464.00","7321.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","JOANNE","MACH","ACCOUNTANT 3","68970.00","68470.00","0.00","500.00"]},
+{"id":"16","cell":["16","2018","Davis","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","68969.00","67469.00","0.00","1500.00"]},
+{"id":"17","cell":["17","2018","Berkeley","JESSIE","SANCHEZ","RSCH ADM 3","68967.00","68967.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","HAYDEE","OLLA","RSCH ADM 3","68967.00","68967.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","VALENTINA","BETTENCOURT","HEALTH PROFNS EDUC SPEC 3","68966.00","62185.00","0.00","6781.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","MARISOL","HERNANDEZ","FINANCIAL SVC ANL 2","68965.00","67627.00","1338.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "4379",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","KIMBERLY","CREPS","RECR SUPV 2","63668.00","63668.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Irvine","ELENA","CASTELLON","BLANK AST 3","63667.00","61855.00","789.00","1023.00"]},
+{"id":"3","cell":["3","2018","Berkeley","SAM","JOHNSON","RECR MGR 1","63665.00","63665.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","CHELSEA","JONES","ADMIN ANL SR","63663.00","61396.00","0.00","2267.00"]},
+{"id":"5","cell":["5","2018","Berkeley","AMY","GOODMAN","PROJECT POLICY ANL 2","63663.00","63148.00","15.00","500.00"]},
+{"id":"6","cell":["6","2018","Davis","TAMRA L","FOSTER","ACCESS REPR PRN","63662.00","62807.00","855.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","LAUREN","BOGAR","VOC NURSE SR","63662.00","58334.00","4222.00","1106.00"]},
+{"id":"8","cell":["8","2018","Davis","SHANIKA M","CLEMMONS","PHARMACY TCHN 3","63662.00","60429.00","3233.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","JENNY","MAYEDA","ACCOUNTANT 2 EX","63662.00","61662.00","0.00","2000.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","KATHERINE","MAYNARD","EVENTS SPEC 3","63661.00","63661.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","JAMES ROBERT","SKANE","CLIN APPLICATIONS PROFL 3","63660.00","59400.00","0.00","4260.00"]},
+{"id":"12","cell":["12","2018","Davis","MICHAEL","WALKINSHAW","ASSOC SPECIALIST","63660.00","63660.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","UCOP","XIAOHUA","GIANG","FINANCIAL SVC ANL 2","63659.00","63659.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Hastings College Of Law","SANDY Y","LEI","ACCT.","63658.00","62608.00","1050.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","MARIA","IROMA","PAT CARE AST","63656.00","59735.00","1984.00","1937.00"]},
+{"id":"16","cell":["16","2018","Davis","SABINA D","HOLMAN","CLIN NURSE 2","63656.00","57121.00","4527.00","2008.00"]},
+{"id":"17","cell":["17","2018","San Francisco","LUIZ FERNANDO","FERRARI","ASSOC RES-FY","63655.00","50808.00","0.00","12847.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","MIRIAM","FLORIA","PHLEBOTOMIST CERT TCHN 2","63652.00","62335.00","266.00","1051.00"]},
+{"id":"19","cell":["19","2018","San Francisco","CHED D","VALENCIA","MED CTR FOOD SVC WORKER PRN","63651.00","59173.00","3329.00","1149.00"]},
+{"id":"20","cell":["20","2018","San Diego","HUGO VICTOR","RIOS","FINANCIAL ANL 2","63651.00","63651.00","0.00","0.00"]}]
+}

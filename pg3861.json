@@ -1,0 +1,26 @@
+{
+"page" : "3861",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","RODERICK C","RUIZ","BLANK AST 3","70310.00","68920.00","250.00","1140.00"]},
+{"id":"2","cell":["2","2018","San Diego","ARIS D","AUSTRIA","HOSP LAB TCHN 2","70310.00","63776.00","1349.00","5185.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","KRISTEN","WILLIAMS","MGR","70310.00","70310.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","MONICA","SUBIETA","RECR COACH 3","70310.00","52332.00","0.00","17978.00"]},
+{"id":"5","cell":["5","2018","Irvine","ALDO","GARCIA","SURGICAL TCHN SR","70309.00","62447.00","6780.00","1082.00"]},
+{"id":"6","cell":["6","2018","Irvine","*****","*****","HS CLIN INSTR-HCOMP","70307.00","65182.00","0.00","5125.00"]},
+{"id":"7","cell":["7","2018","Berkeley","ALICIA","HAYES","STDT SVC ADVISOR 4","70307.00","70307.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","SARAH","THOMASON","ASSOC SPECIALIST","70307.00","70307.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","BENJAMIN","GAMEZ","HR GENERALIST 3","70306.00","69556.00","0.00","750.00"]},
+{"id":"10","cell":["10","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","70304.00","54790.00","0.00","15514.00"]},
+{"id":"11","cell":["11","2018","San Diego","JOSEPH","MCCAIN","RESP CARE PRACT TCHN","70303.00","68351.00","481.00","1471.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","GERARDO","LEON","MED CTR SCRTY OFCR","70302.00","39571.00","25143.00","5588.00"]},
+{"id":"13","cell":["13","2018","Davis","JOHN B","NALIBOFF","ASST RES-FY","70300.00","70300.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","AUSTIN M","COLE","SPECTROSCOPIST","70299.00","70299.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","JEREME RAYMOND","MORALES","PAINTER","70299.00","69060.00","1239.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","SONGTAO","LIU","POSTDOC-EMPLOYEE","70298.00","70298.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","STEPHEN PHILIP","GEORGE","EHS SPEC 3","70298.00","70298.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","UCOP","TRACY","BABBITT","ADMIN OFCR 3","70297.00","70297.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","RUPNEET K","BRAR","NURSE PD","70295.00","69476.00","561.00","258.00"]},
+{"id":"20","cell":["20","2018","Riverside","JOE","VEGA","MAINT A","70295.00","68335.00","0.00","1960.00"]}]
+}

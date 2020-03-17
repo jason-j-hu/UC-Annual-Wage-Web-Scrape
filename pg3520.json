@@ -1,0 +1,26 @@
+{
+"page" : "3520",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","CHRISTINA J","SHEPPARD","PAT ACCESS SVC SUPV 1","75663.00","71707.00","3348.00","608.00"]},
+{"id":"2","cell":["2","2018","UCOP","CHERYL","HYLAND","PROJECT POLICY ANL 2","75663.00","73946.00","1717.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","PHYLLIS J","JENKINS","BLANK AST 3","75662.00","70203.00","4289.00","1170.00"]},
+{"id":"4","cell":["4","2018","Irvine","NATALIE L.","WEAVER","PERSONNEL ANL SR","75662.00","72912.00","0.00","2750.00"]},
+{"id":"5","cell":["5","2018","San Francisco","EFREM R","KING","CARE SUPV 2","75661.00","75661.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","JESSICA","ROJAS","ACAD HR ANL 3","75661.00","75661.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","*****","*****","CLIN LAB SCI","75660.00","73622.00","653.00","1385.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","REGINA","PENDERGRASS","ADMIN ANL PRN 2","75660.00","74396.00","0.00","1264.00"]},
+{"id":"9","cell":["9","2018","Berkeley","MICHAEL","THOMPSON","ADMIN OFCR 4","75658.00","75308.00","350.00","0.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","JONATHAN","PETERS","RSCH AND DEV ENGR 3","75656.00","75656.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MIAO","YE","ADMIN ANL SR","75655.00","75655.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","SPENCER KAZUO","KAWAMOTO","RSCH AND DEV ENGR 3","75655.00","68788.00","0.00","6867.00"]},
+{"id":"13","cell":["13","2018","Riverside","CHRISTOPHER","DUWEL","MAINT B","75652.00","75608.00","18.00","26.00"]},
+{"id":"14","cell":["14","2018","Riverside","DANNY","GONZALES","MAINT B","75651.00","75608.00","18.00","25.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","KINDRA","KELLY-SCUMPIA","ASST RES-FY","75650.00","75575.00","0.00","75.00"]},
+{"id":"16","cell":["16","2018","Santa Cruz","MATTHEW LEE","KLING","ACCOUNTING SUPV 1","75650.00","74806.00","0.00","844.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","CHRISTINA","MARENTES","STDT AFFAIRS OFCR 3 EX","75649.00","69213.00","0.00","6436.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","LEIGH ANN","HOPPER","PUBL INFO REPR SR","75649.00","73120.00","0.00","2529.00"]},
+{"id":"19","cell":["19","2018","San Diego","JERRY MICHAEL","CASEY","CARPENTER","75649.00","70253.00","2839.00","2557.00"]},
+{"id":"20","cell":["20","2018","Davis","POLLY C","BUTLER","HEALTH PROFNS EDUC SPEC 3","75648.00","74773.00","0.00","875.00"]}]
+}

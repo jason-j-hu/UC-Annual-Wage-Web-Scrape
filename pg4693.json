@@ -1,0 +1,26 @@
+{
+"page" : "4693",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","MARLENE G.","MOOSHIAN","RSCH ADM 3","60374.00","60214.00","160.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","*****","*****","EHS SPEC 3","60374.00","45261.00","0.00","15113.00"]},
+{"id":"3","cell":["3","2018","San Francisco","CIELITO LYN SY","LEONCIO","HOSP BLANK AST 3","60372.00","58729.00","704.00","939.00"]},
+{"id":"4","cell":["4","2018","Berkeley","TATIANA","DJORDJEVIC","STDT SVC ADVISOR 3","60372.00","59872.00","0.00","500.00"]},
+{"id":"5","cell":["5","2018","San Francisco","LU S","MOCK","PRACTICE CRD 2","60370.00","58776.00","453.00","1141.00"]},
+{"id":"6","cell":["6","2018","Irvine","KATHERINE M","BERGIN","ADMIN SPEC","60370.00","60370.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","MIRIAM","PADRON","MED AST 2","60369.00","51617.00","8752.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","60368.00","57066.00","0.00","3302.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","ALMA","MOLINA","BLANK AST 2","60368.00","58866.00","1117.00","385.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","CAROLYN","ENG","VOC NURSE SR","60368.00","60357.00","7.00","4.00"]},
+{"id":"11","cell":["11","2018","San Diego","DARREN","CUNNINGHAM","RSCH ADM 2","60368.00","60368.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","LISA A","BRACKNEY","TRANSIT SVC SUPV 1","60367.00","59541.00","826.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","MICHAEL","COMBS","MAIL PROCESSOR SR","60367.00","59818.00","549.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","AJUNI","SOHOTA","SRA 2 NEX","60366.00","59307.00","824.00","235.00"]},
+{"id":"15","cell":["15","2018","Davis","LAUREN A","JACOBS","CLIN NURSE 2","60366.00","54142.00","397.00","5827.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","BARBARA","HASTINGS","ADMIN CARE CLIN PARTNER","60366.00","48347.00","5150.00","6869.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","JUDY","TRAN","ADMIN ANL","60365.00","60365.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","DANIELLE C","DRURY","CLIN RSCH CRD","60364.00","60364.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","BRITTANY LINNAY","WRIGHT","STDT SVC ADVISOR 2","60364.00","53824.00","2154.00","4386.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","SARAH","MCKENZIE","ADMIN SPEC","60363.00","59763.00","0.00","600.00"]}]
+}

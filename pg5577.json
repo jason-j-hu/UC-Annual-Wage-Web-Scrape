@@ -1,0 +1,26 @@
+{
+"page" : "5577",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","UCOP","JEANINE","WILLIAMS-COOK","RET CUSTOMER SVC REPR 2","52061.00","51105.00","956.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","CLAUDIA M","BADILLA","PHLEBOTOMIST CERT TCHN 2","52061.00","51061.00","0.00","1000.00"]},
+{"id":"3","cell":["3","2018","Irvine","MELVIN JOHN","PENANO","COMPUTER RESC SPEC 2","52060.00","52060.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","RELINTHIS","NGWAFA","CLIN NURSE 2","52060.00","48354.00","3622.00","84.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ALEXIS","BEDECARRATS","POSTDOC-EMPLOYEE","52060.00","52060.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","SANDI D","JOERGER","BLANK AST 3","52060.00","52060.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","RONELKIS YAKI","FELIZ MARTE","NURSE AID SR","52060.00","41427.00","3414.00","7219.00"]},
+{"id":"8","cell":["8","2018","Davis","TIANA M","LACKEY","PAT BILLER 3","52059.00","51993.00","66.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","NIDHISHA","PATEL","CLIN RSCH CRD AST","52059.00","50905.00","1154.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","ROSELLA","NELSON","PAT SUPP AST","52058.00","47787.00","2784.00","1487.00"]},
+{"id":"11","cell":["11","2018","Irvine","SONIA DEL C","NERIO","HOSP UNIT SVC CRD 2","52057.00","47033.00","4001.00","1023.00"]},
+{"id":"12","cell":["12","2018","Berkeley","TRENTON","DUVAL","COMM SPEC 4","52056.00","47688.00","0.00","4368.00"]},
+{"id":"13","cell":["13","2018","Davis","SCOTT C.","KENNEDY","SRA 2 NEX","52055.00","51834.00","221.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","JAMES S","BRADY","MED CTR COOK","52055.00","48716.00","3002.00","337.00"]},
+{"id":"15","cell":["15","2018","Davis","JULIE T","CASTANEDA","BLANK AST 3","52054.00","51652.00","152.00","250.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","COURTNEY","GIBBON","BLANK AST 3","52054.00","51120.00","681.00","253.00"]},
+{"id":"17","cell":["17","2018","Berkeley","SEAN","MAXEY","CUSTODIAN SR","52054.00","46336.00","4751.00","967.00"]},
+{"id":"18","cell":["18","2018","Irvine","OMAR AL","SAUCEDO HERNAND","STDT AFFAIRS OFCR 2 SUPV","52053.00","51053.00","0.00","1000.00"]},
+{"id":"19","cell":["19","2018","Berkeley","SUI","YANG","POSTDOC-EMPLOYEE","52053.00","52053.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","MICHELLE","HENDERSON","HOSP UNIT SVC CRD 3","52052.00","49254.00","2344.00","454.00"]}]
+}

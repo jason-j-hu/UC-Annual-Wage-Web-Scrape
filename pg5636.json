@@ -1,0 +1,26 @@
+{
+"page" : "5636",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","MARY Y","ABDELJAWAD","AMBUL CARE ADMSTN CRD 2","51624.00","49406.00","2218.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","JUAN MANUEL","GUZMAN","HOSP AST 3 PD","51624.00","50555.00","1069.00","0.00"]},
+{"id":"3","cell":["3","2018","Irvine","AZUCENA R","AVINA GRACIAN","ADMITTING WORKER PRN","51623.00","49059.00","804.00","1760.00"]},
+{"id":"4","cell":["4","2018","Irvine","BEATRIZ","CABRERA","BLANK AST 3","51622.00","50158.00","1464.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","HYOUARM","JOUNG","POSTDOC-EMPLOYEE","51622.00","51622.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","SHERI L","NELSON","MRI TCHNO","51622.00","48735.00","2030.00","857.00"]},
+{"id":"7","cell":["7","2018","San Diego","MARLA B","SERVIN DE LA MO","HOSP BLANK AST 3","51621.00","50005.00","866.00","750.00"]},
+{"id":"8","cell":["8","2018","San Francisco","ANGELA D","LOCKETT","PRACTICE CRD 2","51620.00","51257.00","0.00","363.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","MARIA","CONTRERAS","ADMIN SPEC","51620.00","48710.00","2910.00","0.00"]},
+{"id":"10","cell":["10","2018","Irvine","JEFFREY T","LUDWIG","LECT PSOE-AY","51619.00","41619.00","0.00","10000.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","LAUREN","ORLANES","MED AST 3","51619.00","51198.00","259.00","162.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","JONATHAN","CASTRO","BLANK AST 3","51619.00","51319.00","300.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","GEORGIOS","BATSIOS","POSTDOC-EMPLOYEE","51618.00","51618.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","51617.00","39057.00","0.00","12560.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","ELIZABETH","PELAGIO","PHARMACY TCHN 1","51616.00","46836.00","2686.00","2094.00"]},
+{"id":"16","cell":["16","2018","San Francisco","WENLEI","YE","POSTDOC-EMPLOYEE","51615.00","51615.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","GUY ANDRE","BOUVIER","POSTDOC-EMPLOYEE","51615.00","51615.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","MEROPI","TOPALIDOU","POSTDOC-EMPLOYEE","51615.00","51615.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","ANNA","FONG","ADMIN ANL","51615.00","51198.00","417.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","MARICEL","PARRENO","HOSP BLANK AST 3","51615.00","48690.00","53.00","2872.00"]}]
+}

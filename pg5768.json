@@ -1,0 +1,26 @@
+{
+"page" : "5768",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","NICOLE A","HEITKAM","TRANSIT SVC SUPV 1","50482.00","49938.00","544.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","MONICA","ALFREDSEN","ADMIN ANL","50482.00","45169.00","5313.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","HILDEBRANDO","AMAYA-GARCIA","CUSTODIAN","50480.00","38528.00","9260.00","2692.00"]},
+{"id":"4","cell":["4","2018","San Francisco","KANGWAY V","CHUANG","POSTDOC-EMPLOYEE","50480.00","50480.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","XIAN DING","DENG","POSTDOC-EMPLOYEE","50479.00","50479.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","RAUL","BARAJAS","PLUMBER APPR","50479.00","46957.00","3522.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","DEMETRI","WILLIAMS","CUSTODIAN SR","50478.00","47939.00","0.00","2539.00"]},
+{"id":"8","cell":["8","2018","Davis","CHRISTINA D","CHUPKA","BLANK AST 2","50478.00","50457.00","21.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","LAURA","LAINEZ","BLANK AST 3","50478.00","48866.00","612.00","1000.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","NIDIA","HERNANDEZ","CHILD DEV CTR TEACHER 2 LD","50477.00","49469.00","1008.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","JUDY","DUBKO","PHYSCN AST","50477.00","50415.00","62.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","PERLA","HARRIS","BLANK AST 3","50477.00","49448.00","29.00","1000.00"]},
+{"id":"13","cell":["13","2018","Berkeley","ALI","GHAHRAMANI","POSTDOC-EMPLOYEE","50476.00","50476.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","MARCUS LERON","PARKER","CUSTODIAN SR","50475.00","47933.00","3.00","2539.00"]},
+{"id":"15","cell":["15","2018","Irvine","HILDA C","NARVAEZ","PAT BILLER 3","50475.00","49693.00","122.00","660.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","KATHRYN MARIE","OMBAO","LIBRARY AST 4 SUPV","50475.00","46475.00","0.00","4000.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","VIKTOR","BRUS","POSTDOC-EMPLOYEE","50474.00","50474.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","MAXINE","ANSALDO","PROJECT POLICY ANL 2","50474.00","49914.00","560.00","0.00"]},
+{"id":"19","cell":["19","2018","ASUCLA","EDWARD","RHODES","ANL 2","50474.00","49557.00","0.00","917.00"]},
+{"id":"20","cell":["20","2018","Davis","SOHAM S","GHOSH","POSTDOC-EMPLOYEE","50473.00","50473.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "3790",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","LISA M","SANCHAS","REGISTRAR SPEC 3","71333.00","71333.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","PENG","ZHAO","POSTDOC-EMPLOYEE","71333.00","71333.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","KEITH EDWARD","GREEN","SYS ADM 2","71333.00","65586.00","747.00","5000.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","71332.00","63882.00","0.00","7450.00"]},
+{"id":"5","cell":["5","2018","UCOP","CHRISTINA","SHALLOW","FINANCIAL SVC ANL 2","71332.00","70210.00","1122.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","DEBRA A","RANDALL","ADMIN ANL","71331.00","71331.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","CHERRI ANN","ROBINSON","PLNG SPEC 3","71331.00","65198.00","5100.00","1033.00"]},
+{"id":"8","cell":["8","2018","San Francisco","CHRISTINA","O\"SHAUGHNESSY","AMBUL CARE ADMSTN CRD 2","71330.00","68187.00","0.00","3143.00"]},
+{"id":"9","cell":["9","2018","San Francisco","MAMIE","LEE","PRACTICE CRD 3","71330.00","70034.00","156.00","1140.00"]},
+{"id":"10","cell":["10","2018","Irvine","PATRICIA","PIERSON","ACADEMIC COORD I-AY","71330.00","69662.00","0.00","1668.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","NAGUIB","TAHAN","STDT AFFAIRS OFCR 3 SUPV","71330.00","66041.00","0.00","5289.00"]},
+{"id":"12","cell":["12","2018","San Diego","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","71330.00","63180.00","0.00","8150.00"]},
+{"id":"13","cell":["13","2018","Berkeley","ANDREW","RUSH","LECT-AY","71330.00","56811.00","0.00","14519.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","ALFREDO","RUVALCABA","FAC MECH","71328.00","69146.00","2182.00","0.00"]},
+{"id":"15","cell":["15","2018","Irvine","GLORIA JOAHANA E","WARD","CLIN NURSE 2","71327.00","66389.00","2266.00","2672.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","ANDREW","NIXON","DATA SYS ANL 3","71327.00","71327.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","71326.00","59093.00","0.00","12233.00"]},
+{"id":"18","cell":["18","2018","Berkeley","DENISE","BERRY","RSCH ADM 4","71326.00","71326.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","MAYRA E.","CAMPOS","PROCUREMENT SUPV 1","71325.00","71325.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","CHRISTIAN","FISCHER","ACADEMIC ADMINISTRATOR III","71325.00","71325.00","0.00","0.00"]}]
+}

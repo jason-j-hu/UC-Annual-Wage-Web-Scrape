@@ -1,0 +1,26 @@
+{
+"page" : "3111",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","KEITH","STEVENS","HEALTH INFO CODER 2","83595.00","77411.00","4518.00","1666.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","NORMAN","TURK","PROGR ANL 2","83594.00","83594.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","WILLIAM F","DECKER","NUC MED TCHNO SR","83594.00","79110.00","1090.00","3394.00"]},
+{"id":"4","cell":["4","2018","San Diego","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","83594.00","70818.00","0.00","12776.00"]},
+{"id":"5","cell":["5","2018","Berkeley","LUCAS","CARLTON","PROJECT POLICY ANL 3","83594.00","83094.00","0.00","500.00"]},
+{"id":"6","cell":["6","2018","Berkeley","DANA","OLDKNOW","EVENTS SUPV 2","83591.00","83591.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","JUSTIN P","LING","DIGITAL COMM SPEC 4","83590.00","79340.00","0.00","4250.00"]},
+{"id":"8","cell":["8","2018","Irvine","DAVID S.","TIMBERLAKE","ASSOC PROF-AY","83589.00","83589.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","STEVEN HARRIS","SMITH","PLUMBER","83588.00","81578.00","0.00","2010.00"]},
+{"id":"10","cell":["10","2018","Irvine","MARGARET M","WALTON","MGT SVC OFCR 4","83583.00","75384.00","0.00","8199.00"]},
+{"id":"11","cell":["11","2018","Santa Barbara","ANDRE SEBASTIAO","CORREA DE SA","ASST PROF-AY","83583.00","75250.00","0.00","8333.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","83583.00","59093.00","0.00","24490.00"]},
+{"id":"13","cell":["13","2018","Davis","PETER","SCULLY","ADMIN SUPV 2","83580.00","83580.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Riverside","KYLE","WALKER","FLEET SVC SUPV 2","83577.00","83077.00","0.00","500.00"]},
+{"id":"15","cell":["15","2018","Riverside","CHRISTINE","FLANDERS","TRAINER 4","83577.00","83077.00","0.00","500.00"]},
+{"id":"16","cell":["16","2018","San Francisco","JASON C","BLOOM","PAT BILL AND COLL REPR 3","83576.00","79914.00","0.00","3662.00"]},
+{"id":"17","cell":["17","2018","UCOP","DOREEN","LAI","BENEFITS ANL 3","83576.00","83576.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","DENNIS JEFFREY","MEYER","RADLG TCHNO","83575.00","77585.00","4055.00","1935.00"]},
+{"id":"19","cell":["19","2018","Davis","JEFFREY A","BUSCHECK","RSCH AND DEV ENGR 2","83574.00","77747.00","0.00","5827.00"]},
+{"id":"20","cell":["20","2018","Riverside","NICOLETTA","MEHRMAND","LECT-AY-CONTINUING","83574.00","83574.00","0.00","0.00"]}]
+}

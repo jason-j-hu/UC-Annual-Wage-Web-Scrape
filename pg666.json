@@ -1,0 +1,26 @@
+{
+"page" : "666",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","JUSTIN C","LEWIS","PHARMACY MGR 1","184589.00","184589.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","JILL A","FORD","CLIN NURSE 2","184588.00","167279.00","16649.00","660.00"]},
+{"id":"3","cell":["3","2018","Riverside","DEREK","ROFF","PROF-AY","184567.00","184567.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Santa Cruz","TEDD STEPHEN","SIEGEL","EXEC ADVISOR 4","184565.00","184565.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","MICHELE ETTERBEE","LONG","HS CLIN PROF-HCOMP","184550.00","104227.00","0.00","80323.00"]},
+{"id":"6","cell":["6","2018","San Francisco","GREGORY T","MACWAY","PROJECT POLICY ANL MGR 2","184540.00","174335.00","0.00","10205.00"]},
+{"id":"7","cell":["7","2018","San Francisco","KURT","GILES","ASSOC ADJ PROF-HCOMP","184535.00","124742.00","0.00","59793.00"]},
+{"id":"8","cell":["8","2018","Riverside","HOWARD","JUDELSON","PROF-FY","184533.00","174533.00","0.00","10000.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","MARY","SCOTTI","NURSE PRACT 2","184529.00","157304.00","23033.00","4192.00"]},
+{"id":"10","cell":["10","2018","San Diego","JOHN THEODORE","LIEFELD","BIOINFORMATICS PROGR 5","184520.00","184520.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","TONY SALGADO","RODRIGUEZ","INFO SYS ANL 4","184519.00","172475.00","0.00","12044.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","JOCELYN","MIEL","CLIN NURSE 2","184502.00","140719.00","35682.00","8101.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","CRYSTAL","MARTIN","PROF-AY","184496.00","150158.00","0.00","34338.00"]},
+{"id":"14","cell":["14","2018","Hastings College Of Law","JODI L","SHORT","PROF OF LAW","184490.00","155698.00","0.00","28792.00"]},
+{"id":"15","cell":["15","2018","UCOP","CHRISTOPHER","CARTER","PROJECT POLICY ANL MGR 3","184490.00","184490.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","KATYA","ARMISTEAD","STDT LIFE DEV MGR 3","184486.00","184486.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","JANET","WHITE","STF PHARMACIST 1 NEX","184469.00","172071.00","7315.00","5083.00"]},
+{"id":"18","cell":["18","2018","Davis","SANDRA L","ELLINGSON","NURSE PRACT SUPV 2","184448.00","182298.00","0.00","2150.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","GUY","CUSTIS","DEAN AST","184447.00","181447.00","0.00","3000.00"]},
+{"id":"20","cell":["20","2018","Irvine","KEYUE M","SMEDLEY","PROF-AY-B/E/E","184444.00","157983.00","0.00","26461.00"]}]
+}

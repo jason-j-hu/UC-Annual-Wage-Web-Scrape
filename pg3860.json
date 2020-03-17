@@ -1,0 +1,26 @@
+{
+"page" : "3860",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","KEVIN E.","STEPHENS","CARPENTER","70328.00","70328.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","JOSE ANDY,SR","ZEPEDA","PAINTER","70328.00","70328.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","FRISO W.","ZIJLSTRA","PAINTER","70328.00","70328.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","JEFFERY ALLAN","FRANSWAY","ROOFER","70327.00","65863.00","4464.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","GACIA","TACHEJIAN","SRA 4 SUPV","70326.00","67108.00","0.00","3218.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","JAMES","BADHAM","WRITER EDITOR 3","70326.00","70326.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","AGNIES","D ANTONIO-CHRON","LAB RSCH SUPV 2","70325.00","65325.00","0.00","5000.00"]},
+{"id":"8","cell":["8","2018","Davis","WHITNEY C","DUIM","ASST PROJ SCIENTIST-FY","70324.00","70324.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Santa Cruz","MICHELE RUTH","KUNZ","BLANK AST 3","70321.00","56450.00","12671.00","1200.00"]},
+{"id":"10","cell":["10","2018","Berkeley","NATALIE","MARQUEZ","CONTRACT ADM 3","70320.00","70320.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","WINNE","LIU","OPHTHALMIC TCHN 2","70320.00","68212.00","1518.00","590.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","KARA","BLACK","BUDGET ANL SR","70320.00","67320.00","0.00","3000.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","HECTOR","PEREZ","CUSTODIAN SUPV","70318.00","50674.00","19484.00","160.00"]},
+{"id":"14","cell":["14","2018","Irvine","JAE EUN","WOO","CLIN NURSE 2","70316.00","65116.00","1958.00","3242.00"]},
+{"id":"15","cell":["15","2018","San Diego","JACLYN DANIELLE","REYES","CLIN NURSE 2","70315.00","66923.00","967.00","2425.00"]},
+{"id":"16","cell":["16","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","70315.00","65665.00","0.00","4650.00"]},
+{"id":"17","cell":["17","2018","Davis","AMANDA L","BRUM","PUBL EDUC SPEC 4","70314.00","65214.00","0.00","5100.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","WILLIAM","CONLEY","LECT PSOE-AY","70314.00","70064.00","0.00","250.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","MARY","REBUDAL","ADMIN ANL SR SUPV","70312.00","67312.00","0.00","3000.00"]},
+{"id":"20","cell":["20","2018","San Diego","BLANCA ALICIA","BARBA","BLANK AST 3","70312.00","59254.00","9558.00","1500.00"]}]
+}

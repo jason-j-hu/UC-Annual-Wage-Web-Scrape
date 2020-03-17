@@ -1,0 +1,26 @@
+{
+"page" : "2887",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","DOUGLAS D","GISI","CARE SUPV 2","88573.00","88323.00","0.00","250.00"]},
+{"id":"2","cell":["2","2018","Davis","ZELJKA S","MCBRIDE","ASSOC ADJ PROF-HCOMP","88570.00","88561.00","0.00","9.00"]},
+{"id":"3","cell":["3","2018","Davis","DAVID","REAP","EHS SPEC 3","88570.00","88570.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","KHOI","DO","ADMIN ANL SR","88570.00","88570.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","CARLA","GONZALEZ","AST TO DEAN DIR CHAIR 1","88570.00","81070.00","0.00","7500.00"]},
+{"id":"6","cell":["6","2018","San Diego","AISLINN C.","SOTELO","LIBRARIAN-CAREER STATUS","88569.00","80169.00","0.00","8400.00"]},
+{"id":"7","cell":["7","2018","Santa Cruz","LAURA YOUNG","HINCK","PROJECT POLICY ANL 3","88566.00","70904.00","0.00","17662.00"]},
+{"id":"8","cell":["8","2018","San Francisco","DAPHNE P.","PENAFLOR","CLIN NURSE 2","88563.00","86298.00","0.00","2265.00"]},
+{"id":"9","cell":["9","2018","Davis","MARIO A","REINA-GUERRA","CONTRACTS AND GRANTS SUPV 2","88563.00","88563.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","AMANDA A.","CHAVEZ","LABOR REL REPR 3","88563.00","83882.00","0.00","4681.00"]},
+{"id":"11","cell":["11","2018","San Diego","LAURA KOPFINGER","CHASE","CLIN NURSE 3","88563.00","73316.00","720.00","14527.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","D\"ANN","MORRIS","PUBL ADMSTN ANL PRN SUPV","88562.00","88562.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","JAMES P","DORAN","COMM AND NETWORK TCHL ANL 2","88560.00","79667.00","2358.00","6535.00"]},
+{"id":"14","cell":["14","2018","Davis","GRETCHEN J","SMITH","ULTRASOUND TCHNO SR","88560.00","85864.00","2648.00","48.00"]},
+{"id":"15","cell":["15","2018","San Francisco","JUNAID M","AFZAL","ASSOC RES-FY","88558.00","88558.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","JONATHAN REY","FORTMAN","RSCH CMPLNC ANL 4","88558.00","88558.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","JUAN A","OSES-PRIETO","ASSOC RES-FY","88558.00","88558.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","HIDEAKI","OKOCHI","ASSOC RES-FY","88558.00","88558.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","DANIEL RAYMOND","POTTER","ASSOC RES-FY","88558.00","88558.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","YONGFENG","FAN","ASSOC RES-FY","88558.00","88558.00","0.00","0.00"]}]
+}

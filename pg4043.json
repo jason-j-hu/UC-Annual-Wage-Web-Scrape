@@ -1,0 +1,26 @@
+{
+"page" : "4043",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","PHILLIP A","STRUCK","MGT SVC OFCR 2 SUPV","67730.00","67730.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","ANNAMARIA","RAMIREZ","HOSP BLANK AST 4","67730.00","61682.00","4532.00","1516.00"]},
+{"id":"3","cell":["3","2018","Davis","JOHN L","KELTNER","RECALL FACULTY","67729.00","66229.00","0.00","1500.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","MARY","LUNTSFORD","PHYS THER 3 NEX","67729.00","65340.00","0.00","2389.00"]},
+{"id":"5","cell":["5","2018","San Diego","ROGER","PHOUMIN","PHARMACY TCHN 3","67729.00","62072.00","4465.00","1192.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JEAN","VANO","VOC NURSE SR","67728.00","66476.00","982.00","270.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","CLAUDIA","RODRIGUEZ","ADMIN ANL","67727.00","67727.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","LAURA MARIE","LAZAR","PROJECT POLICY ANL 2","67726.00","66726.00","0.00","1000.00"]},
+{"id":"9","cell":["9","2018","Irvine","BETH E","ENGLAND-MACKIE","STDT AFFAIRS OFCR 4","67726.00","67726.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","MOHAMMAD A","SALIM","PHARMACY TCHN 2","67726.00","62178.00","931.00","4617.00"]},
+{"id":"11","cell":["11","2018","San Diego","CYNTHIA GARCIA","VIED","VOC NURSE SR","67726.00","65272.00","1375.00","1079.00"]},
+{"id":"12","cell":["12","2018","Berkeley","JESUS","GUTIERREZ","CUSTODIAN LEADER SR","67726.00","54630.00","11328.00","1768.00"]},
+{"id":"13","cell":["13","2018","San Diego","STEPHANIE JEAN","SPANN","PUBL EDUC SPEC 3","67725.00","67175.00","0.00","550.00"]},
+{"id":"14","cell":["14","2018","Davis","HENRY J","ALITTO","ASST PROJ SCIENTIST-FY","67724.00","67724.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","OLIVER THOMAS","SCHMIDT","ASST PROF-AY-B/E/E","67723.00","44167.00","0.00","23556.00"]},
+{"id":"16","cell":["16","2018","Santa Cruz","KATHRYN C","DUNDON","ASSOC LIBRARIAN -CAREER STATUS","67722.00","67722.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","THIBAULT","LAPLACE","POSTDOC-EMPLOYEE","67722.00","67722.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","AMANDA J","RODRIGUEZ","ADMIN OFCR 2","67720.00","66720.00","0.00","1000.00"]},
+{"id":"19","cell":["19","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","67719.00","64356.00","0.00","3363.00"]},
+{"id":"20","cell":["20","2018","Davis","ANGELOS I","DELTSIDIS","ASSOC SPECIALIST","67718.00","67718.00","0.00","0.00"]}]
+}

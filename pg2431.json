@@ -1,0 +1,26 @@
+{
+"page" : "2431",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","BRYAN","JUE","DIR ASC","99971.00","93306.00","0.00","6665.00"]},
+{"id":"2","cell":["2","2018","Irvine","BRIAN C.","JENKINS","LECT PSOE-AY","99970.00","94538.00","0.00","5432.00"]},
+{"id":"3","cell":["3","2018","Riverside","LAWRENCE","WHITTAKER","APPLICATIONS PROGR 3","99970.00","99470.00","0.00","500.00"]},
+{"id":"4","cell":["4","2018","San Diego","KENNETH","TOMORY","ADMIN OFCR 4","99968.00","97968.00","0.00","2000.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","CHARLES","WILLIAMS","COMPUTING RESC MGR 1","99967.00","99967.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","DELILAH","GARCIA","CLIN NURSE 2","99966.00","85367.00","2972.00","11627.00"]},
+{"id":"7","cell":["7","2018","San Francisco","AMANDA SUE","MUFFOLETTO","ULTRASOUND TCHNO PRN","99965.00","96496.00","1215.00","2254.00"]},
+{"id":"8","cell":["8","2018","Davis","CONNIE L","HOUGHTON","RESP THER 1","99965.00","94785.00","3665.00","1515.00"]},
+{"id":"9","cell":["9","2018","San Francisco","MARIA IRENE CAST","NOBLE","CLIN NURSE 2","99960.00","78875.00","5240.00","15845.00"]},
+{"id":"10","cell":["10","2018","San Francisco","PATRICIA","PFEFFER","CLIN NURSE 2","99958.00","99178.00","96.00","684.00"]},
+{"id":"11","cell":["11","2018","San Francisco","FREDERIC","VAN GOOL","ASST ADJ PROF-HCOMP","99958.00","94958.00","0.00","5000.00"]},
+{"id":"12","cell":["12","2018","San Diego","MONA","WONG-BARNUM","APPLICATIONS PROGR 4","99958.00","99958.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Irvine","NKEIRUKA IHUNNA","ABANOBI","CLIN NURSE 2","99953.00","96575.00","205.00","3173.00"]},
+{"id":"14","cell":["14","2018","San Francisco","JAIME N","SUSTAL","HOSP LAB TCHN 1","99950.00","80722.00","17871.00","1357.00"]},
+{"id":"15","cell":["15","2018","San Diego","CHRISTINA LINDSA","DAVIS","CLIN NURSE 2","99950.00","84513.00","3513.00","11924.00"]},
+{"id":"16","cell":["16","2018","San Francisco","SONGLING","LIU","RSCH DATA ANL 3","99949.00","99949.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","COLLEEN T","LEHR","CLIN NURSE 2","99948.00","92913.00","2277.00","4758.00"]},
+{"id":"18","cell":["18","2018","San Diego","ANDY SERGIO","ARREDONDO","CLIN NURSE 2","99948.00","87787.00","2203.00","9958.00"]},
+{"id":"19","cell":["19","2018","Berkeley","TANAIIA","HALL","BUS SYS ANL 4","99948.00","99948.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","MARY E.","HOEGER","NUC MED TCHNO SR","99947.00","96954.00","148.00","2845.00"]}]
+}

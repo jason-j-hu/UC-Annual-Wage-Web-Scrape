@@ -1,0 +1,26 @@
+{
+"page" : "3881",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","KAREN","RECINOS","PUBL ADMSTN ANL SR","70078.00","70078.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","70078.00","65363.00","0.00","4715.00"]},
+{"id":"3","cell":["3","2018","San Diego","INGRID I","PYPER","HR GENERALIST 2","70077.00","68859.00","468.00","750.00"]},
+{"id":"4","cell":["4","2018","Berkeley","MASSIMO","PACCHIONE","ALUMNI EXTERNAL REL SPEC 5","70076.00","70076.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","PATRICK JAMES","FELIPE","COLL REPR SR","70076.00","68936.00","0.00","1140.00"]},
+{"id":"6","cell":["6","2018","Santa Cruz","CHIARA","DEBENEDETTI","POSTDOC-EMPLOYEE","70076.00","55676.00","0.00","14400.00"]},
+{"id":"7","cell":["7","2018","San Francisco","RACHELLE","DELFIN","HOSP BLANK AST 3","70075.00","69151.00","249.00","675.00"]},
+{"id":"8","cell":["8","2018","Davis","KRISTINA L","MEJIA","AMBUL CARE ADMSTN SUPV 1","70075.00","68910.00","112.00","1053.00"]},
+{"id":"9","cell":["9","2018","Berkeley","HELINA","CHIN","VISUAL COMM SPEC 4","70075.00","69575.00","0.00","500.00"]},
+{"id":"10","cell":["10","2018","San Francisco","MARK A","ATKINS","EHS TCHN PRN","70074.00","67725.00","2085.00","264.00"]},
+{"id":"11","cell":["11","2018","San Francisco","JAMES A,JR","EARHART","PSYCHOLOGIST 2","70074.00","70074.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","PATRICIA M","ROMAN","PARKING OPS SPEC 2","70074.00","48565.00","19008.00","2501.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","RITA","STUMPS","LIBRARY AST 5","70073.00","70073.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","RENEE LAWSON","SATTLER","CLIN NURSE 3","70073.00","69262.00","199.00","612.00"]},
+{"id":"15","cell":["15","2018","San Francisco","TRAVIS J","PENTZ","PROJECT POLICY ANL 3","70072.00","70072.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","WANG SHENG","PEN","ARCHITECTURAL ASC NEX","70072.00","64440.00","5632.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","JULIA COOPER","KENNEDY","NURSE PD","70071.00","58151.00","967.00","10953.00"]},
+{"id":"18","cell":["18","2018","San Francisco","TERESA M","REYES","PRACTICE CRD 2","70070.00","67154.00","2009.00","907.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","ANN","PARKER","ADMIN SPEC","70070.00","69962.00","108.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","SAMANTHA","TEPLITZKY","ASSOC LIBRARIAN -CAREER STATUS","70070.00","70070.00","0.00","0.00"]}]
+}

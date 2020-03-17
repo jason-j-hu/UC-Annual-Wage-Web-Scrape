@@ -1,0 +1,26 @@
+{
+"page" : "1654",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","OUMELBANINE","ZHIRI","PROF-AY","124642.00","124642.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","DONG-RU","SHIEH","DATA SYS ANL 4","124640.00","112500.00","0.00","12140.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","KEVAN","HARRIS","ASST PROF-AY","124639.00","101617.00","0.00","23022.00"]},
+{"id":"4","cell":["4","2018","San Diego","ROSS L","MCCALL","DOSIMETRIST","124638.00","113758.00","8876.00","2004.00"]},
+{"id":"5","cell":["5","2018","San Francisco","MANSI","SHAH","AMBUL CARE ADMSTN MGR 2","124636.00","120143.00","0.00","4493.00"]},
+{"id":"6","cell":["6","2018","San Francisco","AIMEE LYNN","MEDEIROS","ASST ADJ PROF-HCOMP","124633.00","103463.00","0.00","21170.00"]},
+{"id":"7","cell":["7","2018","Berkeley","HARRY","MA","FINANCIAL ANL SUPV 2","124630.00","124630.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","ANN","WIENS","MARKETING SPEC 4","124630.00","124630.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","IMMA DONNA P","DELA CRUZ","CLIN LAB SCI","124629.00","100950.00","6520.00","17159.00"]},
+{"id":"10","cell":["10","2018","San Francisco","JOYCE A.","DOW","FAC SUPV 2 GF","124627.00","123627.00","0.00","1000.00"]},
+{"id":"11","cell":["11","2018","San Francisco","KIRSTEN COLLENE","SIOXSON","CLIN NURSE 2","124622.00","102854.00","3403.00","18365.00"]},
+{"id":"12","cell":["12","2018","San Diego","CHARLES L.","PERRIN","PROF-AY","124622.00","124622.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Cruz","ANGELA N","BROOKS","ASST PROF-AY-B/E/E","124620.00","111942.00","0.00","12678.00"]},
+{"id":"14","cell":["14","2018","San Diego","MATTHEW J","SMITH","FAC PROJECT MGT SPEC 4","124620.00","120330.00","0.00","4290.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","ERNEST","ORTIZ JR","PHYSCN AST","124619.00","118293.00","5778.00","548.00"]},
+{"id":"16","cell":["16","2018","San Diego","ELLEN MICHAEL","ASHMAN","CLIN NURSE OR ADV PRACT SPEC 4","124619.00","123619.00","0.00","1000.00"]},
+{"id":"17","cell":["17","2018","Merced","ALFA","RAMIREZ","ASST PROF-AY","124619.00","93308.00","0.00","31311.00"]},
+{"id":"18","cell":["18","2018","Irvine","IRENIA GAMBOA","ARILLAGA","CLIN NURSE 2","124618.00","110679.00","5640.00","8299.00"]},
+{"id":"19","cell":["19","2018","Santa Cruz","GLENN ANDREW","BLACKLER","INFO SYS SUPV 2","124618.00","123168.00","0.00","1450.00"]},
+{"id":"20","cell":["20","2018","San Diego","JOCELYN LAXA","PACHECO","FINANCIAL ANL 4 GF","124618.00","121318.00","0.00","3300.00"]}]
+}

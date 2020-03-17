@@ -1,0 +1,26 @@
+{
+"page" : "3515",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","ANTHONY W","BEEBOUT","PRIVACY AND CMPLNC HC MGR 1","75722.00","70909.00","0.00","4813.00"]},
+{"id":"2","cell":["2","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","75721.00","58496.00","0.00","17225.00"]},
+{"id":"3","cell":["3","2018","San Francisco","ROXANNA","FIROUZIAN","BUS SYS ANL 2 NEX","75720.00","71198.00","0.00","4522.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","MELISSA","ARAGON","PUBL ADMSTN ANL SR","75719.00","72189.00","0.00","3530.00"]},
+{"id":"5","cell":["5","2018","Berkeley","GERARDO","CAMPOS","FAC MGT SPEC 3","75719.00","75719.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","ANA","LIGGINS","MGT SVC OFCR 3 SUPV","75718.00","75718.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","ERIC JOSEPH","MATTEI","VISUAL COMM SPEC 4","75718.00","74718.00","0.00","1000.00"]},
+{"id":"8","cell":["8","2018","Riverside","KATHLEEN","GURNETT","LECT-AY-CONTINUING","75717.00","75717.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","MATHIAS","ZEBROWSKI","ARTIST PRN","75716.00","74716.00","0.00","1000.00"]},
+{"id":"10","cell":["10","2018","Berkeley","MAURICIO","WRIGHT","PUBL EDUC SPEC 4","75716.00","75216.00","0.00","500.00"]},
+{"id":"11","cell":["11","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","75714.00","62864.00","0.00","12850.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ERIN","MENDOZA","CLIN NURSE 2","75714.00","73927.00","1080.00","707.00"]},
+{"id":"13","cell":["13","2018","Davis","JANE","RYAN","RSCH ADM 2","75714.00","74710.00","1004.00","0.00"]},
+{"id":"14","cell":["14","2018","Riverside","VICTORIA","HERNANDEZ","FINANCIAL ANL 2","75714.00","71997.00","0.00","3717.00"]},
+{"id":"15","cell":["15","2018","San Francisco","SI QIN MARIA","GUAN","ADMITTING WORKER SR","75712.00","74406.00","286.00","1020.00"]},
+{"id":"16","cell":["16","2018","Berkeley","MARIBEL","GUILLERMO","STDT LIFE DEVT SUPV 2","75712.00","75212.00","0.00","500.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","TERRY","ARMSTEAD","FOOD SVC MGR AST SUPV","75711.00","65608.00","9292.00","811.00"]},
+{"id":"18","cell":["18","2018","Merced","LUKE","REED","RSCH AND DEV ENGR 2","75711.00","75211.00","0.00","500.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","COLIN","SHINN","ADMIN ANL SR","75710.00","75710.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","SHERYL J","WALL","CLIN NURSE 2","75709.00","65420.00","2512.00","7777.00"]}]
+}

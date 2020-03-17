@@ -1,0 +1,26 @@
+{
+"page" : "3597",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","HANNAH","FRANKEL","BUS SYS ANL 3","74358.00","74358.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","ALISHA","BLACKFORD","ANESTHESIA TCHN 2","74357.00","70010.00","2738.00","1609.00"]},
+{"id":"3","cell":["3","2018","Berkeley","NATHAN","MILLER","RSCH AND DEV ENGR 2","74357.00","74357.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","ANA","CHINCHILLA","PHLEBOTOMIST CERT TCHN 2","74356.00","69106.00","2273.00","2977.00"]},
+{"id":"5","cell":["5","2018","San Francisco","AJA I","FLORES","ADMIN OFCR 3","74355.00","74355.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","LUIS FERNANDO","MARTINEZ","CLIN RSCH CRD AST","74354.00","54812.00","3008.00","16534.00"]},
+{"id":"7","cell":["7","2018","San Francisco","SALLY A","RANDOLPH","ADMIN OFCR 3","74353.00","71403.00","0.00","2950.00"]},
+{"id":"8","cell":["8","2018","San Diego","CYNTHIA ALEXANDR","VERA","RSCH CMPLNC ANL 3","74353.00","69907.00","4446.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","JORDAN","MOBERG PARKER","ACADEMIC COORD II-FY","74352.00","74352.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","MONIQUE A","LEWIS","ADMITTING WORKER PRN","74348.00","70471.00","2857.00","1020.00"]},
+{"id":"11","cell":["11","2018","Riverside","FRANCISCO","BAPTISTA NETO","INFO SYS SUPV 2","74348.00","74348.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","WILLIAM G","VALENTINE","TRANSIT SVC SUPV 1","74347.00","73347.00","0.00","1000.00"]},
+{"id":"13","cell":["13","2018","Davis","NICHOLE D.","PETERSON","PUBL EDUC SPEC 3","74347.00","72800.00","1547.00","0.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","THOMAS","HETMANK","BUS TCHL SUPP ANL 2","74345.00","74345.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","KELLY STROOPE","DEDOMINIC","CLIN NURSE 3","74344.00","73351.00","252.00","741.00"]},
+{"id":"16","cell":["16","2018","Davis","NICOLE M","KUNIBE","OCCUPATIONAL THER 2 NEX","74344.00","73927.00","276.00","141.00"]},
+{"id":"17","cell":["17","2018","San Francisco","PEI XIAN","HUANG","OPS ROOM SUPP AST","74342.00","63654.00","3710.00","6978.00"]},
+{"id":"18","cell":["18","2018","San Francisco","ROSALYN R","SCHROEDER","RSCH DATA ANL 2","74341.00","70787.00","0.00","3554.00"]},
+{"id":"19","cell":["19","2018","San Francisco","JINGHUA","ZHANG","HOSP LAB TCHN 1","74341.00","68986.00","207.00","5148.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","MELISSA","SILVA","CLIN NURSE 2","74341.00","65166.00","216.00","8959.00"]}]
+}

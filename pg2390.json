@@ -1,0 +1,26 @@
+{
+"page" : "2390",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","JAMES H","THORNE","RES-FY","101139.00","101139.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","MARCIA","BRITVAN","MGT SVC OFCR 2","101139.00","96389.00","0.00","4750.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","BRIAN","STEWART","INFO SYS ANL 4","101139.00","101139.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","LISA MARIE","MORSE","CLIN NURSE 2","101135.00","99095.00","386.00","1654.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","MILES","ASHLOCK","STDT LIFE DEV MGR 1","101134.00","87746.00","0.00","13388.00"]},
+{"id":"6","cell":["6","2018","Davis","STANLEY M","HARMON","SYS INTEGRATION ENGR 3","101132.00","100257.00","0.00","875.00"]},
+{"id":"7","cell":["7","2018","San Diego","FRANK MATTHEW,III","BIEGLER","SKLD CRAFTS AND TRADES MGR 1","101128.00","98728.00","0.00","2400.00"]},
+{"id":"8","cell":["8","2018","Berkeley","LUIS","TORRES","SYS ADM 3","101127.00","101127.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Riverside","LUIS","BRAVO","COMM SUPV 2","101125.00","100125.00","0.00","1000.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","STANLEY","HASHIOKA","PROGR ANL 3","101124.00","100345.00","0.00","779.00"]},
+{"id":"11","cell":["11","2018","Riverside","GERALD","MONAHAN","ACCOUNTING SUPV 2","101124.00","100274.00","0.00","850.00"]},
+{"id":"12","cell":["12","2018","Irvine","JENNA D","PASSARINI","CLIN NURSE 2","101123.00","86781.00","5954.00","8388.00"]},
+{"id":"13","cell":["13","2018","Berkeley","KURT","KEUTZER","RECALL FACULTY","101122.00","101122.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","AUGUSTUS C","DE GUZMAN","CLIN IMG IT SPEC 2","101120.00","100970.00","0.00","150.00"]},
+{"id":"15","cell":["15","2018","Berkeley","NICHOLAS","COLE","IRRIGATION MECH LD","101120.00","95651.00","3169.00","2300.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","ALEJANDRO","ORTIZ","ADMIN ANL PRN 2","101118.00","96756.00","0.00","4362.00"]},
+{"id":"17","cell":["17","2018","San Diego","H KIRK","HAMMOND","PROF IN RES-HCOMP","101118.00","101118.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","MARC GREGORY","LOWE","IT SCRTY ANL 3","101117.00","94869.00","0.00","6248.00"]},
+{"id":"19","cell":["19","2018","San Francisco","BARBARA","GREEN-AJUFO","PROJECT POLICY ANL 3","101116.00","100116.00","0.00","1000.00"]},
+{"id":"20","cell":["20","2018","Davis","DEMETRIUS A","STROUD","SYS INTEGRATION ENGR 3","101116.00","100241.00","0.00","875.00"]}]
+}

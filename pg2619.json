@@ -1,0 +1,26 @@
+{
+"page" : "2619",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","95090.00","83122.00","0.00","11968.00"]},
+{"id":"2","cell":["2","2018","San Francisco","DENISE","TAFOYA","PUBL EDUC SPEC 4","95088.00","95088.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","JOE A","TRUJILLO","MED CTR COOK SR","95088.00","52875.00","41609.00","604.00"]},
+{"id":"4","cell":["4","2018","Davis","LORENA","OROPEZA","ASSOC PROF-AY","95087.00","94787.00","0.00","300.00"]},
+{"id":"5","cell":["5","2018","San Francisco","OKSANA","KOFMAN","HOSP LAB TCHN 2","95086.00","92406.00","1241.00","1439.00"]},
+{"id":"6","cell":["6","2018","Berkeley","GORDON","BAYNE","EVENTS SUPV 2","95086.00","94586.00","0.00","500.00"]},
+{"id":"7","cell":["7","2018","San Francisco","ELIZABETH J.","MENDELSOHN","RSCH CMPLNC ANL 4","95084.00","94084.00","0.00","1000.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","MICKAEL","CHEKROUN","ASSOC RES-FY","95083.00","95083.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","FELIPE","ZAPATA HOYOS","ASST PROF-AY","95083.00","95083.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","LASHANTEL","HOLLINGSWORTH","ULTRASOUND TCHNO PRN","95082.00","92580.00","985.00","1517.00"]},
+{"id":"11","cell":["11","2018","San Diego","RAUL JOSEPH,JR","BARAJAS","ANESTHESIA TCHN 2","95080.00","65881.00","15232.00","13967.00"]},
+{"id":"12","cell":["12","2018","San Diego","IRINA NIKOLAYEV","BOTVINNIK","RADLG TCHNO SR","95079.00","92885.00","703.00","1491.00"]},
+{"id":"13","cell":["13","2018","Berkeley","JAMES","SUNDU","APPLICATIONS PROGR 3","95079.00","95079.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","SUSAN M","VOS","CLIN NURSE 4","95077.00","69006.00","4228.00","21843.00"]},
+{"id":"15","cell":["15","2018","UCOP","BENJAMIN","TSAI","TAX CMPLNC ANL 4","95076.00","95076.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","SABRINA","KLEIN","PUBL EDUC SUPV 2","95075.00","95075.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","JOHNA R","VELASQUEZ","ANESTHESIA TCHN 3","95070.00","83635.00","3747.00","7688.00"]},
+{"id":"18","cell":["18","2018","Irvine","KAMALJOT SINGH","KALER","HS ASST CLIN PROF-HCOMP","95067.00","28256.00","0.00","66811.00"]},
+{"id":"19","cell":["19","2018","San Francisco","MIRANDA","CHOW","HOSP LAB TCHN 1","95066.00","80722.00","2902.00","11442.00"]},
+{"id":"20","cell":["20","2018","San Diego","GILA M.","COHEN","CLIN SOCIAL WORKER 3","95065.00","95065.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "5469",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","ESTEVAN","JAQUEZ","HOSP BLANK AST 3","53051.00","52197.00","854.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","TATYANA","ZAVERUKHA","HOSP UNIT SVC CRD 3","53050.00","50937.00","1398.00","715.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","KARINA","ARIAS","PAT RCDS ABSTRACTOR 2","53050.00","51713.00","693.00","644.00"]},
+{"id":"4","cell":["4","2018","San Diego","CLAIRE DENISE","GAVURNIK","HOSP BLANK AST 3","53050.00","50493.00","1807.00","750.00"]},
+{"id":"5","cell":["5","2018","San Diego","HONG PHUC","NGUYEN","APPLICATIONS PROGR 3","53050.00","41728.00","0.00","11322.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","MELENEY","ALEXANDER","PAT RCDS ABSTRACTOR 2","53049.00","51684.00","642.00","723.00"]},
+{"id":"7","cell":["7","2018","Davis","PREM P","SINGH","MED OFC SVC CRD 2","53049.00","48048.00","70.00","4931.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","TARA","KERIN","POSTDOC-EMPLOYEE","53049.00","53049.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","CHEN","CHEN","ASST PROJ SCIENTIST-FY-B/E/E","53049.00","53049.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","MARIA","QUESTA","POSTDOC-EMPLOYEE","53048.00","53048.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","FIAMMA C","DI MONTEZEMOLO","ASSOC PROF-AY","53047.00","53047.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","JEFFREY JAMES","TORRES","DENTAL AST","53046.00","51585.00","1417.00","44.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","SARAH","SOTO","ADMIN OFCR 2","53046.00","52720.00","326.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","JORGE A","ALDUENDA CARRIL","PAT BILL AND COLL REPR 3","53045.00","52045.00","0.00","1000.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","RICARDO","FLORES VIDES","AUTO EQUIP OPR SR","53045.00","47663.00","5349.00","33.00"]},
+{"id":"16","cell":["16","2018","San Francisco","TODD B","WEATHERSPOON","MED CTR CUSTODIAN SR","53044.00","46351.00","2934.00","3759.00"]},
+{"id":"17","cell":["17","2018","Irvine","MIRELLA","RUANO","PERSONNEL ANL","53044.00","53044.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Merced","PATRICIA","RIDDLE","BLANK AST 3","53044.00","48544.00","0.00","4500.00"]},
+{"id":"19","cell":["19","2018","Irvine","TALEEN A","ARSLANIAN","ADMIN ANL","53042.00","53042.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","MORITA AN","GOLVEO-NANGAUTA","ADMITTING WORKER PRN","53042.00","50945.00","1437.00","660.00"]}]
+}

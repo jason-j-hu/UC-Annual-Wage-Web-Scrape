@@ -1,0 +1,26 @@
+{
+"page" : "2108",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","MARIANNE E","DUTTON","IP OFCR 4","109109.00","109109.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","MEGAN GLIDE","VILLASENOR","CUSTOMER SVC MGR 1","109107.00","105216.00","0.00","3891.00"]},
+{"id":"3","cell":["3","2018","Irvine","SELENA B","HO","MGR","109103.00","109103.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","HAYATULLAH","NIAZI","PHYSCN AST","109101.00","102419.00","1105.00","5577.00"]},
+{"id":"5","cell":["5","2018","Berkeley","CARLA","SERPELL","ASSOC PROF-AY","109100.00","109100.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","HELEN CHIEHYU","WANG","ASC PHYSCN","109097.00","75538.00","0.00","33559.00"]},
+{"id":"7","cell":["7","2018","San Francisco","COLLIN","BOWMAN-WOODALL","NURSE PD","109096.00","82657.00","2850.00","23589.00"]},
+{"id":"8","cell":["8","2018","San Diego","CECILIA ARGUELLE","WHITE","CLIN LAB SCI SPEC SR","109096.00","107598.00","472.00","1026.00"]},
+{"id":"9","cell":["9","2018","UCOP","DEAN","PETTERSON","APPLICATIONS PROGR 3","109092.00","109092.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","PAWAN S","GAUTAM","REVENUE CYCLE HC MGR 2","109091.00","108041.00","0.00","1050.00"]},
+{"id":"11","cell":["11","2018","Berkeley","JENNIFER","SOWERWINE","ASST SPECIALIST COOP EXT","109091.00","101717.00","0.00","7374.00"]},
+{"id":"12","cell":["12","2018","San Diego","ROBERT G","BUSSELL","RSCH AND DEV ENGR 4","109090.00","104090.00","0.00","5000.00"]},
+{"id":"13","cell":["13","2018","San Diego","BREANNA ELIZABET","PIESLOR","CLIN NURSE 2","109088.00","92453.00","3150.00","13485.00"]},
+{"id":"14","cell":["14","2018","San Francisco","JULIA","MOLLA","ACAD PRG MGT OFCR 4","109085.00","109085.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","REBECCA B","BROWN","ACAD PRG MGT OFCR 4","109085.00","109085.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","PAUL SUNG","PARK","PHARMACIST 2 PD","109081.00","105885.00","520.00","2676.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","LEONARDO","VALLE","CLIN NURSE 2","109079.00","89845.00","4399.00","14835.00"]},
+{"id":"18","cell":["18","2018","San Francisco","AMELYN M","CULVER","ORGANIZATIONAL CNSLT 3 GF","109077.00","109077.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","DANIELLE L","SWANEY","ASST ADJ PROF-HCOMP","109075.00","100432.00","0.00","8643.00"]},
+{"id":"20","cell":["20","2018","Davis","KATHARINE","GRAF ESTES","ASSOC PROF-AY","109074.00","109074.00","0.00","0.00"]}]
+}

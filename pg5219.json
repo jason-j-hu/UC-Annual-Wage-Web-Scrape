@@ -1,0 +1,26 @@
+{
+"page" : "5219",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","MARIA","LUCERO","FOOD SVC MGR AST","55339.00","55339.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","HEATHER","HUGHES","ASST LIBRARIAN-POTNTL CAREER","55339.00","55339.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","ADAM BENEDICT","RICHMOND","BLANK AST 3","55337.00","50428.00","0.00","4909.00"]},
+{"id":"4","cell":["4","2018","Irvine","LARRY M","FALCON","PHLEBOTOMIST","55337.00","54085.00","227.00","1025.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","AMBAREEN","NAQVI","ADV OFCR 2","55337.00","55337.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","CHANNA","NEMTZOV","MED AST 3","55335.00","52389.00","1751.00","1195.00"]},
+{"id":"7","cell":["7","2018","San Diego","MARGARET ANN","COOMBS","BLANK AST 3","55335.00","54258.00","77.00","1000.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","SAMANTHA","ABELOVE","STDT AFFAIRS OFCR 1","55334.00","52928.00","906.00","1500.00"]},
+{"id":"9","cell":["9","2018","Berkeley","GRACE","MICHEL","PUBL EDUC SPEC 4","55333.00","52333.00","0.00","3000.00"]},
+{"id":"10","cell":["10","2018","Irvine","REGINA BERENGOLT","BOLOTIN","ADMIN ANL SR SUPV","55333.00","55333.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MAIRA","RENDEROS","MED AST 3","55333.00","54072.00","504.00","757.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","DAVID","RUBIO","BLANK AST 3","55333.00","54582.00","0.00","751.00"]},
+{"id":"13","cell":["13","2018","San Francisco","YALAN","ZHANG","RSCH DATA ANL 1","55332.00","55332.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","MICHELLE A","TAYLOR","HOSP BLANK AST 3","55332.00","54841.00","482.00","9.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","ELIZABETH","MESIAS","COLL REPR","55331.00","51647.00","0.00","3684.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","DARLING","SIANEZ","BLANK AST 2","55331.00","47188.00","7633.00","510.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","ERIN","MEYER-GUTBROD","POSTDOC-EMPLOYEE","55331.00","55331.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Riverside","DANIEL","GOMEZ","RSCH AND DEV ENGR 1","55331.00","49697.00","5634.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","EVA LANIE","CABREROS","CONTRACT ADM 2","55331.00","53227.00","358.00","1746.00"]},
+{"id":"20","cell":["20","2018","San Diego","BRETT CHANDLER","PICKERING","MARINE TCHN 3 NEX","55330.00","53830.00","0.00","1500.00"]}]
+}

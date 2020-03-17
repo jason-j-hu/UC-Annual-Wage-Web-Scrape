@@ -1,0 +1,26 @@
+{
+"page" : "3346",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","SHARON","GREEN","CLIN CARE PARTNER","78832.00","57124.00","19961.00","1747.00"]},
+{"id":"2","cell":["2","2018","San Francisco","JASMIN CRUZ","SIPION","PAT CARE AST","78831.00","60287.00","11370.00","7174.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","CLAUDIA","MELARA","MGT SVC OFCR 2","78830.00","75830.00","0.00","3000.00"]},
+{"id":"4","cell":["4","2018","San Diego","MYESHA MACHELLE","AMOS","PAT ACCESS SVC SUPV 1","78830.00","70754.00","7051.00","1025.00"]},
+{"id":"5","cell":["5","2018","Berkeley","NOMINIQUE","CHICO","FINANCIAL SVC ANL 4","78829.00","78329.00","0.00","500.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JADE","STENZEL","CLIN NURSE 2","78828.00","67462.00","2431.00","8935.00"]},
+{"id":"7","cell":["7","2018","San Diego","KAREN ADORA","THIESSEN","CLIN SOCIAL WORKER 2","78828.00","78828.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","KIMBERLY L","ONG","CHILD LIFE SPEC 2 EX","78826.00","77926.00","0.00","900.00"]},
+{"id":"9","cell":["9","2018","Davis","ROBBIE LYN M","TESNADO","ADMIN SUPV 1","78826.00","66297.00","11940.00","589.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ALEXANDER","MATTHES","CLIN NURSE 2","78822.00","72498.00","71.00","6253.00"]},
+{"id":"11","cell":["11","2018","San Francisco","RYAN P","MERKEL","PHYS PLT MECH SR","78821.00","77687.00","1029.00","105.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","JUAN","PEREZ","PRODUCER DIR SR","78821.00","65028.00","13793.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","ERIC","MALMQUIST","ADMIN ANL PRN 1","78821.00","75861.00","0.00","2960.00"]},
+{"id":"14","cell":["14","2018","Riverside","MARK","CLAIBORNE","FOOD SVC MGR 1","78821.00","78821.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Riverside","STEPHANIE","DINGWALL","LECT PSOE-AY","78820.00","78153.00","0.00","667.00"]},
+{"id":"16","cell":["16","2018","San Diego","GEORGIA ROBINS","SADLER","RECALL HCOMP","78819.00","59770.00","0.00","19049.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","NGOZI","ONYENUFORO","CLIN NURSE 2","78814.00","68967.00","560.00","9287.00"]},
+{"id":"18","cell":["18","2018","San Francisco","DEVIKA JITENDRA","PATEL","PROJECT POLICY ANL 3","78813.00","78813.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","YOLANDA V.","RIGONAN","RSCH ADM 3","78812.00","73812.00","0.00","5000.00"]},
+{"id":"20","cell":["20","2018","San Francisco","RICHARD C","SIU","DIGITAL COMM SPEC 3","78811.00","78811.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "3282",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","DAVID F","ARMER","ELECTRN","80111.00","76413.00","3698.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","MELISSA A","BROWNE","LIBRARIAN-CAREER STATUS","80107.00","80107.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Riverside","YOKO","KUDO","LIBRARIAN-CAREER STATUS","80107.00","80107.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","MARIE-CHRISTIN","STADELMANN","ADMIN ANL SR","80105.00","80105.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","ASHTON L","IVEY","ELECTRN","80105.00","77719.00","1250.00","1136.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","ELEANOR","MOON","AST TO DEAN DIR CHAIR 1","80102.00","79102.00","0.00","1000.00"]},
+{"id":"7","cell":["7","2018","San Francisco","CYNTHIA MARISELA","CALDERA","AMBUL CARE ADMSTN SUPV 2","80101.00","77165.00","0.00","2936.00"]},
+{"id":"8","cell":["8","2018","San Diego","MICHAEL","BURG","LECT-AY","80100.00","71431.00","0.00","8669.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","LINDSAY","MINTER","CLIN SOCIAL WORKER 2","80098.00","80098.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","RICHMARK","SY","BUS TCHL SUPP ANL 2","80097.00","75692.00","745.00","3660.00"]},
+{"id":"11","cell":["11","2018","San Diego","MARTINA R","COTTON","ADMIN OFCR 3","80095.00","80095.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","VYACHESLAV","PALCHEVSKIY","ASST PROJ SCIENTIST-FY","80092.00","80017.00","0.00","75.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","JACQUELINE","JOYCE","PERSONNEL ANL PRN","80091.00","76530.00","0.00","3561.00"]},
+{"id":"14","cell":["14","2018","Davis","LAURA M","PETERSON","PAT SFTY PROFL 3","80091.00","79216.00","0.00","875.00"]},
+{"id":"15","cell":["15","2018","Davis","CRYSTAL M","STONE","SYS ADM 3","80091.00","80091.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","NATALIE","SWEISS","HS ASST CLIN PROF-HCOMP","80091.00","66464.00","0.00","13627.00"]},
+{"id":"17","cell":["17","2018","Davis","ALI A","BUTT","ASST PROJ SCIENTIST-FY-B/E/E","80090.00","80090.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","BRENDA M.","FRANKLIN","RSCH ADM 3","80088.00","79088.00","0.00","1000.00"]},
+{"id":"19","cell":["19","2018","San Diego","BRIAN CRENSHAW","MOORE","ELECTRN","80087.00","78834.00","0.00","1253.00"]},
+{"id":"20","cell":["20","2018","Irvine","MARIA CECILIA","ANDRADE","ADMIN ANL PRN 1","80086.00","80086.00","0.00","0.00"]}]
+}

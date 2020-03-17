@@ -1,0 +1,26 @@
+{
+"page" : "613",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","GERALD","BUCKBERG","PROF-HCOMP","190734.00","190734.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","ABIMBOLA O","OLUSANYA","NURSE PRACT 2","190734.00","173564.00","17170.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","JILL","BAMBACH","PROF-AY","190725.00","190725.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","TODD","HUGHES","DIR AST","190718.00","187718.00","0.00","3000.00"]},
+{"id":"5","cell":["5","2018","San Francisco","SOFIA GUADALUPE","VERSTRAETE","ASST PROF OF CLIN-HCOMP","190707.00","99616.00","0.00","91091.00"]},
+{"id":"6","cell":["6","2018","Irvine","MARGARET ROXANNE","FORD","DIR","190699.00","190699.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Riverside","AMIR-HAMED","MOHSENIAN-RAD","ASSOC PROF-AY-B/E/E","190697.00","120042.00","0.00","70655.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","CHRISTINE","LEE","TRANSPLANT CRD 2","190695.00","182231.00","0.00","8464.00"]},
+{"id":"9","cell":["9","2018","San Francisco","LATRINA D","HILL-GREER","CLIN NURSE 2","190686.00","157362.00","12964.00","20360.00"]},
+{"id":"10","cell":["10","2018","Davis","JACOB J","DIMA","ASC PHYSCN","190678.00","175628.00","0.00","15050.00"]},
+{"id":"11","cell":["11","2018","Davis","VEERAPARN","KANCHANANAKHIN","ASC PHYSCN","190678.00","175628.00","0.00","15050.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","MICHAEL","GANDAL","ASST PROF IN RES-HCOMP","190673.00","106731.00","0.00","83942.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","JOANNA","YEH","HS ASST CLIN PROF-HCOMP","190667.00","99610.00","0.00","91057.00"]},
+{"id":"14","cell":["14","2018","San Francisco","ALLAN B.","PASCHKE","AMBUL CARE PAT MGR 1","190665.00","180530.00","0.00","10135.00"]},
+{"id":"15","cell":["15","2018","San Francisco","JODIE","SUESS","NURSE PD","190664.00","152962.00","6657.00","31045.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","GARDY","LETANG","RESC NURSE PD","190660.00","154457.00","22442.00","13761.00"]},
+{"id":"17","cell":["17","2018","Davis","DELANDA R","BUCHANAN","FINANCIAL ANL MGR 2","190660.00","190660.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","PATRICIA","WALSHAW","HS ASST CLIN PROF-HCOMP","190655.00","126259.00","0.00","64396.00"]},
+{"id":"19","cell":["19","2018","San Francisco","GILBERTO","HAYMAN-MARTINEZ","NURSE SVC SUPV 2","190651.00","164056.00","13550.00","13045.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","ROBERT JISUNG","PARK","ASST PROF-AY","190646.00","140792.00","0.00","49854.00"]}]
+}

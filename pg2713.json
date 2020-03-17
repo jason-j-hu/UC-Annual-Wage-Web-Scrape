@@ -1,0 +1,26 @@
+{
+"page" : "2713",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","CLAUDINE M","CATLEDGE","ACAD PRG MGT OFCR 3","92724.00","92724.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","EVA","MANNING","RESC NURSE PD","92724.00","85955.00","2427.00","4342.00"]},
+{"id":"3","cell":["3","2018","Riverside","MATTHEW","CASSELMAN","LECT PSOE-AY","92722.00","78153.00","0.00","14569.00"]},
+{"id":"4","cell":["4","2018","San Francisco","NELSON V","DE GUZMAN","HOSP LAB TCHN 1","92721.00","77900.00","7983.00","6838.00"]},
+{"id":"5","cell":["5","2018","San Francisco","MARIA JOSEFA M","LANUZO","CLIN NURSE 2","92721.00","90647.00","0.00","2074.00"]},
+{"id":"6","cell":["6","2018","San Diego","VICTORIA THU","TRAN","INFO SYS ANL 3","92721.00","91521.00","0.00","1200.00"]},
+{"id":"7","cell":["7","2018","Berkeley","GREGORY","GERMAN","SYS ADM 3","92721.00","92721.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","ANN JANELLE","FULCHER","CMTY EDUC SPEC 4","92720.00","91720.00","0.00","1000.00"]},
+{"id":"9","cell":["9","2018","San Diego","CARL EMIL","DOON","CLIN NURSE 2","92719.00","89541.00","-303.00","3481.00"]},
+{"id":"10","cell":["10","2018","UCOP","LINZIE","STARR","TCHL PROJECT MGT PROFL 4","92712.00","91315.00","0.00","1397.00"]},
+{"id":"11","cell":["11","2018","Irvine","NANCY P","BISCOCHO","CLIN NURSE 2","92708.00","85018.00","2163.00","5527.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","THOMAS","FRITZSCHE","RESP THER 1","92708.00","89416.00","1935.00","1357.00"]},
+{"id":"13","cell":["13","2018","San Francisco","STEPHANIE PHEN M","UNG","AMBUL CARE ADMSTN MGR 1","92707.00","88200.00","0.00","4507.00"]},
+{"id":"14","cell":["14","2018","San Francisco","CECILIA A","SANDOVAL","CLIN REGIS SUPV 1","92706.00","92706.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Irvine","RAYLE DARAG","GUIANG","CLIN NURSE 2","92706.00","85637.00","3916.00","3153.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","BECKY","FOGLESONG","CLIN NURSE 2","92706.00","81405.00","603.00","10698.00"]},
+{"id":"17","cell":["17","2018","Berkeley","JOHN","HOWARTH","RECALL NON-FACULTY ACAD","92706.00","84959.00","0.00","7747.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","LINDA","HWANG","OPTOMETRIST EX","92705.00","92705.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","FRANCO DOMINIC","CALMA","REG RESP THER 1","92704.00","86154.00","4112.00","2438.00"]},
+{"id":"20","cell":["20","2018","Davis","DANIEL","STOWERS","CLIN NURSE 2","92703.00","81768.00","1757.00","9178.00"]}]
+}

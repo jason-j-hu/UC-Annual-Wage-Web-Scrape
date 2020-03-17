@@ -1,0 +1,26 @@
+{
+"page" : "4725",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","MEGAN D","MOORHEAD","HOSP UNIT SVC CRD 3","60034.00","51390.00","5047.00","3597.00"]},
+{"id":"2","cell":["2","2018","San Francisco","GARRET S","JANG","FINANCIAL ANL 3","60033.00","60033.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","ANA","GONZALEZ REYES","VOC NURSE SR","60033.00","54667.00","4429.00","937.00"]},
+{"id":"4","cell":["4","2018","San Diego","ROSALYNN CRYSTAL","AYALA","ADMIN SPEC","60032.00","52533.00","0.00","7499.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","CATALINA","ONTIVEROS","HOSP BLANK AST 3","60031.00","55673.00","2064.00","2294.00"]},
+{"id":"6","cell":["6","2018","San Diego","JESSE JOEY DEJES","MARTEL","RSCH ADM 2","60031.00","59531.00","0.00","500.00"]},
+{"id":"7","cell":["7","2018","San Francisco","WILFREDO","BALCE","SCRTY GUARD","60030.00","49115.00","7182.00","3733.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","EMIKO","SALDIVAR TANAKA","ASSOC PROJ SCIENTIST-FY","60030.00","59500.00","0.00","530.00"]},
+{"id":"9","cell":["9","2018","San Francisco","JIANZHAO","GONG","HOSP BLANK AST 3","60029.00","54350.00","1866.00","3813.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","CARY","FREENY","BLANK AST 3","60029.00","57229.00","0.00","2800.00"]},
+{"id":"11","cell":["11","2018","San Francisco","ERIC","ANDERSON","STOREKEEPER SR","60028.00","57595.00","444.00","1989.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ROSE","DE LA PENA","BLANK AST 2","60028.00","58893.00","635.00","500.00"]},
+{"id":"13","cell":["13","2018","Davis","PATRICIA A","WINSLOW","MED OFC SVC CRD 3","60028.00","59690.00","338.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","MARICELA","SANTACRUZ","FINANCIAL AID OFCR 3","60028.00","56528.00","0.00","3500.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","THEODORE BRADFOR","KISSELL","ADMIN ANL PRN 1","60027.00","57670.00","0.00","2357.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","CARRIE","BRUCKNER","BLANK AST 3","60027.00","55101.00","4926.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","SARA","NGUYEN","MED AST 2","60026.00","59810.00","216.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","APRIL","HAMILTON","BLANK AST 3","60025.00","58928.00","597.00","500.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","MELISSA","MUTOW","ADMIN SPEC","60024.00","59024.00","0.00","1000.00"]},
+{"id":"20","cell":["20","2018","San Francisco","ROSE A","DURAN","TELEMETRY TCHN","60022.00","49852.00","3998.00","6172.00"]}]
+}

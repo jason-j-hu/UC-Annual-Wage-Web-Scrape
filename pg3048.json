@@ -1,0 +1,26 @@
+{
+"page" : "3048",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","KRISTINA MARIE","HORBACK","ASST PROF-AY","84928.00","84928.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","NYLA NGUYET","BABBITT","CLIN NURSE 2","84928.00","76139.00","3357.00","5432.00"]},
+{"id":"3","cell":["3","2018","Santa Cruz","JOSEPH E","WEISS","THEATER PROD SPEC 4","84926.00","84926.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","R.KEVIN","DURKIN","PUBLICATIONS PROD SPEC 4","84926.00","84926.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","NICHOL M","FERNANDEZ","RSCH ADM 3","84925.00","84925.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","LAURA J","VIDA","AMBUL CARE ADMSTN SUPV 2","84925.00","81643.00","0.00","3282.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","STEVEN","STEINBERG","LECT-AY-CONTINUING","84922.00","76922.00","0.00","8000.00"]},
+{"id":"8","cell":["8","2018","Berkeley","SARAH","BUSHMAN","DIGITAL COMM SPEC 3","84921.00","84921.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","DOUGLAS PAUL","LAWRENCE","ELECTR TCHN PRN","84920.00","82514.00","2382.00","24.00"]},
+{"id":"10","cell":["10","2018","Irvine","LUIS A","HERNANDEZ","ELECTR TCHN SR","84920.00","70285.00","3085.00","11550.00"]},
+{"id":"11","cell":["11","2018","San Francisco","*****","*****","HS CLIN INSTR-HCOMP","84918.00","62153.00","0.00","22765.00"]},
+{"id":"12","cell":["12","2018","Irvine","YANJUN","CHEN","STATISTICIAN PRN","84918.00","84918.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","ANDREA","KIM","ASC PHYSCN DIPLOMATE","84917.00","58542.00","0.00","26375.00"]},
+{"id":"14","cell":["14","2018","San Francisco","TORIE BETH","HAWKES","BLANK AST 3","84916.00","70203.00","13693.00","1020.00"]},
+{"id":"15","cell":["15","2018","San Francisco","CHAU THAI","HIYAGON","RADLG TCHNO PRN","84915.00","84039.00","0.00","876.00"]},
+{"id":"16","cell":["16","2018","Davis","JOSHUA P","NELSON","REFRIGERATION MECH","84913.00","73874.00","4487.00","6552.00"]},
+{"id":"17","cell":["17","2018","Irvine","SHRUTI NISHIDBHA","PATEL","CLIN NURSE 2","84910.00","79254.00","4103.00","1553.00"]},
+{"id":"18","cell":["18","2018","Davis","CHRISTOPHER P","JONES","TCHL PROJECT MGT PROFL 3","84908.00","84908.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","YUMIKO","KAWANISHI","LECT-AY-CONTINUING","84907.00","84907.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Riverside","JINGSONG","CHEN","LECT-AY-CONTINUING","84907.00","84907.00","0.00","0.00"]}]
+}

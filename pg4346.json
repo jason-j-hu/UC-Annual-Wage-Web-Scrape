@@ -1,0 +1,26 @@
+{
+"page" : "4346",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","HSIN-YUAN","HUANG","ASST PROJ SCIENTIST-FY","64092.00","64092.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Berkeley","BENJAMIN","WESTBROOK","ASST PROJ SCIENTIST-FY","64092.00","64092.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","ANTHONY","CADENAS","STDT ACAD ADVISOR 2","64090.00","58580.00","5510.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","MELISSA","COLLINS","RSCH DATA ANL 2","64089.00","63589.00","0.00","500.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","DIANA","HERNANDEZ","ADMIN ANL SR","64089.00","64089.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","FAUSTO","LOPEZ","EVENTS SPEC 3","64089.00","62589.00","0.00","1500.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","JOSE","GONZALEZ","STORES SUPV SR","64088.00","64088.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","FRANCIS M","VENTURA JUAREZ","MED CTR CUSTODIAN SR","64087.00","54088.00","6282.00","3717.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","JESSICA","FIGUEROA","CLIN NURSE 1","64087.00","60308.00","3298.00","481.00"]},
+{"id":"10","cell":["10","2018","Davis","REMIA L","GARCIA-ANIT","FINANCIAL ANL 3","64087.00","62212.00","0.00","1875.00"]},
+{"id":"11","cell":["11","2018","San Diego","MARK A.","AZHOCAR","FOOD SVC SUPV 1","64087.00","64087.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","CLEAVON","MCLENDON","MED CTR SCRTY OFCR SR SUPV","64086.00","50924.00","9076.00","4086.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","LAURA","SENCION-MENDOZA","STDT AFFAIRS OFCR 3 EX","64086.00","62586.00","0.00","1500.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","LINDA","KERNS","ADJ PROF-AY","64085.00","64085.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","ANDREW","BUCK","CLIN RSCH CRD","64085.00","62777.00","1308.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","JULIA","GRISWOLD","ASST PROJ SCIENTIST-FY-B/E/E","64085.00","64085.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","ANN E","WALTERS","STDT AFFAIRS OFCR 3 EX","64083.00","45453.00","0.00","18630.00"]},
+{"id":"18","cell":["18","2018","Berkeley","ASHLEY","BACA","FINANCIAL SVC ANL 3","64083.00","63045.00","0.00","1038.00"]},
+{"id":"19","cell":["19","2018","Berkeley","RON","BERENSTEIN","POSTDOC-EMPLOYEE","64082.00","64082.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","LENI ANN E","ASCALON","HOSP UNIT SVC CRD 3","64082.00","63039.00","23.00","1020.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "5346",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","JESSE","BEASON","BLANK AST 3","54154.00","54154.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","LOIDA","CHAN","BLANK AST 3","54154.00","54154.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","RUTH","SOLIS","BLANK AST 3","54154.00","54154.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Riverside","DIANA","PATHEAL","BLANK AST 3","54154.00","54154.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Riverside","TERI","CARTER","BLANK AST 3","54154.00","54154.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Riverside","JUDY","HODGE","BLANK AST 3","54154.00","54154.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","SHELLI J","NEWMAN","AUDIOLOGIST EX","54153.00","53754.00","0.00","399.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","JOHN","CLUFF","NURSERY TCHN SR","54153.00","52851.00","1302.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","MARLENE J","SAWERS","BLANK AST 3","54153.00","53070.00","83.00","1000.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","DANIEL","WESTBROOK","MGT SVC OFCR 1 SUPV","54152.00","54152.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","ROSA","GARCIA","BLANK AST 2","54152.00","52599.00","1168.00","385.00"]},
+{"id":"12","cell":["12","2018","Irvine","LENA SOO HYUN","CHON","PHYS THER 1 PD","54151.00","53518.00","633.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","JOEL","LOEZA","ASSOC SPECIALIST","54151.00","54151.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","SHAWNA P","MACIAS","COLL REPR","54150.00","51428.00","2722.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","ROBERT","CHUNG","LECT-AY-1/10","54149.00","54149.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","KELLY ANNE","MORRIS","NURSE PD","54148.00","46943.00","1238.00","5967.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","ROSS","SHIDELER","RECALL FACULTY","54148.00","0.00","0.00","54148.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","SAMANTHA","ANDREWS","RESC NURSE PD","54147.00","53443.00","164.00","540.00"]},
+{"id":"19","cell":["19","2018","Davis","ILANA S","SIGAL","PROJECT POLICY ANL 3","54147.00","53272.00","0.00","875.00"]},
+{"id":"20","cell":["20","2018","Berkeley","EVELIN","PORTILLO","HOSP BLANK AST 2","54147.00","54087.00","60.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "429",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","JAN D","HIRSCH-REID","PROF OF CLIN-HCOMP","221617.00","158091.00","0.00","63526.00"]},
+{"id":"2","cell":["2","2018","San Francisco","HENRY H.","HSIA","HS CLIN PROF-HCOMP","221614.00","103366.00","0.00","118248.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","SHANNON","SPEED","DIRECTOR","221581.00","175025.00","0.00","46556.00"]},
+{"id":"4","cell":["4","2018","San Francisco","ASUNTA B","PACHECO-KENNEDY","CLIN NURSE 3","221571.00","150820.00","54507.00","16244.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","SAHAR","LASHIN","HS ASST CLIN PROF-HCOMP","221566.00","128066.00","0.00","93500.00"]},
+{"id":"6","cell":["6","2018","Irvine","GUDRUN","MAGNUSDOTTIR","PROF-AY","221541.00","165208.00","0.00","56333.00"]},
+{"id":"7","cell":["7","2018","San Diego","DANIEL L","RUDNICK","PROF-AY","221541.00","165208.00","0.00","56333.00"]},
+{"id":"8","cell":["8","2018","Irvine","ERIN HUAN","LIN","HS ASST CLIN PROF-HCOMP","221513.00","146833.00","0.00","74680.00"]},
+{"id":"9","cell":["9","2018","San Francisco","SARAH","ARRON","ASSOC PROF IN RES-HCOMP","221505.00","62903.00","0.00","158602.00"]},
+{"id":"10","cell":["10","2018","Davis","ALISON","VAN EENENNAAM","SPECIALIST COOP EXT","221470.00","204818.00","0.00","16652.00"]},
+{"id":"11","cell":["11","2018","Davis","ERIC J","PREBYS","PROF-AY","221467.00","153132.00","0.00","68335.00"]},
+{"id":"12","cell":["12","2018","Berkeley","SANDRA","SMITH","PROF-AY","221459.00","146333.00","0.00","75126.00"]},
+{"id":"13","cell":["13","2018","Davis","CHERYL E.","WALTON","IT SCRTY MGR 3","221454.00","221454.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","LAWRENCE G","CARBONE","RSCH CMPLNC MGR 2","221450.00","215000.00","0.00","6450.00"]},
+{"id":"15","cell":["15","2018","San Francisco","AUDREY LYN","JEFFERS","STF PHARMACIST 2","221446.00","164195.00","11935.00","45316.00"]},
+{"id":"16","cell":["16","2018","Davis","REBECCA L","ORLINO","ANESTHETIST NURSE SR EX","221418.00","221418.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","ETHAN A","ELLER","ANESTHETIST NURSE SR EX","221418.00","221418.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","MANG","VANG","ANESTHETIST NURSE SR EX","221418.00","221418.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","GARY","STOCK","ANESTHETIST NURSE SR EX","221418.00","221418.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","ETHAN J","EHRLICH","ANESTHETIST NURSE SR EX","221418.00","221418.00","0.00","0.00"]}]
+}

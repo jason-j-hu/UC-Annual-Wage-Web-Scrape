@@ -1,0 +1,26 @@
+{
+"page" : "4463",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","THOMAS M.","PHILIP","ASSOC PROF-AY","62758.00","60258.00","0.00","2500.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","AARON","ROSCOE","FAC MECH LD","62756.00","62672.00","84.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","MARIA","ALVAREZ","LABORER LD","62756.00","55710.00","5568.00","1478.00"]},
+{"id":"4","cell":["4","2018","Hastings College Of Law","MARGARET M","KIERNAN","CLIN. NURSE","62755.00","62453.00","302.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","KATHRYN L.","WONG","ADMIN ANL","62754.00","53477.00","8942.00","335.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","SAN","LI","ADMIN ANL","62754.00","57671.00","83.00","5000.00"]},
+{"id":"7","cell":["7","2018","Berkeley","MARILOU","SORIANO","FINANCIAL SVC ANL 2","62754.00","62754.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","BEATRICE A","MCCREA","HR GENERALIST 3","62753.00","62753.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","MARK D","JOHNSON","LECT-AY-CONTINUING","62753.00","56837.00","0.00","5916.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","LORI","BOWMAN","ADMIN SPEC","62753.00","62753.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Riverside","ELIZABETH","TISDALE","STDT ACAD ADVISOR 3","62753.00","60253.00","0.00","2500.00"]},
+{"id":"12","cell":["12","2018","Merced","ASHLEY","EAGLESON","ADMIN OFCR 2","62752.00","55879.00","6873.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","JUSTIN ALBERT","CLOW","BUS SYS ANL 2 NEX","62752.00","60753.00","1999.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","SEYEDFARID","GHAHARI","ASST PROJ SCIENTIST-FY-B/E/E","62752.00","62752.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","TERESA A","SATERFIELD","EXEC AST 3","62751.00","60494.00","500.00","1757.00"]},
+{"id":"16","cell":["16","2018","San Diego","YANG","LI","POSTDOC-EMPLOYEE","62750.00","62750.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","ANGELA","MATOSSIAN","FAC MGT SPEC 2","62750.00","62750.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ANTHONY","KEEHNE","CLIN SPEC SUPV EX","62749.00","62406.00","343.00","0.00"]},
+{"id":"19","cell":["19","2018","Riverside","JOHN","KIRCHER","FOOD SVC SUPV 2","62748.00","62748.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","MICHAEL O.","PULLI","PUBL EVENTS MGR SR","62747.00","62747.00","0.00","0.00"]}]
+}

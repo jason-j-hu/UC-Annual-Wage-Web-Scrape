@@ -1,0 +1,26 @@
+{
+"page" : "4013",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","SCOTT","FORSYTHE","HOSP LAB TCHN 3","68149.00","61664.00","4764.00","1721.00"]},
+{"id":"2","cell":["2","2018","San Francisco","SIONY","MONTERO-GATCHAL","BLANK AST 3","68148.00","66763.00","1385.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","CHANEL","SUARES","DIETITIAN 2","68148.00","68148.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","XIAO","LIU","SRA 3","68145.00","59676.00","0.00","8469.00"]},
+{"id":"5","cell":["5","2018","Riverside","ANGEL","LIZARDE","MAINT A","68145.00","68136.00","0.00","9.00"]},
+{"id":"6","cell":["6","2018","San Francisco","ANDREW A.","YU","EHS SPEC 2 NEX","68144.00","66557.00","1587.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","PHILIP M","VON ERBERICH","RSCH AND DEV ENGR 3","68143.00","68143.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Riverside","BARBARA","OUTZEN","ACAD HR ANL 2","68143.00","60645.00","5598.00","1900.00"]},
+{"id":"9","cell":["9","2018","San Francisco","GABRIEL M","SCHMUTZ","PAT CARE TCHN","68142.00","57997.00","3423.00","6722.00"]},
+{"id":"10","cell":["10","2018","San Francisco","SUSAN M","MERRELL","PHOTOGRAPHER PRN","68142.00","67142.00","0.00","1000.00"]},
+{"id":"11","cell":["11","2018","Davis","MARIA CHRISTINA","MACHADO","PHARMACY TCHN 3","68142.00","68082.00","0.00","60.00"]},
+{"id":"12","cell":["12","2018","San Diego","ILEANA CRISTINA","RUBIO","SRA 4","68140.00","66640.00","0.00","1500.00"]},
+{"id":"13","cell":["13","2018","Berkeley","SIYAN","MA","ASSOC SPECIALIST","68140.00","68140.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","ARKADIY","YASLINSKIY","EMERGENCY TRAUMA TCHN SR","68138.00","56038.00","7048.00","5052.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","KARAPET","ALTOUNIAN","COOK PRN","68137.00","58360.00","9900.00","-123.00"]},
+{"id":"16","cell":["16","2018","Davis","STACY LYNN","WILSON-RIVERA","BUS TCHL SUPP ANL 2","68137.00","68125.00","12.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","DAVID","RAGLAND","RECALL FACULTY","68137.00","68137.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","CHU","YEUNG","ADMIN ANL SR","68134.00","68134.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","JOSIE","PASTOR-MACASAET","MED CTR FOOD SVC WORKER PRN","68133.00","63511.00","3482.00","1140.00"]},
+{"id":"20","cell":["20","2018","Irvine","PATRICK A","RAFTER","ASST PROJ SCIENTIST-FY","68133.00","68133.00","0.00","0.00"]}]
+}

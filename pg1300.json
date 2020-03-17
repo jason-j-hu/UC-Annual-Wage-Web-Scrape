@@ -1,0 +1,26 @@
+{
+"page" : "1300",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","WILLIAM,III","BROWN","ASST ADJ PROF-HCOMP","139823.00","94961.00","0.00","44862.00"]},
+{"id":"2","cell":["2","2018","Riverside","ELIZABETH","ROMERO","GOVT REL MGR 3","139822.00","139822.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","MARGARET S","HUTCHISON","HS CLIN PROF-HCOMP","139811.00","122097.00","0.00","17714.00"]},
+{"id":"4","cell":["4","2018","Davis","LINDA","THAO","CLIN NURSE 2","139811.00","133677.00","1676.00","4458.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","TIMOTHY","SCHWARTZ","FUNDRAISER 4","139809.00","139809.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","CHANDRA M","TRAVIS","AMBUL CARE ADMSTN MGR 1","139805.00","134003.00","0.00","5802.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","ANGUS ROBERT","MCCLURE","INTERCOL ATH COACH AST EX","139800.00","62500.00","0.00","77300.00"]},
+{"id":"8","cell":["8","2018","Riverside","BRANDON","BROWN","ASSOC PROF-HCOMP","139792.00","120500.00","0.00","19292.00"]},
+{"id":"9","cell":["9","2018","San Diego","ANDREW SCOTT","KEHLER","PROF-AY","139792.00","139792.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","H","BALLARD","ASSOC RES-FY-B/E/E","139792.00","139792.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","QUANG TAN","NGUYEN","CLIN INFORMATICS SPEC 3","139791.00","129289.00","0.00","10502.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","NAOMI ELIZABETH","SILBER","STDT HEALTH PHYSCN 4","139788.00","139788.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","ANGELITA A","APOLINARIO","CLIN LAB SCI","139786.00","125750.00","2411.00","11625.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","KIMBERLY","ANDERSON","RESC NURSE PD","139786.00","130262.00","7948.00","1576.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","MANUELA","GONZALEZ","CLIN NURSE 2","139786.00","122622.00","3429.00","13735.00"]},
+{"id":"16","cell":["16","2018","Santa Cruz","MARIA","GONZALEZ PAGANI","SR LECT SOE-AY","139782.00","139782.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","JUAN CLAUDIO","GUTIERREZ","ASST PROF OF CLIN-SFT-VM","139781.00","139781.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","CHADWICK M","JONES","MRI TCHNO","139780.00","124572.00","10420.00","4788.00"]},
+{"id":"19","cell":["19","2018","San Diego","HEIDI ELIZABETH","WAGNER","RAD THER TCHNO SR","139780.00","138631.00","0.00","1149.00"]},
+{"id":"20","cell":["20","2018","San Francisco","INGRID W","YAN","CLIN LAB SCI SPEC SR","139778.00","138638.00","0.00","1140.00"]}]
+}

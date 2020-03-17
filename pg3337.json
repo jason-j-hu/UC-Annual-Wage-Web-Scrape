@@ -1,0 +1,26 @@
+{
+"page" : "3337",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","CHRISTINA S.","JOHNSON","WRITER EDITOR 3","79006.00","78006.00","0.00","1000.00"]},
+{"id":"2","cell":["2","2018","Davis","MICHELLE","VILLEGAS-FRAZIE","STDT SVC ADVISOR 4","79003.00","79003.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","JEAN A","SOLOMON","HOSP UNIT SVC CRD 3","79002.00","54424.00","15749.00","8829.00"]},
+{"id":"4","cell":["4","2018","Berkeley","NATHAN","DARLING","AEROSPACE ENGR 2","79000.00","77000.00","0.00","2000.00"]},
+{"id":"5","cell":["5","2018","Irvine","PATRICK STEVEN","DUTCHER","ADMIN ANL SR","78998.00","78998.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","DANIELLE E","POWERS","FINANCIAL ANL 4","78998.00","69241.00","0.00","9757.00"]},
+{"id":"7","cell":["7","2018","San Diego","MARY CATHERINE","FISHER","AMBUL CARE ADMSTN SUPV 1","78998.00","77998.00","0.00","1000.00"]},
+{"id":"8","cell":["8","2018","Irvine","DANIEL R.","HIRCHAG","PHYS PLT SUPT","78995.00","78995.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","JACQUELINE DE VI","FLANAGAN","RSCH CMPLNC ANL 2","78995.00","62509.00","14986.00","1500.00"]},
+{"id":"10","cell":["10","2018","Berkeley","GAIDI","NKRUMA","PRODUCER DIR","78995.00","75104.00","3891.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","NATHAN J","WILKINSON","SHEETMETAL MECH","78993.00","76090.00","2903.00","0.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","WILLIAM B","ATWOOD","RECALL NON-FACULTY ACAD","78989.00","60194.00","0.00","18795.00"]},
+{"id":"13","cell":["13","2018","Santa Cruz","YIYI","TANG","PROJECT POLICY ANL 4","78989.00","76989.00","0.00","2000.00"]},
+{"id":"14","cell":["14","2018","Davis","DONALD,JR.","PETTY","ELECTRN","78988.00","76972.00","168.00","1848.00"]},
+{"id":"15","cell":["15","2018","Riverside","DAVID","ONTIVEROS","INFO SYS ANL 3","78988.00","78488.00","0.00","500.00"]},
+{"id":"16","cell":["16","2018","San Diego","CANDACE","TAYLOR","CLIN NURSE 2","78988.00","77373.00","613.00","1002.00"]},
+{"id":"17","cell":["17","2018","Irvine","DIANA","RAMOS","ADMIN ANL PRN SUPV","78985.00","73558.00","0.00","5427.00"]},
+{"id":"18","cell":["18","2018","San Diego","KARA ELIZABETH","SCHNABEL","ALUMNI EXTERNAL REL SPEC 4 GF","78985.00","76985.00","0.00","2000.00"]},
+{"id":"19","cell":["19","2018","San Francisco","PATRICK BRITTEN","VENTURA","SPECIALIST","78984.00","65579.00","0.00","13405.00"]},
+{"id":"20","cell":["20","2018","San Diego","JENNIFER M.","CHANG","LECT PSOE-AY","78980.00","78980.00","0.00","0.00"]}]
+}

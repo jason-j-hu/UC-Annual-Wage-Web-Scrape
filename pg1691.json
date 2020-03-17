@@ -1,0 +1,26 @@
+{
+"page" : "1691",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","MARJORIE ANNE","VISSER","ASSOC PROF-FY","123265.00","112186.00","0.00","11079.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","LUPITA","GEER","CLIN LAB SCI","123263.00","114753.00","4172.00","4338.00"]},
+{"id":"3","cell":["3","2018","San Francisco","*****","*****","HS CLIN INSTR-HCOMP","123262.00","71381.00","0.00","51881.00"]},
+{"id":"4","cell":["4","2018","Santa Cruz","ANDREW S.","MATHEWS","ASSOC PROF-AY","123258.00","123258.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","SHERREE","MASON","CLIN NURSE 2","123257.00","105987.00","1394.00","15876.00"]},
+{"id":"6","cell":["6","2018","Davis","DIANE E","WILLIAMS","CLIN NURSE 2","123254.00","113892.00","4129.00","5233.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","CATHERINE","RUJANURUKS","MGR","123250.00","115250.00","0.00","8000.00"]},
+{"id":"8","cell":["8","2018","Davis","SANTIAGO","QUIJANO","HISTO TCHNO 3","123248.00","100050.00","18519.00","4679.00"]},
+{"id":"9","cell":["9","2018","Santa Barbara","DAVID","HUANG","INFO SYS ANL 3 GF","123246.00","123246.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","JUNG","KWON","CLIN NURSE 2","123246.00","114150.00","2585.00","6511.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","TINA","NGUYEN","MGR","123244.00","111815.00","0.00","11429.00"]},
+{"id":"12","cell":["12","2018","San Diego","VICTORIA A.","PETROVICH","PROF-AY","123242.00","123242.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Cruz","NIKOLAOS","SGOURAKIS","ASST PROF-AY","123241.00","92008.00","0.00","31233.00"]},
+{"id":"14","cell":["14","2018","Davis","CYNTHIA E","ROBERTS","ADMIN MGR 1","123237.00","123237.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","JACOB C","MILLER","BUS SYS ANL 5","123236.00","120377.00","0.00","2859.00"]},
+{"id":"16","cell":["16","2018","Davis","MATTHEW E","DULCICH","PLNG SPEC 4","123234.00","119734.00","0.00","3500.00"]},
+{"id":"17","cell":["17","2018","Davis","STEVE D","WHITNEY","CLIN APPLICATIONS SUPV 2","123234.00","121250.00","0.00","1984.00"]},
+{"id":"18","cell":["18","2018","San Diego","MICHAEL","YIP","ASST PROF-AY-B/E/E","123233.00","105020.00","0.00","18213.00"]},
+{"id":"19","cell":["19","2018","Davis","MARGARET M","DURKIN","LIBRARIAN-CAREER STATUS","123231.00","121231.00","0.00","2000.00"]},
+{"id":"20","cell":["20","2018","San Francisco","DHEMY T","PADILLA","ADMIN OFCR 4","123230.00","112838.00","0.00","10392.00"]}]
+}

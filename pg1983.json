@@ -1,0 +1,26 @@
+{
+"page" : "1983",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","WILLIAM G","SEAVEY","ASC PHYSCN DIPLOMATE","113146.00","113146.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","JACQUELINE","JONES","CLIN APPLICATIONS PROFL 3","113145.00","112270.00","0.00","875.00"]},
+{"id":"3","cell":["3","2018","San Francisco","STEPHEN","BAXTER","HS ASST CLIN PROF-HCOMP","113143.00","90872.00","0.00","22271.00"]},
+{"id":"4","cell":["4","2018","San Diego","JENNIFER C.","HORNYAK","AUDIT PROFL 4","113135.00","106335.00","0.00","6800.00"]},
+{"id":"5","cell":["5","2018","Berkeley","SHAWN","MELIKIAN","COMM MGR 1","113134.00","112634.00","0.00","500.00"]},
+{"id":"6","cell":["6","2018","Berkeley","THOMAS","TRIPP","EDUC TCHL SPEC 4","113133.00","104605.00","6028.00","2500.00"]},
+{"id":"7","cell":["7","2018","Santa Cruz","MICHAEL JAMES,JR","NEWKIRK","POLICE OFCR","113130.00","91779.00","7917.00","13434.00"]},
+{"id":"8","cell":["8","2018","Berkeley","KEITH","CHAN","INFO SYS SUPV 2","113129.00","112129.00","0.00","1000.00"]},
+{"id":"9","cell":["9","2018","San Francisco","MAUREEN","BOBERG","CLIN NURSE 3","113124.00","111606.00","0.00","1518.00"]},
+{"id":"10","cell":["10","2018","San Francisco","YEOU-RONG","JIANG","FINANCIAL ANL 4","113124.00","107542.00","0.00","5582.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MICHAEL","MARTINEZ","MRI TCHNO SR","113123.00","105382.00","4406.00","3335.00"]},
+{"id":"12","cell":["12","2018","San Diego","ROEL GALLANOSA","MIRANDA","CLIN LAB SCI SPEC","113117.00","94826.00","5556.00","12735.00"]},
+{"id":"13","cell":["13","2018","Irvine","ADAM","COLLINS","CLIN NURSE 2","113116.00","86026.00","17472.00","9618.00"]},
+{"id":"14","cell":["14","2018","Berkeley","KENT","LEAVER","APPLICATIONS PROGR 3","113116.00","112616.00","0.00","500.00"]},
+{"id":"15","cell":["15","2018","Riverside","CLIFFORD","VEASEY","APPLICATIONS PRG SUPV 2","113114.00","112614.00","0.00","500.00"]},
+{"id":"16","cell":["16","2018","UCOP","MARISA","MCAULIFFE","PROJECT POLICY ANL 5","113109.00","113109.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","JERRY","NAZARETA","HR SUPV 2","113109.00","110109.00","0.00","3000.00"]},
+{"id":"18","cell":["18","2018","San Francisco","SALLY","ADAMS","SPECIALIST","113106.00","113106.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","ALISA L","BOYD","SPECIALIST","113106.00","113106.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","CHIBO","HONG","SPECIALIST","113106.00","113106.00","0.00","0.00"]}]
+}

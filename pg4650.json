@@ -1,0 +1,26 @@
+{
+"page" : "4650",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","NOREE L.","BARBER","COLL REPR SR","60774.00","59634.00","0.00","1140.00"]},
+{"id":"2","cell":["2","2018","Davis","LAURA M","SCHWARTZ","PHARMACIST 2 PD","60774.00","60774.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","JULIE","MARVIN","CUSTODIAL SUPV 1","60773.00","60773.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","DEBORAH L.","WINGARD","RECALL HCOMP","60773.00","50652.00","0.00","10121.00"]},
+{"id":"5","cell":["5","2018","San Diego","JUNKO TOKUDA","SIMPSON","LECT-AY","60772.00","60622.00","0.00","150.00"]},
+{"id":"6","cell":["6","2018","Berkeley","KHRISTIN","GODFREY","BLANK AST 3","60772.00","60272.00","0.00","500.00"]},
+{"id":"7","cell":["7","2018","San Francisco","RAMON","PAYURAN","MED CTR FOOD SVC WORKER SR","60771.00","57500.00","2605.00","666.00"]},
+{"id":"8","cell":["8","2018","Santa Cruz","CHRISTOPHER J","HANSON","STDT SVC ADVISOR 3","60771.00","59771.00","0.00","1000.00"]},
+{"id":"9","cell":["9","2018","Irvine","ADRIANA T","AVINA","ADMIN SPEC","60770.00","60770.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","BETTYE","SCOTT","ADMIN SPEC","60770.00","57270.00","0.00","3500.00"]},
+{"id":"11","cell":["11","2018","San Diego","EDGAR","MELENDREZ","PRODUCT DEV PROFL 2","60770.00","60770.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","ROBERTO E.,JR","BANUELOS","ADMIN OFCR 2","60768.00","60768.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","LATOYIA PATRICE","GILMORE","HOSP BLANK AST 3","60768.00","59227.00","398.00","1143.00"]},
+{"id":"14","cell":["14","2018","Berkeley","BLANCA","SANCHEZ","LIBRARY SUPV 1","60768.00","60768.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","RAFAEL","REYES","CUSTODIAN","60766.00","38393.00","22373.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","GABRIEL","JUAREZ","LIBRARY AST 5","60765.00","60765.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","RITA","SIMON","ADMIN SPEC","60765.00","55016.00","3024.00","2725.00"]},
+{"id":"18","cell":["18","2018","Santa Cruz","JAIRO","NAVARRO","QA RELEASE MGT ANL 3","60765.00","60265.00","0.00","500.00"]},
+{"id":"19","cell":["19","2018","San Diego","IAN C","SWIRKA","RSCH ADM 3","60764.00","60516.00","248.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","GERMAN","GARCIA","VOC NURSE SR","60764.00","57977.00","2213.00","574.00"]}]
+}

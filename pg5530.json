@@ -1,0 +1,26 @@
+{
+"page" : "5530",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","SIDNEY L.,III","EADS","STDT SVC ADVISOR 2","52499.00","51499.00","0.00","1000.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","MAYRA","SILVA","BLANK AST 3","52498.00","52008.00","490.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","MATTEO","MORI","POSTDOC-EMPLOYEE","52498.00","52498.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","LISA DAVINA","KIRSCH","BLANK AST 3","52498.00","50632.00","854.00","1012.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","JENNIFER","OYLER YANIV","POSTDOC-EMPLOYEE","52497.00","52497.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","ALON","OYLER YANIV","POSTDOC-EMPLOYEE","52497.00","52497.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","MARIAN B","RAMOS","MED AST 1","52496.00","52187.00","309.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","FABIOLA","PADILLA","PAT BILLER 3","52495.00","51798.00","37.00","660.00"]},
+{"id":"9","cell":["9","2018","ASUCLA","BRAULIO","MORALES","CUSTODIAN SR","52495.00","42395.00","10087.00","13.00"]},
+{"id":"10","cell":["10","2018","San Diego","GEORGE ANTHONY","HALOULAKOS","TEACHER-UNEX-CONTRACT YR","52495.00","0.00","0.00","52495.00"]},
+{"id":"11","cell":["11","2018","Santa Cruz","SY ADAMS","SIMMS","STDT LIFE DEV SPEC 3","52494.00","52144.00","0.00","350.00"]},
+{"id":"12","cell":["12","2018","San Diego","JESSICA NICOLE","MOBERG","HOSP BLANK AST 3","52494.00","49388.00","1645.00","1461.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","DONG","MENG","POSTDOC-EMPLOYEE","52493.00","52493.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","52493.00","41243.00","0.00","11250.00"]},
+{"id":"15","cell":["15","2018","Irvine","ALEXIS AIMIE","KIRBY","CLIN NURSE 2","52492.00","44652.00","3503.00","4337.00"]},
+{"id":"16","cell":["16","2018","Riverside","RONNECIA","HODGES","FINANCIAL SVC ANL 2","52492.00","52362.00","130.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","REBECCA TREE","YOUNG","RSCH DATA ANL 3","52491.00","51363.00","0.00","1128.00"]},
+{"id":"18","cell":["18","2018","San Diego","NATALIE ERVIN","PRICE","BLANK AST 3","52490.00","50490.00","0.00","2000.00"]},
+{"id":"19","cell":["19","2018","San Francisco","NATSUMI","HOMMA","POSTDOC-EMPLOYEE","52488.00","52488.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","CAITLIN","MOE","RSCH DATA ANL 2","52488.00","51777.00","0.00","711.00"]}]
+}

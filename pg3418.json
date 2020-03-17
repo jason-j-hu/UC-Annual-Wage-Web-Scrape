@@ -1,0 +1,26 @@
+{
+"page" : "3418",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","PATRICIA M","VEGA","ADMIN ANL","77516.00","62848.00","11022.00","3646.00"]},
+{"id":"2","cell":["2","2018","San Diego","HOLLY C","MAK","K-12 INSTRUCTOR-AY","77516.00","75741.00","0.00","1775.00"]},
+{"id":"3","cell":["3","2018","Santa Cruz","TERRA DANIELLE","HADDAD","EHS SPEC 4","77513.00","74550.00","0.00","2963.00"]},
+{"id":"4","cell":["4","2018","San Francisco","BRENDA","GONZALEZ","AMBUL CARE ADMSTN SUPV 2","77512.00","77512.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","EDELMIRA","QUINTERO","EMPLOYMENT REPR 3","77512.00","77097.00","0.00","415.00"]},
+{"id":"6","cell":["6","2018","San Francisco","DONALD J","ESPINO","FAC SUPV 1","77511.00","59359.00","0.00","18152.00"]},
+{"id":"7","cell":["7","2018","San Francisco","MIN","LEE","BUS TCHL SUPP ANL 2","77511.00","72813.00","923.00","3775.00"]},
+{"id":"8","cell":["8","2018","Irvine","WATHANA SREY","TUNG","ACCOUNTANT 4","77511.00","77511.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","OLGA","MACGOWAN-PITMAN","REVENUE CYCLE HC ANL 2","77509.00","74662.00","282.00","2565.00"]},
+{"id":"10","cell":["10","2018","Irvine","LAURA J","BURMASTER","ADMIN ANL PRN SUPV","77509.00","77508.00","1.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","LEAH VICTORIA","TICSAY","CLIN NURSE 2","77509.00","73711.00","865.00","2933.00"]},
+{"id":"12","cell":["12","2018","San Francisco","HERBERT","SUSTAL","HOSP LAB TCHN 1","77508.00","62770.00","6594.00","8144.00"]},
+{"id":"13","cell":["13","2018","Santa Cruz","DEBRA MARIE","NEWMAN","PROCUREMENT ANL 3","77505.00","71988.00","0.00","5517.00"]},
+{"id":"14","cell":["14","2018","Berkeley","ELLEN","GOBLER","EVENTS SPEC 3","77505.00","77505.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","HIBRA W","TSEGAY","PAT CARE AST","77503.00","57130.00","15359.00","5014.00"]},
+{"id":"16","cell":["16","2018","San Francisco","KIMBERLY OI LING","YEE","ADMITTING WORKER PRN","77501.00","71527.00","4721.00","1253.00"]},
+{"id":"17","cell":["17","2018","San Francisco","SONIA","CACERES","REG DENTAL AST","77501.00","77501.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","ROY JOHN,JR.","SPRINGER","FUNDRAISER 4","77501.00","77501.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","KRISTINA M","JONES","ASC PHYSCN","77501.00","39279.00","0.00","38222.00"]},
+{"id":"20","cell":["20","2018","Berkeley","JENNIFER","SIECIENSKI","STDT LIFE DEVT SUPV 2","77501.00","77001.00","0.00","500.00"]}]
+}

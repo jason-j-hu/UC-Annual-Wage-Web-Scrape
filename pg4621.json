@@ -1,0 +1,26 @@
+{
+"page" : "4621",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","TAUSHEENA J","ANDERSON","ADMITTING WORKER SR PD","61089.00","57782.00","2085.00","1222.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","RODERIC","O\"CONNOR","PROGR ANL 3","61089.00","59011.00","0.00","2078.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","ALFONSO","MORAN","FAC MECH","61088.00","58329.00","2289.00","470.00"]},
+{"id":"4","cell":["4","2018","San Diego","MATTHEW GEEYEN","KWONG","HOSP LAB TCHN 2","61087.00","59854.00","216.00","1017.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","MARIA","GONZALEZ","BLANK AST 2","61086.00","56533.00","3788.00","765.00"]},
+{"id":"6","cell":["6","2018","San Francisco","JAMES LA MONT","CLARK","STERILE PROCESSING TCHN 3","61085.00","60355.00","520.00","210.00"]},
+{"id":"7","cell":["7","2018","San Francisco","HANAA M","HAMMOUDEH","REG RESP THER 1","61085.00","57884.00","0.00","3201.00"]},
+{"id":"8","cell":["8","2018","Davis","DENESE K.","HARLAN","STDT DISABILITY SUPV 1","61085.00","53970.00","0.00","7115.00"]},
+{"id":"9","cell":["9","2018","Riverside","PRADIP","BAG","LAB INSTRUCTION SUPV 1","61084.00","59184.00","0.00","1900.00"]},
+{"id":"10","cell":["10","2018","Davis","ALAN J","GOMEZ","PAT CARE DIALYSIS TCHN 1","61083.00","55733.00","2413.00","2937.00"]},
+{"id":"11","cell":["11","2018","Irvine","JUDITH HERMELA","MARIN","ADMITTING WORKER PRN","61083.00","53603.00","6798.00","682.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ALINA","HAAS","STDT AFFAIRS OFCR 2","61082.00","59777.00","1305.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","JENNIFER","BRAND","ALUMNI EXTERNAL REL SPEC 2","61080.00","60580.00","0.00","500.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","61079.00","54829.00","0.00","6250.00"]},
+{"id":"15","cell":["15","2018","Davis","RAGAB KHIR ABD E","GEBREIL","ASSOC PROJ SCIENTIST-FY-B/E/E","61078.00","61078.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","LISA C.","FERGUSON","LIBRARY SUPV 2","61077.00","59077.00","0.00","2000.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","PING K","LEE","ADMIN ANL SR SUPV","61075.00","46215.00","0.00","14860.00"]},
+{"id":"18","cell":["18","2018","San Francisco","LEXIS VICTORIA","GUTIERREZ","HOSP BLANK AST 3","61073.00","56960.00","515.00","3598.00"]},
+{"id":"19","cell":["19","2018","Davis","ALAIN A","JAVIER","FAC MGT SPEC 3","61073.00","60573.00","0.00","500.00"]},
+{"id":"20","cell":["20","2018","Berkeley","SARA","JIMENEZ","FAC MGT SPEC 2","61073.00","61030.00","43.00","0.00"]}]
+}

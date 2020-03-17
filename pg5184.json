@@ -1,0 +1,26 @@
+{
+"page" : "5184",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","DAVID","BURBY","FAC MGT SPEC 2","55618.00","55618.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Cruz","KATHARINE ANNE","GORDON","ADMIN OFCR 3","55617.00","54617.00","0.00","1000.00"]},
+{"id":"3","cell":["3","2018","San Francisco","LI ZHEN","JIANG","MED CTR CUSTODIAN SR","55616.00","51342.00","727.00","3547.00"]},
+{"id":"4","cell":["4","2018","Irvine","JORGE L","VILLALOBOS","EMERGENCY TRAUMA TCHN SR","55616.00","48336.00","6609.00","671.00"]},
+{"id":"5","cell":["5","2018","Berkeley","JUSTINE","SMITH","POSTDOC-EMPLOYEE","55615.00","55615.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","MARIE","SANATI","MED OFC SVC CRD 2","55615.00","52932.00","69.00","2614.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","ALFRED","MORALES","PRG REPR 2","55615.00","48648.00","6967.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","LORNA","KWOK","ADMIN OFCR 2","55614.00","55614.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","ERIN R","SYOEN","ADMIN OFCR 2","55614.00","55614.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","GWENDOLYN","NOKES","GEN ACCOUNTANT 2","55614.00","55614.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","FRIEDERIKE","KAUFEL","ACADEMIC COORD I-FY","55612.00","55507.00","0.00","105.00"]},
+{"id":"12","cell":["12","2018","San Diego","JILL HAUGEN","BATTIKHA","BLANK AST 3","55612.00","54712.00","0.00","900.00"]},
+{"id":"13","cell":["13","2018","Santa Cruz","LAURA MARIE","ANDERSON","ASSOC SPECIALIST","55611.00","55611.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","BRIANNE","TSUNEZUMI","ADMIN ANL","55610.00","52566.00","1044.00","2000.00"]},
+{"id":"15","cell":["15","2018","San Diego","DARYL RELORCAZA","FARIN","CTRL SVC TCHN 2","55610.00","47935.00","2828.00","4847.00"]},
+{"id":"16","cell":["16","2018","San Francisco","JORDAN A.","BRISCOE","SRA 3","55609.00","55609.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","FRANCISCO MIGUEL","CRUZ","PRACTICE CRD 2","55609.00","54948.00","0.00","661.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","RAMIRO","CUENCA","GROUNDSKEEPER LD","55608.00","46556.00","9052.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","BRIDGETTE L","ROBERTS","MED OFC SVC CRD 2","55608.00","55289.00","319.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","ALEJANDRO","GANABAN","PERINATAL TCHN 2","55608.00","50628.00","78.00","4902.00"]}]
+}

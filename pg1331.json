@@ -1,0 +1,26 @@
+{
+"page" : "1331",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","GREGORY T","YOUNG","SYS ADMSTN SUPV 2","138192.00","129302.00","0.00","8890.00"]},
+{"id":"2","cell":["2","2018","San Francisco","DANIELLE","INGEBRIGTSEN","CLIN LAB SUPV 2","138187.00","132098.00","0.00","6089.00"]},
+{"id":"3","cell":["3","2018","San Diego","RICHARD S","MYLIN","ADMIN MGR 1","138185.00","135685.00","0.00","2500.00"]},
+{"id":"4","cell":["4","2018","San Francisco","ATTILA","MATHE","CLIN NURSE 2","138180.00","116092.00","1777.00","20311.00"]},
+{"id":"5","cell":["5","2018","UCOP","GREGORY","SYKES","SYSWIDE ACAD HR ANL 5","138178.00","137056.00","0.00","1122.00"]},
+{"id":"6","cell":["6","2018","Berkeley","MARIA CRISTINA","MENDOZA","STDT HEALTH PHYSCN 5","138177.00","136025.00","0.00","2152.00"]},
+{"id":"7","cell":["7","2018","Davis","LARRY R","ERRECART","CLIN INFORMATICS SPEC 5","138176.00","137301.00","0.00","875.00"]},
+{"id":"8","cell":["8","2018","Berkeley","WALTER JR","HOOD","PROF-AY","138175.00","138175.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","GOPIKA K","GANESH","CLIN NURSE 2","138174.00","124744.00","5463.00","7967.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","KIMBERLY","JANSMA","SR LECT-AY-CONTINUING","138170.00","138170.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","RACHEL DIANA","MILLSTONE","LECT-AY-CONTINUING","138170.00","122970.00","0.00","15200.00"]},
+{"id":"12","cell":["12","2018","Riverside","EMMA","WILSON","PROF-HCOMP","138169.00","127042.00","0.00","11127.00"]},
+{"id":"13","cell":["13","2018","Davis","DORISELA M","HOFFMANN","CT TCHNO","138168.00","122838.00","6212.00","9118.00"]},
+{"id":"14","cell":["14","2018","San Francisco","VIJAYKUMAR","RAYANKER","DATA SYS ANL 3 GF","138163.00","132052.00","0.00","6111.00"]},
+{"id":"15","cell":["15","2018","Davis","REBECCA M","CALISI","ASST PROF-AY","138162.00","103319.00","0.00","34843.00"]},
+{"id":"16","cell":["16","2018","Berkeley","JOSEPH","SIMEONA","SKLD CRAFTS AND TRADES MGR 2","138160.00","137660.00","0.00","500.00"]},
+{"id":"17","cell":["17","2018","Riverside","ERIC","MARTIN","TCHL PROJECT SUPV 2","138159.00","135659.00","0.00","2500.00"]},
+{"id":"18","cell":["18","2018","San Francisco","NATALIE P.","ALPERT","GOVT REL SPEC 5","138151.00","133151.00","0.00","5000.00"]},
+{"id":"19","cell":["19","2018","Irvine","JOHN R.","HIPP","PROF-AY","138150.00","138150.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","LAWRENCE M","ROBERTS","IT ARCHITECT 4","138148.00","137148.00","0.00","1000.00"]}]
+}

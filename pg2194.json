@@ -1,0 +1,26 @@
+{
+"page" : "2194",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","MELINDA S","BENDER","ASST PROF-HCOMP","106500.00","95546.00","0.00","10954.00"]},
+{"id":"2","cell":["2","2018","San Diego","PAUL","PARKER","ASC PHYSCN","106500.00","63000.00","0.00","43500.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","ANAHID","NERSESSIAN","ASSOC PROF-AY","106500.00","106500.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","JENNIFER","BALMY","REG RESP THER 1","106492.00","86650.00","10979.00","8863.00"]},
+{"id":"5","cell":["5","2018","San Francisco","FEI","ZHAO","CLIN APPLICATIONS PROFL 4","106492.00","106492.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","KATIE A","HAERTLE","CLIN NURSE 3","106489.00","88193.00","7781.00","10515.00"]},
+{"id":"7","cell":["7","2018","San Francisco","DONNA MARIE AQUI","PINEDA","CLIN APPLICATIONS PROFL 4","106487.00","101403.00","0.00","5084.00"]},
+{"id":"8","cell":["8","2018","Davis","ROBIN D","GOSZ","RADLG TCHNO","106487.00","106054.00","433.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","TU ANH","DANG","PROGR ANL 4","106486.00","106486.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","ELLEN LONG","BONNEL","ACADEMIC ADMINISTRATOR V","106484.00","106484.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Riverside","ROBIN","HUNGERFORD","FOOD SVC MGR 2","106484.00","101484.00","0.00","5000.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","NINA K","TREADWELL","PROF-AY","106483.00","106483.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","CHRISTINA JIEUN","KIM","CASE MGR EX","106478.00","100580.00","0.00","5898.00"]},
+{"id":"14","cell":["14","2018","San Francisco","KORD M","KOBER","ASST PROF-HCOMP","106478.00","92529.00","0.00","13949.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","JENNA","RADOMILE","ADMIN ANL PRN 1","106476.00","92133.00","0.00","14343.00"]},
+{"id":"16","cell":["16","2018","San Diego","KEIICHIRO","ONO","BIOINFORMATICS PROGR 4","106476.00","103976.00","0.00","2500.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","PETER","PETERSON","BIOINFORMATICS PROGR 3","106475.00","106475.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","LARA","KUEPPERS","ASST PROF-AY","106475.00","106475.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","YUWEN","LIAO","CLIN NURSE 3","106471.00","100652.00","0.00","5819.00"]},
+{"id":"20","cell":["20","2018","San Francisco","PATRICIA E","CALDER","CLIN NURSE 2","106470.00","103766.00","426.00","2278.00"]}]
+}

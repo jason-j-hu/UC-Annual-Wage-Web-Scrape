@@ -1,0 +1,26 @@
+{
+"page" : "4979",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","CHRISTOPHER","MANN","CMTY HEALTH PRG SUPV","57594.00","57594.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","HANNAH S","HANKINS","DIETETIC AST","57594.00","54364.00","2761.00","469.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","RANDOLF BRETT","EVERED","APPLICATIONS PROGR 4","57594.00","50454.00","0.00","7140.00"]},
+{"id":"4","cell":["4","2018","Berkeley","MING","YI","POSTDOC-EMPLOYEE","57593.00","57593.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","MAUREEN E.","BARRIENTOS","PROJECT POLICY ANL 2","57592.00","57182.00","410.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","MATTHEW L","RAINES","PAT BILLER 3","57592.00","56310.00","1282.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","THOMAS","PERRY-HOUTS","LIBRARY AST 4","57592.00","57592.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","HAYRO","RENDON","PARKING SUPV SR","57591.00","54125.00","3466.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","ARIEL","ROSALES","PAT BILLER 3","57590.00","53305.00","2499.00","1786.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","NING","LI","ASSOC ADJ PROF-HCOMP","57588.00","57588.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","LEWIS","HILLARD","SRA 2 NEX","57588.00","57588.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","KAREN E","WALLACE","HOSP UNIT SVC CRD 3","57587.00","50771.00","3768.00","3048.00"]},
+{"id":"13","cell":["13","2018","Irvine","RUBY","WANG","STERILE PROCESSING TCHN 2","57586.00","51245.00","3349.00","2992.00"]},
+{"id":"14","cell":["14","2018","San Francisco","JANELLE TRIPLITT","ARQUIZA","ADMIN OFCR 2","57584.00","56134.00","304.00","1146.00"]},
+{"id":"15","cell":["15","2018","San Francisco","JANICE","WOO","RSCH ADM 3","57584.00","49202.00","0.00","8382.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","LORENA","AVELAR","PAT BILLER 3","57584.00","56584.00","0.00","1000.00"]},
+{"id":"17","cell":["17","2018","San Diego","CARINA","ANDRES","RSCH ADM 2","57584.00","51808.00","5276.00","500.00"]},
+{"id":"18","cell":["18","2018","San Diego","LILLY SOEN-PHWAY","CHODUR","BLANK AST 3","57583.00","55504.00","79.00","2000.00"]},
+{"id":"19","cell":["19","2018","San Francisco","SOLANGE","ARBESU-SALA","BLANK AST 3","57582.00","57582.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","BRIAC","HALBOUT","ASST PROJ SCIENTIST-FY","57582.00","52133.00","0.00","5449.00"]}]
+}

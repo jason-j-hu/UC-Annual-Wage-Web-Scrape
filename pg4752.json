@@ -1,0 +1,26 @@
+{
+"page" : "4752",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Cruz","TRENT BRONSON","SMITH","BIOINFORMATICS PROGR 3","59800.00","59800.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","FLAVIO","NUNES INACIO","BUS TCHL SUPP ANL 2","59800.00","59800.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","DENA ALEXANDRA","BUSHMAN","ACAD PRG MGT OFCR 3","59799.00","59799.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","JENNILYN","JUAREZ","HOSP LAB TCHN 2","59799.00","55370.00","1261.00","3168.00"]},
+{"id":"5","cell":["5","2018","Davis","ERIN R","MROSS","STDT SVC ADVISOR 3","59799.00","59799.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","CAROLINA","GRACIANO","PHLEBOTOMIST CERT TCHN 2","59799.00","55379.00","1300.00","3120.00"]},
+{"id":"7","cell":["7","2018","Irvine","KIMBERLY YVONNE","AGUAYO","PAT BILLER 4","59796.00","58418.00","358.00","1020.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","ARNOLD","ELEAZAR","EHS TCHN PRN","59796.00","57920.00","1876.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","JESSICA JIEUN","KIM","HR GENERALIST 2","59796.00","59296.00","0.00","500.00"]},
+{"id":"10","cell":["10","2018","San Diego","AMERICA J","MARTIN","HOSP BLANK AST 4","59796.00","58675.00","371.00","750.00"]},
+{"id":"11","cell":["11","2018","San Francisco","WILLIAM JOSEPH","BLASCHKO","ASC PHYSCN","59795.00","34247.00","0.00","25548.00"]},
+{"id":"12","cell":["12","2018","San Francisco","JOSE ANTONIO","ROSADO","STERILE PROCESSING TCHN 2","59794.00","54498.00","22.00","5274.00"]},
+{"id":"13","cell":["13","2018","Berkeley","CHELSEA","YOST","STDT SVC ADVISOR 2","59793.00","58292.00","1001.00","500.00"]},
+{"id":"14","cell":["14","2018","San Francisco","ERIN M","BRIGHTWELL","SPEECH PATHOLOGIST EX","59792.00","59792.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","MANPREET","KAUR","CLIN RSCH CRD","59791.00","56878.00","0.00","2913.00"]},
+{"id":"16","cell":["16","2018","San Francisco","MONIQUE M.","QUIAP","PAT CARE AST","59790.00","53919.00","1856.00","4015.00"]},
+{"id":"17","cell":["17","2018","Irvine","ELIZABETH","CHEN","ADMIN ANL","59789.00","59789.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","SANDRA","LOPEZ","ADMIN ANL","59789.00","59768.00","21.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","TAMMY","BATZ","ADMIN ANL","59788.00","56619.00","252.00","2917.00"]},
+{"id":"20","cell":["20","2018","Davis","MERTIANNA J.","GEORGIA","HR GENERALIST 2","59788.00","59446.00","42.00","300.00"]}]
+}

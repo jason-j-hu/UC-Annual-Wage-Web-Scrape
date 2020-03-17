@@ -1,0 +1,26 @@
+{
+"page" : "1205",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ELIZABETH","VOLKMANN","HS ASST CLIN PROF-HCOMP","144709.00","139081.00","0.00","5628.00"]},
+{"id":"2","cell":["2","2018","San Francisco","ENRIQUE A","REODICA","DENTAL HYGIENIST","144708.00","143558.00","1150.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","TANYA","KUPERSHMIDT","ADMIN NURSE 1","144708.00","131879.00","2914.00","9915.00"]},
+{"id":"4","cell":["4","2018","San Diego","CHRISTINA","LE","STF PHARMACIST 2","144707.00","120612.00","7186.00","16909.00"]},
+{"id":"5","cell":["5","2018","Berkeley","NICOLAAS","VELDHUIS","PROF-AY","144700.00","144700.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","ANNA LORRAINE","REYES","MGR","144698.00","138480.00","0.00","6218.00"]},
+{"id":"7","cell":["7","2018","Irvine","VINCENT","TORRES","ADMIN NURSE 3","144695.00","134445.00","0.00","10250.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","MICHELLE","BROOKS","MGR","144689.00","142689.00","0.00","2000.00"]},
+{"id":"9","cell":["9","2018","Davis","WESLEY DREW","FREY","RSCH AND DEV ENGR MGR 1","144684.00","144684.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","SHERI A","ZIDENBERG-CHERR","SPECIALIST COOP EXT","144678.00","107402.00","0.00","37276.00"]},
+{"id":"11","cell":["11","2018","Davis","FREDERICK C","MOHR","PROF OF CLIN-FY","144677.00","117105.00","0.00","27572.00"]},
+{"id":"12","cell":["12","2018","San Francisco","REBECCA C.","SCHERZER","ACADEMIC ADMINISTRATOR VII","144676.00","144676.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","JEFFERY A","DAHLBERG","ACADEMIC ADMINISTRATOR VII","144676.00","144676.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","EMILIANA C","PINERA","CLIN NURSE 2","144665.00","112841.00","28446.00","3378.00"]},
+{"id":"15","cell":["15","2018","Merced","JAMES","ZIMMERMAN","ASSOC VICE PROVOST","144665.00","143915.00","0.00","750.00"]},
+{"id":"16","cell":["16","2018","San Diego","JENNIFER A.","CHENAULT","CLIN NURSE 2","144662.00","127160.00","4758.00","12744.00"]},
+{"id":"17","cell":["17","2018","San Francisco","LAURA HAMILTON F","BARDE","CONTRACTS AND GRANTS MGR 1","144660.00","137009.00","0.00","7651.00"]},
+{"id":"18","cell":["18","2018","Davis","CRYSTAL L","CARTER","CASE MGR NEX","144660.00","142468.00","2192.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","TEGAN ANNE","HARVEY","CLIN NURSE 2","144658.00","135435.00","494.00","8729.00"]},
+{"id":"20","cell":["20","2018","San Francisco","CORINNE H","ROCCA","ASSOC PROF IN RES-HCOMP","144658.00","115179.00","0.00","29479.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "5066",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","PORSCHE","MCGINNIS","PRG REPR 1","56716.00","55716.00","0.00","1000.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","MARLA","GONZALEZ","ADMIN SPEC","56716.00","54716.00","0.00","2000.00"]},
+{"id":"3","cell":["3","2018","San Diego","JONATHAN ORLANDO","VEGA","PROJECT POLICY ANL 2","56716.00","55016.00","0.00","1700.00"]},
+{"id":"4","cell":["4","2018","Berkeley","MONICA","BERNAL","STDT ACAD ADVISOR 4","56714.00","55403.00","0.00","1311.00"]},
+{"id":"5","cell":["5","2018","Davis","DARRIN JAMES","OGLETREE","FAC MGT SPEC 2","56713.00","56713.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","TATYANA","RYBIKOV","ADMIN OFCR 3","56713.00","54027.00","1740.00","946.00"]},
+{"id":"7","cell":["7","2018","Davis","KALIMUTHU","KARUPPANAN","POSTDOC-EMPLOYEE","56712.00","56132.00","0.00","580.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","GARY","ASH","FAC MECH","56712.00","56712.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","SAMIRA","FAZLIC","MED AST 1","56712.00","56309.00","403.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","DEBIN","WAN","POSTDOC-EMPLOYEE","56711.00","56711.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","BRIAN","BAUMANN","LECT-AY","56711.00","56711.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","CRAIG D.","WOODS","ACADEMIC ADMINISTRATOR IV","56709.00","34639.00","0.00","22070.00"]},
+{"id":"13","cell":["13","2018","San Diego","KIMSUE A","HELLER","PHLEBOTOMIST CERT TCHN 2","56709.00","52305.00","2991.00","1413.00"]},
+{"id":"14","cell":["14","2018","San Diego","JORGE F","CHAVEZ","HOSP LAB TCHN 3","56708.00","55708.00","0.00","1000.00"]},
+{"id":"15","cell":["15","2018","Irvine","CLAUDIA FLOR","CAMPOS","STDT AFFAIRS OFCR 3 EX","56707.00","56707.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","UCOP","ASHLEY","LUM","BLANK AST 3","56707.00","56667.00","40.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","PUI KUEN","NG","PAT BILLER 3","56707.00","55957.00","0.00","750.00"]},
+{"id":"18","cell":["18","2018","Irvine","VIDYA","RANASINGHE","HOSP AST SR","56705.00","41918.00","13767.00","1020.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","EMIL","HIGHTOWER","BLANK AST 3","56704.00","55931.00","373.00","400.00"]},
+{"id":"20","cell":["20","2018","San Francisco","NUNE R.","TOPALYAN","GI ENDOSCOPY TCHN 2","56703.00","52969.00","2574.00","1160.00"]}]
+}

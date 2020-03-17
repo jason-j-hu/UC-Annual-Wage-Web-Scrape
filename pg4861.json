@@ -1,0 +1,26 @@
+{
+"page" : "4861",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","SCOTT ALAN","CALMAN","SYS ADM 2","58744.00","57766.00","0.00","978.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","XINGLAI","SHEN","POSTDOC-EMPLOYEE","58743.00","58743.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","JOHN B","MOLIN","ELECTR TCHN","58743.00","58406.00","337.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","YEAYUN CLARE","CHENG","ADMIN ANL","58742.00","58003.00","731.00","8.00"]},
+{"id":"5","cell":["5","2018","Davis","SAGUN P","KC","CLIN NURSE 2","58742.00","53951.00","1887.00","2904.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","ARMANDO","ALVARADO QUIROZ","FAC MECH","58742.00","58329.00","413.00","0.00"]},
+{"id":"7","cell":["7","2018","Santa Barbara","VICTORIA","GONZALEZ","CNSLNG PSYCHOLOGIST 2 MSP","58741.00","56497.00","0.00","2244.00"]},
+{"id":"8","cell":["8","2018","San Diego","SHERLONDA JERZON","ALLEN","REVENUE CYCLE HC ANL 3","58741.00","56954.00","0.00","1787.00"]},
+{"id":"9","cell":["9","2018","San Diego","PATRICIA CAROLI","SIQUEIROS","PAT BILL AND COLL REPR 3","58741.00","57741.00","0.00","1000.00"]},
+{"id":"10","cell":["10","2018","San Diego","KATHARINE","PECHTIMALDJIAN","ADMIN OFCR 2","58740.00","54153.00","4587.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","APARAJITA","PANDE","RSCH DATA ANL 2","58740.00","58240.00","0.00","500.00"]},
+{"id":"12","cell":["12","2018","Berkeley","ROSALINDA","NAVA","RSCH DATA ANL 2","58740.00","58240.00","0.00","500.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","NERY","CHACON HERNANDEZ","PAT RCDS ABSTRACTOR 2","58739.00","57596.00","567.00","576.00"]},
+{"id":"14","cell":["14","2018","Irvine","MARIA ELENA","ALCALA","ADMIN ANL AST","58738.00","55084.00","3654.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","JOSEFINA","BALTODANO","RECALL NON-FACULTY ACAD","58738.00","58738.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","MARTIN","WAINWRIGHT","PROF-AY-B/E/E","58738.00","40300.00","0.00","18438.00"]},
+{"id":"17","cell":["17","2018","San Diego","SANJA","COSO","SRA 4","58737.00","58737.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","HADLEY S","SAUERS-FORD","RSCH GNT PRG OFCR 3","58736.00","56379.00","9.00","2348.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","EMILY","VALLERGA","BUS SYS ANL 2 NEX","58736.00","56136.00","2600.00","0.00"]},
+{"id":"20","cell":["20","2018","Riverside","ALICA","KOFFORD","RSCH ADM 2","58736.00","57861.00","0.00","875.00"]}]
+}

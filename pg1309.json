@@ -1,0 +1,26 @@
+{
+"page" : "1309",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","AURORA IBARRA","HERNANDEZ","CLIN LAB SCI SPEC SR","139322.00","137523.00","659.00","1140.00"]},
+{"id":"2","cell":["2","2018","San Francisco","JANAKI","VENKATESAN","REVENUE CYCLE HC SUPV 2","139321.00","129566.00","0.00","9755.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","EDWARD","BLASCHKE","FAC PROJECT MGT SPEC 5","139320.00","139320.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Santa Cruz","ELIZABETH","HYDE","NURSE PRACT SHS SUPV 2","139317.00","136317.00","0.00","3000.00"]},
+{"id":"5","cell":["5","2018","San Francisco","CHRISTY A.","COLLINSON","NURSE PRACT 2","139313.00","138022.00","378.00","913.00"]},
+{"id":"6","cell":["6","2018","San Diego","DAVID M.","WARD","RECALL HCOMP","139300.00","71468.00","0.00","67832.00"]},
+{"id":"7","cell":["7","2018","Riverside","VENUGOPALA","GONEHAL","ASSOC PROF-AY","139298.00","112558.00","0.00","26740.00"]},
+{"id":"8","cell":["8","2018","San Diego","CHENG","SUN","NURSE PRACT 3","139297.00","133646.00","4251.00","1400.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","ZEBA","SHAMEEM","NURSE PRACT 2","139293.00","130619.00","3869.00","4805.00"]},
+{"id":"10","cell":["10","2018","Riverside","ZIV","RAN","PROF-AY","139292.00","139292.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","PAUL","DUGUID","ADJ PROF-AY","139292.00","139292.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","ALEXANDER L.","FORREST","ASST PROF-AY-B/E/E","139288.00","111698.00","0.00","27590.00"]},
+{"id":"13","cell":["13","2018","San Diego","DAYO F.","GORE","ASSOC PROF-AY","139286.00","114775.00","0.00","24511.00"]},
+{"id":"14","cell":["14","2018","Santa Cruz","DAVID ARTHUR","LANE","PLNG MGR 1","139282.00","136782.00","0.00","2500.00"]},
+{"id":"15","cell":["15","2018","San Francisco","ROBERT F","HINK","BIOINFORMATICS PROGR 4","139278.00","139278.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","CINDY G.","LYONS","REGISTRAR MGR 3","139278.00","138377.00","0.00","901.00"]},
+{"id":"17","cell":["17","2018","San Francisco","AVIVA N","ROLLER","LABOR REL REPR 4","139277.00","133277.00","0.00","6000.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","SCOTT","REID","ACT PROF-AY","139269.00","123600.00","0.00","15669.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","ELIEZER","GAFNI","PROF-AY-B/E/E","139253.00","139253.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","FERNANDO","MEDIANO","NURSE PRACT 2","139250.00","123267.00","7927.00","8056.00"]}]
+}

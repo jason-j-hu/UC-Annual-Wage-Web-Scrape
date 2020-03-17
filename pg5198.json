@@ -1,0 +1,26 @@
+{
+"page" : "5198",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","ONNIE","PARKER","BLANK AST 3","55504.00","55504.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","TERRIE M","BEST","BLANK AST 3","55504.00","55504.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","SONEMANY","SAYAVANH","BLANK AST 3","55504.00","55504.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","PATRICIA A","CLEMON","BLANK AST 3","55502.00","54491.00","195.00","816.00"]},
+{"id":"5","cell":["5","2018","San Francisco","ERICSON S","BALANAG","HOSP BLANK AST 3","55501.00","54664.00","837.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","KENNETH O\"DELL","JONES","MED CTR CUSTODIAN SR","55501.00","47607.00","3533.00","4361.00"]},
+{"id":"7","cell":["7","2018","Irvine","MEGAN","MOENOA","INTERCOL ATH COACH AST EX","55500.00","43000.00","0.00","12500.00"]},
+{"id":"8","cell":["8","2018","Irvine","MICHAEL JAMES","LENAHAN","COACH SPEC","55500.00","47500.00","0.00","8000.00"]},
+{"id":"9","cell":["9","2018","Irvine","PATRICK J","FLESHER","COACH SPEC","55500.00","47500.00","0.00","8000.00"]},
+{"id":"10","cell":["10","2018","San Diego","ROBERT R","FERNANDEZ","TEACHER-UNEX-CONTRACT YR","55500.00","0.00","0.00","55500.00"]},
+{"id":"11","cell":["11","2018","San Diego","ANTHONY D","TAYLOR","ADMIN SUPV 2","55500.00","55500.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ESTER","SALMERON","HOSP BLANK AST 3","55499.00","55131.00","265.00","103.00"]},
+{"id":"13","cell":["13","2018","Davis","INNA","MISIRUK","ANESTHESIA TCHN","55499.00","49518.00","2775.00","3206.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","BENJAMIN","LOGAN","STDT AFFAIRS OFCR 2","55497.00","52582.00","515.00","2400.00"]},
+{"id":"15","cell":["15","2018","Riverside","KIA","HERRON","STDT ACAD ADVISOR 3","55497.00","54897.00","0.00","600.00"]},
+{"id":"16","cell":["16","2018","San Francisco","JOCELYN URRUTIA","FAYE","STDT SVC ADVISOR 2","55496.00","54103.00","1393.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","ADAM","TADESSE","TELEVISION TCHN","55496.00","52456.00","419.00","2621.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ANGELA","MATEVOSYAN","HOSP BLANK AST 3","55496.00","55479.00","14.00","3.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","ROBERT","JAFFE","RECR SUPV SR","55496.00","50815.00","0.00","4681.00"]},
+{"id":"20","cell":["20","2018","San Francisco","JARON","RENDON","PAT CARE AST","55495.00","45589.00","2363.00","7543.00"]}]
+}

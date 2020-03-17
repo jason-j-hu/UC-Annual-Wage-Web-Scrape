@@ -1,0 +1,26 @@
+{
+"page" : "4316",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","CHRISTOPHER TREB","PADULA","EDUC TCHL SPEC 3","64413.00","60413.00","0.00","4000.00"]},
+{"id":"2","cell":["2","2018","Davis","MARY T","PFEIFFER","PAT ACCESS SVC SUPV 1","64412.00","59893.00","3029.00","1490.00"]},
+{"id":"3","cell":["3","2018","San Francisco","YOLANDA","GRIZZARD","BLANK AST 3","64411.00","62505.00","766.00","1140.00"]},
+{"id":"4","cell":["4","2018","Irvine","*****","*****","AST PHYSCN","64410.00","49113.00","0.00","15297.00"]},
+{"id":"5","cell":["5","2018","San Diego","JANE ELISABETH","COULTER","ACADEMIC COORD I-AY","64409.00","54388.00","0.00","10021.00"]},
+{"id":"6","cell":["6","2018","Irvine","GERUO","A","ASSOC PROJ SCIENTIST-FY","64408.00","64408.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","ELIZABETH L","JOHNSON","PRACTICE CRD 3","64407.00","62184.00","1080.00","1143.00"]},
+{"id":"8","cell":["8","2018","San Francisco","BRENDA L","ANDERSON","RADLG TCHNO SR","64407.00","54857.00","3408.00","6142.00"]},
+{"id":"9","cell":["9","2018","San Francisco","ELIZABETH G","LIN","EHS SPEC 1 NEX","64406.00","61017.00","2389.00","1000.00"]},
+{"id":"10","cell":["10","2018","San Diego","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","64406.00","59806.00","0.00","4600.00"]},
+{"id":"11","cell":["11","2018","Berkeley","NGUYET","TRAN","BLANK AST 3","64406.00","64406.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","ADA","CABELLO","BLANK AST 3","64406.00","64406.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","SUSAN","NELSON","BLANK AST 3","64406.00","64406.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","KATIE","NGUYEN LAKE","BLANK AST 3","64406.00","64406.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Irvine","RAUL BELENA","MASA","PHLEBOTOMIST","64405.00","54995.00","8348.00","1062.00"]},
+{"id":"16","cell":["16","2018","San Diego","MARIA LIZA","ELSON","CLIN LAB SCI SPEC","64404.00","58673.00","2957.00","2774.00"]},
+{"id":"17","cell":["17","2018","San Diego","SHANNON DONAHUE","SEEGER","PROSPECT RSCH SPEC 3","64404.00","62404.00","0.00","2000.00"]},
+{"id":"18","cell":["18","2018","San Francisco","MELISSA BETH","MAZOR","CLIN NURSE 2","64403.00","63551.00","0.00","852.00"]},
+{"id":"19","cell":["19","2018","Irvine","DIANA NAVARRO","TRONDSEN","STDT AFFAIRS OFCR 4 SUPV","64403.00","64403.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","JEFFREY","MICHAELS","HOSP LAB TCHN 3","64403.00","25233.00","1097.00","38073.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "3435",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","CONNIE G.","RODENHISER","CLIN NURSE 2","77230.00","69627.00","2508.00","5095.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ELIZABETH","SWEENEY","COMPUTING RESC MGR 1","77227.00","77227.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","ANGELICA","ZEPEDA","REG RESP THER 1","77222.00","42532.00","27125.00","7565.00"]},
+{"id":"4","cell":["4","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","77221.00","58496.00","0.00","18725.00"]},
+{"id":"5","cell":["5","2018","Santa Cruz","CHRISTOPHER KIN-","WONG","BIOINFORMATICS PROGR 3","77220.00","77220.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","JAMES B.","MURRAY","ELECTR TCHN PRN","77218.00","71240.00","0.00","5978.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","CHITRA","RAO","MGT SVC OFCR 2","77217.00","75242.00","0.00","1975.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","TAMAR","GARLAND-JACKSON","PROGR ANL 3","77216.00","76216.00","0.00","1000.00"]},
+{"id":"9","cell":["9","2018","San Diego","LESLIE A","COSTI","ACAD HR ANL 2","77214.00","74214.00","0.00","3000.00"]},
+{"id":"10","cell":["10","2018","San Diego","JENNIFER J","MORA","PLNG SPEC 3","77214.00","75059.00","0.00","2155.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","*****","*****","HS CLIN INSTR-HCOMP","77211.00","72294.00","0.00","4917.00"]},
+{"id":"12","cell":["12","2018","Berkeley","JARED","ESPINA","BUS SYS ANL 3","77210.00","77210.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","YEN LING","SHEK","ADMIN ANL PRN 1","77207.00","76207.00","0.00","1000.00"]},
+{"id":"14","cell":["14","2018","Merced","YAZIL","NAVARRO","TRAINER 4","77207.00","77207.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","JAMES P","GRIEBEL","ELECTRN","77205.00","77123.00","82.00","0.00"]},
+{"id":"16","cell":["16","2018","Merced","BRANDON","HEYMAN","LOCKSMITH 2","77205.00","70290.00","4704.00","2211.00"]},
+{"id":"17","cell":["17","2018","San Francisco","LETTIE M","MCGUIRE","ADMIN OFCR 2","77204.00","71435.00","5769.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","MATTHEW","TYLER","ADMIN ANL SR","77204.00","75404.00","0.00","1800.00"]},
+{"id":"19","cell":["19","2018","Riverside","DARRIN","FOX","MAINT B","77202.00","70866.00","6001.00","335.00"]},
+{"id":"20","cell":["20","2018","Davis","ROBERT J","HALE","VENTILATION MECH","77201.00","70299.00","4747.00","2155.00"]}]
+}

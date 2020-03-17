@@ -1,0 +1,26 @@
+{
+"page" : "2312",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","CHRISTOPHER P","CHURAS","BIOINFORMATICS PROGR 3","103254.00","101754.00","0.00","1500.00"]},
+{"id":"2","cell":["2","2018","Davis","CHRISTOPHER ANTH","OSUNA","CONST INSP 4","103252.00","103252.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","JOSEPH","PHILLIPS","INSTRUCTIONAL DESIGNER 4 GF","103250.00","98449.00","0.00","4801.00"]},
+{"id":"4","cell":["4","2018","Irvine","PATRICIA L","CANTWELL","CASE MGR EX","103246.00","102406.00","0.00","840.00"]},
+{"id":"5","cell":["5","2018","Davis","NICOLE J","SPARAPANI","ASST PROF-AY","103246.00","90299.00","0.00","12947.00"]},
+{"id":"6","cell":["6","2018","Davis","ANNA","LA TORRE VILA","ASST PROF-HCOMP","103246.00","103231.00","0.00","15.00"]},
+{"id":"7","cell":["7","2018","Davis","DAISUKE","SATO","ASST PROF IN RES-HCOMP","103246.00","103231.00","0.00","15.00"]},
+{"id":"8","cell":["8","2018","San Francisco","VERA","BAKMAN","FINANCIAL ANL 3","103245.00","103245.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","DARCELLE","KIMBLE-MANALO","CLIN NURSE 2","103243.00","91735.00","1814.00","9694.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","UYEN","KAO","PUBL ADMSTN ANL SR","103243.00","93971.00","0.00","9272.00"]},
+{"id":"11","cell":["11","2018","San Diego","CSILLA KATALIN","CSORI","DATA SYS ANL 4","103243.00","99143.00","0.00","4100.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","*****","*****","HS CLIN INSTR-HCOMP","103241.00","63783.00","0.00","39458.00"]},
+{"id":"13","cell":["13","2018","San Diego","AIYANA MTUNE","ALLEN","CLIN NURSE 2","103239.00","102489.00","0.00","750.00"]},
+{"id":"14","cell":["14","2018","San Diego","NICOLE JEAN","HAGGERTY","CLIN NURSE 2","103238.00","90221.00","2074.00","10943.00"]},
+{"id":"15","cell":["15","2018","Irvine","MOHAMMAD I.","HABIBULLAH","CLIN INFORMATICS SPEC 3","103236.00","99051.00","0.00","4185.00"]},
+{"id":"16","cell":["16","2018","San Francisco","DIANA I.","KOEPLIN","ACAD HR ANL 4","103235.00","102235.00","0.00","1000.00"]},
+{"id":"17","cell":["17","2018","San Francisco","HEATHER RUTH","CONNER","CLIN NURSE 2","103233.00","98028.00","1526.00","3679.00"]},
+{"id":"18","cell":["18","2018","San Francisco","MELISSA F","BACINA","HR GENERALIST 4","103233.00","102233.00","0.00","1000.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","MISHA","FEROLITO","RESC NURSE PD","103233.00","101378.00","798.00","1057.00"]},
+{"id":"20","cell":["20","2018","San Francisco","ROSEMARIE","RAMIREZ","ENTERPRISE RISK MGT ANL 4","103231.00","103231.00","0.00","0.00"]}]
+}

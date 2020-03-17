@@ -1,0 +1,26 @@
+{
+"page" : "3320",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","NICOLE M","KOLUPAILO","COMM SPEC 3","79372.00","70524.00","0.00","8848.00"]},
+{"id":"2","cell":["2","2018","Irvine","CHAD STEPHEN","ELIAS","APPLICATIONS PROGR 2","79370.00","69573.00","6108.00","3689.00"]},
+{"id":"3","cell":["3","2018","Davis","LESLIE C.","BANES","LECT-AY","79370.00","60926.00","0.00","18444.00"]},
+{"id":"4","cell":["4","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","79369.00","60644.00","0.00","18725.00"]},
+{"id":"5","cell":["5","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","79369.00","60644.00","0.00","18725.00"]},
+{"id":"6","cell":["6","2018","Davis","DONALYNN","OWFOOK","INSTITUTIONAL RSCH ANL 3","79369.00","79369.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","79368.00","59176.00","0.00","20192.00"]},
+{"id":"8","cell":["8","2018","San Francisco","MEAGAN","ROBINSON","ADMIN OFCR 2","79367.00","74725.00","2074.00","2568.00"]},
+{"id":"9","cell":["9","2018","San Francisco","LEAH P","MARAPAO","ADMITTING WORKER PRN","79366.00","70554.00","6514.00","2298.00"]},
+{"id":"10","cell":["10","2018","San Diego","MICHAEL LEE","THOMAS","ASST ADJ PROF-HCOMP","79366.00","61950.00","0.00","17416.00"]},
+{"id":"11","cell":["11","2018","Irvine","ANDREW","DEUR","ADMIN ANL SR","79365.00","79365.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","JOSEPH ANGELO","COX","RSCH AND DEV ENGR 3","79365.00","78765.00","0.00","600.00"]},
+{"id":"13","cell":["13","2018","San Diego","DAN","XU","APPLICATIONS PROGR 3","79365.00","77865.00","0.00","1500.00"]},
+{"id":"14","cell":["14","2018","San Francisco","CHARLES CATIGNAS","CORDERO","COLL REPR SR","79364.00","77080.00","1139.00","1145.00"]},
+{"id":"15","cell":["15","2018","Berkeley","HUI","XIE","GEN ACCOUNTANT 3","79363.00","79363.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Riverside","FRANCISCO","MENDEZ","MAINT B","79361.00","75608.00","3740.00","13.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","FANG","LI","PROJ SCIENTIST-FY","79358.00","79358.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","RESMI KARALASSER","RAVINDRAN","PROJ SCIENTIST-FY","79358.00","79358.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","SIMON S","WONG","PROJ SCIENTIST-FY","79358.00","79358.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","ANN REARDON","ELLIOTT","PROJ SCIENTIST-FY","79358.00","79358.00","0.00","0.00"]}]
+}

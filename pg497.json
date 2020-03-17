@@ -1,0 +1,26 @@
+{
+"page" : "497",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","MICHELLE","CHANG","ASSOC PROF-AY","208721.00","156117.00","0.00","52604.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","GILMORE","CHUNG","ASC PHYSCN DIPLOMATE","208720.00","208720.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","CAROLYN MENDOZA","MOFIDI","NURSE SVC SUPV 2","208718.00","167422.00","27040.00","14256.00"]},
+{"id":"4","cell":["4","2018","San Diego","DAVID","TARIN","PROF-HCOMP","208717.00","208717.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","CHRISTINA MARIE","WALTER","CLIN NURSE 3","208709.00","168746.00","17963.00","22000.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","ANTON","VAN DER VEN","PROF-AY-B/E/E","208708.00","155642.00","0.00","53066.00"]},
+{"id":"7","cell":["7","2018","Irvine","JOHN MICHAEL","MCCARTHY","PROF-AY-B/E/E","208695.00","192567.00","0.00","16128.00"]},
+{"id":"8","cell":["8","2018","Davis","SIMEON","BOYD","PROF-HCOMP","208677.00","145672.00","0.00","63005.00"]},
+{"id":"9","cell":["9","2018","San Francisco","ELISE","RILEY","PROF IN RES-HCOMP","208672.00","145670.00","0.00","63002.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ANNA","CHUNG","PROF-AY","208669.00","138344.00","0.00","70325.00"]},
+{"id":"11","cell":["11","2018","San Francisco","LISA","RHODES","NURSE SVC MGR 2","208660.00","147372.00","0.00","61288.00"]},
+{"id":"12","cell":["12","2018","Berkeley","EDMUND","CAMPION","PROF-AY","208636.00","174258.00","0.00","34378.00"]},
+{"id":"13","cell":["13","2018","UCOP","JOHN","BEVAN","COUNSEL 4","208619.00","208619.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","JOHN","GLASSON","ADV OFCR 5","208617.00","208617.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","CYNTHIA","TOY","DIR","208594.00","190604.00","0.00","17990.00"]},
+{"id":"16","cell":["16","2018","San Diego","PRASHANT","BHARADWAJ","ASSOC PROF-AY-B/E/E","208584.00","183300.00","0.00","25284.00"]},
+{"id":"17","cell":["17","2018","San Francisco","NIMALJEET KAUR","TARANGO","NURSE PRACT 3","208581.00","189275.00","18158.00","1148.00"]},
+{"id":"18","cell":["18","2018","Santa Cruz","CHRISTYAN PETER","MITCHELL","ACAD PRG MGR 2","208575.00","208575.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","IAN","HOLLOWAY","ASSOC PROF-AY","208561.00","155875.00","0.00","52686.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","DAVID","WESSELS","ADJ PROF-AY-B/E/E","208552.00","77033.00","0.00","131519.00"]}]
+}

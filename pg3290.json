@@ -1,0 +1,26 @@
+{
+"page" : "3290",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","SCOTT R.","PARISH","VISUAL COMM SPEC 4","79933.00","78933.00","0.00","1000.00"]},
+{"id":"2","cell":["2","2018","Davis","KARIN R","DEAL","SRA 4","79932.00","79932.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","STEVEN L","HEYDON","MUSEUM SCI SR","79932.00","79932.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","SUGANDHA","DANDEKAR","SRA 4","79932.00","79932.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","DONALD PAUL","PIZZO","SRA 4","79932.00","79932.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","LING","GUO","SRA 4","79932.00","79932.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","TOMMASO","BOGGIA","APPLICATIONS PROGR 2","79932.00","79819.00","113.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","CHARLIE M","AOUN","CLIN RSCH SUPV 2","79928.00","79928.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","LAKHVIR","GILL","PLUMBER","79928.00","74586.00","2653.00","2689.00"]},
+{"id":"10","cell":["10","2018","San Francisco","HEATHER HEESOOK","CHOI","CLIN LAB SCI","79927.00","76066.00","0.00","3861.00"]},
+{"id":"11","cell":["11","2018","Berkeley","MORRIS","LEVER","EHS SPEC 2 NEX","79926.00","79926.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","LINDA","RONDINELLI","ADV OFCR 3","79924.00","79924.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","HUGO","CONTRERAS","CUSTODIAN","79922.00","41549.00","38373.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","PRISCILLA","ZOLLICOFFER","ADMITTING WORKER SR","79920.00","72892.00","5464.00","1564.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","FRANCINE","MEHDIAN","CLIN NURSE 2","79920.00","76150.00","545.00","3225.00"]},
+{"id":"16","cell":["16","2018","San Francisco","ELIZABETH","GUTIERREZ","PAT BILL AND COLL SUPV 1","79918.00","75001.00","0.00","4917.00"]},
+{"id":"17","cell":["17","2018","Davis","LORIE LOUISE","CHAMPLIN","GEN ACCOUNTANT 3","79917.00","79917.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","LOLA","SMALLWOOD","COORD PUBLIC PROG VI","79917.00","79917.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","CHARLES AUSTIN","BRYANT","APPLICATIONS PROGR 3","79917.00","79917.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","RYAN E","CONES","CUSTODIAL MGR 1","79917.00","73067.00","1107.00","5743.00"]}]
+}

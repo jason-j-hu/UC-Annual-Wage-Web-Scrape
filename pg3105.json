@@ -1,0 +1,26 @@
+{
+"page" : "3105",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","GUERREN P","SOLBACH","BENEFITS ANL 3","83703.00","83703.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","JOHN THOMAS","WATSON","RECALL FACULTY","83703.00","83703.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","CINDY","MA","GI ENDOSCOPY TCHN 2","83702.00","81083.00","1123.00","1496.00"]},
+{"id":"4","cell":["4","2018","Berkeley","KELLIE","STEPHENS WATTERS","BUS SYS ANL 4","83702.00","83702.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","ANDREW","MORGAN","BUS TCHL SUPP ANL 2","83701.00","68749.00","2232.00","12720.00"]},
+{"id":"6","cell":["6","2018","Berkeley","VICTORIA","WU","GEN ACCOUNTANT 3","83699.00","83699.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","JESSICA KATHLEEN","POLKA","ADMIN OFCR 3","83698.00","72576.00","0.00","11122.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","IRENE","SHIPKOVA","ADMIN ANL PRN 1","83697.00","83697.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","GAVIN WILLIAM","BIFFAR","SYS ADM 4","83697.00","78697.00","0.00","5000.00"]},
+{"id":"10","cell":["10","2018","Berkeley","TAMI","CARDENAS","FUNDRAISING MGR 1","83696.00","83696.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","FITZ R","KING","PRIVACY AND CMPLNC HC PROFL 4","83696.00","83696.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","LAWRENCE","MA","BUS TCHL SUPP ANL 3","83695.00","82825.00","0.00","870.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","JULIUS","SMITH","ADMIN ANL SR SUPV","83694.00","83194.00","0.00","500.00"]},
+{"id":"14","cell":["14","2018","Irvine","STEPHANIE MARIE","SANTORO","STDT AFFAIRS OFCR 4","83692.00","83692.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","DAVID","NELSON","ADMIN ANL","83692.00","73403.00","2025.00","8264.00"]},
+{"id":"16","cell":["16","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","83691.00","65991.00","0.00","17700.00"]},
+{"id":"17","cell":["17","2018","Davis","MICHAEL A","DIRKS","PULMONARY TCHN 3","83690.00","82626.00","799.00","265.00"]},
+{"id":"18","cell":["18","2018","Riverside","KIMBERLY","TURNER-SHUKIS","LECT-AY-CONTINUING","83690.00","76144.00","0.00","7546.00"]},
+{"id":"19","cell":["19","2018","Irvine","WILLIAM SHELBY","ROBERTS","LECT SOE-AY","83689.00","83689.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","*****","*****","HS CLIN INSTR-HCOMP","83689.00","62302.00","0.00","21387.00"]}]
+}

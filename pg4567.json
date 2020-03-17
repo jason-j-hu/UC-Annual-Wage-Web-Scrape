@@ -1,0 +1,26 @@
+{
+"page" : "4567",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","LATONYA PATRICE","WILLIAMS","HOSP UNIT SVC CRD 3","61715.00","47499.00","9243.00","4973.00"]},
+{"id":"2","cell":["2","2018","San Francisco","SHIVNAL","REDDY","BLANK AST 3","61714.00","56008.00","4789.00","917.00"]},
+{"id":"3","cell":["3","2018","Irvine","SUZAN M.","VARGA","RECR THER 1 NEX","61714.00","61714.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","CRYSTAL","SHARP","RAD THER TCHNO PD","61714.00","61605.00","22.00","87.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","REYNA","PEREZ","ADMIN ANL","61713.00","59883.00","830.00","1000.00"]},
+{"id":"6","cell":["6","2018","Merced","MARISELA","ANGEL","ADMIN OFCR 3","61713.00","61713.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","SONIA M.","PORTILLO","PRACTICE CRD 2","61708.00","60189.00","377.00","1142.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","EVANGELINE","BALLERINI","ASST PROJ SCIENTIST-FY","61708.00","58039.00","0.00","3669.00"]},
+{"id":"9","cell":["9","2018","San Diego","MUSLI","RAMNABAJA","IRRIGATION MECH","61708.00","60126.00","1582.00","0.00"]},
+{"id":"10","cell":["10","2018","Irvine","KRISTIN MARIE","ROTELIUK","STDT AFFAIRS OFCR 3 EX","61707.00","61591.00","116.00","0.00"]},
+{"id":"11","cell":["11","2018","Santa Cruz","JIMMIE G","BROWN","SCRTY SUPV 1","61707.00","60953.00","0.00","754.00"]},
+{"id":"12","cell":["12","2018","San Diego","JULIA MAUREEN","LATIMER","RSCH ADM 3","61707.00","58507.00","0.00","3200.00"]},
+{"id":"13","cell":["13","2018","Santa Cruz","TAK KIN","CHEUNG","GEN ACCOUNTANT 4","61705.00","61705.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","JOSIE","CASTAGNOLA","ADMIN OFCR 2","61705.00","61705.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Santa Barbara","EDWARD","FIELDS","LIBRARY PROFL 4","61704.00","61704.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","HUNTER W","WILSON","BLDG MAINT WORKER SR","61703.00","60802.00","901.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","EDMOND","ALLMOND","COMM SPEC 3","61702.00","58646.00","0.00","3056.00"]},
+{"id":"18","cell":["18","2018","Irvine","*****","*****","HS CLIN INSTR-HCOMP","61702.00","60930.00","0.00","772.00"]},
+{"id":"19","cell":["19","2018","Irvine","*****","*****","HS CLIN INSTR-HCOMP","61702.00","60930.00","0.00","772.00"]},
+{"id":"20","cell":["20","2018","Irvine","*****","*****","HS CLIN INSTR-HCOMP","61702.00","60930.00","0.00","772.00"]}]
+}

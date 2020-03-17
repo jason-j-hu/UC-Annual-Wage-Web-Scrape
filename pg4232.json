@@ -1,0 +1,26 @@
+{
+"page" : "4232",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","SARAH B","DRIVER","STDT SVC ADVISOR 3","65376.00","65376.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","KARLA","PINEDA","TCHN SR","65376.00","47478.00","14849.00","3049.00"]},
+{"id":"3","cell":["3","2018","San Diego","LAUREEN M","COPFER RINEHART","CLIN SOCIAL WORKER 3","65376.00","65376.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","DAVID","MORA","STDT AFFAIRS OFCR 4 SUPV","65375.00","63545.00","0.00","1830.00"]},
+{"id":"5","cell":["5","2018","San Francisco","EILEEN","CHU","ADMIN OFCR 2","65374.00","63698.00","676.00","1000.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","CALIN","KIM","ADMIN ANL SR","65374.00","65374.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","MARGARITA","MARTINEZ","COLL REPR SR","65373.00","60879.00","2940.00","1554.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","LAUREN","BRUNIGES","ADMIN ANL PRN SUPV","65373.00","63243.00","0.00","2130.00"]},
+{"id":"9","cell":["9","2018","Davis","JANELL M","ZERTUCHE","REG RESP THER 1","65373.00","63714.00","1336.00","323.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","PHYLLIS","KIDD","ADMIN SPEC","65373.00","65373.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","RINA","LEE-CHA","BLANK AST 3","65373.00","65373.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","RONALD","ANDO","BLANK AST 3","65373.00","65373.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","KATHRYN","TE SELLE","EDITOR SR","65372.00","64872.00","0.00","500.00"]},
+{"id":"14","cell":["14","2018","San Diego","MICHELLE","DUQUETTE-HUBER","ASST PROJ SCIENTIST-FY-B/E/E","65371.00","56933.00","0.00","8438.00"]},
+{"id":"15","cell":["15","2018","San Diego","ARCADIA JACINTO","GOCO","HOSP BLANK AST 4","65371.00","64309.00","62.00","1000.00"]},
+{"id":"16","cell":["16","2018","San Francisco","REBECCA","LOUIE","BLANK AST 3","65370.00","64230.00","0.00","1140.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","ELIZABETH","SCIAKY","ACADEMIC COORD I-FY","65368.00","65368.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","BRENDA","PITCHFORD","ADMIN ANL","65368.00","65368.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","SEYEDEH","KHATAMI FIROOZA","POSTDOC-EMPLOYEE","65367.00","65367.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","JENNIFER","CAULFIELD","PRG REPR 3","65367.00","64367.00","0.00","1000.00"]}]
+}

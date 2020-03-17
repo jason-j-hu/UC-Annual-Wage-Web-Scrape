@@ -1,0 +1,26 @@
+{
+"page" : "5611",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","JESSICA L","HASKINS","CNSLNG PSYCHOLOGIST 3","51809.00","51809.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","GISELLE","JOSE","ADV OFCR 1","51808.00","50119.00","0.00","1689.00"]},
+{"id":"3","cell":["3","2018","San Francisco","PEPITO L","BASANG","SCRTY GUARD","51807.00","47058.00","4749.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","GAYLE L","BERDUZCO","BLANK AST 3","51807.00","51754.00","53.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","BREANNA","VELASCO","EMERGENCY MED TCHN SR","51807.00","41034.00","6455.00","4318.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","PHYLLIS","SIMS","ADMIN SPEC","51807.00","51807.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","JEREMY JAYHYUN","LEE","SRA 2 NEX","51807.00","46201.00","5606.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","WALTER","GOMEZ","MED CTR CUSTODIAN SR","51807.00","44653.00","3293.00","3861.00"]},
+{"id":"9","cell":["9","2018","Davis","MALIN","RAM","MED CTR FOOD SVC WORKER PRN","51806.00","49348.00","2123.00","335.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","MARIKA","WATANABE","SRA 2 NEX","51804.00","51804.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","KASHIF","AHMAD","TEACHER-UNEX","51804.00","0.00","0.00","51804.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","CECILIA","LOPEZ","BLANK AST 3","51803.00","48577.00","3874.00","-648.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","DENNIS","MONTOYA","ASSOC PROJ SCIENTIST-FY NEX","51803.00","51803.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","MEGHAN","FORDER","COMM SPEC 3","51802.00","49409.00","0.00","2393.00"]},
+{"id":"15","cell":["15","2018","Davis","STEPHANIE K","LARSON-NOVAK","VOC NURSE SR","51802.00","50744.00","405.00","653.00"]},
+{"id":"16","cell":["16","2018","San Diego","CESAR","FIGUEROA","STDT LIFE DEV SPEC 3","51801.00","51801.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","CARON","WILLIAMS","BLANK AST 3","51801.00","50985.00","316.00","500.00"]},
+{"id":"18","cell":["18","2018","San Francisco","NARONG","JINOWAT","SCRTY GUARD","51800.00","41923.00","4210.00","5667.00"]},
+{"id":"19","cell":["19","2018","San Francisco","LINGJING","CHEN","SRA 1","51800.00","51800.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Riverside","FRANCES","RAVE","BLANK AST 3","51800.00","50549.00","351.00","900.00"]}]
+}

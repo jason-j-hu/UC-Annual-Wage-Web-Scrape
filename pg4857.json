@@ -1,0 +1,26 @@
+{
+"page" : "4857",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","ZENAIDA E","MORALES","PAT CARE AST","58788.00","52862.00","3938.00","1988.00"]},
+{"id":"2","cell":["2","2018","Berkeley","RICK","DUFRENE","FAC MGT SPEC 2","58788.00","58288.00","0.00","500.00"]},
+{"id":"3","cell":["3","2018","Davis","NATHITHONG","PHAOUTHOUM","BLANK AST 2","58787.00","44351.00","14052.00","384.00"]},
+{"id":"4","cell":["4","2018","Irvine","ALFREDO SEGURA","RODRIGUEZ","AUTO EQUIP OPR PRN","58786.00","50374.00","6810.00","1602.00"]},
+{"id":"5","cell":["5","2018","San Diego","JENNIFER LENGYEL","BROWN","HOSP LAB TCHN 3","58786.00","57786.00","0.00","1000.00"]},
+{"id":"6","cell":["6","2018","San Diego","DANIEL","PUENTES","EMPLOYMENT REPR 2","58786.00","49968.00","6516.00","2302.00"]},
+{"id":"7","cell":["7","2018","Davis","ERIN C","KENT","STDT SVC ADVISOR 3","58785.00","58785.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","KAYESHUNDIA","RICKS","PAYROLL ANL 2","58785.00","58382.00","403.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","GABRIEL","PEREZ","HOSP BLANK AST 2","58784.00","46969.00","8740.00","3075.00"]},
+{"id":"10","cell":["10","2018","Berkeley","DAVID","WOLF","RSCH ADM 3","58783.00","58392.00","0.00","391.00"]},
+{"id":"11","cell":["11","2018","Davis","LEAH F","MONTEZ","BLANK AST 4","58783.00","58769.00","14.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","CECILIA","RUIZ-ORNELAS","PAT BILLER 3","58782.00","57782.00","0.00","1000.00"]},
+{"id":"13","cell":["13","2018","Berkeley","JAMES","SAMPSON","DEV TCHN 4","58781.00","58781.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","DARCA","YNIGUEZ","DEAF TRANSLATOR INTERPRETER","58780.00","58780.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","SERENA","DOES","POSTDOC-EMPLOYEE","58780.00","53200.00","0.00","5580.00"]},
+{"id":"16","cell":["16","2018","Irvine","JEANNA BAUTISTA","HIZON","ADMITTING WORKER","58779.00","43228.00","15131.00","420.00"]},
+{"id":"17","cell":["17","2018","San Francisco","LIWEN","LIU","PRACTICE CRD 3","58778.00","57659.00","219.00","900.00"]},
+{"id":"18","cell":["18","2018","San Francisco","DEISY YESENIA","RUIZ","PRACTICE CRD 3","58778.00","57638.00","0.00","1140.00"]},
+{"id":"19","cell":["19","2018","San Diego","BROOKE A","CORALDI","ARTIST SR","58777.00","58777.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","YUBANA","FELIX","HOSP BLANK AST 3","58777.00","58140.00","532.00","105.00"]}]
+}

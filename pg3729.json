@@ -1,0 +1,26 @@
+{
+"page" : "3729",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","JUDITH MIHALYI","EDMAN","SRA 3","72251.00","72251.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","ANDREW","TAFF","PAINTER","72251.00","68732.00","201.00","3318.00"]},
+{"id":"3","cell":["3","2018","San Diego","RAYMOND TANNER","WAMPLER","TRANSIT SVC SUPV 2","72251.00","69411.00","0.00","2840.00"]},
+{"id":"4","cell":["4","2018","Berkeley","KINFE","LITA","DEV TCHN 5","72251.00","72251.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","DANIEL RAYMOND","CROUT","SIGNMAKER SUPV AST","72248.00","71077.00","1171.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","KEITH PATRICK","NELSON","HOSP BLANK AST 4","72248.00","61296.00","3534.00","7418.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","MARTHA","TESFAYE","NUC MED TCHNO SR","72247.00","71906.00","341.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","LANETTE J","BINGAMAN","FAC SUPV 1","72247.00","72247.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","HAIYAN","ZHANG","HS ASST CLIN PROF-HCOMP","72247.00","25124.00","0.00","47123.00"]},
+{"id":"10","cell":["10","2018","San Francisco","RICARDO","ANDRADE PACHECO","SPECIALIST","72246.00","72246.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Santa Barbara","TARA","OWENS","FINANCIAL SVC ANL 3","72246.00","72246.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","JEAN","LIN-WONG","RSCH ADM 3","72243.00","72243.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","ROBERT","MOCHARLA","HS CLIN INSTR-HCOMP","72243.00","28225.00","0.00","44018.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","GEORGE","HERNANDEZ","MASON","72240.00","70602.00","1638.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","NICOMEDES","FLORES","CTRL SVC TCHN LD 3","72240.00","59285.00","11319.00","1636.00"]},
+{"id":"16","cell":["16","2018","San Francisco","PADRIC J","MCCAIG","PROJECT POLICY ANL 2","72237.00","72237.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","JOHN DAVID","MARLATT","CARPENTER","72236.00","70328.00","1908.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","LORREEN","MONAHAN","ADMIN ANL SR","72234.00","72234.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","GRACIELLE","SAMSON","ADMIN ANL","72234.00","71762.00","472.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","CHANDA","PHAN-HWONG","REVENUE CYCLE HC ANL 3","72232.00","71232.00","0.00","1000.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "4220",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","IVANA","CEROVECKI","ASSOC PROJ SCIENTIST-FY","65488.00","65488.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Irvine","MOJGAN","RAFIQ","FIN ANL","65486.00","56859.00","829.00","7798.00"]},
+{"id":"3","cell":["3","2018","San Diego","STEPHANIE ALISON","SCHUCK","RSCH ADM 3","65485.00","65485.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","65484.00","59234.00","0.00","6250.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","MARI","LEVASHEFF","BUS SYS ANL 2 NEX","65484.00","57779.00","7705.00","0.00"]},
+{"id":"6","cell":["6","2018","Riverside","PAUL","TALAVERA","STDT SVC ADVISOR 2","65484.00","63784.00","325.00","1375.00"]},
+{"id":"7","cell":["7","2018","San Francisco","LILIBETH D.","CHAPMAN","ADMIN OFCR 2","65482.00","65482.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","RONITA","CHAND","HOSP UNIT SVC CRD 3","65482.00","63556.00","135.00","1791.00"]},
+{"id":"9","cell":["9","2018","Berkeley","HAZEL","AMINA","K to 14 ACAD PREP SPEC 3","65482.00","65482.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","DINA ANNE","RODGERS","HEALTH PROFNS EDUC SPEC 2","65481.00","62981.00","0.00","2500.00"]},
+{"id":"11","cell":["11","2018","San Francisco","EDWIN CURTIS","SHELTON","SCRTY GUARD SR","65480.00","42579.00","19719.00","3182.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","CHRISTOPHER","HERNANDEZ","MGT SVC OFCR 2","65480.00","62568.00","0.00","2912.00"]},
+{"id":"13","cell":["13","2018","San Diego","RODNEY GUY","MCKENZIE","FOOD SVC MGR AST","65480.00","56474.00","7662.00","1344.00"]},
+{"id":"14","cell":["14","2018","San Diego","SASHI KANTH GU","KASIMSETTY","ASST PROJ SCIENTIST-FY","65479.00","60842.00","0.00","4637.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","MARJORIE","URQUIDI","PROGR ANL 2","65478.00","61088.00","3879.00","511.00"]},
+{"id":"16","cell":["16","2018","Berkeley","I-CHUNG","FANG","STDT SVC ADVISOR 3","65477.00","65356.00","0.00","121.00"]},
+{"id":"17","cell":["17","2018","San Francisco","MARIA T","MALDONADO","COLL REPR SR","65477.00","64394.00","0.00","1083.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","SHANNON","LAI","ADMIN ANL","65477.00","65477.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","LORIN","CHAK","ADMIN ANL","65476.00","59006.00","6470.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","MARIA","CHAVEZ","PUBL ADMSTN ANL PRN","65476.00","65476.00","0.00","0.00"]}]
+}

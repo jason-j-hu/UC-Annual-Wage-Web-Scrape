@@ -1,0 +1,26 @@
+{
+"page" : "4159",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","VIVIEN S.","GARCIA","PHARMACY TCHN 3","66290.00","63054.00","2225.00","1011.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","KELLY","ERLAND","PROJECT POLICY ANL 4","66289.00","66289.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","KARINA E","KLEIN","CLIN NURSE 2","66288.00","58326.00","4625.00","3337.00"]},
+{"id":"4","cell":["4","2018","Davis","ANNA","LEE","BLANK AST 3","66287.00","64760.00","1527.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","ELIZABETH C","DEVICTORIA","ADMIN OFCR 2","66286.00","65221.00","164.00","901.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","ILIAN","JIVKOV","COMPUTER NETWORK TCHNO 3","66286.00","66286.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","K KEARNEY","COGHLAN","PROJECT POLICY ANL 3","66285.00","65285.00","0.00","1000.00"]},
+{"id":"8","cell":["8","2018","San Francisco","CHARINA S","JULIAN","SRA 2 NEX","66285.00","64418.00","1867.00","0.00"]},
+{"id":"9","cell":["9","2018","Riverside","THERESA","EYRICH","MEDIA COMM SPEC 3","66285.00","66285.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Irvine","USHMA","PATEL","STDT AFFAIRS OFCR 3 EX","66284.00","66284.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","SUYLEM","CHANG","ADMIN SPEC","66284.00","62761.00","3523.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","COLLEEN J","CESSNA","ACCESS REPR PRN","66281.00","63316.00","2735.00","230.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","DUNG","NGO","SURGICAL TCHN SR","66280.00","59183.00","1062.00","6035.00"]},
+{"id":"14","cell":["14","2018","San Diego","TU ANH THI","MCCLURG","PROJECT POLICY ANL 3","66280.00","64407.00","0.00","1873.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","ANI","JERMAKYAN","ADMIN SPEC","66279.00","60161.00","1992.00","4126.00"]},
+{"id":"16","cell":["16","2018","Davis","SANDY M","BATCHELOR","HR GENERALIST 3","66279.00","62758.00","0.00","3521.00"]},
+{"id":"17","cell":["17","2018","San Francisco","MORGANN CLAIRE","REILLY","SPECIALIST","66275.00","62899.00","0.00","3376.00"]},
+{"id":"18","cell":["18","2018","Irvine","JANET SUE","SEKAS","SPEECH PATHOLOGIST NEX","66275.00","54052.00","683.00","11540.00"]},
+{"id":"19","cell":["19","2018","San Francisco","KATE GILLIAN","RADCLIFFE","RSCH DATA ANL 2","66274.00","65274.00","0.00","1000.00"]},
+{"id":"20","cell":["20","2018","Davis","VLADIMIR","MARTYNYUK","GI ENDOSCOPY TCHN 3","66273.00","58849.00","3319.00","4105.00"]}]
+}

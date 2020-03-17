@@ -1,0 +1,26 @@
+{
+"page" : "4841",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","DAVID F","DRISCOLL","LECT-AY","58945.00","58945.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","MANUELA","NUNEZ","MED AST 1","58942.00","56937.00","2005.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","DONNA","GLOVER","BLANK AST 3","58942.00","58942.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","BLANCA","BRACAMONTE","PAT BILLER 3","58941.00","54299.00","3531.00","1111.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","VICTOR","CISNEROS","STDT AFFAIRS OFCR 2","58940.00","56241.00","0.00","2699.00"]},
+{"id":"6","cell":["6","2018","San Diego","MENG","JIN","SRA 3","58940.00","58940.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","RICKEY","VICTORIANO","TCHN SR","58940.00","54553.00","4087.00","300.00"]},
+{"id":"8","cell":["8","2018","Santa Cruz","MEGAN J","GNEKOW","STDT LIFE DEV SPEC 3","58939.00","57439.00","0.00","1500.00"]},
+{"id":"9","cell":["9","2018","Riverside","YOLANDA","CARDENAS","LECT-AY","58939.00","58939.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ANGELITA","CAMACHO","MGT SVC OFCR 1","58937.00","56337.00","0.00","2600.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","JORDAN","SENKO","ADMIN ANL SR","58937.00","55366.00","298.00","3273.00"]},
+{"id":"12","cell":["12","2018","San Diego","JOHN GLENN","LASKY","STOREKEEPING SUPV 1","58937.00","57137.00","0.00","1800.00"]},
+{"id":"13","cell":["13","2018","Berkeley","YVONNE","CALDWELL","BLANK AST 3","58937.00","58437.00","0.00","500.00"]},
+{"id":"14","cell":["14","2018","San Francisco","JEREMIAH","SIMS","PAT TRANSPORT TCHN 1","58936.00","52796.00","4410.00","1730.00"]},
+{"id":"15","cell":["15","2018","UCOP","KELLY","XUE","GEN ACCOUNTANT 4","58936.00","58936.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","ANNALIZA D.","TORRES","PAT CARE AST","58934.00","56765.00","0.00","2169.00"]},
+{"id":"17","cell":["17","2018","San Francisco","RYAN J","WHITE","LIBRARY AST 4","58934.00","57662.00","272.00","1000.00"]},
+{"id":"18","cell":["18","2018","Irvine","MARGO LYNN","HILLIARD","CLIN NURSE 2","58934.00","54129.00","3545.00","1260.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","EVELYN","SANDOVAL","PROGR ANL 2","58934.00","58239.00","695.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","PRAGYA","KUSHWAHA","POSTDOC-EMPLOYEE","58933.00","58933.00","0.00","0.00"]}]
+}

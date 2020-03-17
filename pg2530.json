@@ -1,0 +1,26 @@
+{
+"page" : "2530",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","ENRIQUE","SALAZAR","ELECTRN","97335.00","87289.00","7365.00","2681.00"]},
+{"id":"2","cell":["2","2018","Berkeley","SHARON","JELINSKY","RSCH AND DEV ENGR 3","97334.00","97334.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","JESSACA E","MACHADO","HEALTH PROFNS EDUC SPEC 3","97333.00","97333.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","MACEO","MONTOYA","ASSOC PROF-AY","97333.00","97333.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","SAMUEL","DALE","MACHINIST","97332.00","88851.00","0.00","8481.00"]},
+{"id":"6","cell":["6","2018","San Francisco","CHRISTY ANN","KRILETICH","NURSE PD","97332.00","85123.00","6946.00","5263.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","ANA LUISA","PEDROZA","CLIN NURSE 2","97332.00","86194.00","2447.00","8691.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","ALISON","EARLE","PUBL ADMSTN ANL PRN","97331.00","92331.00","0.00","5000.00"]},
+{"id":"9","cell":["9","2018","Irvine","MARISSA MAYE","BASILIO","CLIN NURSE 2","97329.00","80602.00","9282.00","7445.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","BAO","HOANG","PROGR ANL 5","97329.00","97329.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","AYRTON","DAYO","CLIN LAB SCI","97327.00","92512.00","4090.00","725.00"]},
+{"id":"12","cell":["12","2018","UCOP","STEVEN","FONG","BENEFITS PRG STRAT ANL 3","97326.00","97326.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","MICHELLE","CARRIGER","ASST PROF-AY","97325.00","81325.00","0.00","16000.00"]},
+{"id":"14","cell":["14","2018","San Francisco","TANYA","KRUPSKY","PROCUREMENT ANL 4","97324.00","97324.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Santa Barbara","SIANG PENG","OH","PROF-AY","97324.00","97324.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","JOHN C.","DIAZ","APPLICATIONS PROGR 3","97323.00","95323.00","0.00","2000.00"]},
+{"id":"17","cell":["17","2018","Berkeley","SREEKALA","NAIR","BUS SYS ANL 3","97323.00","96323.00","0.00","1000.00"]},
+{"id":"18","cell":["18","2018","Berkeley","KURT","TRUE","APPLICATIONS PROGR 3","97321.00","96479.00","0.00","842.00"]},
+{"id":"19","cell":["19","2018","Berkeley","MATTHEW","VALENZUELA","INFO SYS ANL 3","97321.00","97321.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","KANCHANA","WIJESEKERA","PSYCHOLOGIST 2","97320.00","97320.00","0.00","0.00"]}]
+}

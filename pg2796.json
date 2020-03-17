@@ -1,0 +1,26 @@
+{
+"page" : "2796",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","BRIGID","CALLINAN","NTRTN AND DIETARY SUPV 1","90729.00","87715.00","0.00","3014.00"]},
+{"id":"2","cell":["2","2018","San Diego","AARON LEE","WILLIAMS","CLIN NURSE 2","90729.00","80587.00","1346.00","8796.00"]},
+{"id":"3","cell":["3","2018","Davis","TODD M","SCHROEDER","BIOMED EQUIP TCHN 1","90728.00","83524.00","7108.00","96.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","SHERI","DILLON","SPEC","90728.00","90728.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","REBECCA JEAN","GRETSCH","CLIN NURSE 2","90728.00","87748.00","1069.00","1911.00"]},
+{"id":"6","cell":["6","2018","San Francisco","ERICA","SANDER","HOSP LAB TCHN 4","90726.00","88615.00","971.00","1140.00"]},
+{"id":"7","cell":["7","2018","San Francisco","LORNA JOAN","SAROFF","FOOD SVC SUPV 1 HC","90725.00","73833.00","14564.00","2328.00"]},
+{"id":"8","cell":["8","2018","Riverside","SHERYL","HATHAWAY","USER EXPERIENCE DESIGNER 3","90725.00","77269.00","0.00","13456.00"]},
+{"id":"9","cell":["9","2018","Irvine","WILLIAM DAVID","WALLACH","CLIN NURSE 2","90723.00","70270.00","14283.00","6170.00"]},
+{"id":"10","cell":["10","2018","San Diego","GENESIS REYES","BOJORQUEZ","CLIN NURSE 2","90723.00","87082.00","803.00","2838.00"]},
+{"id":"11","cell":["11","2018","Davis","VERONICA","THRON","EHS SPEC 3","90720.00","90720.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","GREG B","MAZUR","TCHL PROJECT MGT PROFL 3","90719.00","89844.00","0.00","875.00"]},
+{"id":"13","cell":["13","2018","San Francisco","EILEEN BRIGGS","BRINKER","ADM CRD OFCR","90714.00","86644.00","0.00","4070.00"]},
+{"id":"14","cell":["14","2018","Irvine","KATHLEEN MARIE","HOFF","CLIN NURSE 3","90714.00","63760.00","7495.00","19459.00"]},
+{"id":"15","cell":["15","2018","Irvine","FAYE G","SHORES","ACCOUNTANT PRN","90714.00","90714.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","GEORGE","CHRISTIAN","PAINTER","90712.00","88412.00","0.00","2300.00"]},
+{"id":"17","cell":["17","2018","Davis","IGOR V","VOROBYOV","ASST PROF-HCOMP","90712.00","90698.00","0.00","14.00"]},
+{"id":"18","cell":["18","2018","Davis","CARA M","SANDHOLDT","ASST ADJ PROF-HCOMP","90712.00","90698.00","0.00","14.00"]},
+{"id":"19","cell":["19","2018","Berkeley","ANTHONY","LOPEZ","PAINTER","90712.00","88412.00","0.00","2300.00"]},
+{"id":"20","cell":["20","2018","Berkeley","MICHAEL","WONG","PAINTER","90712.00","88412.00","0.00","2300.00"]}]
+}

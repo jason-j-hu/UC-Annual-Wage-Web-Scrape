@@ -1,0 +1,26 @@
+{
+"page" : "1989",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","BRUCE G.","BERG","ASSOC PROF-AY","112921.00","104208.00","0.00","8713.00"]},
+{"id":"2","cell":["2","2018","San Diego","ELIUD,JR","ESCOBEDO","ORGANIZATIONAL CNSLT 4","112920.00","109420.00","0.00","3500.00"]},
+{"id":"3","cell":["3","2018","Davis","ALLA V","CHAKHOVSKAIA","CLIN APPLICATIONS PROFL 3","112919.00","111362.00","0.00","1557.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","SAMVEL","SAARIAN","PROGR ANL 3","112919.00","112919.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","JUSTIN","TEA","PROGR ANL 4","112917.00","112917.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","DOROTHY MAE DE L","VALDEZ","CLIN NURSE 2","112917.00","98696.00","3938.00","10283.00"]},
+{"id":"7","cell":["7","2018","San Francisco","YUAN FANG","GU","PAT CARE AST","112915.00","61009.00","41147.00","10759.00"]},
+{"id":"8","cell":["8","2018","Irvine","DANIEL VICTOR","BONNER","CLIN NURSE 2","112915.00","94575.00","9351.00","8989.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","ANTHONY","SMITHSON","SRA 5","112914.00","110196.00","0.00","2718.00"]},
+{"id":"10","cell":["10","2018","Davis","JENNIFER M","MONGOVEN","ADMIN SUPV 2","112914.00","112039.00","0.00","875.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","KARLA","GIBBS","ADMIN ANL PRN 1","112914.00","108411.00","0.00","4503.00"]},
+{"id":"12","cell":["12","2018","Davis","DALJEET K","KELLEY","CLIN LAB SCI SUPV NEX","112908.00","68294.00","4010.00","40604.00"]},
+{"id":"13","cell":["13","2018","Davis","LAUREN JESSICA","PERITZ","ASST PROF-AY","112907.00","101459.00","0.00","11448.00"]},
+{"id":"14","cell":["14","2018","San Diego","SCHERRIE D","MCQUEEN","AMBUL CARE ADMSTN SUPV 2","112907.00","112157.00","0.00","750.00"]},
+{"id":"15","cell":["15","2018","San Francisco","MICHAEL A","MACK","CLIN IMG IT SPEC 2","112906.00","93754.00","0.00","19152.00"]},
+{"id":"16","cell":["16","2018","San Francisco","JACKIE","JAY-FARMER","RSCH ADM 4","112903.00","112903.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","EMILY J","MURDOCK","CASE MGR NEX","112900.00","106239.00","331.00","6330.00"]},
+{"id":"18","cell":["18","2018","San Diego","CHRISTINE BILTZ","HODGDON","EMPLOYEE HEALTH SVC RN SUPV 2","112899.00","111898.00","0.00","1001.00"]},
+{"id":"19","cell":["19","2018","San Diego","CASEY JAMES","GAGE","CLIN APPLICATIONS PROFL 3","112898.00","111898.00","0.00","1000.00"]},
+{"id":"20","cell":["20","2018","UCOP","EMILY","WEAVER","INFO SYS ANL 4","112892.00","112392.00","0.00","500.00"]}]
+}

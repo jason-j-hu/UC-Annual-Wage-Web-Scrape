@@ -1,0 +1,26 @@
+{
+"page" : "526",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","VIVEK","SWARNAKAR","CLIN APPLICATIONS MGR 2","203219.00","189081.00","0.00","14138.00"]},
+{"id":"2","cell":["2","2018","San Francisco","MICHAEL W.","LOMETTI","HOSP RAD PHYSICIST EX","203216.00","202076.00","0.00","1140.00"]},
+{"id":"3","cell":["3","2018","Davis","INGRID B","PARSONS","INFO SYS MGR 1","203211.00","181615.00","0.00","21596.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","ANET","AVANESSIAN","DIR","203209.00","203209.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","MARY","PILKINGTON","DIR","203198.00","182117.00","0.00","21081.00"]},
+{"id":"6","cell":["6","2018","San Francisco","SYLVER DIONNE","LANE","CLIN NURSE 2","203176.00","149490.00","20797.00","32889.00"]},
+{"id":"7","cell":["7","2018","San Diego","BENNETTA W.","JULES-ROSETTE","PROF-AY","203167.00","193167.00","0.00","10000.00"]},
+{"id":"8","cell":["8","2018","Davis","DAVID T","EGI","PHARMACY SUPV 2","203163.00","202563.00","0.00","600.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","SUDHAKAR","PAMARTI","PROF-AY-B/E/E","203154.00","150667.00","0.00","52487.00"]},
+{"id":"10","cell":["10","2018","Davis","JON-PAUL J","HUNT","DOSIMETRIST SR","203149.00","198974.00","4175.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","CAMERON D","ASHBAUGH","HS CLIN PROF-HCOMP","203147.00","124805.00","0.00","78342.00"]},
+{"id":"12","cell":["12","2018","San Francisco","PEI","CHEN","HS ASST CLIN PROF-HCOMP","203142.00","101441.00","0.00","101701.00"]},
+{"id":"13","cell":["13","2018","Berkeley","NICHOLAS","DIRKS","PROF-AY","203139.00","156651.00","0.00","46488.00"]},
+{"id":"14","cell":["14","2018","Merced","MARK","ALDENDERFER","PROF-AY","203133.00","203133.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","MARK E","GRISMER","AGRON AES-B/E/E","203126.00","203126.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","DEANN H","HAYES","NURSE SVC MGR 2","203125.00","177805.00","0.00","25320.00"]},
+{"id":"17","cell":["17","2018","Irvine","HENRY HENSU","TSAI","STDT HEALTH PHYSCN 4","203124.00","201787.00","0.00","1337.00"]},
+{"id":"18","cell":["18","2018","Davis","DAVID L","STILES","FIRE CAPTAIN 56 HRS","203123.00","124100.00","78635.00","388.00"]},
+{"id":"19","cell":["19","2018","Berkeley","ELAD","ALON","PROF-AY-B/E/E","203104.00","146075.00","0.00","57029.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","CHRISTIAN","FRONSDAL","PROF-AY","203100.00","203100.00","0.00","0.00"]}]
+}

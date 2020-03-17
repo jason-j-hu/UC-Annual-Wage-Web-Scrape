@@ -1,0 +1,26 @@
+{
+"page" : "5515",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","DANIEL","CHAVEZ","HOSP BLANK AST 3","52640.00","51482.00","132.00","1026.00"]},
+{"id":"2","cell":["2","2018","San Diego","MARTHA LORENA","RENDON","FOOD SVC SUPV 1","52640.00","51640.00","0.00","1000.00"]},
+{"id":"3","cell":["3","2018","Davis","STEPHANIE","HERMAN","FIELD RESEARCHER 2","52639.00","48648.00","3431.00","560.00"]},
+{"id":"4","cell":["4","2018","Riverside","MARILYN","MADRIGAL","FINANCIAL ANL 2","52639.00","52639.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","GOLI","MALEK","ADMIN ANL SR","52638.00","32712.00","0.00","19926.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","AUSTYN","NEALER","ATH TRAINER","52638.00","51638.00","0.00","1000.00"]},
+{"id":"7","cell":["7","2018","Berkeley","LULU","HE","BLANK AST 3","52637.00","52637.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","SAMUEL","CHIANG","BLANK AST 3","52637.00","52637.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","LEE ANN F","RAY","BLANK AST 3","52637.00","52637.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","JEANETTE","ALVAREZ","ADMIN ANL","52637.00","52637.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MANUEL","MARTINEZ","AUTO EQUIP OPR SR","52637.00","47947.00","4662.00","28.00"]},
+{"id":"12","cell":["12","2018","Berkeley","ESTHER","GREEN","BLANK AST 3","52637.00","52637.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","LORAINE","LAURENTE-PAGAYONAN","BLANK AST 3","52637.00","52637.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","EMAN D.","MANZANO","MED CTR STOREKEEPER SR","52636.00","51636.00","0.00","1000.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","TARA","INDRIERI","EMERGENCY TRAUMA TCHN SR","52634.00","46910.00","981.00","4743.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","EDUARDO","ROMERO","ASST SPECIALIST","52634.00","52634.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","AUBREY D\"SHAWN","KWONG","ADMIN OFCR 2","52634.00","50199.00","2435.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","GALIA","FRANCO","CONTINUING APPT-TEMP AUG","52633.00","52633.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","STEPHANIE MICHEL","PIRUCKI","CLIN RSCH CRD AST","52632.00","52632.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","SARAH","MARTIN-HALL","BLANK AST 3","52631.00","50771.00","1856.00","4.00"]}]
+}

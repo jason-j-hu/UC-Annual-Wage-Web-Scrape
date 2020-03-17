@@ -1,0 +1,26 @@
+{
+"page" : "4689",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","DOMINGO EGANA","GALINDEZ","SYS OPR","60413.00","52604.00","4958.00","2851.00"]},
+{"id":"2","cell":["2","2018","San Francisco","DARRELL T","SHACK","INFO SYS ANL 2","60412.00","60412.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","VICTOR M","GARCIA","ACAD ACHIEVEMENT CNSLR 3","60412.00","60412.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","MAURICIO J.","CHAVEZ","BLANK AST 2","60411.00","48378.00","11803.00","230.00"]},
+{"id":"5","cell":["5","2018","San Diego","ROBERT EDWARD","KABREL","MARKETING SPEC 2","60411.00","56158.00","1956.00","2297.00"]},
+{"id":"6","cell":["6","2018","UCOP","JANICE","MIGNONE","ADMIN OFCR 2","60410.00","60410.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","SIDNEY KONGKAM","VONGKASEM","BUS TCHL SUPP ANL 2","60410.00","59392.00","11.00","1007.00"]},
+{"id":"8","cell":["8","2018","Irvine","TOM SOO","JUN","ADMIN ANL","60409.00","59760.00","642.00","7.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","60409.00","60409.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Irvine","BARBARA ANNE","CHISHOLM","ADMIN ANL AST","60408.00","60408.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Santa Cruz","ALISON M","SINDORF","FINANCIAL SVC SUPV 1","60408.00","59708.00","0.00","700.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","DAPHNE","JONES","HOSP BLANK AST 3","60407.00","59208.00","877.00","322.00"]},
+{"id":"13","cell":["13","2018","San Diego","LUCIE K.","WISEMAN","BLANK AST 3","60407.00","58303.00","504.00","1600.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","DIANE","PEARSON","PAT BILLER 3","60406.00","60056.00","19.00","331.00"]},
+{"id":"15","cell":["15","2018","Irvine","CINDY L","WOLFF","STDT AFFAIRS OFCR 3 EX","60405.00","60405.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","THI VAN","NGUYEN","TCHN PRN","60405.00","54413.00","4792.00","1200.00"]},
+{"id":"17","cell":["17","2018","Irvine","WHITNEY BELLAMY","YOUNG","STDT AFFAIRS OFCR 4","60404.00","60004.00","0.00","400.00"]},
+{"id":"18","cell":["18","2018","San Diego","BEVERLY W","WARD","FINANCIAL SVC ANL 2","60404.00","59054.00","0.00","1350.00"]},
+{"id":"19","cell":["19","2018","San Francisco","DARLENIS","MACEO","MED CTR FOOD SVC WORKER SR","60403.00","49374.00","8622.00","2407.00"]},
+{"id":"20","cell":["20","2018","Davis","JEANETTE A","MCCRUM","MED AST 2","60403.00","59602.00","801.00","0.00"]}]
+}

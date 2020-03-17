@@ -1,0 +1,26 @@
+{
+"page" : "5642",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","YELENA N","KONDRATYEVA","SRA 2 NEX","51563.00","51563.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","JOSEPH","CURRAN","COMPUTER RESC SPEC 2","51563.00","51563.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","JASON DOREN","BROWN","COMPUTER RESC SPEC 2","51563.00","51563.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","ZABLE B","MCCLURG","HOSP AST 3 PD","51563.00","50772.00","41.00","750.00"]},
+{"id":"5","cell":["5","2018","Berkeley","JEFFREY","HOYT","VIS RES","51563.00","51563.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","RAUL","MEJIA","FAC WORKER","51562.00","50996.00","0.00","566.00"]},
+{"id":"7","cell":["7","2018","Berkeley","CATHY","THAO","HR GENERALIST 2","51559.00","49925.00","1634.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","*****","*****","NON-PHYS CLIN TRAIN","51559.00","51559.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","KATHERINE","ESPARZA","ADMIN ANL","51559.00","51554.00","5.00","0.00"]},
+{"id":"10","cell":["10","2018","Hastings College Of Law","STELLA I","CUNANAN","EXEC ASST","51559.00","51353.00","206.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","KURT R.","BUHANAN","LECT-AY","51557.00","51057.00","0.00","500.00"]},
+{"id":"12","cell":["12","2018","Irvine","MARCENA L","SALAMANCA","BLANK AST 3","51557.00","51557.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","LORI","LAVELLE","BLANK AST 2","51557.00","51557.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","STEPHANIE","MARTIN","PAT REL PROFL 2","51557.00","50109.00","445.00","1003.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","DANIEL","SOLIS","EHS SPEC 2 EX","51556.00","46964.00","0.00","4592.00"]},
+{"id":"16","cell":["16","2018","Berkeley","MITCHELL","ELKINS","ATH PROFL 3 BYA","51556.00","51556.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","*****","*****","LECT-AY","51556.00","42990.00","0.00","8566.00"]},
+{"id":"18","cell":["18","2018","San Francisco","JENEVA M","GULARTE-RINALDO","HS ASST CLIN PROF-FY","51555.00","47764.00","0.00","3791.00"]},
+{"id":"19","cell":["19","2018","San Diego","CASSANDRA PAIGE","DETGEN","CLIN SOCIAL WORKER 1 NEX","51552.00","44490.00","5992.00","1070.00"]},
+{"id":"20","cell":["20","2018","Irvine","DANIEL JOSEPH","FRANCO","HOSP AST SR","51550.00","40202.00","7951.00","3397.00"]}]
+}

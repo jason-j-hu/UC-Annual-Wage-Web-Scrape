@@ -1,0 +1,26 @@
+{
+"page" : "5299",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","LATEASE","LEVYE","ADMIN CARE CLIN PARTNER","54583.00","45957.00","1969.00","6657.00"]},
+{"id":"2","cell":["2","2018","UCOP","NUBIA","HERRERA VEGA","HR GENERALIST 2","54583.00","54583.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","EVA","GAMMON","PAT BILLER 3","54583.00","53583.00","0.00","1000.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","MARCO","PACHECO","COOK AST","54582.00","40393.00","14064.00","125.00"]},
+{"id":"5","cell":["5","2018","Davis","ELIZABETH Y","TOMEI","COMM SPEC 4","54581.00","54581.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","JAHNA","ANTONIADES","FUNDRAISER 2 NEX","54581.00","54581.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","COURTNEY CATHLEE","HEMENWAY","ADMIN SPEC","54580.00","54580.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","GERARDO","PUEBLA","HOSP BLANK AST 2","54580.00","46911.00","604.00","7065.00"]},
+{"id":"9","cell":["9","2018","Irvine","JENNIFER LEIGH","REINO","ADMIN ANL","54579.00","54579.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","VICTORIA","STARBUCK","BLANK AST 3","54579.00","52978.00","601.00","1000.00"]},
+{"id":"11","cell":["11","2018","UCOP","ROBERTO","VALDEZ","BLANK AST 2","54579.00","54579.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Riverside","JORGE","GUTIERREZ","BUS TCHL SUPP ANL 2","54579.00","47070.00","292.00","7217.00"]},
+{"id":"13","cell":["13","2018","UCOP","TANYA","EVANS","BLANK AST 2","54579.00","54579.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","HEATHER D","BOYLE","SRA 2 NEX","54578.00","50814.00","3764.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","DWAYNE","MCBRIDE","AUTO EQUIP OPR SR","54578.00","51746.00","2832.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","ANDRES A","MARIN","ASC PHYSCN","54577.00","34395.00","0.00","20182.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","INDIRA","SOBERANIS","BLANK AST 3","54577.00","47702.00","4584.00","2291.00"]},
+{"id":"18","cell":["18","2018","Davis","CALVEANOR K","CLAIBORNE","MATERIALS MGT HC SPEC 3","54577.00","48480.00","0.00","6097.00"]},
+{"id":"19","cell":["19","2018","UCOP","ASHLEY","BALL","PAYROLL ANL 2","54577.00","52624.00","1853.00","100.00"]},
+{"id":"20","cell":["20","2018","San Diego","MICHELLE","JAQUEZ","PAT BILLER 3","54577.00","51781.00","2046.00","750.00"]}]
+}

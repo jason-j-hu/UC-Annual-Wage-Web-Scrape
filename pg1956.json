@@ -1,0 +1,26 @@
+{
+"page" : "1956",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","TANYA","ZAITSEV","HISTO TCHNO 2","114059.00","113159.00","0.00","900.00"]},
+{"id":"2","cell":["2","2018","San Francisco","CALVIN","NG","PROCUREMENT ANL 4","114056.00","109003.00","0.00","5053.00"]},
+{"id":"3","cell":["3","2018","San Francisco","AMY R","LU","CLIN NURSE 2","114055.00","100437.00","0.00","13618.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","RONALD","LIBIRAN","CLIN LAB SCI","114053.00","113710.00","95.00","248.00"]},
+{"id":"5","cell":["5","2018","San Diego","JENNIFER","REISWIG","LIBRARIAN-CAREER STATUS","114052.00","109252.00","0.00","4800.00"]},
+{"id":"6","cell":["6","2018","San Francisco","DAVID AL","ROMAN","SKLD CRAFTS AND TRADES SUPV 1","114051.00","113026.00","1025.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","ROY ROBERTO LAYL","GERONA","ASST ADJ PROF-HCOMP","114050.00","103030.00","0.00","11020.00"]},
+{"id":"8","cell":["8","2018","Davis","MONA","HIRANI","CLIN LAB SCI","114046.00","102999.00","6192.00","4855.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","SARA","HAMILTON","CLIN NURSE 3","114046.00","101327.00","30.00","12689.00"]},
+{"id":"10","cell":["10","2018","Davis","BRIAN J","BIEHLE","APPLICATIONS PROGR 4","114043.00","114043.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","SKIP J","CYNAR","IP OFCR 4","114042.00","114042.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","PAMELA V.","BAYSAC","RADLG TCHNO SR","114040.00","111549.00","932.00","1559.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","HEATHER","SILVA","EVENTS SPEC 5","114040.00","114040.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","DIANNE P","BARLERIN","CLIN LAB SCI","114038.00","112823.00","75.00","1140.00"]},
+{"id":"15","cell":["15","2018","San Diego","ROBERT B","KLIDY","SKLD CRAFTS AND TRADES MGR 2","114038.00","107028.00","0.00","7010.00"]},
+{"id":"16","cell":["16","2018","San Diego","SOMA","KUMAR","ASC PHYSCN","114037.00","69718.00","0.00","44319.00"]},
+{"id":"17","cell":["17","2018","Irvine","GARY LEE","BOSGRAAF","EHS SPEC PRN","114035.00","114035.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","UCOP","MICHAEL","TRONCOSO","MGN COUNSEL 3","114032.00","91093.00","0.00","22939.00"]},
+{"id":"19","cell":["19","2018","Davis","KEVIN K","MIYASAKI","CLIN APPLICATIONS PROFL 4","114031.00","112156.00","0.00","1875.00"]},
+{"id":"20","cell":["20","2018","San Diego","SARA CHRISTINE","BROWN","CLIN NURSE 2","114031.00","109003.00","1867.00","3161.00"]}]
+}

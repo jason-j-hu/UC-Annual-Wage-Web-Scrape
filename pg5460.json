@@ -1,0 +1,26 @@
+{
+"page" : "5460",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","JOSE","AVILA HERNANDEZ","MED CTR CUSTODIAN SR PD","53132.00","43959.00","3456.00","5717.00"]},
+{"id":"2","cell":["2","2018","San Diego","ERIC JAMES","MORGAN","POSTDOC-EMPLOYEE","53131.00","53131.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","LAURA J","HSIEH","POSTDOC-EMPLOYEE","53130.00","53130.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","PEDRO MIG","RIBEIRO MARTINS","ASST PROJ SCIENTIST-FY","53130.00","41985.00","0.00","11145.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","MICHAEL","LAMMERS","BLANK AST 2","53130.00","52720.00","410.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","FRANCISCO BARRAG","ALVAREZ","COOK SR","53130.00","47800.00","4794.00","536.00"]},
+{"id":"7","cell":["7","2018","San Francisco","LESLIE A","BAKER","PRACTICE CRD 2","53129.00","52601.00","0.00","528.00"]},
+{"id":"8","cell":["8","2018","San Diego","MARICEL SANTOS","NAFARRETE","BLANK AST 3","53129.00","50557.00","1568.00","1004.00"]},
+{"id":"9","cell":["9","2018","Davis","ANDREW M","HERNANDEZ","POSTDOC-EMPLOYEE","53126.00","53126.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","ELIZABETH BROOKE","PAUL","EVENTS SUPV 1","53125.00","50816.00","2309.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","JEROYDE","LEE","COLL REPR SR","53124.00","50607.00","221.00","2296.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","REBECA","ZAVALA","HOSP BLANK AST 3","53123.00","50875.00","1458.00","790.00"]},
+{"id":"13","cell":["13","2018","Davis","LAURIE M.","PEDERSON","ADMIN OFCR 2","53122.00","53122.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","RYAN","DEERING","MUSEUM SCI","53122.00","53122.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","EUGENIO","SANTELLI","ASST PROJ SCIENTIST-FY","53122.00","53122.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","STEPHANIE","BOHLE","HOSP BLANK AST 3","53121.00","52246.00","640.00","235.00"]},
+{"id":"17","cell":["17","2018","Davis","SURUJ JR.","KUMAR","MED CTR CUSTODIAN SR","53120.00","39635.00","11140.00","2345.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","LEONID","KRAMINSKIY","DIETETIC AST","53119.00","42529.00","5165.00","5425.00"]},
+{"id":"19","cell":["19","2018","Davis","BRIDGET A","LAWSON","BLANK AST 3","53119.00","53077.00","42.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","DAVID","LEE","ACAD ACHIEVEMENT CNSLR 3","53119.00","53119.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "5846",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ROSE","NIEVES DOMINGUEZ","CMTY HEALTH PRG REPR SR","49833.00","49833.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","OMAR","RODRIGUEZ","ROOFER","49832.00","49336.00","365.00","131.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","EDUARDO","SANGUINO","TCHN","49832.00","44213.00","3767.00","1852.00"]},
+{"id":"4","cell":["4","2018","Santa Barbara","YASEBIN","NORRIS","FINANCIAL SVC ANL 2","49832.00","49832.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","YVONNE","WU","EVENTS SPEC 2","49832.00","49832.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","JINHONG","QI","LIBRARY AST 3","49832.00","49832.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","DELORES","HICKMAN","BLANK AST 3","49831.00","49285.00","51.00","495.00"]},
+{"id":"8","cell":["8","2018","Hastings College Of Law","MARIA CECILIA","MOREIRA","REC. TECH.","49830.00","49525.00","305.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","ALIX","HUYNH","BLANK AST 3","49829.00","49386.00","443.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","MARIANA","SANABRIA","HOSP BLANK AST 3","49829.00","45751.00","2949.00","1129.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","REYNALDO","SILVA","GROUNDS SR SUPV EX","49828.00","49828.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","SHARON","MEZA","BLANK AST 2","49828.00","49317.00","126.00","385.00"]},
+{"id":"13","cell":["13","2018","Davis","NATALIE S","AVINA","BLANK AST 3","49827.00","46864.00","2243.00","720.00"]},
+{"id":"14","cell":["14","2018","San Francisco","SCOTT C","BROVARNEY","SRA 2 NEX","49826.00","49466.00","360.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","NINGNING","ZHAO","POSTDOC-EMPLOYEE","49826.00","49826.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","LAURA","SORIANO VELAZQU","ADMITTING WORKER PRN","49824.00","49292.00","111.00","421.00"]},
+{"id":"17","cell":["17","2018","Riverside","KATELYN","ROBINSON LEVITON","BLANK AST 3","49823.00","49323.00","0.00","500.00"]},
+{"id":"18","cell":["18","2018","San Diego","SHAUN PHILLIP","MORRIS","ELECTRN OPR 3","49823.00","29942.00","19881.00","0.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","PHILLIP","KOHL","ASST SPECIALIST","49822.00","49822.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","ALEX","MUNOZ","AUTO EQUIP OPR PRN","49822.00","49822.00","0.00","0.00"]}]
+}

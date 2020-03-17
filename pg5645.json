@@ -1,0 +1,26 @@
+{
+"page" : "5645",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","GRANT","WALKER","POSTDOC-EMPLOYEE","51532.00","51532.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","CHANESE","GREENE-COLE","BLANK AST 3","51532.00","51090.00","49.00","393.00"]},
+{"id":"3","cell":["3","2018","Davis","SHAKUR J","MOHIBI","POSTDOC-EMPLOYEE","51532.00","51532.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","RACHEL","KLEIN","POSTDOC-EMPLOYEE","51532.00","51532.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","SEAN","PRALL","POSTDOC-EMPLOYEE","51532.00","51532.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Santa Cruz","MARY ROSE","GRADOVILLE","POSTDOC-EMPLOYEE","51532.00","51532.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","YUNBO","LI","POSTDOC-EMPLOYEE","51532.00","51532.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Riverside","SAMMY","PARRA","GROUNDSKEEPER","51532.00","46551.00","4968.00","13.00"]},
+{"id":"9","cell":["9","2018","San Diego","DOMINIC","NARANG","POSTDOC-EMPLOYEE","51532.00","51532.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","ALEX","CAZES","POSTDOC-EMPLOYEE","51532.00","51532.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","MARINE MAUDE ERM","PAQUET","POSTDOC-EMPLOYEE","51532.00","51532.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","MICHIKO","SHIGYO","POSTDOC-EMPLOYEE","51532.00","51532.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","NAZIM","KOURDOUGLI","POSTDOC-EMPLOYEE","51532.00","51532.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","MOHAMED MOHEYELDIN S","ELSHENAWY","POSTDOC-EMPLOYEE","51532.00","51532.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","ALIX E","HOBSON-CAREY","HOSP BLANK AST 2","51530.00","50691.00","833.00","6.00"]},
+{"id":"16","cell":["16","2018","Hastings College Of Law","KAREN S","AMAYA","LEGAL SECTY","51530.00","51256.00","274.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","JEFFREY PHILLIP","ROBERTS","INFO SYS ANL 1","51530.00","48530.00","0.00","3000.00"]},
+{"id":"18","cell":["18","2018","Davis","ADANELY P","MAGANA","MED AST 1","51529.00","51507.00","22.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","CHELSEA","DOWNS","PROJECT POLICY ANL 2","51528.00","51478.00","50.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","LILLIANA","LOPEZ HUERTA","ADMIN CARE CLIN PARTNER","51528.00","41677.00","3667.00","6184.00"]}]
+}

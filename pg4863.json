@@ -1,0 +1,26 @@
+{
+"page" : "4863",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Riverside","SIMON","LEE","LECT-AY","58726.00","54187.00","0.00","4539.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","STEVEN","SIMAK","ADMIN SPEC","58726.00","58693.00","33.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","YING LI","LI","MED CTR CUSTODIAN SR","58725.00","54475.00","3345.00","905.00"]},
+{"id":"4","cell":["4","2018","Irvine","ANN","MAY","STERILE PROCESSING TCHN 2","58725.00","49961.00","5767.00","2997.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ALONSO","ANTUNEZ DE MAYOLO","ACCOUNTANT 2 EX","58725.00","58725.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","KAREEN","LOUIS","ACAD ACHIEVEMENT CNSLR 3","58725.00","58725.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","AMY","BLOODGOOD","LECT-AY","58725.00","58725.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","ROXANNE C","FEMLING","THEATER PROD SPEC 2","58723.00","55494.00","3229.00","0.00"]},
+{"id":"9","cell":["9","2018","Berkeley","GRACIELA","PENA DE FREITAS","FOOD SVC SUPV 1","58722.00","58722.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","NAZARIO","DIAZ","LABORER","58721.00","53341.00","3933.00","1447.00"]},
+{"id":"11","cell":["11","2018","San Francisco","TRACY","CHENG","HR GENERALIST 3","58720.00","58720.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","PAULINA","MARTINEZ","ADMIN ANL AST","58720.00","58462.00","258.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","JANE","KIM","LECT-AY","58720.00","58720.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","CHRISTIAN","ZARATE","ADMIN ANL","58720.00","58720.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Irvine","MARC","MULLENDORE","ADMIN ANL SR","58719.00","58719.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","CARISSA KOOPMANN","RIVERS","ASST COOP EXT ADVISOR","58719.00","56219.00","0.00","2500.00"]},
+{"id":"17","cell":["17","2018","San Diego","ZHIPENG","MENG","ASST PROJ SCIENTIST-FY","58718.00","58718.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","MARIA","MAGANA","MED CTR FOOD SVC WORKER PRN","58716.00","47262.00","11125.00","329.00"]},
+{"id":"19","cell":["19","2018","Davis","LILA W","PRASAD","MED CTR COOK","58715.00","50959.00","7387.00","369.00"]},
+{"id":"20","cell":["20","2018","Santa Cruz","KERRY L","DILL","TEACHER-UNEX-CONTRACT YR","58715.00","37188.00","0.00","21527.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "4633",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","ANTHONY S","ADAME","SRA 2","60960.00","60960.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","JINZHAO","WANG","SRA 2","60960.00","60960.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Merced","LEZLY","JUERGENSON","CAREER SVC SPEC 3","60960.00","60960.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","BOBBIE ALVINA","GOMEZ","SRA 2","60960.00","60960.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","ELAINE M","HANSON","SRA 2","60960.00","60960.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","MILOS S","MILIC","SRA 2","60960.00","60960.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","CHRISTINE KAOUSS","FRAM","MED AST 2","60960.00","51102.00","8088.00","1770.00"]},
+{"id":"8","cell":["8","2018","San Diego","ANDREA LEE","VERHAGEN","SRA 2","60960.00","60960.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","FRANCISCO","ARELLANO","MED CTR CUSTODIAN SR","60959.00","45860.00","14650.00","449.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","LEANDREA","JOHNSON","BLANK AST 3","60959.00","57128.00","3572.00","259.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","JOHANNA","VALDEZ","HOSP BLANK AST 3","60959.00","60959.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","KRYSTENE","CARPENTER","RSCH ADM 3","60958.00","60958.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","CINTHIA","LOERA","ADMIN ANL SUPV NEX","60958.00","57856.00","0.00","3102.00"]},
+{"id":"14","cell":["14","2018","ASUCLA","DEVIN","WALKER","ANL 4","60958.00","59092.00","0.00","1866.00"]},
+{"id":"15","cell":["15","2018","San Francisco","HEATHER M","HARTIG","CLIN RSCH CRD","60956.00","60956.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","ALEXANDREIA","WILLIAMS","STDT SVC ADVISOR 2","60956.00","60671.00","285.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","ABDOUL","FAYE","PARKING SUPV SR","60954.00","53563.00","5537.00","1854.00"]},
+{"id":"18","cell":["18","2018","Berkeley","MONTGOMERY","SLATKIN","RECALL FACULTY","60954.00","60954.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","DAVID","BEECHER","LECT-AY","60954.00","60954.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","ANGELICA","SANCHEZ","PAT BILLER 4","60951.00","59307.00","622.00","1022.00"]}]
+}

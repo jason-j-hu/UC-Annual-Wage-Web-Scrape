@@ -1,0 +1,26 @@
+{
+"page" : "4969",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","ESTEFANY","VILLASENOR","BLANK AST 3","57698.00","57334.00","364.00","0.00"]},
+{"id":"2","cell":["2","2018","Merced","JAMIE","DIAS","PAYROLL ANL 2","57698.00","57130.00","68.00","500.00"]},
+{"id":"3","cell":["3","2018","Berkeley","GEOFFREY","CORNEY","PROJECT POLICY ANL 2","57698.00","57365.00","0.00","333.00"]},
+{"id":"4","cell":["4","2018","San Francisco","HUIQUN","ZOU","HOSP BLANK AST 3","57697.00","56547.00","10.00","1140.00"]},
+{"id":"5","cell":["5","2018","Irvine","RONALD L.","MARDEN","BLDG MAINT WORKER LD","57697.00","57504.00","0.00","193.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","DAVID","KIPEN","LECT-AY","57697.00","57197.00","0.00","500.00"]},
+{"id":"7","cell":["7","2018","Berkeley","MICHAEL","CAMPOS-QUINN","LIBRARY PROFL 4","57697.00","57197.00","0.00","500.00"]},
+{"id":"8","cell":["8","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","57696.00","37658.00","0.00","20038.00"]},
+{"id":"9","cell":["9","2018","Davis","LILIYA","KOPETS","DIETETIC AST","57696.00","55141.00","2098.00","457.00"]},
+{"id":"10","cell":["10","2018","UCOP","CATHERINE","MONTANO","PROJECT POLICY ANL MGR 1","57696.00","57696.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","EIRENE","MARKENSCOFF-PAP","POSTDOC-EMPLOYEE","57695.00","57695.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","DEBORA I","MARTIN","BLANK AST 2","57694.00","56554.00","0.00","1140.00"]},
+{"id":"13","cell":["13","2018","San Francisco","NILDA U","MAGPILE","BLANK AST 2","57694.00","56554.00","0.00","1140.00"]},
+{"id":"14","cell":["14","2018","San Francisco","RICKY ELEN","NAZARENO","MED CTR FOOD SVC WORKER SR","57692.00","51580.00","3687.00","2425.00"]},
+{"id":"15","cell":["15","2018","San Francisco","CLAUDIA","AYALA","CLIN RSCH SUPV 1","57691.00","56691.00","0.00","1000.00"]},
+{"id":"16","cell":["16","2018","Riverside","NHAT","NGUYEN","FINANCIAL ANL 2","57691.00","57623.00","68.00","0.00"]},
+{"id":"17","cell":["17","2018","Irvine","YING","YANG","ACCOUNTANT 3","57689.00","57689.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","STEFFANY","LIM","CLIN RSCH CRD SR NEX","57689.00","56561.00","1128.00","0.00"]},
+{"id":"19","cell":["19","2018","Santa Cruz","SUSAN A","GAUTIERI","LAB AST 4","57689.00","55557.00","0.00","2132.00"]},
+{"id":"20","cell":["20","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","57688.00","45421.00","0.00","12267.00"]}]
+}

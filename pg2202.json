@@ -1,0 +1,26 @@
+{
+"page" : "2202",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","JOHN H","SCHNEIDERMAN","SR LECT SOE-AY","106311.00","106311.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","JULIE E","HANLON","COMM MGR 1","106310.00","106310.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","GREGORY","HOUGH","PUBL ADMSTN ANL SR","106310.00","106310.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","TOM","PHAN","PROGR ANL 4","106309.00","101587.00","0.00","4722.00"]},
+{"id":"5","cell":["5","2018","Irvine","EUNICE B","YI","CLIN NURSE 2","106306.00","93367.00","5298.00","7641.00"]},
+{"id":"6","cell":["6","2018","San Francisco","CHARMAINE G","ROS","ADMIN OFCR 4","106302.00","102623.00","0.00","3679.00"]},
+{"id":"7","cell":["7","2018","Santa Barbara","ROBERT","WRIGHT","FOOD SVC MGR 2","106302.00","106302.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","OLENA","AKERMAN","PROCUREMENT SUPV 2","106301.00","105301.00","0.00","1000.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","BRENDA","GRACIANO","MGR","106300.00","104800.00","0.00","1500.00"]},
+{"id":"10","cell":["10","2018","Davis","BRACIA S","HALL","SYS ADM 3","106297.00","105422.00","0.00","875.00"]},
+{"id":"11","cell":["11","2018","Merced","LINDSAY","DANIELS","CONTRACTS AND GRANTS MGR 1","106297.00","102582.00","0.00","3715.00"]},
+{"id":"12","cell":["12","2018","Riverside","TANYA","NIERI","ASSOC PROF-AY","106297.00","102258.00","0.00","4039.00"]},
+{"id":"13","cell":["13","2018","San Francisco","JOHN K","WIENCKE","RECALL HCOMP","106294.00","104450.00","0.00","1844.00"]},
+{"id":"14","cell":["14","2018","Irvine","NELIDA","CRUZ","ADMIN ANL PRN SUPV","106293.00","101993.00","0.00","4300.00"]},
+{"id":"15","cell":["15","2018","Riverside","TANYA","WINE","FINANCIAL ANL 4","106293.00","103091.00","0.00","3202.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","CORNELL","PASCUAL","CLIN NURSE 2","106292.00","91839.00","193.00","14260.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","COLIN","DAVIS","NURSE PD","106289.00","87403.00","6768.00","12118.00"]},
+{"id":"18","cell":["18","2018","San Francisco","ARLEEN J","REYES","PAT BILL AND COLL SUPV 2","106286.00","102168.00","0.00","4118.00"]},
+{"id":"19","cell":["19","2018","Davis","DAVID M","CASTROGIOVANNI","PROFL ENGR 3","106286.00","106286.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","FEDERICO","ROSSANO","ASST PROF-AY","106286.00","95208.00","0.00","11078.00"]}]
+}

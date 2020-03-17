@@ -1,0 +1,26 @@
+{
+"page" : "5987",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","AISHA","WEDLAW","ADMIN OFCR 2","48625.00","46042.00","2583.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","JAMES","THOMAS","VOC NURSE SR SUPV","48624.00","41914.00","6538.00","172.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","ERIN","DE TURA","CLIN NURSE 5","48624.00","48624.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","GLORIA","CALVO","BLANK AST 3","48623.00","47691.00","932.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","LUZ","PARTIDA","CUSTODIAN SR","48622.00","42709.00","4402.00","1511.00"]},
+{"id":"6","cell":["6","2018","San Francisco","JOE CHINEDU","UDEOCHU","POSTDOC-EMPLOYEE","48621.00","48621.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","JOANA DANIELA","MENDES DAMAS","POSTDOC-EMPLOYEE","48621.00","48621.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","ROY","HAREL","POSTDOC-EMPLOYEE","48621.00","48621.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","VIVEK","SWARUP","POSTDOC-EMPLOYEE","48620.00","48620.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Riverside","LETITIA","FOSSETT","LIBRARY AST 3","48620.00","47474.00","0.00","1146.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","KATE","OSTROFF","PRG REPR 2","48619.00","48619.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","BRUNDE L","SAULSBERRY","HR AST 2","48618.00","48618.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","SATISH K","SINGH","MED CTR CUSTODIAN SR","48618.00","43289.00","2420.00","2909.00"]},
+{"id":"14","cell":["14","2018","Davis","COREY J","BULLINGTON","MED OFC SVC CRD 2","48618.00","48147.00","471.00","0.00"]},
+{"id":"15","cell":["15","2018","Santa Cruz","WENDY F","ROTHWELL","LECT-AY-CONTINUING","48618.00","48618.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","BREANNA L","CANO","PUBL EDUC SPEC 2","48618.00","48618.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","HERBERT M.","MENJIVAR","CUSTODIAN SR","48617.00","48358.00","259.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","LESSIE ANITA","JAMES","BLANK AST 2","48617.00","47270.00","179.00","1168.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","RACHEL","FEIT-LEICHMAN","ASC PHYSCN DIPLOMATE","48617.00","48617.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","EMMA","CAMPBELL","COLL REPR SR","48617.00","48617.00","0.00","0.00"]}]
+}

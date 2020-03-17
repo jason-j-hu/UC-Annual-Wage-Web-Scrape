@@ -1,0 +1,26 @@
+{
+"page" : "1386",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","TIMOTHY","DAYONOT","LECT-AY-CONTINUING","135559.00","114834.00","0.00","20725.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","KELLY","LAMONT","CLIN NURSE 3","135558.00","124669.00","6662.00","4227.00"]},
+{"id":"3","cell":["3","2018","Santa Cruz","MARILYN J","WESTERKAMP","PROF-AY","135558.00","135558.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","MARY","SLATTERY","ADMIN NURSE 2 EX","135556.00","126347.00","0.00","9209.00"]},
+{"id":"5","cell":["5","2018","Irvine","YOON JIN","WON","ASST PROF-AY-B/E/E","135556.00","102167.00","0.00","33389.00"]},
+{"id":"6","cell":["6","2018","Davis","LOUIS","RODRIGUEZ","RADLG TCHNO PRN","135556.00","126470.00","9086.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","MICHAEL","CONBOY","DIR","135555.00","134055.00","0.00","1500.00"]},
+{"id":"8","cell":["8","2018","San Francisco","JAYNE ERIN","MCCULLOUGH","CLIN NURSE 3","135554.00","109489.00","2531.00","23534.00"]},
+{"id":"9","cell":["9","2018","Davis","PATRICIA A","MILLER","CLIN APPLICATIONS MGR 1","135553.00","129409.00","0.00","6144.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","HAI LINH","NGUYEN","CLIN LAB SCI SPEC SUPV SR EX","135537.00","129685.00","0.00","5852.00"]},
+{"id":"11","cell":["11","2018","San Francisco","JEFFREY BURTON","RICHARDSON","NURSE PD","135534.00","108817.00","5513.00","21204.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","JOSHUA","PELINO","PROGR ANL 5","135534.00","111308.00","0.00","24226.00"]},
+{"id":"13","cell":["13","2018","San Francisco","NICHOLAS C","URREA","IT SCRTY ANL 4","135533.00","130558.00","0.00","4975.00"]},
+{"id":"14","cell":["14","2018","Davis","AMANDA A","O\"LEARY","CLIN NURSE 3","135531.00","126461.00","3313.00","5757.00"]},
+{"id":"15","cell":["15","2018","Davis","ERIC J","TYRELL","CLIN NURSE 2","135531.00","116721.00","6453.00","12357.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","JEFFREY","LUPO","POLICE SERGEANT SUPV 2","135524.00","105911.00","14438.00","15175.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","DALE","DAYTON","ADMIN ANL PRN 2","135523.00","135523.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","ALBERT","RUIZ","HEALTH INFO MGT MGR 1","135522.00","120072.00","0.00","15450.00"]},
+{"id":"19","cell":["19","2018","Irvine","DOUGLAS G","CRAWFORD","TECH TRANSFER OFCR 1","135518.00","135518.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","DIANE M","ARNESON","CLIN DOC SPEC 4","135517.00","128848.00","0.00","6669.00"]}]
+}

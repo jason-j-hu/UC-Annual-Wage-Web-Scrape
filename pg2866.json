@@ -1,0 +1,26 @@
+{
+"page" : "2866",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","EDGAR","ABESTILLA","STEAM OPS ENGR","89110.00","76541.00","8127.00","4442.00"]},
+{"id":"2","cell":["2","2018","San Francisco","JOHN C","KUHN","ADMIN SUPV 2","89108.00","72221.00","0.00","16887.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","MANUEL","SANCHEZ","STDT AFFAIRS OFCR 3 SUPV","89108.00","89108.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","ALLYSSA MARIE","PEREZ","CLIN NURSE 2","89107.00","81841.00","1540.00","5726.00"]},
+{"id":"5","cell":["5","2018","Irvine","BHARGAVKUMAR D","PATEL","PROGR ANL 3","89106.00","89106.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","ELIZABETH","GONZALEZ-RUIZ","CLIN NURSE 2","89105.00","78286.00","5271.00","5548.00"]},
+{"id":"7","cell":["7","2018","San Francisco","THOMAS","BENSON","RECR THER 2 EX","89104.00","88084.00","0.00","1020.00"]},
+{"id":"8","cell":["8","2018","San Francisco","JENNIFER A.","GORDON","RECR THER 2 EX","89104.00","88084.00","0.00","1020.00"]},
+{"id":"9","cell":["9","2018","San Diego","TRACI M.","MURPHY","FINANCIAL ANL 3","89103.00","86603.00","0.00","2500.00"]},
+{"id":"10","cell":["10","2018","Berkeley","MERRIK","BUSH-PIRKLE","WRITER EDITOR 4","89102.00","87602.00","0.00","1500.00"]},
+{"id":"11","cell":["11","2018","Irvine","CHERYL","SISCO","CLIN NURSE 2","89102.00","81301.00","5025.00","2776.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","MAI","NGUYEN","CLIN NURSE 2","89101.00","79963.00","6461.00","2677.00"]},
+{"id":"13","cell":["13","2018","San Diego","MICHELLE KATHERI","FERRETTI","RSCH CMPLNC ANL 4","89101.00","88213.00","0.00","888.00"]},
+{"id":"14","cell":["14","2018","San Francisco","ADRIANNA","CREESE","FUNDRAISER 3","89100.00","89100.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","PETER JEFFERY","VIGIL","MED LIBRARY HC PROFL 4","89100.00","89100.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","DIANA","MARQUEZ-GARBAN","ASSOC PROJ SCIENTIST-FY","89100.00","89100.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","DANICA T","FISHER","STDT ACAD MGR 1","89100.00","89100.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","DANIELLE","EVERSON","CLIN NURSE 3","89100.00","85664.00","0.00","3436.00"]},
+{"id":"19","cell":["19","2018","Berkeley","MICHAEL","WONG","STDT ACAD SPEC 4","89100.00","80541.00","0.00","8559.00"]},
+{"id":"20","cell":["20","2018","San Diego","THEODORE J","JOBSON","SYS ADM 3","89097.00","85729.00","0.00","3368.00"]}]
+}

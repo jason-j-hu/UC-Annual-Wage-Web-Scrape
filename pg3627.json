@@ -1,0 +1,26 @@
+{
+"page" : "3627",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Merced","JOVANA","CRUZ","ADMIN SUPV 2","73844.00","73844.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","KARINA L","MORENO","HOSP LAB TCHN 1","73842.00","72702.00","0.00","1140.00"]},
+{"id":"3","cell":["3","2018","Irvine","LAI MAN","TONG","STDT AFFAIRS OFCR 3 EX","73842.00","65752.00","0.00","8090.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","MONICA","HALEY","ADMIN ANL SR","73842.00","73842.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","EVELYN P","ESCOBAR","HEALTH TCHN 3","73841.00","66269.00","1556.00","6016.00"]},
+{"id":"6","cell":["6","2018","Merced","ANDREA","MCDOWELL","PAYROLL SUPV 2","73839.00","72339.00","0.00","1500.00"]},
+{"id":"7","cell":["7","2018","UCOP","KIM","QUACH","GEN ACCOUNTANT 3","73838.00","73838.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","ALEXEY","POZDNUKHOV","ASST PROF-AY-B/E/E","73838.00","49958.00","0.00","23880.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","LENY","MATEO","MGT SVC OFCR 1","73834.00","71182.00","0.00","2652.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","MICHI","WILSON","TCHN PRN","73833.00","57980.00","15187.00","666.00"]},
+{"id":"11","cell":["11","2018","San Diego","CHRISTOPHER WILL","LAPAGE","MARKETING SPEC 3","73831.00","73831.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","CARL","BLUMSTEIN","RECALL NON-FACULTY ACAD","73831.00","73831.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","SHEEHAN","GRANT","LIBRARY MGR 1","73831.00","69831.00","0.00","4000.00"]},
+{"id":"14","cell":["14","2018","Irvine","LOREN C.","PETERSON","LAB MECHN PRN","73830.00","73830.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","NADINE","BURCHETT","BLANK AST 3","73830.00","63960.00","8870.00","1000.00"]},
+{"id":"16","cell":["16","2018","Davis","BEATRICE T","LE","FINANCIAL ANL 2","73829.00","62796.00","10527.00","506.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","WILLIAM","TRUONG","ADMIN ANL SR","73829.00","72329.00","0.00","1500.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","SAUL","MEZA","GI ENDOSCOPY TCHN 3","73827.00","61404.00","5544.00","6879.00"]},
+{"id":"19","cell":["19","2018","Davis","LORA LEE","HOLLINGSWORTH","FUNDRAISER 3","73826.00","73826.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","HECTOR","LEON","PAINTER","73826.00","70183.00","3643.00","0.00"]}]
+}

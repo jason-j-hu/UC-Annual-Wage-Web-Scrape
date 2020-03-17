@@ -1,0 +1,26 @@
+{
+"page" : "3818",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","FRANCES T","CHE","RSCH CMPLNC ANL 3","70935.00","70935.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","CIRILO","CORTEZ","STDT SVC ADVISOR 4","70934.00","70934.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","NICK A.","URES","CARPENTER","70933.00","67919.00","474.00","2540.00"]},
+{"id":"4","cell":["4","2018","Davis","CHASITY N","WHITMER","CLIN NURSE 2","70933.00","62487.00","2056.00","6390.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","LATANIA","CRAIG","ADMIN ANL","70933.00","67357.00","76.00","3500.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","70932.00","63882.00","0.00","7050.00"]},
+{"id":"7","cell":["7","2018","Davis","NISHON M A","JONES","PROJECT POLICY ANL 3","70932.00","68569.00","1863.00","500.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","70932.00","63882.00","0.00","7050.00"]},
+{"id":"9","cell":["9","2018","Davis","SUZETTE","GARCIA","FINANCIAL ANL 3","70931.00","70931.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","GREGORY","VINCENT","ELECTR TCHN SR SUPV","70930.00","68651.00","0.00","2279.00"]},
+{"id":"11","cell":["11","2018","Irvine","TOMMIE L","DUCREE","ADMITTING WORKER SUPV","70928.00","66778.00","2178.00","1972.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","KLARIS","AVANESSIAN","PHLEBOTOMIST CERT TCHN 2","70928.00","59062.00","471.00","11395.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","SERGIO","PINNA","POSTDOC-EMPLOYEE","70928.00","70928.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","FRANKLIN L","CUEVAS","BUS SYS ANL 3","70926.00","70926.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","JEFFREY CALEB","KIRBY","FIRST OFCR","70925.00","64512.00","6413.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","OSCAR","RIVERA","VOC NURSE SR","70924.00","68109.00","2215.00","600.00"]},
+{"id":"17","cell":["17","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","70923.00","58497.00","0.00","12426.00"]},
+{"id":"18","cell":["18","2018","San Francisco","KIMIKO T.","LOPEZ","SURGICAL TCHN PD","70921.00","64804.00","463.00","5654.00"]},
+{"id":"19","cell":["19","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","70920.00","58900.00","0.00","12020.00"]},
+{"id":"20","cell":["20","2018","Berkeley","CAROL","SEVILLA","PUBLICATIONS PROD SPEC 3","70920.00","70920.00","0.00","0.00"]}]
+}

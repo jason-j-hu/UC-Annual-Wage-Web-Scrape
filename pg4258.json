@@ -1,0 +1,26 @@
+{
+"page" : "4258",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","EUNICE","LAWS","AMBUL CARE ADMSTN SUPV 1","65108.00","63330.00","723.00","1055.00"]},
+{"id":"2","cell":["2","2018","Davis","JENNIFER","WATANABE-GRIFFI","SRA 2 NEX","65108.00","50814.00","14294.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","SHEMEL","FIELDS","VOC NURSE SR","65107.00","55858.00","3045.00","616.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","REBECCA","GOODINE","ADMIN ANL","65106.00","64106.00","0.00","1000.00"]},
+{"id":"5","cell":["5","2018","Davis","PATRICIA J","ASHLEY","CARE SUPV 1","65106.00","62446.00","1191.00","1469.00"]},
+{"id":"6","cell":["6","2018","Merced","VANESSA","SANCHEZ","FINANCIAL SVC ANL 3","65106.00","65106.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","YESSENIA","WILLIAMS","ADMIN OFCR 2","65105.00","61460.00","219.00","3426.00"]},
+{"id":"8","cell":["8","2018","Davis","BURT F","VANNUCCI","RSCH AND DEV ENGR 3","65105.00","65105.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","RUBY","BOYKIN","VOC NURSE SR","65105.00","56381.00","2543.00","6181.00"]},
+{"id":"10","cell":["10","2018","San Diego","CATHERINE L. S.","DORAN","CURRICULUM PLNR 2","65105.00","60869.00","1936.00","2300.00"]},
+{"id":"11","cell":["11","2018","Riverside","CHRISTINA","RANGEL","ADMISSIONS RECRMT SPEC 2","65103.00","65103.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","LEO A","VERGARA","HOSP BLANK AST 2","65101.00","61879.00","1994.00","1228.00"]},
+{"id":"13","cell":["13","2018","Davis","CHARLIE","DARRINGTON","PROJECT POLICY ANL 2","65101.00","62389.00","1323.00","1389.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","LAURIE","VAN DE WERFHORST","SRA 4","65100.00","65100.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","JOSEPH AUSTIN","RITKES","EVENTS SPEC 4","65100.00","64400.00","0.00","700.00"]},
+{"id":"16","cell":["16","2018","San Francisco","MARY LOUISE SAMA","GUZMAN","EVENTS SPEC 2","65099.00","60605.00","3494.00","1000.00"]},
+{"id":"17","cell":["17","2018","San Diego","JAMES PATRICK","O\"FALLON","FINANCIAL ANL 2","65099.00","61599.00","0.00","3500.00"]},
+{"id":"18","cell":["18","2018","San Francisco","EMMA WILDE","BOTTA","ANL 3","65098.00","64592.00","0.00","506.00"]},
+{"id":"19","cell":["19","2018","San Diego","LESLIE","LUNA","COMM SPEC 3","65098.00","65098.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","ASUCLA","MOISES","MARTINEZ BAUTISTA","CUSTODIAN SR","65097.00","41415.00","22373.00","1309.00"]}]
+}

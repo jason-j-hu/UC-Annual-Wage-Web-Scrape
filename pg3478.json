@@ -1,0 +1,26 @@
+{
+"page" : "3478",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","DOROTHY ANN L.","TALAVERA","VOC NURSE","76386.00","76386.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Berkeley","KRISTIN","OLSON","STDT SVC ADVISOR 4","76386.00","76386.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Irvine","DANIEL","BROWNE","PLUMBER LD","76384.00","70757.00","3421.00","2206.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","SANTIAGO","BERNAL","STDT AFFAIRS OFCR 4","76384.00","76384.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","MEGAN","HOCHSTRASSER","WRITER EDITOR 3","76384.00","76384.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","76383.00","52800.00","0.00","6250.00"]},
+{"id":"7","cell":["7","2018","San Diego","ZACHARY A","KING","ASST PROJ SCIENTIST-FY-B/E/E","76383.00","76383.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","KUEI-CHUN","WANG","ASST PROJ SCIENTIST-FY-B/E/E","76383.00","76383.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","VIDU","KUMAR","HOSP LAB TCHN 2","76382.00","71175.00","3782.00","1425.00"]},
+{"id":"10","cell":["10","2018","Davis","NICHOLAS J","NORRIS","PROJECT POLICY ANL 3","76381.00","72740.00","0.00","3641.00"]},
+{"id":"11","cell":["11","2018","San Diego","MASAFUMI","OKANO","GEN ACCOUNTANT 3","76381.00","75781.00","0.00","600.00"]},
+{"id":"12","cell":["12","2018","San Francisco","TURAL","AKSEL","APPLICATIONS PROGR 3","76380.00","76380.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","RYAN J.T.","NICHOLL","RSCH AND DEV ENGR 3","76379.00","74392.00","0.00","1987.00"]},
+{"id":"14","cell":["14","2018","San Francisco","KERSTIN E","SVENDSEN","VISUAL COMM SPEC 4","76378.00","75378.00","0.00","1000.00"]},
+{"id":"15","cell":["15","2018","Irvine","DAVIDIAN E","BISHOP","MGR","76378.00","76378.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","CHRISTINE RACHEL","FANTONE","FIN ANL SR SUPV","76377.00","75854.00","523.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","TIMOTHY K","ESSERT","RSCH AND DEV ENGR 3","76377.00","76377.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","76376.00","63076.00","0.00","13300.00"]},
+{"id":"19","cell":["19","2018","San Diego","ALBERTO","VASQUEZ","K to 14 ACAD PREP SPEC 3","76375.00","75875.00","0.00","500.00"]},
+{"id":"20","cell":["20","2018","San Francisco","MELVIN M","SCHEINMAN","RECALL FACULTY","76374.00","75374.00","0.00","1000.00"]}]
+}

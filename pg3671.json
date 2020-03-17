@@ -1,0 +1,26 @@
+{
+"page" : "3671",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","JAMES J","HAYES","CMPTL AND DATA SCI RSCH SPEC 4","73096.00","63053.00","0.00","10043.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","FRANCISCO","VERDIN","BLANK AST 3","73096.00","56463.00","1086.00","15547.00"]},
+{"id":"3","cell":["3","2018","San Francisco","JENELYN","MENDOVA","COLL REPR SR","73094.00","70240.00","268.00","2586.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","MIGUEL","GUILLEN","FOOD SVC MGR AST SUPV","73094.00","69816.00","2677.00","601.00"]},
+{"id":"5","cell":["5","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","73093.00","59093.00","0.00","14000.00"]},
+{"id":"6","cell":["6","2018","Irvine","GABSEON","LEE","LECT-AY","73093.00","65497.00","0.00","7596.00"]},
+{"id":"7","cell":["7","2018","Irvine","LINDA YI","KIM","ADMIN ANL SR","73093.00","72081.00","1012.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","SHEILA","EDWARDS","BENEFITS ANL 3","73093.00","73093.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","NING","YE","HOSP BLANK AST 3","73091.00","69991.00","2349.00","751.00"]},
+{"id":"10","cell":["10","2018","San Diego","DENNIS","BITHOULKAS","EHS SPEC 2 NEX","73091.00","71851.00","1240.00","0.00"]},
+{"id":"11","cell":["11","2018","Riverside","MICHAEL","ROGERS","APPLICATIONS PROGR 3","73090.00","72840.00","0.00","250.00"]},
+{"id":"12","cell":["12","2018","Santa Barbara","ENOCH","YEUNG","ASST PROF-AY-B/E/E","73089.00","47667.00","0.00","25422.00"]},
+{"id":"13","cell":["13","2018","Riverside","NATHAN","GATEWOOD","MAINT B","73089.00","72373.00","716.00","0.00"]},
+{"id":"14","cell":["14","2018","Riverside","LISA","SARIGIANI","LECT-AY-CONTINUING","73089.00","66352.00","0.00","6737.00"]},
+{"id":"15","cell":["15","2018","Berkeley","MILTON","FONG","ADMIN OFCR 3","73089.00","70516.00","73.00","2500.00"]},
+{"id":"16","cell":["16","2018","Irvine","GARY LAMONT","HAGAN","MAINT MECH LD","73088.00","66559.00","5444.00","1085.00"]},
+{"id":"17","cell":["17","2018","Davis","SATYA N","SHARMA","STERILE PROCESSING TCHN 3","73088.00","72002.00","586.00","500.00"]},
+{"id":"18","cell":["18","2018","San Diego","ELIA GOMEZ","SMITH","CMTY HEALTH PRG REPR SR","73088.00","54768.00","10929.00","7391.00"]},
+{"id":"19","cell":["19","2018","Davis","JULIE E.","KOOPMAN","PUBL SFTY DISPATCHER","73087.00","49201.00","20936.00","2950.00"]},
+{"id":"20","cell":["20","2018","San Diego","LINDA JOANNE","VICKERMAN","LECT-AY-CONTINUING","73086.00","73086.00","0.00","0.00"]}]
+}

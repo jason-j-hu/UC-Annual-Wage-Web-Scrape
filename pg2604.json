@@ -1,0 +1,26 @@
+{
+"page" : "2604",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","LESLIE","HOMAN","STY ENGR","95467.00","86583.00","1500.00","7384.00"]},
+{"id":"2","cell":["2","2018","Davis","JENNIFER A","SOTELO","POLICE OFCR","95466.00","83947.00","8887.00","2632.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","SOFIA","HUSSER","CLIN NURSE 2","95466.00","83731.00","2162.00","9573.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","RICHARD","DAVIS","STEAM OPS ENGR","95465.00","80845.00","14504.00","116.00"]},
+{"id":"5","cell":["5","2018","San Diego","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","95465.00","65665.00","0.00","29800.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","CHRISTINA","DEROBERTIS","CLIN NURSE 2","95464.00","84838.00","1193.00","9433.00"]},
+{"id":"7","cell":["7","2018","Santa Cruz","CICELY","FU","DATA SYS ANL 3","95463.00","94513.00","0.00","950.00"]},
+{"id":"8","cell":["8","2018","San Diego","JAMES O","BORDNER","CMPTL AND DATA SCI RSCH SPEC 4","95458.00","94458.00","0.00","1000.00"]},
+{"id":"9","cell":["9","2018","San Francisco","JENNIFER LYNN","ASHBY","ACUPUNCTURIST 3 GF","95456.00","92864.00","0.00","2592.00"]},
+{"id":"10","cell":["10","2018","Irvine","KRISTIANE A","KINOSHITA","CLIN NURSE 2","95455.00","85473.00","3255.00","6727.00"]},
+{"id":"11","cell":["11","2018","Irvine","GRACE","KIM","CLIN NURSE 2","95455.00","83804.00","7624.00","4027.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","NEIL","BRAVO","REG RESP THER 1","95455.00","83974.00","613.00","10868.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","SHANNON","APSAY","CLIN NURSE 2","95449.00","92108.00","806.00","2535.00"]},
+{"id":"14","cell":["14","2018","Davis","NICOLAS X","FAUCHIER-MAGNAN","ENERGY MGT SUPV 2","95445.00","95445.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","95443.00","66393.00","0.00","29050.00"]},
+{"id":"16","cell":["16","2018","Davis","EILEEN P","CASUGA","CLIN NURSE 2","95442.00","86989.00","713.00","7740.00"]},
+{"id":"17","cell":["17","2018","Santa Cruz","ANN M","GIBB","FUNDRAISER 4","95441.00","92407.00","0.00","3034.00"]},
+{"id":"18","cell":["18","2018","Riverside","NATHANIEL","GONZALEZ","HEAD COACH 5","95440.00","91740.00","0.00","3700.00"]},
+{"id":"19","cell":["19","2018","San Diego","DANA ERIN","PFENDER","STDT SVC MGR 1","95440.00","93830.00","0.00","1610.00"]},
+{"id":"20","cell":["20","2018","San Diego","IBRAHIM","MAMUDU","SYS OPR","95440.00","77714.00","10803.00","6923.00"]}]
+}

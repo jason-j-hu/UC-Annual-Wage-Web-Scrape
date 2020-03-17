@@ -1,0 +1,26 @@
+{
+"page" : "4756",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","MERRY L","SAMONTE","ACAD HR ANL 2","59758.00","57422.00","1336.00","1000.00"]},
+{"id":"2","cell":["2","2018","San Francisco","LEONOR N","DIZON","BLANK AST 3","59757.00","58838.00","259.00","660.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","JOHN","O\"BANNON","FAC MECH","59757.00","58294.00","1463.00","0.00"]},
+{"id":"4","cell":["4","2018","Santa Cruz","RICHARD ANTHONY","SABALA","FAC MGT SPEC 2","59756.00","58786.00","470.00","500.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","BETH","STOFFMACHER","ADMIN ANL SR","59755.00","59755.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","ANNA M","MUDD","MED AST 2","59754.00","57628.00","2120.00","6.00"]},
+{"id":"7","cell":["7","2018","San Diego","DAWNA COGAN","CHUSS","BLANK AST 3","59754.00","59254.00","0.00","500.00"]},
+{"id":"8","cell":["8","2018","San Diego","SABRINA","ESPINOSA","BLANK AST 3","59754.00","59254.00","0.00","500.00"]},
+{"id":"9","cell":["9","2018","Merced","JASON","DAVENPORT","ADMIN OFCR 3","59754.00","59754.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","BERTHA E","ORTEGA","HOSP BLANK AST 3","59753.00","55726.00","1987.00","2040.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MESKEREM","GIRMA","CLIN CARE PARTNER","59752.00","49970.00","2306.00","7476.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","NANCY","RODRIGUEZ","HOSP BLANK AST 3","59751.00","55188.00","3965.00","598.00"]},
+{"id":"13","cell":["13","2018","Riverside","ERIN","CHAPMAN","EXEC AST 3","59751.00","58401.00","0.00","1350.00"]},
+{"id":"14","cell":["14","2018","San Diego","KAKADA SALINA","ONEVATHANA","PAT BILLER 3","59751.00","55957.00","2759.00","1035.00"]},
+{"id":"15","cell":["15","2018","Davis","JASON C","SISON","STDT ACAD ADVISOR 2","59750.00","58931.00","819.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","ABRAHAM","CASTANEDA","HOSP LAB TCHN 2","59750.00","55380.00","2795.00","1575.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","MARGARET JANE","MACKENZIE","CLIN NURSE 3","59750.00","58487.00","94.00","1169.00"]},
+{"id":"18","cell":["18","2018","Riverside","JACLYN","VASQUEZ","LECT-AY","59750.00","59750.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","GIGI","WANG","TEACHER-SPEC PROG","59750.00","0.00","0.00","59750.00"]},
+{"id":"20","cell":["20","2018","San Diego","NANCY ELIZABETH","GUERRERO","STDT SVC ADVISOR 2","59749.00","55229.00","620.00","3900.00"]}]
+}

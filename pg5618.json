@@ -1,0 +1,26 @@
+{
+"page" : "5618",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","PAMELA J","MCINNIS","BLANK AST 3","51754.00","51754.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","KATHLEEN D","KEENE","BLANK AST 3","51754.00","51754.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","DENUSHA S.","AMALADAS","LIBRARY AST 4","51754.00","51754.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","SUCHETA MUKUL","VAINGANKAR","ASSOC ADJ PROF-HCOMP","51754.00","51754.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","SAMUEL","DEL FAVERO","CLIN RSCH CRD","51753.00","41400.00","10353.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","AMY KATHLEEN","TJERNAGEL","NURSE PD","51753.00","40890.00","10635.00","228.00"]},
+{"id":"7","cell":["7","2018","Davis","JORY LAMONT","LOCKHART","AUTO EQUIP OPR PRN","51753.00","50684.00","1028.00","41.00"]},
+{"id":"8","cell":["8","2018","Davis","DEBRA L","SELLERS","FINANCIAL SVC ANL 3","51753.00","51753.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Riverside","ELENI","MASTORAKOS","PUBL EDUC SPEC 3","51753.00","51753.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","NINA M","DRAEGER","POSTDOC-EMPLOYEE","51752.00","49252.00","0.00","2500.00"]},
+{"id":"11","cell":["11","2018","San Francisco","NESTOR","DEGUZMAN","CUSTODIAN SR","51752.00","49094.00","55.00","2603.00"]},
+{"id":"12","cell":["12","2018","San Francisco","ROBERT W","KEY","PUBLICATIONS PROD SPEC 2","51752.00","49870.00","1882.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Cruz","ELANI M","ZISSIMOPOULOS","ACAD HR SUPV 2","51752.00","51752.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","KRISTEN M","WALKER","FINANCIAL ANL 2","51752.00","47045.00","3207.00","1500.00"]},
+{"id":"15","cell":["15","2018","Berkeley","JUSTIN","PASCHALL","APPLICATIONS PROGR 4","51751.00","51751.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","JOHN","WIDLOSKI","POSTDOC-EMPLOYEE","51750.00","51750.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","MATTHEW","KLEINMAN","POSTDOC-EMPLOYEE","51750.00","51750.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","LUCY CAMILLA","YOUNG","POSTDOC-EMPLOYEE","51750.00","51750.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","BASTIAN","JOEHNK","POSTDOC-EMPLOYEE","51750.00","51750.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","SOOHYUN","KIM","POSTDOC-EMPLOYEE","51750.00","51750.00","0.00","0.00"]}]
+}

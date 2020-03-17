@@ -1,0 +1,26 @@
+{
+"page" : "3002",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","HELDER C","BALELO","FINANCIAL ANL 3","85992.00","82492.00","0.00","3500.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","SUSAN","KARASIC","PRG PROMOTION MGR 1","85991.00","85991.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","CESAR","ALVARADO","DEV ENGR SR","85989.00","85239.00","0.00","750.00"]},
+{"id":"4","cell":["4","2018","Davis","AUBRYN M","COOPERMAN","RSCH AND DEV ENGR 3","85987.00","85987.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","KENNETH A","KUNKEL","NURSE PD","85985.00","79337.00","5589.00","1059.00"]},
+{"id":"6","cell":["6","2018","Davis","KENNETH L","MARANTA","FINANCIAL ANL 4","85985.00","85985.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","GREGORY E.","GALLARDO","DIR","85984.00","85984.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","ROCIO G","HERNANDEZ","CLIN APPLICATIONS PROFL 3","85984.00","83158.00","0.00","2826.00"]},
+{"id":"9","cell":["9","2018","San Francisco","BURTON","FONG","BUS TCHL SUPP ANL 2","85982.00","82051.00","59.00","3872.00"]},
+{"id":"10","cell":["10","2018","Santa Cruz","JOSHUA ROUSSEAU","MARTIN","EXEC CHEF 5","85981.00","85481.00","0.00","500.00"]},
+{"id":"11","cell":["11","2018","Merced","SANDRA","YOSHIMI","ACAD HR ANL 3","85981.00","81294.00","0.00","4687.00"]},
+{"id":"12","cell":["12","2018","Riverside","MEI-CHU","CHANG","PROF-AY","85978.00","85978.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","CORINNA M","FISH","COMM MGR 1","85976.00","84059.00","0.00","1917.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","REBECA","RIOS","ASST PROF-AY","85975.00","85975.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","SATPREET","DHILLON","CLIN LAB SCI","85974.00","83194.00","188.00","2592.00"]},
+{"id":"16","cell":["16","2018","Davis","JOHN C","CONROY","MARKETING SUPV 2","85974.00","85974.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","EDANA M","FIELDEN","MARKETING SUPV 2","85974.00","85974.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","DAVID J","HERNANDEZ","STEAMFITTER","85974.00","73222.00","12752.00","0.00"]},
+{"id":"19","cell":["19","2018","UCOP","JENNY","ZAPIEN","BENEFITS SUPV 2","85974.00","75390.00","0.00","10584.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","PRISCILA","GONZALEZ QUINTERO","CLIN NURSE 2","85972.00","81611.00","875.00","3486.00"]}]
+}

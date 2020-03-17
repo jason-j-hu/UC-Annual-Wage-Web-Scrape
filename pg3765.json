@@ -1,0 +1,26 @@
+{
+"page" : "3765",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","SHELLY ANN","FROMHOLTZ","HEALTH PROFNS EDUC SPEC 2","71698.00","67698.00","0.00","4000.00"]},
+{"id":"2","cell":["2","2018","Berkeley","CATIE","CARIAGA","FINANCIAL SVC ANL 3","71698.00","71698.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","ARSENIA","BONIFACIO","PAT CARE AST","71697.00","57788.00","5630.00","8279.00"]},
+{"id":"4","cell":["4","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","71697.00","58497.00","0.00","13200.00"]},
+{"id":"5","cell":["5","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","71697.00","58497.00","0.00","13200.00"]},
+{"id":"6","cell":["6","2018","Berkeley","ANA","RAFFERTY","ADMISSIONS RECRMT SPEC 3","71697.00","71697.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","DONNA","BRENNAN","ADMISSIONS RECRMT SPEC 3","71697.00","71697.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","MARTHA","SCOLARI","HOSP BLANK AST 3","71695.00","55746.00","15949.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","DEBRA A","SCHNEIDER","PRACTICE CRD 3","71694.00","70554.00","0.00","1140.00"]},
+{"id":"10","cell":["10","2018","San Francisco","JESSICA APRIL","LEIVA","PRACTICE CRD 3","71694.00","70554.00","0.00","1140.00"]},
+{"id":"11","cell":["11","2018","San Diego","NATALIA O","MARKOVA","PHARMACY TCHN 3","71694.00","57023.00","9430.00","5241.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","JACQUELYNN","PERRY","ADMIN SPEC","71692.00","64817.00","3675.00","3200.00"]},
+{"id":"13","cell":["13","2018","Berkeley","JONATHAN","GOODRICH","ALUMNI EXTERNAL REL SUPV 1","71692.00","71692.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","ROMAN","LANTSOV","DEV ENGR ASC","71690.00","71690.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","VERONA R","AGBULOS","ADMIN OFCR 2","71689.00","71261.00","428.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","ANGELA","SMERALDI","PHARMACY TCHN 3","71689.00","62895.00","7449.00","1345.00"]},
+{"id":"17","cell":["17","2018","San Francisco","CHRISTINA JENELL","CALONSAG","PRACTICE CRD 3","71688.00","68881.00","1900.00","907.00"]},
+{"id":"18","cell":["18","2018","Santa Cruz","JOHN JOSEPH","CRONIN","FAC SUPV 2","71687.00","70937.00","0.00","750.00"]},
+{"id":"19","cell":["19","2018","Davis","PATRICK R","HUBER","ASSOC PROJ SCIENTIST-FY","71686.00","71686.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","CLEOFE G","AQUINO","COLL REPR SR","71685.00","70543.00","0.00","1142.00"]}]
+}

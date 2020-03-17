@@ -1,0 +1,26 @@
+{
+"page" : "530",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","HOMAYOON","KAZEROONI","PROF-AY-B/E/E","202567.00","200567.00","0.00","2000.00"]},
+{"id":"2","cell":["2","2018","Davis","MARY M","MCNALLY","ADMIN MGR 3","202560.00","202560.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","CASEY","SHERMAN","ASC PHYSCN DIPLOMATE","202552.00","78963.00","0.00","123589.00"]},
+{"id":"4","cell":["4","2018","San Francisco","DAWN SMILEK","MALTER","ADJ INSTR-HCOMP","202546.00","173232.00","0.00","29314.00"]},
+{"id":"5","cell":["5","2018","Davis","JOHN M","EADIE","PROF-FY","202543.00","202043.00","0.00","500.00"]},
+{"id":"6","cell":["6","2018","Riverside","JOHN","LEVIN","PROF-AY","202534.00","197867.00","0.00","4667.00"]},
+{"id":"7","cell":["7","2018","San Francisco","DINA","SPIVAK","CLIN NURSE 2","202533.00","177295.00","5180.00","20058.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","ADAM","SUGANO","DIR","202521.00","191421.00","0.00","11100.00"]},
+{"id":"9","cell":["9","2018","San Diego","ELAINE M.","SAPIRO","ASC PHYSCN DIPLOMATE","202521.00","145377.00","0.00","57144.00"]},
+{"id":"10","cell":["10","2018","San Diego","JENNIFER A","HOLLAND","CLIN INFORMATICS MGR 2","202519.00","180232.00","0.00","22287.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","CAMDEN","MORSE","DIR","202512.00","184102.00","0.00","18410.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","CLIFFORD","KO","PROF-HCOMP","202502.00","202502.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","SANDRA","OGBONNAYA-WHITTLESEY","ASC PHYSCN DIPLOMATE","202501.00","111790.00","0.00","90711.00"]},
+{"id":"14","cell":["14","2018","San Francisco","PETER","FRANCO","CONTRACT ADMSTN MGR 2","202500.00","202500.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","LICIA","SELLERI","PROF-HCOMP","202500.00","150379.00","0.00","52121.00"]},
+{"id":"16","cell":["16","2018","Davis","LESLYN ANN","KRAUS","AUDIT MGR 3","202500.00","202500.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","NANCY","KATANO","ADV OFCR 4","202500.00","202500.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","TATIANA","URISMAN","NURSE SVC SUPV 2","202486.00","184411.00","0.00","18075.00"]},
+{"id":"19","cell":["19","2018","Davis","STEVE J","WEGNER","INFO SYS MGR 2","202484.00","178388.00","0.00","24096.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","RYAN","VILLAMATER","PHYSCN AST SR","202477.00","151786.00","43706.00","6985.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "1980",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","SUZANNE","OKUBO","PHYS THER 3 NEX","113247.00","112803.00","444.00","0.00"]},
+{"id":"2","cell":["2","2018","Merced","CHRISTINA","TORRES-ROUFF","ASSOC PROF-AY","113247.00","103458.00","0.00","9789.00"]},
+{"id":"3","cell":["3","2018","Santa Cruz","TROY JASON","WRIGHT","IT SCRTY ANL 4","113246.00","111796.00","0.00","1450.00"]},
+{"id":"4","cell":["4","2018","San Francisco","ELIZABETH R","LUJAN","CNSLNG PSYCHOLOGIST 4","113244.00","113244.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","REINA MERCEDES","RODRIGUEZ","CLIN NURSE 2","113243.00","103552.00","5743.00","3948.00"]},
+{"id":"6","cell":["6","2018","San Francisco","ROBIN GENE","LAU","CLIN LAB SCI","113241.00","111658.00","0.00","1583.00"]},
+{"id":"7","cell":["7","2018","Berkeley","ANNE-MARIE","HARVEY","FUNDRAISER 5","113241.00","112741.00","0.00","500.00"]},
+{"id":"8","cell":["8","2018","Irvine","KIMBERLY A.","AYALA-WARNER","MGR","113237.00","113237.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","ANDREW A","LUEY","BUS SYS ANL 3","113236.00","108226.00","0.00","5010.00"]},
+{"id":"10","cell":["10","2018","Irvine","TOMOMI","ARMENTROUT","CLIN NURSE 2","113236.00","101807.00","7789.00","3640.00"]},
+{"id":"11","cell":["11","2018","UCOP","PETER","CHURCH","BUS SYS ANL 4","113236.00","113236.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","JENI TANSECO","DIAZ","AMBUL CARE PAT MGR 1","113236.00","103849.00","557.00","8830.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","MEGAN","MCFARLAIN","CLIN NURSE 2","113233.00","97232.00","1208.00","14793.00"]},
+{"id":"14","cell":["14","2018","San Francisco","PHI NGUYEN","POBLETE","CLIN LAB SCI","113229.00","105733.00","1694.00","5802.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","ZAHRA","KASHANI-HEIDARI","CYTOGENETIC TCHNO 2","113229.00","109408.00","0.00","3821.00"]},
+{"id":"16","cell":["16","2018","Irvine","KEITH M","MADEY","ADMIN ANL PRN 1","113228.00","108646.00","0.00","4582.00"]},
+{"id":"17","cell":["17","2018","Berkeley","GABRIEL","IRVING","POLICE OFCR","113228.00","100857.00","7866.00","4505.00"]},
+{"id":"18","cell":["18","2018","Berkeley","JONATHAN","RITTLE","ASST PROF-AY","113226.00","42167.00","0.00","71059.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","WILLIAM R","RICE","PROF-AY","113225.00","113225.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","*****","*****","HS CLIN INSTR-HCOMP","113224.00","65182.00","0.00","48042.00"]}]
+}

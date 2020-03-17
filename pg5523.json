@@ -1,0 +1,26 @@
+{
+"page" : "5523",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","MONICA","GATDULA","ACCOUNTANT 1","52562.00","52001.00","561.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","BAILEY R","MOSS","K to 14 ACAD PREP SPEC 2","52562.00","52562.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","KORY J","HAYDEN","K to 14 ACAD PREP SPEC 2","52562.00","52562.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","PATERNO LICUANAN","SORIANO","PAT CARE DIALYSIS TCHN 1","52562.00","49598.00","1951.00","1013.00"]},
+{"id":"5","cell":["5","2018","Berkeley","MELANIE","DIXON","BUS SYS ANL 3","52562.00","52562.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Merced","KEVIN","STORMS","MARKETING SUPV 2","52561.00","48513.00","0.00","4048.00"]},
+{"id":"7","cell":["7","2018","San Diego","SARAH KAY MANA","BOUNYAVONG","PHYS THER AST 1","52560.00","51249.00","309.00","1002.00"]},
+{"id":"8","cell":["8","2018","Berkeley","PHAIRATH","SOUTHIPHONH","CUSTODIAN","52560.00","51044.00","0.00","1516.00"]},
+{"id":"9","cell":["9","2018","Berkeley","HIENG","CHAIYASIT","CUSTODIAN","52560.00","51044.00","0.00","1516.00"]},
+{"id":"10","cell":["10","2018","San Francisco","NHU-Y","TRUONG","FUNDRAISER 2 NEX","52559.00","52559.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","STEPHEN","BOATRIGHT","LECT-AY-1/9","52559.00","52559.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","JENNIFER A","QUIGLEY","FINANCIAL ANL 2","52558.00","52258.00","0.00","300.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","JAVIER","VELASQUEZ MORENO","COLL REPR SR","52558.00","51661.00","897.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","REBECCA","PACE","ADMIN SPEC","52558.00","52048.00","10.00","500.00"]},
+{"id":"15","cell":["15","2018","Santa Barbara","ARNULFO","TENORIO BEDOLLA","GROUNDSKEEPER","52558.00","47072.00","5486.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","SARA L","APPLETON-KNAPP","ASST PROJ SCIENTIST-FY","52556.00","51489.00","91.00","976.00"]},
+{"id":"17","cell":["17","2018","Davis","LINH VIET","HUYNH","POSTDOC-EMPLOYEE","52555.00","52555.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Cruz","GONCA","BULBUL","POSTDOC-EMPLOYEE","52555.00","50555.00","0.00","2000.00"]},
+{"id":"19","cell":["19","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","52555.00","45192.00","750.00","6613.00"]},
+{"id":"20","cell":["20","2018","Irvine","BRENDA","ENCINAS","PAT BILLER 4","52554.00","52394.00","160.00","0.00"]}]
+}

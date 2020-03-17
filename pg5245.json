@@ -1,0 +1,26 @@
+{
+"page" : "5245",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","JAY CHRISTOPHER","OCTEAU","POSTDOC-EMPLOYEE","55113.00","55113.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","CHRISTOPHER","NUTTALL","LECT-AY","55113.00","55113.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","LANDON","HYDE","FAC WORKER","55112.00","50928.00","928.00","3256.00"]},
+{"id":"4","cell":["4","2018","San Diego","LILIA","RAMIREZ","HOSP BLANK AST 3","55112.00","53039.00","1068.00","1005.00"]},
+{"id":"5","cell":["5","2018","Berkeley","JENNY","CHU","HR GENERALIST 2","55111.00","55111.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","DENISE RENE","TAUESE","PHLEBOTOMIST CERT TCHN 2","55109.00","47933.00","1856.00","5320.00"]},
+{"id":"7","cell":["7","2018","Berkeley","BRIAN","QUAN","SCRTY GUARD SR","55109.00","44851.00","6634.00","3624.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","CRUSSURE","OWENS","TCHN SR","55108.00","53555.00","353.00","1200.00"]},
+{"id":"9","cell":["9","2018","Davis","MARIAN L","MERCADO","MED OFC SVC CRD 2","55107.00","55077.00","30.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","AMANDA","PRUDEN","ATH TRAINER","55107.00","53232.00","0.00","1875.00"]},
+{"id":"11","cell":["11","2018","Berkeley","DEENA","PATEL","BLANK AST 3","55107.00","55078.00","29.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","AMY J","CRUMBACKER","ADMIN OFCR 2","55106.00","53906.00","0.00","1200.00"]},
+{"id":"13","cell":["13","2018","San Diego","SHARAN","JONES","HOSP BLANK AST 3","55106.00","51130.00","869.00","3107.00"]},
+{"id":"14","cell":["14","2018","San Francisco","CHRISTIAN LINCO","MENDOZA","BLANK AST 3","55105.00","54438.00","0.00","667.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","OSCAR","PEREZ","BLANK AST 3","55105.00","49898.00","4396.00","811.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","LIBRINA","MENDIOLA","HOSP BLANK AST 3","55105.00","55105.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Riverside","LENORE","MCCALL","PROCUREMENT ANL 4","55105.00","55105.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","CHLOE","LAI","BLANK AST 1","55104.00","54058.00","26.00","1020.00"]},
+{"id":"19","cell":["19","2018","Riverside","ARLENE","CANO MATUTE","STDT LIFE DEV SPEC 3","55104.00","53304.00","0.00","1800.00"]},
+{"id":"20","cell":["20","2018","Irvine","KALEE DAMISI","CHAMBERS","PAT RCDS ABSTRACTOR 2","55103.00","54036.00","47.00","1020.00"]}]
+}

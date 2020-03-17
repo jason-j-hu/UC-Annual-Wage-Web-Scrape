@@ -1,0 +1,26 @@
+{
+"page" : "5101",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","MARNEL IRENE","VALLE","HOSP BLANK AST 3","56399.00","54985.00","274.00","1140.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","HECTOR","HERNANDEZ","CTRL SVC TCHN 2","56397.00","50327.00","4639.00","1431.00"]},
+{"id":"3","cell":["3","2018","Davis","LORRIE L","SPRING","CARE HOSP SUPV 1","56397.00","51570.00","0.00","4827.00"]},
+{"id":"4","cell":["4","2018","Irvine","CYNTHIA D","WIGHT","ADMITTING WORKER PRN","56396.00","48682.00","2891.00","4823.00"]},
+{"id":"5","cell":["5","2018","Riverside","LOURDES","MALDONADO","K TO 14 ACAD PREP SPEC 3","56396.00","56396.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Santa Cruz","STEWART E","BROWN","BLDG MAINT WORKER SR","56395.00","56395.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","AMY E","BANASIK","SRA 4","56395.00","56395.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","ALLA","ZHUKOV","STERILE PROCESSING TCHN 2","56395.00","53292.00","2849.00","254.00"]},
+{"id":"9","cell":["9","2018","San Diego","MAYRA","DELATOBA","PAT BILLER 4","56394.00","54922.00","470.00","1002.00"]},
+{"id":"10","cell":["10","2018","Davis","LYDIA F","HASSAN","HOSP UNIT SVC CRD 3","56393.00","52763.00","1131.00","2499.00"]},
+{"id":"11","cell":["11","2018","Santa Barbara","CEANNA","BOWMAN","GEN ACCOUNTANT 2","56393.00","56393.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","KRISTEN","PEREZ","ADMIN ANL","56393.00","52649.00","3044.00","700.00"]},
+{"id":"13","cell":["13","2018","Berkeley","FUEY","SAEYANG","CUSTODIAN","56393.00","46784.00","7893.00","1716.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","*****","*****","STDT AFFAIRS OFCR 2","56392.00","52870.00","0.00","3522.00"]},
+{"id":"15","cell":["15","2018","UCOP","SABRIN","SAID","CURRICULUM PLNR 3","56392.00","56392.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","DANIEL","EGERT","POSTDOC-EMPLOYEE","56391.00","56391.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Irvine","DORA ISELA","BELTRAN","ADMITTING WORKER PRN","56391.00","53639.00","2326.00","426.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","KAREN","SAFARYAN","POSTDOC-EMPLOYEE","56391.00","56391.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","JOSEPH F","BELFORD","DATA SYS ANL 3","56391.00","55790.00","601.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Cruz","ETHAN ALDEN","MORA","ASST PROJ SCIENTIST-FY","56389.00","56389.00","0.00","0.00"]}]
+}

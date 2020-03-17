@@ -1,0 +1,26 @@
+{
+"page" : "3992",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","ALEXANDRA","AUSTIN","PROJECT POLICY ANL 2","68446.00","67946.00","0.00","500.00"]},
+{"id":"2","cell":["2","2018","San Francisco","LI MEI","WU","MED CTR CUSTODIAN SR","68446.00","54475.00","9972.00","3999.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","PATRICIA","MUELLER","ADMIN ANL SR","68446.00","66946.00","0.00","1500.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","TAMALA","RISHER","HOSP LAB TCHN 2","68445.00","68445.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","LEANN M.","HADDAD","CLIN NURSE 2","68443.00","60344.00","1842.00","6257.00"]},
+{"id":"6","cell":["6","2018","Davis","JOHN R","CYPRESS","PHYS PLT MECH","68443.00","63672.00","4771.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","LAUREN","O\"RILEY","CLIN NURSE 3","68443.00","64243.00","569.00","3631.00"]},
+{"id":"8","cell":["8","2018","Davis","STEPHANIE","BAILEY","CONTRACT ADM 2","68443.00","67431.00","1012.00","0.00"]},
+{"id":"9","cell":["9","2018","Berkeley","ELINOR","GREGORIO","STDT ACAD ADVISOR 2","68443.00","67862.00","581.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","SCOTT D","POLISKY","LECT-AY","68442.00","62142.00","0.00","6300.00"]},
+{"id":"11","cell":["11","2018","San Francisco","FARZANEH Z.","HATEFI","COLL REPR SR","68440.00","64573.00","2714.00","1153.00"]},
+{"id":"12","cell":["12","2018","Berkeley","MARA","RUDOLPH","MEDIA COMM SPEC 3","68439.00","67939.00","0.00","500.00"]},
+{"id":"13","cell":["13","2018","San Francisco","EDWIN CASTRO","MONSADA","HOSP LAB TCHN 1","68438.00","66891.00","407.00","1140.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","ARASH","DAVIDI","CNSLR 2","68438.00","66675.00","763.00","1000.00"]},
+{"id":"15","cell":["15","2018","Hastings College Of Law","THERESA","HOSKINS-FORD","ADMIN SUPPORT COOR.","68436.00","68436.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","MARIA","GARCIA DE LEANO","STERILE PROCESSING TCHN 2","68436.00","48726.00","11236.00","8474.00"]},
+{"id":"17","cell":["17","2018","San Francisco","ELIZABETH M","BOSWELL","AMBUL CARE ADMSTN CRD 2","68435.00","64655.00","759.00","3021.00"]},
+{"id":"18","cell":["18","2018","Irvine","EFRAIN A","CERRATO","HOSP LAB TCHN 3","68435.00","68137.00","298.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","GEORGE E JR","HARRIS","ORTHOPEDIC TCHN SR","68435.00","65129.00","2582.00","724.00"]},
+{"id":"20","cell":["20","2018","Davis","SHAWN R","JACKSON","ADMIN SUPV 1","68434.00","64946.00","1494.00","1994.00"]}]
+}

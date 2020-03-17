@@ -1,0 +1,26 @@
+{
+"page" : "2412",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","CELESTE HUNTER","HINOJOSA","CLIN NURSE 2","100477.00","85873.00","3790.00","10814.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","MATTHEW","RIOUX","LECT PSOE-AY","100476.00","84376.00","0.00","16100.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","NICOLE","TOM","CLIN NURSE 2","100474.00","89519.00","1549.00","9406.00"]},
+{"id":"4","cell":["4","2018","San Francisco","MARK L","GENOVE","HOSP LAB TCHN 1","100470.00","80703.00","13933.00","5834.00"]},
+{"id":"5","cell":["5","2018","Davis","JENNIFER R","GREMER","ASST PROF-AY","100469.00","100469.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","LISA","SLAVID","ORGANIZATIONAL CNSLT 4","100469.00","100469.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","EDWARD","CARDENAS","STEAM OPS ENGR","100466.00","81339.00","18127.00","1000.00"]},
+{"id":"8","cell":["8","2018","Berkeley","YVONNE","EDWARDS","EXEC AST 5","100465.00","100130.00","0.00","335.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","ADRIENNE","SANTIAGO","CLIN LAB SCI","100462.00","89319.00","4801.00","6342.00"]},
+{"id":"10","cell":["10","2018","Riverside","LOURDES","ESCAMILLA","ADMIN SUPV 2","100460.00","100460.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","SETH SCOTT","MULLEN","EHS SPEC 3","100460.00","100460.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","LISA CHRISTINE","OMER","FINANCIAL ANL SUPV 2","100458.00","94133.00","0.00","6325.00"]},
+{"id":"13","cell":["13","2018","Davis","KATHRYN","PERRY","ELECTRN","100458.00","81869.00","12308.00","6281.00"]},
+{"id":"14","cell":["14","2018","San Francisco","VALERIE K","SCOTT","ACAD PRG MGT OFCR 3","100457.00","71315.00","0.00","29142.00"]},
+{"id":"15","cell":["15","2018","Berkeley","RACHEL","BARLEY","ALUMNI EXTERNAL REL SPEC 4","100457.00","100457.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","REBECCA","SANCHEZ","BUDGET ANL PRN SUPV","100456.00","100456.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","LISA H","MANAHAN","FIELD RSCH SUPV 2","100451.00","90251.00","0.00","10200.00"]},
+{"id":"18","cell":["18","2018","Davis","DOUGLAS J","ROWLAND","ASSOC PROJ SCIENTIST-FY-B/E/E","100450.00","100450.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","ADAM MICHAEL","FEIST","ASSOC PROJ SCIENTIST-FY-B/E/E","100450.00","100450.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Merced","MATTHEW","HIBBING","ASSOC PROF-AY","100450.00","100450.00","0.00","0.00"]}]
+}

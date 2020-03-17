@@ -1,0 +1,26 @@
+{
+"page" : "1724",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","ROBERT JAY","ANTHONY","INFO SYS ANL 4","122011.00","121011.00","0.00","1000.00"]},
+{"id":"2","cell":["2","2018","San Francisco","ELIZABETH ANN","JOYCE","ASSOC ADJ PROF-HCOMP","122008.00","121258.00","0.00","750.00"]},
+{"id":"3","cell":["3","2018","Riverside","KATHY","CARRINGTON","ADMIN MGR 1","122005.00","121505.00","0.00","500.00"]},
+{"id":"4","cell":["4","2018","UCOP","GREER","GUSTAVSON","ENTERPRISE RISK MGR 2","122003.00","122003.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","KAYE S","HERMANSON","PSYCHOLOGIST 2","122002.00","122002.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","INNA","PLUGOVAYA","CLIN NURSE 2","122001.00","114354.00","1612.00","6035.00"]},
+{"id":"7","cell":["7","2018","Berkeley","NICHOLAS","MORISCO","FAC PROJECT MGT SPEC 4","122000.00","122000.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","MELANIE L","OAKES","PROJ SCIENTIST-FY","122000.00","122000.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","LARRY D","JAMNER","PROF-AY","122000.00","122000.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Irvine","VANESSA","RODRIGUEZ","HS ASST CLIN PROF-FY","122000.00","122000.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","ERIN","HARNISCH","ADMIN ANL PRN 2","122000.00","122000.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","GREGORY L.","GIBBS","FUNDRAISING MGR 1","122000.00","122000.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","JAMES","MCTIERNAN","PROJ SCIENTIST-FY","122000.00","122000.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","CHERYL A.","MOON","REG RESP THER 1","121997.00","111764.00","366.00","9867.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","THERESA","THOMSEN","PUBL SFTY DISPATCHER","121990.00","84081.00","35621.00","2288.00"]},
+{"id":"16","cell":["16","2018","San Francisco","MABEL L","ZELAYA","ADMIN SUPV 2","121989.00","121989.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","NATALYA","POKADKO","CLIN NURSE 2","121988.00","113084.00","3523.00","5381.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","NEIL","RIKHI","CATH LAB RADLG TCHNO","121987.00","102252.00","5058.00","14677.00"]},
+{"id":"19","cell":["19","2018","San Francisco","MONICA","MAPA","COMM MGR 1","121985.00","120985.00","0.00","1000.00"]},
+{"id":"20","cell":["20","2018","Irvine","KATHLEEN ANN","PICKELL","DATA SYS ANL 4","121985.00","117040.00","0.00","4945.00"]}]
+}

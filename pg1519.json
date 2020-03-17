@@ -1,0 +1,26 @@
+{
+"page" : "1519",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","RENA J","PASICK","RECALL FACULTY","129814.00","111758.00","0.00","18056.00"]},
+{"id":"2","cell":["2","2018","San Diego","ASHLEY MARIE","HENNEMUTH","NURSE PD","129812.00","90655.00","7881.00","31276.00"]},
+{"id":"3","cell":["3","2018","Davis","MANDY M.","HEITZ","ADMIN MGR 1","129805.00","129805.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Merced","KEVIN","MITCHELL","PROF-AY","129805.00","116983.00","0.00","12822.00"]},
+{"id":"5","cell":["5","2018","San Francisco","RENEE SARA","CLARK-HERSH","CLIN NURSE 2","129803.00","127933.00","1052.00","818.00"]},
+{"id":"6","cell":["6","2018","Berkeley","LESLIE","GOLDSTEIN","CONTRACTS AND GRANTS MGR 2","129801.00","126801.00","0.00","3000.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","GOPAL","SAPPARAPU","SPEC","129799.00","118707.00","0.00","11092.00"]},
+{"id":"8","cell":["8","2018","Berkeley","INGRID","CASTRO-RODRIGUEZ","EHS SPEC 5","129793.00","129793.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","SOM S","CHATTERJEE","ASST ADJ PROF-HCOMP","129792.00","98223.00","0.00","31569.00"]},
+{"id":"10","cell":["10","2018","Berkeley","MING","LEUNG","ASST PROF-AY-B/E/E","129792.00","109025.00","0.00","20767.00"]},
+{"id":"11","cell":["11","2018","San Francisco","LANTZ DERRICK","RUBIN","SURGICAL TCHN PRN","129791.00","101370.00","5795.00","22626.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ROBERT","PARK","COMPUTING RESC MGR 2","129791.00","127213.00","0.00","2578.00"]},
+{"id":"13","cell":["13","2018","Berkeley","DANIEL","LEE","ASSOC PROF-AY","129791.00","110067.00","0.00","19724.00"]},
+{"id":"14","cell":["14","2018","Irvine","STEPHANIE ANN","DUBNICK","DIR","129788.00","122853.00","0.00","6935.00"]},
+{"id":"15","cell":["15","2018","Berkeley","RICHARD","PERRY","LECT-AY-CONTINUING","129787.00","117045.00","0.00","12742.00"]},
+{"id":"16","cell":["16","2018","San Francisco","FRANCES E","ROCHE","GENETIC CNSLR 3 EX","129786.00","129126.00","0.00","660.00"]},
+{"id":"17","cell":["17","2018","Davis","DEBBY J","RADER","CLIN LAB SCI","129782.00","107557.00","11855.00","10370.00"]},
+{"id":"18","cell":["18","2018","San Diego","MARK ANTHONY","WILLMORE","PROCUREMENT MGR 1","129782.00","128782.00","0.00","1000.00"]},
+{"id":"19","cell":["19","2018","Irvine","BAMBI LYNN","HAGGINS","ASSOC PROF-AY","129775.00","129025.00","0.00","750.00"]},
+{"id":"20","cell":["20","2018","Riverside","MELISSA","WILCOX","PROF-AY","129775.00","128733.00","0.00","1042.00"]}]
+}

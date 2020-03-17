@@ -1,0 +1,26 @@
+{
+"page" : "4675",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","TRINA D","GIARDINO","FINANCIAL ANL 2","60578.00","60328.00","0.00","250.00"]},
+{"id":"2","cell":["2","2018","San Diego","EWA","OLESINSKA","HOSP BLANK AST 3","60578.00","55553.00","4003.00","1022.00"]},
+{"id":"3","cell":["3","2018","San Diego","ROSARIO B","ARAIZA","PHLEBOTOMIST CERT TCHN 2","60577.00","56429.00","3137.00","1011.00"]},
+{"id":"4","cell":["4","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","60576.00","35139.00","0.00","25437.00"]},
+{"id":"5","cell":["5","2018","Irvine","JULIAN ELLIS","BURTON","PROGR ANL 2","60576.00","60576.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","KARISA","BRECKENRIDGE","ADMIN ANL","60576.00","60576.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","CARRI","JOYCE","ADMIN ANL","60576.00","60427.00","149.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","OLGA","RAVLO","PHARMACY TCHN 2","60576.00","52453.00","6158.00","1965.00"]},
+{"id":"9","cell":["9","2018","UCOP","ZAINAB","KUNGU","BENEFITS ANL 2","60576.00","60106.00","470.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","ROGER GUTIERREZ","ABAAN","SURGICAL TCHN SR","60575.00","50241.00","767.00","9567.00"]},
+{"id":"11","cell":["11","2018","Irvine","STEPHEN P.","FRITZENKOTTER","TEACHER-UNEX-CONTRACT YR","60575.00","0.00","0.00","60575.00"]},
+{"id":"12","cell":["12","2018","San Francisco","MANDISA AIN","LYONS","ADMIN OFCR 3","60574.00","60574.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","DANIELLE S.","KILAYKO","CLIN RSCH CRD","60574.00","60405.00","169.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","ANGELICA Y.","KEAM","STDT AFFAIRS OFCR 3 EX","60574.00","60574.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","LAURA","GUERRERO","ADMIN ANL","60574.00","55819.00","1571.00","3184.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","CARMEN","MANCHA","ADMIN ANL","60572.00","59572.00","0.00","1000.00"]},
+{"id":"17","cell":["17","2018","San Francisco","SUSAN LYNN","RIDDLE","STRAT SOURCING PROFL 4","60571.00","60446.00","0.00","125.00"]},
+{"id":"18","cell":["18","2018","San Francisco","FELIPE","RODRIGUEZ VILLA","RSCH DATA ANL 2","60571.00","60571.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","ESMERALDA J","VANOVER","CUSTODIAL SUPV 2","60571.00","60571.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","RICARDO","ABRIL","MATERIALS MGT HC SPEC 3","60571.00","59571.00","0.00","1000.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "2475",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","JONATHAN H","YU","ASSOC PROJ SCIENTIST-FY-B/E/E","98875.00","98875.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Irvine","JAMES A.","EGAN","CONTINUING APPT-TEMP AUG","98873.00","84937.00","0.00","13936.00"]},
+{"id":"3","cell":["3","2018","Davis","MICHAEL J","HIGUERA","AUDIT PROFL 4","98872.00","98872.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","BORIS B","SEMENOV","BIOMED EQUIP TCHN 1","98872.00","86873.00","10325.00","1674.00"]},
+{"id":"5","cell":["5","2018","Berkeley","DANIEL","TOSO","SPECIALIST","98872.00","98872.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","MATTHEW J","HEINLEIN","PROGR ANL 3","98862.00","98112.00","0.00","750.00"]},
+{"id":"7","cell":["7","2018","Davis","STEPHEN D,JR.","KEENAN","CLIN LIC SOCIAL WORKER","98859.00","82545.00","8646.00","7668.00"]},
+{"id":"8","cell":["8","2018","San Francisco","RACHELLE","BARRINUEVO","HOSP LAB TCHN 2","98858.00","91852.00","826.00","6180.00"]},
+{"id":"9","cell":["9","2018","Davis","KRISTEN LEE","HIGGINSON","HOSP LAB TCHN 2","98858.00","80954.00","17904.00","0.00"]},
+{"id":"10","cell":["10","2018","Irvine","KENNETH KAZUYOSH","YAMANE","MGT SVC OFCR 3 SUPV","98857.00","87210.00","0.00","11647.00"]},
+{"id":"11","cell":["11","2018","Irvine","KRISTEN KIMIKO","NAKAMURA","CLIN LAB SCI SPEC","98856.00","93438.00","4287.00","1131.00"]},
+{"id":"12","cell":["12","2018","Berkeley","AMANDA","SLAGLE","AEROSPACE ENGR 3","98856.00","97856.00","0.00","1000.00"]},
+{"id":"13","cell":["13","2018","San Francisco","SHARON T","MARTINEZ","ADMIN OFCR 4","98855.00","98855.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","ROSE","TETRICK","REG RESP THER 1","98854.00","87775.00","683.00","10396.00"]},
+{"id":"15","cell":["15","2018","Davis","HEATHER L","ZIMMERMAN","CLIN NURSE 2","98852.00","93095.00","1431.00","4326.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","CHARLES","SMITH","PROGR ANL 4","98851.00","97601.00","0.00","1250.00"]},
+{"id":"17","cell":["17","2018","San Diego","ADAM PATRICK","YOUNG","ASSOC PROJ SCIENTIST-FY","98850.00","98850.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","MARIA JOVILLA","DONLON","CLIN LAB SCI SPEC","98849.00","97028.00","522.00","1299.00"]},
+{"id":"19","cell":["19","2018","San Diego","BAN BEHJET","ARABO","RESP THER 2","98847.00","93786.00","3572.00","1489.00"]},
+{"id":"20","cell":["20","2018","Berkeley","JOEL","MOLDENHAUER","EXEC AST 4","98847.00","98847.00","0.00","0.00"]}]
+}

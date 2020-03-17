@@ -1,0 +1,26 @@
+{
+"page" : "4445",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","UCOP","JATINDER","SANDHU","TECH SUPP ANL 2","62944.00","62171.00","773.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","PAUL","MOORE","PROGR ANL 2 SUPV","62943.00","62257.00","686.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","MELISSA T","NALATH","EHS SPEC 4","62943.00","62943.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Santa Cruz","JOANNE MARIE","ROCHA","ADMIN OFCR 2","62943.00","62443.00","0.00","500.00"]},
+{"id":"5","cell":["5","2018","San Diego","IJEOMA AKUDO","UME","CASE MGR EX","62942.00","62942.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","PAMELA","LEE","DIETITIAN SR","62941.00","62941.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","DANIEL","ELNATAN","SPECIALIST","62939.00","62939.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","JACK","BRACKEN","EHS SPEC 2 SUPV","62938.00","62938.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","ROSA","BARKER","BLANK AST 3","62938.00","57765.00","0.00","5173.00"]},
+{"id":"10","cell":["10","2018","Berkeley","JESSE","JONES","SRA 3","62937.00","62937.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","YUH-YING AMY","SHIAO","CLIN LAB SCI","62937.00","50685.00","3139.00","9113.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ROCIO","MICHEL","PHLEBOTOMIST CERT TCHN 2","62937.00","62354.00","322.00","261.00"]},
+{"id":"13","cell":["13","2018","San Diego","LARA BROOKE","SIEVERT","PRODUCER DIR SR","62937.00","57194.00","5743.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","ELAINE JANE ABES","PAMARAN","PRACTICE CRD 2","62933.00","62227.00","46.00","660.00"]},
+{"id":"15","cell":["15","2018","San Francisco","KIMBERLY W","TONG","BLANK AST 3","62933.00","62818.00","115.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","CAROLYN JANE LO","HERNANDEZ","ADMIN ANL AST","62933.00","62186.00","0.00","747.00"]},
+{"id":"17","cell":["17","2018","Davis","AMY","FABRITIUS","ASST PROJ SCIENTIST-FY","62933.00","62933.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","ANGELA C","SCULLY","STDT SVC ADVISOR 2","62933.00","62933.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","MARJANNIE ELOI","AKINTUNDE","CAREER SVC SPEC 3","62933.00","62933.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","CHIARA","PAZ","STDT AFFAIRS OFCR 3 EX","62933.00","60933.00","0.00","2000.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "3030",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","MICHAEL","KADUCE","CLIN SPEC SUPV EX","85345.00","84345.00","0.00","1000.00"]},
+{"id":"2","cell":["2","2018","San Diego","NICOLE ELYSE","MERCANTINI","CLIN NURSE 2","85345.00","81750.00","1105.00","2490.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","RICK","VANN","CLIN NURSE 2","85344.00","82052.00","32.00","3260.00"]},
+{"id":"4","cell":["4","2018","Davis","CHRISTINE HALINA","KINKADE","INDUSTRY ALLNS SPEC 3","85343.00","85343.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","JEREMIE","VITTE","ASSOC PROJ SCIENTIST-FY","85342.00","85342.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","JOHANNES F","WIELAND","ASST PROF-AY-B/E/E","85342.00","85342.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","85341.00","68466.00","0.00","16875.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","IVETTE","MARTINEZ","REG RESP THER 1","85341.00","73381.00","5304.00","6656.00"]},
+{"id":"9","cell":["9","2018","Merced","PAMELA","MOODY","ACAD HR ANL 4","85340.00","85340.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","DIANE TRAN","OZAWA","AMBUL CARE ADMSTN SUPV 2","85339.00","81616.00","0.00","3723.00"]},
+{"id":"11","cell":["11","2018","Davis","JAMES B","BARNES","CLIN NURSE 2","85337.00","73019.00","4131.00","8187.00"]},
+{"id":"12","cell":["12","2018","San Francisco","MARGARITA","ANTONETTI","MED INTERPRETER 2","85333.00","73275.00","10834.00","1224.00"]},
+{"id":"13","cell":["13","2018","San Francisco","JOHN G","ROUMELIOTIS","ANESTHESIA TCHN 2","85332.00","80692.00","4413.00","227.00"]},
+{"id":"14","cell":["14","2018","San Diego","NANCY ALMANCE","STEEL","CLIN NURSE 2","85330.00","73455.00","1939.00","9936.00"]},
+{"id":"15","cell":["15","2018","UCOP","STEPHANIE","LEW","RSCH ADM 3","85330.00","85330.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","KENNITH FRED","KUHRT","PLUMBER","85328.00","78888.00","2724.00","3716.00"]},
+{"id":"17","cell":["17","2018","San Francisco","ELIZABETH","PURDY","EVENTS SPEC 4","85327.00","80327.00","0.00","5000.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","SANDRA","CHANG","BUYER 4","85327.00","85327.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","MARY FRANCES","RAMOS","ADMIN SUPV 2","85326.00","85326.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","MATTHEW T","BRATSCHUN","SYS ADM 4","85322.00","85322.00","0.00","0.00"]}]
+}

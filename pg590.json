@@ -1,0 +1,26 @@
+{
+"page" : "590",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","HOWARD","WINANT","PROF-AY","193767.00","193767.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","RONALD YAN","HUANG","REG RESP THER 1","193766.00","112238.00","44839.00","36689.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","GUILIANNE","SERVANO","HS ASST CLIN PROF-HCOMP","193758.00","117918.00","0.00","75840.00"]},
+{"id":"4","cell":["4","2018","San Francisco","JOHN DOZIER","GORDAN","ASST ADJ PROF-HCOMP","193757.00","95542.00","0.00","98215.00"]},
+{"id":"5","cell":["5","2018","Davis","ATUL N","PARIKH","PROF-AY-B/E/E","193752.00","183675.00","0.00","10077.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","LARRY","CARLSON","DIR","193728.00","193728.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","DANA CATHERINE","DELELLIS","HS ASST CLIN PROF-HCOMP","193727.00","81388.00","0.00","112339.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","DANIEL","REED","RECALL NON-FACULTY ACAD","193723.00","148895.00","0.00","44828.00"]},
+{"id":"9","cell":["9","2018","San Francisco","LILY","CHOW","CLIN NURSE 2","193716.00","151334.00","13831.00","28551.00"]},
+{"id":"10","cell":["10","2018","San Francisco","CHRISTINA","YOON","ASST ADJ PROF-HCOMP","193707.00","103848.00","0.00","89859.00"]},
+{"id":"11","cell":["11","2018","San Diego","MEERANA","LIM","HS CLIN PROF-HCOMP","193707.00","134442.00","0.00","59265.00"]},
+{"id":"12","cell":["12","2018","Riverside","DEBORAH","STRELETZ","ASC PHYSCN","193706.00","66512.00","0.00","127194.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","BETHLEHEM","CHURNET","HS CLIN INSTR-HCOMP","193688.00","110377.00","0.00","83311.00"]},
+{"id":"14","cell":["14","2018","Davis","CHRISTOPHER R","JACKSON","AMBUL CARE ADMSTN MGR 2","193688.00","174622.00","0.00","19066.00"]},
+{"id":"15","cell":["15","2018","Berkeley","FOTINI","CHOW","PROF-AY-B/E/E","193685.00","144850.00","0.00","48835.00"]},
+{"id":"16","cell":["16","2018","Hastings College Of Law","ASCANIO A.","PIOMELLI","PROF OF LAW","193681.00","183264.00","0.00","10417.00"]},
+{"id":"17","cell":["17","2018","Berkeley","SHIMON","LUSTIG","ASSOC PROF-AY-B/E/E","193679.00","145008.00","0.00","48671.00"]},
+{"id":"18","cell":["18","2018","San Francisco","SANDRA","NG","CLIN INFORMATICS MGR 1","193678.00","193678.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","AUDREY G","PLOUGH","CLIN RSCH MGR 2","193671.00","192601.00","0.00","1070.00"]},
+{"id":"20","cell":["20","2018","San Francisco","REBECCA","SCHIFF","CLIN NURSE 3","193667.00","169690.00","22577.00","1400.00"]}]
+}

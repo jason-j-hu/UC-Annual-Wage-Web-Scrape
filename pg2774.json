@@ -1,0 +1,26 @@
+{
+"page" : "2774",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","SARA","WELL","RESC NURSE PD","91191.00","83708.00","491.00","6992.00"]},
+{"id":"2","cell":["2","2018","San Diego","SHAWN R","MUNRO","ORGANIZATIONAL CNSLT 3","91189.00","82607.00","0.00","8582.00"]},
+{"id":"3","cell":["3","2018","San Francisco","EILENE MEI","ZHANG","HOSP LAB TCHN 1","91188.00","79793.00","3578.00","7817.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","KATHRYN","DIPPEL","CLIN NURSE 2","91188.00","85202.00","1468.00","4518.00"]},
+{"id":"5","cell":["5","2018","San Diego","DAVYDA T","JOHNSON","HR GENERALIST 3","91188.00","89588.00","0.00","1600.00"]},
+{"id":"6","cell":["6","2018","Davis","KATHRINE J","FULGENCIO","CLIN NURSE 2","91187.00","85853.00","1091.00","4243.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","JOSE","SOLIS","CLIN LAB SCI","91186.00","91104.00","82.00","0.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","KELLY","GLENDINNING","BUS SYS ANL 2 NEX","91186.00","72732.00","12423.00","6031.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","KELLY","KUHLMAN","CLIN NURSE 2","91185.00","86518.00","629.00","4038.00"]},
+{"id":"10","cell":["10","2018","San Francisco","MICHAEL P","HAMMOND","PAT CARE DIALYSIS TCHN 2","91184.00","82021.00","4676.00","4487.00"]},
+{"id":"11","cell":["11","2018","Berkeley","MICHAEL","ORLAND","LECT-AY-CONTINUING","91184.00","82708.00","0.00","8476.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","FANG","WEI","ASSOC ADJ PROF-HCOMP","91183.00","91183.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","ROBERT C.","BENNATON","ASSOC COOP EXT ADVISOR","91183.00","81183.00","0.00","10000.00"]},
+{"id":"14","cell":["14","2018","San Francisco","KAYE CONGMON","REMO","NURSE PD","91180.00","72733.00","14508.00","3939.00"]},
+{"id":"15","cell":["15","2018","Santa Cruz","KATHRYN M","WILSON","ACAD HR ANL 3","91180.00","82413.00","0.00","8767.00"]},
+{"id":"16","cell":["16","2018","Santa Cruz","CHRISTY LYNN","ISHIMINE","FAC PROJECT MGT SPEC 3","91178.00","91178.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Irvine","PATRYK J","DUBERT","FIN ANL SR","91177.00","91177.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ALICIA","AVENIDO","CLIN NURSE 2","91176.00","87757.00","865.00","2554.00"]},
+{"id":"19","cell":["19","2018","San Francisco","CYNTHIA KIM","THAI","PHARMACIST PD","91172.00","87037.00","1849.00","2286.00"]},
+{"id":"20","cell":["20","2018","Davis","TAYLOR L","MOLINA","CLIN NURSE 2","91171.00","80689.00","2019.00","8463.00"]}]
+}

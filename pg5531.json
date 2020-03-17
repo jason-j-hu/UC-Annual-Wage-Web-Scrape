@@ -1,0 +1,26 @@
+{
+"page" : "5531",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","RAKESH","KUMAR","MED CTR ENVIR SVC WORKER 2","52488.00","51763.00","725.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","FANGWEI","SI","POSTDOC-EMPLOYEE","52488.00","52488.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","MENGLONG","HAO","POSTDOC-EMPLOYEE","52488.00","52488.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","MIMI KO","CRUZ","ADMIN ANL SR","52487.00","48397.00","0.00","4090.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","WILLIAM","DE LEON","CLIN CARE PARTNER","52487.00","48296.00","3025.00","1166.00"]},
+{"id":"6","cell":["6","2018","San Diego","FELICE G","LOCOCO","COMPUTER OPR SR","52487.00","49185.00","0.00","3302.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","JANINE","THORNTON","HOSP LAB TCHN 2","52486.00","48747.00","808.00","2931.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","DIANA","FLAMENCO ORELLANA","MED CTR CUSTODIAN SR","52486.00","40735.00","9528.00","2223.00"]},
+{"id":"9","cell":["9","2018","San Diego","JANET","ROMERO","HOSP BLANK AST 3","52486.00","47837.00","3614.00","1035.00"]},
+{"id":"10","cell":["10","2018","Riverside","JHON STUART","GONZALEZ","FINANCIAL ANL 1","52486.00","50686.00","0.00","1800.00"]},
+{"id":"11","cell":["11","2018","San Francisco","JOJO MICHAEL D","GALVAN","PAT CARE DIALYSIS TCHN 1","52485.00","49560.00","2305.00","620.00"]},
+{"id":"12","cell":["12","2018","Davis","MATTHEW K","GALLAGHER","AGRICULTURE SUPV 1","52485.00","40609.00","0.00","11876.00"]},
+{"id":"13","cell":["13","2018","Davis","LILLIANNA FRANC","VALDOVINOS","CLIN RSCH CRD","52485.00","52275.00","210.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","SHAKIRAH","PETERSON","ADMIN SPEC","52485.00","51562.00","173.00","750.00"]},
+{"id":"15","cell":["15","2018","Santa Barbara","ASHLEY","BRADBURY","STDT ACAD ADVISOR 3","52485.00","52197.00","288.00","0.00"]},
+{"id":"16","cell":["16","2018","UCOP","ANTHONY","ROBINSON","PAYROLL ANL 2","52485.00","52485.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","TIFFANY","HIGBEE","RSCH ADM 2","52484.00","52484.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","ISIS","DABALOS","PAT ESCORT","52483.00","45904.00","3552.00","3027.00"]},
+{"id":"19","cell":["19","2018","Davis","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","52483.00","49583.00","0.00","2900.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","ADRIAN","SHELOR","STOREKEEPER LD","52483.00","52483.00","0.00","0.00"]}]
+}

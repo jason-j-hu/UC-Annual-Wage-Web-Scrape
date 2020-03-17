@@ -1,0 +1,26 @@
+{
+"page" : "943",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","LEONARDO","AGUILAR","ADM CRD OFCR","160435.00","147169.00","0.00","13266.00"]},
+{"id":"2","cell":["2","2018","San Francisco","MARY A","VICTORIANO","CLIN NURSE 2","160431.00","133940.00","79.00","26412.00"]},
+{"id":"3","cell":["3","2018","San Francisco","JENNIFER JO","SCHAAF","CLIN NURSE 2","160431.00","135307.00","9744.00","15380.00"]},
+{"id":"4","cell":["4","2018","Davis","SUSAN R","GOURLEY","CLIN NURSE 3","160430.00","133404.00","15452.00","11574.00"]},
+{"id":"5","cell":["5","2018","Davis","JULIANNE M","NOLA","FAC PROJECT MGT SPEC 5","160427.00","160427.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","MOR MEIR","HAZIZA","LECT-AY","160424.00","160424.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","RENEE MARIE","TAVARES","LACTATION CONSULTANT 3 GF","160423.00","144556.00","0.00","15867.00"]},
+{"id":"8","cell":["8","2018","San Francisco","LAUREN ANNE","WEISS","ASSOC PROF IN RES-HCOMP","160417.00","114392.00","0.00","46025.00"]},
+{"id":"9","cell":["9","2018","Davis","YUANPEI","LI","ASSOC PROF-HCOMP","160417.00","96334.00","0.00","64083.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ANNIE","WHITWORTH","ADMIN NURSE 1","160410.00","141464.00","2047.00","16899.00"]},
+{"id":"11","cell":["11","2018","San Diego","HANNAH HAMMOND","BELLENBAUM","AMBUL CARE PAT MGR 1","160406.00","145021.00","0.00","15385.00"]},
+{"id":"12","cell":["12","2018","Davis","JARED T","SHAW","PROF-AY","160401.00","117863.00","0.00","42538.00"]},
+{"id":"13","cell":["13","2018","Berkeley","SEREETA","ALEXANDER","INSTITUTIONAL RSCH ANL 5","160396.00","151809.00","0.00","8587.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","JULIE","STRUMWASSER","ADV OFCR 4","160392.00","157424.00","0.00","2968.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","NI","NI","ASST PROF-AY","160392.00","119725.00","0.00","40667.00"]},
+{"id":"16","cell":["16","2018","UCOP","FELICIA","POE","PROJECT POLICY ANL MGR 3","160391.00","160391.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","JESUS","TELLO","ECHOCARDIOGRAPHIC TCHN SR","160385.00","132236.00","10730.00","17419.00"]},
+{"id":"18","cell":["18","2018","Davis","BO","FENG","PROF-AY","160383.00","134097.00","0.00","26286.00"]},
+{"id":"19","cell":["19","2018","San Diego","JULIAN VINCENT","FILOTEO","PROF IN RES-HCOMP","160375.00","149275.00","0.00","11100.00"]},
+{"id":"20","cell":["20","2018","San Francisco","ROSA F.","VILLARROEL","CLIN NURSE 2","160365.00","154263.00","4239.00","1863.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "1551",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","TODD A","GIEDT","EXEC ADVISOR MGR 1","128582.00","127582.00","0.00","1000.00"]},
+{"id":"2","cell":["2","2018","San Diego","KAREN JANE","ANISKO RYAN","PROSPECT RSCH SPEC 4","128581.00","128581.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","HEATHER LOUISE","TAYLOR","NURSE PD","128580.00","121892.00","4852.00","1836.00"]},
+{"id":"4","cell":["4","2018","Davis","KRYSTA M","LEWIS","CLIN NURSE 2","128576.00","106773.00","3612.00","18191.00"]},
+{"id":"5","cell":["5","2018","Berkeley","CORINNE","HAYDEN","ASSOC PROF-AY","128575.00","128575.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","JISELLA","DE ASIS-ARBIOLA","CLIN NURSE 2","128572.00","118086.00","9513.00","973.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","CESAR","HERNANDEZ","ULTRASOUND TCHNO SR","128571.00","128539.00","16.00","16.00"]},
+{"id":"8","cell":["8","2018","San Francisco","OSCAR","PINAEV","CLIN APPLICATIONS PROFL 3","128570.00","121534.00","0.00","7036.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","DIANA","WHALEY","CLIN NURSE 2","128567.00","123548.00","328.00","4691.00"]},
+{"id":"10","cell":["10","2018","Davis","MEGAN ELIZABETH","SAMMARCO","CLIN NURSE 2","128566.00","107432.00","7941.00","13193.00"]},
+{"id":"11","cell":["11","2018","San Diego","CRYSTAL CHANTAL","SMITH","CLIN NURSE 3","128564.00","118631.00","5001.00","4932.00"]},
+{"id":"12","cell":["12","2018","Irvine","TAE YANG","PARK","CLIN NURSE 2","128558.00","99645.00","24805.00","4108.00"]},
+{"id":"13","cell":["13","2018","San Francisco","SARAH J","ALT-BROCKMEYER","NEURO TCHNO SR","128556.00","119054.00","0.00","9502.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","HARRY","YANG","DIR AST","128554.00","128554.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","JULIANN R","RECORD","NEURO TCHNO","128551.00","111256.00","2599.00","14696.00"]},
+{"id":"16","cell":["16","2018","Irvine","EVELYN A","SADSAD","CLIN NURSE 2","128549.00","112532.00","6799.00","9218.00"]},
+{"id":"17","cell":["17","2018","Davis","HEATHER M","MIKULIN","CLIN NURSE 2","128547.00","115835.00","6212.00","6500.00"]},
+{"id":"18","cell":["18","2018","Davis","EILEEN","GRAF","CLIN NURSE 2","128546.00","112704.00","4635.00","11207.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","GABRIEL","GOMEZ","EXEC CHEF 5","128545.00","118421.00","0.00","10124.00"]},
+{"id":"20","cell":["20","2018","San Francisco","JEAN-MARC MICHEL","GRANDJEAN","ASST ADJ PROF-HCOMP","128542.00","92740.00","0.00","35802.00"]}]
+}

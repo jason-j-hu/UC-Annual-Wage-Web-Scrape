@@ -1,0 +1,26 @@
+{
+"page" : "5689",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Riverside","HOWARD","MOSS","HS CLIN PROF-FY","51127.00","50927.00","0.00","200.00"]},
+{"id":"2","cell":["2","2018","Berkeley","ALASDAIR","COHEN","ASST PROJ SCIENTIST-FY","51127.00","51127.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","MATHEW H","LELAND","APPLICATIONS PROGR 2","51126.00","51015.00","111.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","MEY","COLE","MED OFC SVC CRD 2","51126.00","51098.00","28.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","IXEL","RUEZGA GONZALEZ","BLANK AST 3","51126.00","51114.00","12.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","ALEXANDRA","COLON-RODRIGUEZ","POSTDOC-EMPLOYEE","51126.00","50126.00","0.00","1000.00"]},
+{"id":"7","cell":["7","2018","San Diego","LUCILA","WELCH","NURSE AID SR","51126.00","46554.00","3557.00","1015.00"]},
+{"id":"8","cell":["8","2018","San Diego","MAXINE","PIERCE","CTRL SVC TCHN 2","51125.00","44088.00","716.00","6321.00"]},
+{"id":"9","cell":["9","2018","San Diego","KEVIN WAYNE","BRODER","HEALTH EDUCATOR 5","51123.00","51123.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","JESSICA LYNN","GUTTENBERG","CURRICULUM PLNR 2","51123.00","50102.00","71.00","950.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","LA DONJA","HORN","STDT AFFAIRS OFCR 2","51122.00","51122.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","MARY ANN","MARTEL","CONTRACT ADM 2","51122.00","46999.00","0.00","4123.00"]},
+{"id":"13","cell":["13","2018","San Francisco","PO-HUNG","WU","POSTDOC-EMPLOYEE","51121.00","51121.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","KENNETH","ANDERSON","OPS ROOM AST 2","51121.00","49042.00","1187.00","892.00"]},
+{"id":"15","cell":["15","2018","Berkeley","HENRIK LARS VALENTIN","CARLSSON","POSTDOC-EMPLOYEE","51120.00","51120.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","REBECCA","SANDERS","BLANK AST 3","51120.00","51120.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","KAREN","KWAN","BLANK AST 3","51120.00","51120.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","JAVIER","MIRANDA","BLANK AST 3","51120.00","51120.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","LANCE","KONO","BLANK AST 3","51120.00","51120.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","MARCO","ALVARADO","BLANK AST 3","51120.00","51120.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "5221",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","VERNON Y.","TANG","SCRTY SUPV 1 HC","55325.00","51773.00","384.00","3168.00"]},
+{"id":"2","cell":["2","2018","Berkeley","MYRIAM","COTTON","FINANCIAL SVC ANL 2","55325.00","54825.00","0.00","500.00"]},
+{"id":"3","cell":["3","2018","Davis","ALEXANDRA R","KING","MED AST 2","55324.00","55249.00","75.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","SHYAMA G","SHARMA","MED OFC SVC CRD 3","55323.00","55279.00","44.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","SOOK HYUN","CHUNG","POSTDOC-EMPLOYEE","55323.00","55323.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","LOUIE G","HERNANDEZ","GROUNDS EQUIP OPR","55323.00","53528.00","0.00","1795.00"]},
+{"id":"7","cell":["7","2018","San Diego","TROY MATTHEW","BUCHANAN","APPLICATIONS PROGR 1","55322.00","53314.00","18.00","1990.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","CHRISTOPHER","PITTMAN","ADMIN ANL","55321.00","55254.00","67.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","YVETT LATOYA","STARKS","PAT BILLER 4","55321.00","54043.00","276.00","1002.00"]},
+{"id":"10","cell":["10","2018","San Francisco","CHRISTOPHER","GONZALEZ","MED CTR FOOD SVC WORKER SR","55320.00","47544.00","5765.00","2011.00"]},
+{"id":"11","cell":["11","2018","Davis","MARIA JOY","MONTGOMERY-YING","MED OFC SVC CRD 2","55320.00","55201.00","119.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","ELIZABETH","WEICK","NURSE AID SR","55320.00","45218.00","2881.00","7221.00"]},
+{"id":"13","cell":["13","2018","San Francisco","PRASANNA K","ALLU","POSTDOC-EMPLOYEE","55319.00","55319.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","ANNE","DE BRUYN KOPS","SPECIALIST","55318.00","47069.00","0.00","8249.00"]},
+{"id":"15","cell":["15","2018","Davis","CHRISTINA M.","SCHIESARI","TEACHER-UNEX","55318.00","55318.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","VANESSA K","KINGSLEY","TEACHER-UNEX","55318.00","55318.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","BRYN PEARCE","SPEJCHER","AUDIOLOGIST SR EX","55317.00","55317.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Riverside","BOBBIE","LYNN","HEALTH PROFNS EDUC SPEC 2","55317.00","55317.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","RAMON ERNESTO","CEA","MED CTR CUSTODIAN SR","55316.00","50750.00","1041.00","3525.00"]},
+{"id":"20","cell":["20","2018","San Francisco","EGBERT G","BALANON","PAT CARE AST","55315.00","46880.00","3001.00","5434.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "3854",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","LORI L","BERGUM","STDT SVC ADVISOR 2","70414.00","70414.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","JENNIFER","JEONG","CLIN NURSE 2","70413.00","66226.00","0.00","4187.00"]},
+{"id":"3","cell":["3","2018","San Francisco","KATHLEEN JAUCO","YUMUL","AMBUL CARE ADMSTN SUPV 1","70412.00","66777.00","1284.00","2351.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","MARIA","JORDAN","PROJ SCIENTIST-FY","70411.00","70411.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","ELIZABETH A","MANGUS","CLIN INFORMATICS SPEC 4","70410.00","69535.00","0.00","875.00"]},
+{"id":"6","cell":["6","2018","San Diego","VINCENT H","URSILLO","HR GENERALIST 2","70409.00","68070.00","339.00","2000.00"]},
+{"id":"7","cell":["7","2018","San Francisco","MARK A","JACOBSON","RECALL FACULTY","70407.00","70407.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","YI","DAI","RSCH ADM 2","70407.00","70407.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","VERONIKA","BARSEGYAN","ADMIN ANL SR","70406.00","68228.00","0.00","2178.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","JUAN","SANDOVAL","ADMIN ANL SR","70403.00","69403.00","0.00","1000.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","KELLY","BESSER","ASSOC LIBRARIAN-POTNTL CAREER","70403.00","70403.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","YADIRA","MARQUEZ","ADMIN ANL SR","70403.00","66474.00","2429.00","1500.00"]},
+{"id":"13","cell":["13","2018","Irvine","VANESSA LANNETTE","WALTERS","SURGICAL TCHN SR","70401.00","64744.00","3293.00","2364.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","MAURICIO","BAKER MASON","ADMIN ANL PRN 1","70401.00","70401.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","JOHN W","RENNER","RECALL HCOMP","70400.00","25875.00","0.00","44525.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","SPARRING","LYNCH","FINANCIAL SVC ANL 3","70399.00","70399.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","UCOP","EVA","HOM","VENDOR REL SPEC 2","70395.00","70369.00","26.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","KRISTEN","WISNER","NURSE PD","70394.00","69126.00","473.00","795.00"]},
+{"id":"19","cell":["19","2018","Santa Cruz","PARASH","UPRETI","RSCH DATA ANL 3","70394.00","70394.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","REINA","BLANCO","PAT RCDS ABSTRACTOR 3","70393.00","69160.00","407.00","826.00"]}]
+}

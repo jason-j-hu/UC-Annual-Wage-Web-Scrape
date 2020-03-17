@@ -1,0 +1,26 @@
+{
+"page" : "3788",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","ANNE","WETLE","PHARMACY TCHN 3","71362.00","69837.00","1185.00","340.00"]},
+{"id":"2","cell":["2","2018","Berkeley","MARY","AJIDEH","STDT SVC ADVISOR 3","71361.00","69390.00","0.00","1971.00"]},
+{"id":"3","cell":["3","2018","Santa Cruz","ALEXIS PAMELA","MORGAN","COMM SPEC 3","71361.00","70861.00","0.00","500.00"]},
+{"id":"4","cell":["4","2018","Berkeley","JOHN","FYSON","ADMIN OFCR 2","71360.00","71360.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","AMERY","GINGERICH","ANESTHESIA TCHN 3","71358.00","59226.00","2293.00","9839.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JOHN","LLANES","SURGICAL TCHN","71358.00","60625.00","1223.00","9510.00"]},
+{"id":"7","cell":["7","2018","San Diego","ALI","ZIFAN","ASST ADJ PROF-HCOMP","71358.00","71358.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","BORAE","KIM","ADMIN ANL SR SUPV","71357.00","69857.00","0.00","1500.00"]},
+{"id":"9","cell":["9","2018","Davis","DEBRA A","MATSUMOTO","ADMIN OFCR 2","71357.00","69157.00","791.00","1409.00"]},
+{"id":"10","cell":["10","2018","San Francisco","NELLY C.","DAVID","BLANK AST 3","71356.00","70203.00","13.00","1140.00"]},
+{"id":"11","cell":["11","2018","Berkeley","HILARY","SCHIRALDI","LIBRARIAN-CAREER STATUS","71354.00","71354.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","MARIA I","WILLIAMS","VOC NURSE SR","71352.00","70654.00","698.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","CHUNHONG","XIE","LECT-AY","71348.00","61033.00","0.00","10315.00"]},
+{"id":"14","cell":["14","2018","San Diego","AMY KRISTINE","FRASER","DIETITIAN 2","71346.00","70346.00","0.00","1000.00"]},
+{"id":"15","cell":["15","2018","Berkeley","JANE","FINK","EVENTS SPEC 3","71346.00","71346.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","ROBERT W","DENHAM","MGR","71345.00","55631.00","0.00","15714.00"]},
+{"id":"17","cell":["17","2018","Berkeley","MICAELEE","ELLSWYTHE","FINANCIAL SVC ANL 3","71345.00","70845.00","0.00","500.00"]},
+{"id":"18","cell":["18","2018","San Francisco","MELANIE E","ALHAMBRA","BLANK AST 3","71344.00","70204.00","0.00","1140.00"]},
+{"id":"19","cell":["19","2018","San Francisco","TEOFILO,JR.","ZERNA","BLDG MAINT WORKER SR","71344.00","68224.00","0.00","3120.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","LINDA","LASSITER","STDT AFFAIRS OFCR 3 EX","71344.00","69844.00","0.00","1500.00"]}]
+}
