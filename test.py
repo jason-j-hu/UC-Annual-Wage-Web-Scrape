@@ -4,7 +4,7 @@ import json
 
 # from bs4 import BeautifulSoup
 
-# TODO:
+#TODO:
 # 1. Convert all single quotes to double quotes in r.text
 # 2. Use json.load to find ['total'] key and use it in range()
 # 3. Use for loop to download all the pages of data into seperate .json files
@@ -27,20 +27,18 @@ if __name__ == '__main__':
                'title': '',
                'startSal': '',
                'endSal': ''}
-
     pgNum = 1
     while True:
 
         payload['page'] = pgNum
         r = requests.get(url, params=payload)
         rTextFixedDoubleQuote = r.text.replace("\'", "\"")
-        rTextJson = json.loads(rTextFixedDoubleQuote)
 
-        obj = open("pg" + str(pgNum) + ".json", "w")
+        obj = open("pg" + str(pgNum) + ".json", "x")
 
         obj.write(rTextFixedDoubleQuote)
-
-        if pgNum == 5:  # rTextJson['total']
+        obj.close()
+        if pgNum == 15515: #Total Pages = int(ast.literal_eval(r.text)['total']
             break
         pgNum += 1
 
