@@ -2,19 +2,36 @@ import json
 
 if __name__ == "__main__":
 
+    # just for testing purposes to truncate json file and make sure it starts out with correct formatting
+    with open('allJsonAppendedTogether.json', 'w') as fp:
+        #fp.truncate(0)
+        # json.dump({"rows":[]}, fp)
+        fp.write("{\"rows\":[]}")
 
-
-
-    """with open('allJsonAppendedTogether.json', 'r') as fp:
+    with open('allJsonAppendedTogether.json', 'r+') as fp:
         information = json.load(fp)
 
-    information['rows'].append({
-        #data here
-    })
+    with open('pg1.json', 'r') as jsonStr:
+        jsonStrText = json.load(jsonStr)
+        
+    """for fileRange in range(0, 1000+1):"""
+
+    for idIndex in range(0, 20):
+        rowInfo = jsonStrText["rows"][idIndex]
+        information["rows"].append(rowInfo)
+
+    print(information)
 
     with open('allJsonAppendedTogether.json', 'w') as fp:
-        json.dumps(information)"""
+        json.dump(information, fp)
 
+
+
+    """with open('pg1.json', 'r') as jsonStr:
+        jsonStrText = json.load(jsonStr)
+    for idIndex in range(0, 20):
+        rowInfo = jsonStrText['rows'][idIndex]
+        print(rowInfo)"""
 
 
 
@@ -26,12 +43,7 @@ if __name__ == "__main__":
     print(mergedFile['rows'])
     json.dump(b, obj)"""
 
-    with open('pg1.json', 'r') as jsonStr:
-        jsonStrText = json.load(jsonStr)
-        for idIndex in range(0, 20):
-            rowInfo = jsonStrText['rows'][idIndex]
-            print(rowInfo)
-            #json.dump(rowInfo, obj)
+
 
     """with open('allJsonAppendedTogether.json', 'r+') as obj:
     
