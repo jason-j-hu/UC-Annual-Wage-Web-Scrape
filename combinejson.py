@@ -12,11 +12,21 @@ if __name__ == "__main__":
         information = json.load(fp)
 
     pgNum = 1
-    for fileRange in range(1, 10):
+    for fileRange in range(1, 3):
         with open('pg' + str(fileRange) + '.json', 'r') as jsonStr:
             jsonStrText = json.load(jsonStr, strict=False)
         for index, item in enumerate(jsonStrText['rows']):
             item['id'] = pgNum * 20 + int(item['id']) - 20
+            item['year'] = item['cell'][1]
+            item['location'] = item['cell'][2]
+            item['firstName'] = item['cell'][3]
+            item['lastName'] = item['cell'][4]
+            item['title'] = item['cell'][5]
+            item['grossPay'] = item['cell'][6]
+            item['regularPay'] = item['cell'][7]
+            item['overtimePay'] = item['cell'][8]
+            item['otherPay'] = item['cell'][9]
+            item.pop('cell')
             rowInfo = jsonStrText["rows"][index]
             information["employees"].append(rowInfo)
         pgNum += 1
@@ -24,7 +34,7 @@ if __name__ == "__main__":
     #print(information)
 
     with open('allJsonAppendedTogether.json', 'w') as fp:
-        json.dump(information, fp, indent=3)
+        json.dump(information, fp, indent = 1)
 
 
     """pgNum = 1

@@ -1,2704 +1,484 @@
 {
-   "employees": [
-      {
-         "id": 1,
-         "cell": [
-            "1",
-            "2018",
-            "Los Angeles",
-            "CHARLES",
-            "KELLY",
-            "INTERCOL ATH HEAD COACH EX",
-            "3341707.00",
-            "300000.00",
-            "0.00",
-            "3041707.00"
-         ]
-      },
-      {
-         "id": 2,
-         "cell": [
-            "2",
-            "2018",
-            "Berkeley",
-            "JUSTIN",
-            "WILCOX",
-            "HEAD COACH 5",
-            "3003362.00",
-            "250000.00",
-            "0.00",
-            "2753362.00"
-         ]
-      },
-      {
-         "id": 3,
-         "cell": [
-            "3",
-            "2018",
-            "Los Angeles",
-            "JAMES",
-            "MORA",
-            "INTERCOL ATH HEAD COACH EX",
-            "2918795.00",
-            "396667.00",
-            "0.00",
-            "2522128.00"
-         ]
-      },
-      {
-         "id": 4,
-         "cell": [
-            "4",
-            "2018",
-            "Los Angeles",
-            "STEPHEN",
-            "ALFORD",
-            "INTERCOL ATH HEAD COACH EX",
-            "2724497.00",
-            "300000.00",
-            "0.00",
-            "2424497.00"
-         ]
-      },
-      {
-         "id": 5,
-         "cell": [
-            "5",
-            "2018",
-            "Los Angeles",
-            "RONALD",
-            "BUSUTTIL",
-            "PROF-HCOMP",
-            "2483249.00",
-            "416187.00",
-            "0.00",
-            "2067062.00"
-         ]
-      },
-      {
-         "id": 6,
-         "cell": [
-            "6",
-            "2018",
-            "Los Angeles",
-            "KHALIL",
-            "TABSH",
-            "HS CLIN PROF-HCOMP",
-            "2284395.00",
-            "210146.00",
-            "0.00",
-            "2074249.00"
-         ]
-      },
-      {
-         "id": 7,
-         "cell": [
-            "7",
-            "2018",
-            "San Francisco",
-            "VADIYALA MOHAN",
-            "REDDY",
-            "PROF-HCOMP",
-            "2015836.00",
-            "275400.00",
-            "0.00",
-            "1740436.00"
-         ]
-      },
-      {
-         "id": 8,
-         "cell": [
-            "8",
-            "2018",
-            "Irvine",
-            "NAVEEN D",
-            "BHANDARKAR",
-            "ASSOC PROF OF CLIN-HCOMP",
-            "1965689.00",
-            "203792.00",
-            "0.00",
-            "1761897.00"
-         ]
-      },
-      {
-         "id": 9,
-         "cell": [
-            "9",
-            "2018",
-            "San Diego",
-            "MICHAEL M.",
-            "MADANI",
-            "PROF OF CLIN-HCOMP",
-            "1936497.00",
-            "291250.00",
-            "0.00",
-            "1645247.00"
-         ]
-      },
-      {
-         "id": 10,
-         "cell": [
-            "10",
-            "2018",
-            "San Francisco",
-            "TIMOTHY H",
-            "MCCALMONT",
-            "PROF OF CLIN-HCOMP",
-            "1882569.00",
-            "236975.00",
-            "0.00",
-            "1645594.00"
-         ]
-      },
-      {
-         "id": 11,
-         "cell": [
-            "11",
-            "2018",
-            "Los Angeles",
-            "JASON",
-            "ROOSTAEIAN",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "1814375.00",
-            "165960.00",
-            "0.00",
-            "1648415.00"
-         ]
-      },
-      {
-         "id": 12,
-         "cell": [
-            "12",
-            "2018",
-            "Los Angeles",
-            "ERIC",
-            "ESRAILIAN",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "1787500.00",
-            "171495.00",
-            "0.00",
-            "1616005.00"
-         ]
-      },
-      {
-         "id": 13,
-         "cell": [
-            "13",
-            "2018",
-            "Los Angeles",
-            "DANIEL",
-            "GUERRERO",
-            "MGR",
-            "1773709.00",
-            "922894.00",
-            "0.00",
-            "850815.00"
-         ]
-      },
-      {
-         "id": 14,
-         "cell": [
-            "14",
-            "2018",
-            "Los Angeles",
-            "BENJAMIN",
-            "ANSELL",
-            "HS CLIN PROF-HCOMP",
-            "1742695.00",
-            "216982.00",
-            "0.00",
-            "1525713.00"
-         ]
-      },
-      {
-         "id": 15,
-         "cell": [
-            "15",
-            "2018",
-            "San Francisco",
-            "PHILIP E",
-            "LEBOIT",
-            "PROF OF CLIN-HCOMP",
-            "1705429.00",
-            "288830.00",
-            "0.00",
-            "1416599.00"
-         ]
-      },
-      {
-         "id": 16,
-         "cell": [
-            "16",
-            "2018",
-            "San Diego",
-            "EHTISHAM",
-            "MAHMUD",
-            "PROF OF CLIN-HCOMP",
-            "1701593.00",
-            "213615.00",
-            "0.00",
-            "1487978.00"
-         ]
-      },
-      {
-         "id": 17,
-         "cell": [
-            "17",
-            "2018",
-            "Los Angeles",
-            "JEFFREY",
-            "SUH",
-            "ASSOC PROF OF CLIN-HCOMP",
-            "1523089.00",
-            "167806.00",
-            "0.00",
-            "1355283.00"
-         ]
-      },
-      {
-         "id": 18,
-         "cell": [
-            "18",
-            "2018",
-            "Los Angeles",
-            "RICHARD",
-            "SHEMIN",
-            "PROF-HCOMP",
-            "1494473.00",
-            "341476.00",
-            "0.00",
-            "1152997.00"
-         ]
-      },
-      {
-         "id": 19,
-         "cell": [
-            "19",
-            "2018",
-            "Los Angeles",
-            "AISLING",
-            "MURPHY",
-            "HS ASST CLIN PROF-HCOMP",
-            "1459174.00",
-            "109429.00",
-            "0.00",
-            "1349745.00"
-         ]
-      },
-      {
-         "id": 20,
-         "cell": [
-            "20",
-            "2018",
-            "Los Angeles",
-            "DINESH",
-            "CHHETRI",
-            "PROF IN RES-HCOMP",
-            "1450558.00",
-            "180624.00",
-            "0.00",
-            "1269934.00"
-         ]
-      },
-      {
-         "id": 21,
-         "cell": [
-            "1",
-            "2018",
-            "Los Angeles",
-            "ABBAS",
-            "ARDEHALI",
-            "PROF-HCOMP",
-            "1444035.00",
-            "232969.00",
-            "0.00",
-            "1211066.00"
-         ]
-      },
-      {
-         "id": 22,
-         "cell": [
-            "2",
-            "2018",
-            "San Diego",
-            "ROBERT N.",
-            "WEINREB",
-            "PROF-HCOMP",
-            "1437112.00",
-            "640090.00",
-            "0.00",
-            "797022.00"
-         ]
-      },
-      {
-         "id": 23,
-         "cell": [
-            "3",
-            "2018",
-            "Los Angeles",
-            "CHRISTOPHER",
-            "CRISERA",
-            "HS CLIN PROF-HCOMP",
-            "1403888.00",
-            "187220.00",
-            "0.00",
-            "1216668.00"
-         ]
-      },
-      {
-         "id": 24,
-         "cell": [
-            "4",
-            "2018",
-            "Irvine",
-            "JOHN STUART",
-            "NELSON",
-            "PROF-HCOMP",
-            "1379644.00",
-            "357692.00",
-            "0.00",
-            "1021952.00"
-         ]
-      },
-      {
-         "id": 25,
-         "cell": [
-            "5",
-            "2018",
-            "San Francisco",
-            "MARK R",
-            "LARET",
-            "CEO MED CTR",
-            "1359481.00",
-            "1088447.00",
-            "0.00",
-            "271034.00"
-         ]
-      },
-      {
-         "id": 26,
-         "cell": [
-            "6",
-            "2018",
-            "Los Angeles",
-            "CHARLES",
-            "TSENG",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "1354633.00",
-            "162986.00",
-            "0.00",
-            "1191647.00"
-         ]
-      },
-      {
-         "id": 27,
-         "cell": [
-            "7",
-            "2018",
-            "Los Angeles",
-            "CARLA",
-            "JANZEN",
-            "ASSOC PROF-HCOMP",
-            "1341370.00",
-            "117315.00",
-            "0.00",
-            "1224055.00"
-         ]
-      },
-      {
-         "id": 28,
-         "cell": [
-            "8",
-            "2018",
-            "San Diego",
-            "GERT DIEDERICK",
-            "PRETORIUS",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "1340678.00",
-            "220567.00",
-            "0.00",
-            "1120111.00"
-         ]
-      },
-      {
-         "id": 29,
-         "cell": [
-            "9",
-            "2018",
-            "Los Angeles",
-            "ALEXANDER",
-            "CHIANG",
-            "HS ASST CLIN PROF-HCOMP",
-            "1333078.00",
-            "98210.00",
-            "0.00",
-            "1234868.00"
-         ]
-      },
-      {
-         "id": 30,
-         "cell": [
-            "10",
-            "2018",
-            "San Diego",
-            "JOHN JOSEPH",
-            "NIGRO",
-            "HS CLIN PROF-HCOMP",
-            "1331109.00",
-            "246536.00",
-            "0.00",
-            "1084573.00"
-         ]
-      },
-      {
-         "id": 31,
-         "cell": [
-            "11",
-            "2018",
-            "Irvine",
-            "HAMID",
-            "DJALILIAN",
-            "PROF OF CLIN-HCOMP",
-            "1320067.00",
-            "260250.00",
-            "0.00",
-            "1059817.00"
-         ]
-      },
-      {
-         "id": 32,
-         "cell": [
-            "12",
-            "2018",
-            "San Diego",
-            "MICHAEL L.",
-            "LEVY",
-            "PROF OF CLIN-HCOMP",
-            "1308345.00",
-            "323142.00",
-            "0.00",
-            "985203.00"
-         ]
-      },
-      {
-         "id": 33,
-         "cell": [
-            "13",
-            "2018",
-            "San Diego",
-            "SHANG I BRIAN",
-            "JIANG",
-            "HS CLIN PROF-HCOMP",
-            "1303968.00",
-            "156739.00",
-            "0.00",
-            "1147229.00"
-         ]
-      },
-      {
-         "id": 34,
-         "cell": [
-            "14",
-            "2018",
-            "Los Angeles",
-            "JOHNESE",
-            "SPISSO",
-            "CEO MED CTR",
-            "1282298.00",
-            "1032948.00",
-            "0.00",
-            "249350.00"
-         ]
-      },
-      {
-         "id": 35,
-         "cell": [
-            "15",
-            "2018",
-            "Los Angeles",
-            "LINDA",
-            "LIAU",
-            "PROF-HCOMP",
-            "1278800.00",
-            "309731.00",
-            "0.00",
-            "969069.00"
-         ]
-      },
-      {
-         "id": 36,
-         "cell": [
-            "16",
-            "2018",
-            "San Diego",
-            "SCOTT M",
-            "LIPPMAN",
-            "PROF-HCOMP",
-            "1264939.00",
-            "313067.00",
-            "0.00",
-            "951872.00"
-         ]
-      },
-      {
-         "id": 37,
-         "cell": [
-            "17",
-            "2018",
-            "San Diego",
-            "LUCILA",
-            "OHNO-MACHADO",
-            "PROF-HCOMP",
-            "1219348.00",
-            "270851.00",
-            "0.00",
-            "948497.00"
-         ]
-      },
-      {
-         "id": 38,
-         "cell": [
-            "18",
-            "2018",
-            "Los Angeles",
-            "BRIAN",
-            "DERUBERTIS",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "1189281.00",
-            "179989.00",
-            "0.00",
-            "1009292.00"
-         ]
-      },
-      {
-         "id": 39,
-         "cell": [
-            "19",
-            "2018",
-            "San Diego",
-            "CHRISTOPHER J.",
-            "KANE",
-            "PROF-HCOMP",
-            "1186200.00",
-            "247291.00",
-            "0.00",
-            "938909.00"
-         ]
-      },
-      {
-         "id": 40,
-         "cell": [
-            "20",
-            "2018",
-            "San Francisco",
-            "ISAAC M",
-            "NEUHAUS",
-            "PROF OF CLIN-HCOMP",
-            "1184923.00",
-            "165975.00",
-            "0.00",
-            "1018948.00"
-         ]
-      },
-      {
-         "id": 41,
-         "cell": [
-            "1",
-            "2018",
-            "Los Angeles",
-            "DAVID",
-            "MCALLISTER",
-            "PROF IN RES-HCOMP",
-            "1152836.00",
-            "194107.00",
-            "0.00",
-            "958729.00"
-         ]
-      },
-      {
-         "id": 42,
-         "cell": [
-            "2",
-            "2018",
-            "San Francisco",
-            "MITCHEL S",
-            "BERGER",
-            "PROF-HCOMP",
-            "1150954.00",
-            "313096.00",
-            "0.00",
-            "837858.00"
-         ]
-      },
-      {
-         "id": 43,
-         "cell": [
-            "3",
-            "2018",
-            "San Francisco",
-            "CHRIS E",
-            "FREISE",
-            "PROF IN RES-HCOMP",
-            "1146329.00",
-            "213609.00",
-            "0.00",
-            "932720.00"
-         ]
-      },
-      {
-         "id": 44,
-         "cell": [
-            "4",
-            "2018",
-            "UCOP",
-            "JAGDEEP",
-            "BACHHER",
-            "CHF INV OFCR",
-            "1136076.00",
-            "660613.00",
-            "0.00",
-            "475463.00"
-         ]
-      },
-      {
-         "id": 45,
-         "cell": [
-            "5",
-            "2018",
-            "San Diego",
-            "ALEXANDER ARASH",
-            "KHALESSI",
-            "ASSOC PROF OF CLIN-HCOMP",
-            "1113322.00",
-            "220567.00",
-            "0.00",
-            "892755.00"
-         ]
-      },
-      {
-         "id": 46,
-         "cell": [
-            "6",
-            "2018",
-            "San Francisco",
-            "MICHAEL R",
-            "ANDERSON",
-            "SVP CHILD SVC/PRES BENIOFF",
-            "1109072.00",
-            "955432.00",
-            "0.00",
-            "153640.00"
-         ]
-      },
-      {
-         "id": 47,
-         "cell": [
-            "7",
-            "2018",
-            "San Francisco",
-            "SIGURD H",
-            "BERVEN",
-            "PROF IN RES-HCOMP",
-            "1107387.00",
-            "205229.00",
-            "0.00",
-            "902158.00"
-         ]
-      },
-      {
-         "id": 48,
-         "cell": [
-            "8",
-            "2018",
-            "San Francisco",
-            "ROBERT M",
-            "WACHTER",
-            "PROF-HCOMP",
-            "1100515.00",
-            "254719.00",
-            "0.00",
-            "845796.00"
-         ]
-      },
-      {
-         "id": 49,
-         "cell": [
-            "9",
-            "2018",
-            "San Francisco",
-            "THADDEUS W",
-            "MULLY",
-            "HS CLIN PROF-HCOMP",
-            "1099502.00",
-            "177258.00",
-            "0.00",
-            "922244.00"
-         ]
-      },
-      {
-         "id": 50,
-         "cell": [
-            "10",
-            "2018",
-            "San Francisco",
-            "THOMAS P",
-            "VAIL",
-            "PROF-HCOMP",
-            "1094080.00",
-            "254739.00",
-            "0.00",
-            "839341.00"
-         ]
-      },
-      {
-         "id": 51,
-         "cell": [
-            "11",
-            "2018",
-            "San Diego",
-            "PATRICIA SPEES",
-            "MAYSENT",
-            "CEO MED CTR",
-            "1084295.00",
-            "889539.00",
-            "0.00",
-            "194756.00"
-         ]
-      },
-      {
-         "id": 52,
-         "cell": [
-            "12",
-            "2018",
-            "San Francisco",
-            "VEDAT",
-            "DEVIREN",
-            "PROF OF CLIN-HCOMP",
-            "1080700.00",
-            "184852.00",
-            "0.00",
-            "895848.00"
-         ]
-      },
-      {
-         "id": 53,
-         "cell": [
-            "13",
-            "2018",
-            "Irvine",
-            "SUMIT",
-            "GARG",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "1066229.00",
-            "139892.00",
-            "0.00",
-            "926337.00"
-         ]
-      },
-      {
-         "id": 54,
-         "cell": [
-            "14",
-            "2018",
-            "Los Angeles",
-            "GERALD",
-            "BERKE",
-            "PROF-HCOMP",
-            "1065533.00",
-            "341456.00",
-            "0.00",
-            "724077.00"
-         ]
-      },
-      {
-         "id": 55,
-         "cell": [
-            "15",
-            "2018",
-            "San Francisco",
-            "BORIS C",
-            "BASTIAN",
-            "PROF-HCOMP",
-            "1063522.00",
-            "236983.00",
-            "0.00",
-            "826539.00"
-         ]
-      },
-      {
-         "id": 56,
-         "cell": [
-            "16",
-            "2018",
-            "San Diego",
-            "BRYAN M.",
-            "CLARY",
-            "PROF-HCOMP",
-            "1058008.00",
-            "208192.00",
-            "0.00",
-            "849816.00"
-         ]
-      },
-      {
-         "id": 57,
-         "cell": [
-            "17",
-            "2018",
-            "Los Angeles",
-            "STEVEN",
-            "FARLEY",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "1051584.00",
-            "159401.00",
-            "0.00",
-            "892183.00"
-         ]
-      },
-      {
-         "id": 58,
-         "cell": [
-            "18",
-            "2018",
-            "San Francisco",
-            "MICHAEL W",
-            "MCDERMOTT",
-            "PROF IN RES-HCOMP",
-            "1049957.00",
-            "213592.00",
-            "0.00",
-            "836365.00"
-         ]
-      },
-      {
-         "id": 59,
-         "cell": [
-            "19",
-            "2018",
-            "Los Angeles",
-            "JAY",
-            "LEE",
-            "ASSOC PROF-HCOMP",
-            "1048200.00",
-            "175960.00",
-            "0.00",
-            "872240.00"
-         ]
-      },
-      {
-         "id": 60,
-         "cell": [
-            "20",
-            "2018",
-            "Los Angeles",
-            "NADER",
-            "POURATIAN",
-            "ASSOC PROF-HCOMP",
-            "1046684.00",
-            "196033.00",
-            "0.00",
-            "850651.00"
-         ]
-      },
-      {
-         "id": 61,
-         "cell": [
-            "1",
-            "2018",
-            "San Diego",
-            "TIMOTHY J",
-            "FAIRBANKS",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "1042868.00",
-            "167850.00",
-            "0.00",
-            "875018.00"
-         ]
-      },
-      {
-         "id": 62,
-         "cell": [
-            "2",
-            "2018",
-            "Berkeley",
-            "WYKING",
-            "JONES",
-            "HEAD COACH 5",
-            "1040400.00",
-            "250000.00",
-            "0.00",
-            "790400.00"
-         ]
-      },
-      {
-         "id": 63,
-         "cell": [
-            "3",
-            "2018",
-            "San Diego",
-            "WILLIAM JEFFERY",
-            "SANDBORN",
-            "PROF-HCOMP",
-            "1037223.00",
-            "284624.00",
-            "0.00",
-            "752599.00"
-         ]
-      },
-      {
-         "id": 64,
-         "cell": [
-            "4",
-            "2018",
-            "San Francisco",
-            "PRAVEEN",
-            "MUMMANENI",
-            "PROF OF CLIN-HCOMP",
-            "1036332.00",
-            "198913.00",
-            "0.00",
-            "837419.00"
-         ]
-      },
-      {
-         "id": 65,
-         "cell": [
-            "5",
-            "2018",
-            "Irvine",
-            "FRANK P.K.",
-            "HSU",
-            "PROF OF CLIN-HCOMP",
-            "1031058.00",
-            "205258.00",
-            "0.00",
-            "825800.00"
-         ]
-      },
-      {
-         "id": 66,
-         "cell": [
-            "6",
-            "2018",
-            "Los Angeles",
-            "JOSEPH",
-            "GRECO",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "1031018.00",
-            "159401.00",
-            "0.00",
-            "871617.00"
-         ]
-      },
-      {
-         "id": 67,
-         "cell": [
-            "7",
-            "2018",
-            "Davis",
-            "ANN MADDEN",
-            "RICE",
-            "CEO MED CTR",
-            "1025994.00",
-            "753990.00",
-            "0.00",
-            "272004.00"
-         ]
-      },
-      {
-         "id": 68,
-         "cell": [
-            "8",
-            "2018",
-            "Irvine",
-            "BARUCH D.",
-            "KUPPERMANN",
-            "PROF-HCOMP",
-            "1022182.00",
-            "194167.00",
-            "0.00",
-            "828015.00"
-         ]
-      },
-      {
-         "id": 69,
-         "cell": [
-            "9",
-            "2018",
-            "San Diego",
-            "RICK ADAM",
-            "FRIEDMAN",
-            "ASC PHYSCN DIPLOMATE",
-            "1009263.00",
-            "283707.00",
-            "0.00",
-            "725556.00"
-         ]
-      },
-      {
-         "id": 70,
-         "cell": [
-            "10",
-            "2018",
-            "Los Angeles",
-            "STEVE",
-            "YU",
-            "HS ASST CLIN PROF-HCOMP",
-            "1007564.00",
-            "109450.00",
-            "0.00",
-            "898114.00"
-         ]
-      },
-      {
-         "id": 71,
-         "cell": [
-            "11",
-            "2018",
-            "San Francisco",
-            "TALMADGE E.",
-            "KING JR",
-            "VC AND DEAN SOM",
-            "1007138.00",
-            "673217.00",
-            "0.00",
-            "333921.00"
-         ]
-      },
-      {
-         "id": 72,
-         "cell": [
-            "12",
-            "2018",
-            "Los Angeles",
-            "FRANCIS",
-            "HORNICEK",
-            "PROF-HCOMP",
-            "1003850.00",
-            "224734.00",
-            "0.00",
-            "779116.00"
-         ]
-      },
-      {
-         "id": 73,
-         "cell": [
-            "13",
-            "2018",
-            "San Francisco",
-            "SHUNJI",
-            "SANO",
-            "PROF IN RES-HCOMP",
-            "1002676.00",
-            "247300.00",
-            "0.00",
-            "755376.00"
-         ]
-      },
-      {
-         "id": 74,
-         "cell": [
-            "14",
-            "2018",
-            "Los Angeles",
-            "MICHAEL",
-            "ROSOVE",
-            "HS CLIN PROF-HCOMP",
-            "1000217.00",
-            "250193.00",
-            "0.00",
-            "750024.00"
-         ]
-      },
-      {
-         "id": 75,
-         "cell": [
-            "15",
-            "2018",
-            "Los Angeles",
-            "MERRY",
-            "TETEF",
-            "HS CLIN PROF-HCOMP",
-            "1000000.00",
-            "181028.00",
-            "0.00",
-            "818972.00"
-         ]
-      },
-      {
-         "id": 76,
-         "cell": [
-            "16",
-            "2018",
-            "Los Angeles",
-            "OSCAR",
-            "HINES",
-            "PROF-HCOMP",
-            "999974.00",
-            "232955.00",
-            "0.00",
-            "767019.00"
-         ]
-      },
-      {
-         "id": 77,
-         "cell": [
-            "17",
-            "2018",
-            "Los Angeles",
-            "AMY",
-            "STODDARD",
-            "HS ASST CLIN PROF-HCOMP",
-            "998451.00",
-            "103467.00",
-            "0.00",
-            "894984.00"
-         ]
-      },
-      {
-         "id": 78,
-         "cell": [
-            "18",
-            "2018",
-            "Los Angeles",
-            "JOHN",
-            "MAZZIOTTA",
-            "VC AND DEAN SOM",
-            "993432.00",
-            "653432.00",
-            "0.00",
-            "340000.00"
-         ]
-      },
-      {
-         "id": 79,
-         "cell": [
-            "19",
-            "2018",
-            "Los Angeles",
-            "DANIEL",
-            "GESCHWIND",
-            "PROF IN RES-HCOMP",
-            "990000.00",
-            "350233.00",
-            "0.00",
-            "639767.00"
-         ]
-      },
-      {
-         "id": 80,
-         "cell": [
-            "20",
-            "2018",
-            "San Francisco",
-            "JOHN P",
-            "ROBERTS",
-            "PROF-HCOMP",
-            "986525.00",
-            "299252.00",
-            "0.00",
-            "687273.00"
-         ]
-      },
-      {
-         "id": 81,
-         "cell": [
-            "1",
-            "2018",
-            "San Diego",
-            "WOLFGANG HEINRIC",
-            "DILLMANN",
-            "PROF-HCOMP",
-            "981234.00",
-            "393457.00",
-            "0.00",
-            "587777.00"
-         ]
-      },
-      {
-         "id": 82,
-         "cell": [
-            "2",
-            "2018",
-            "San Diego",
-            "STEVEN R.",
-            "GARFIN",
-            "PROF-HCOMP",
-            "979941.00",
-            "393668.00",
-            "0.00",
-            "586273.00"
-         ]
-      },
-      {
-         "id": 83,
-         "cell": [
-            "3",
-            "2018",
-            "San Francisco",
-            "SIEGRID S",
-            "YU",
-            "PROF OF CLIN-HCOMP",
-            "979688.00",
-            "164292.00",
-            "0.00",
-            "815396.00"
-         ]
-      },
-      {
-         "id": 84,
-         "cell": [
-            "4",
-            "2018",
-            "Los Angeles",
-            "JEFFREY",
-            "VEALE",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "977732.00",
-            "196034.00",
-            "0.00",
-            "781698.00"
-         ]
-      },
-      {
-         "id": 85,
-         "cell": [
-            "5",
-            "2018",
-            "San Diego",
-            "DAVID ALEXANDER",
-            "LAZAR",
-            "HS ASST CLIN PROF-HCOMP",
-            "976604.00",
-            "129692.00",
-            "0.00",
-            "846912.00"
-         ]
-      },
-      {
-         "id": 86,
-         "cell": [
-            "6",
-            "2018",
-            "San Francisco",
-            "STANLEY B",
-            "PRUSINER",
-            "PROF-HCOMP",
-            "976417.00",
-            "355767.00",
-            "0.00",
-            "620650.00"
-         ]
-      },
-      {
-         "id": 87,
-         "cell": [
-            "7",
-            "2018",
-            "Los Angeles",
-            "JOHN",
-            "GLASPY",
-            "PROF-HCOMP",
-            "974999.00",
-            "278804.00",
-            "0.00",
-            "696195.00"
-         ]
-      },
-      {
-         "id": 88,
-         "cell": [
-            "8",
-            "2018",
-            "Los Angeles",
-            "MICHAEL",
-            "STEINBERG",
-            "PROF OF CLIN-HCOMP",
-            "971915.00",
-            "277909.00",
-            "0.00",
-            "694006.00"
-         ]
-      },
-      {
-         "id": 89,
-         "cell": [
-            "9",
-            "2018",
-            "Los Angeles",
-            "MICHAEL",
-            "YEH",
-            "PROF-HCOMP",
-            "969094.00",
-            "193372.00",
-            "0.00",
-            "775722.00"
-         ]
-      },
-      {
-         "id": 90,
-         "cell": [
-            "10",
-            "2018",
-            "San Diego",
-            "THOMAS R",
-            "MOORE",
-            "PROF-HCOMP",
-            "968291.00",
-            "426913.00",
-            "0.00",
-            "541378.00"
-         ]
-      },
-      {
-         "id": 91,
-         "cell": [
-            "11",
-            "2018",
-            "San Diego",
-            "NICHOLAS C",
-            "SAENZ",
-            "HS CLIN PROF-HCOMP",
-            "964332.00",
-            "223833.00",
-            "0.00",
-            "740499.00"
-         ]
-      },
-      {
-         "id": 92,
-         "cell": [
-            "12",
-            "2018",
-            "Los Angeles",
-            "ALAN",
-            "FOGELMAN",
-            "PROF-HCOMP",
-            "963193.00",
-            "452106.00",
-            "0.00",
-            "511087.00"
-         ]
-      },
-      {
-         "id": 93,
-         "cell": [
-            "13",
-            "2018",
-            "Los Angeles",
-            "DENNIS",
-            "SLAMON",
-            "PROF-HCOMP",
-            "962499.00",
-            "388987.00",
-            "0.00",
-            "573512.00"
-         ]
-      },
-      {
-         "id": 94,
-         "cell": [
-            "14",
-            "2018",
-            "San Diego",
-            "EUGENE M.",
-            "GOLTS",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "956229.00",
-            "214442.00",
-            "0.00",
-            "741787.00"
-         ]
-      },
-      {
-         "id": 95,
-         "cell": [
-            "15",
-            "2018",
-            "Los Angeles",
-            "TIMOTHY",
-            "DONAHUE",
-            "PROF-HCOMP",
-            "955639.00",
-            "195174.00",
-            "0.00",
-            "760465.00"
-         ]
-      },
-      {
-         "id": 96,
-         "cell": [
-            "16",
-            "2018",
-            "San Francisco",
-            "RAMIN E",
-            "BEYGUI",
-            "PROF OF CLIN-HCOMP",
-            "951676.00",
-            "184838.00",
-            "0.00",
-            "766838.00"
-         ]
-      },
-      {
-         "id": 97,
-         "cell": [
-            "17",
-            "2018",
-            "San Francisco",
-            "CHRISTOPHER P",
-            "AMES",
-            "PROF OF CLIN-HCOMP",
-            "948946.00",
-            "184902.00",
-            "0.00",
-            "764044.00"
-         ]
-      },
-      {
-         "id": 98,
-         "cell": [
-            "18",
-            "2018",
-            "Los Angeles",
-            "TINA",
-            "NGUYEN",
-            "HS ASST CLIN PROF-HCOMP",
-            "948457.00",
-            "103463.00",
-            "0.00",
-            "844994.00"
-         ]
-      },
-      {
-         "id": 99,
-         "cell": [
-            "19",
-            "2018",
-            "Los Angeles",
-            "STEVEN",
-            "APPLEBAUM",
-            "HS CLIN PROF-HCOMP",
-            "947613.00",
-            "187216.00",
-            "0.00",
-            "760397.00"
-         ]
-      },
-      {
-         "id": 100,
-         "cell": [
-            "20",
-            "2018",
-            "Irvine",
-            "MICHAEL JERRY",
-            "STAMOS",
-            "DEAN",
-            "945998.00",
-            "579500.00",
-            "0.00",
-            "366498.00"
-         ]
-      },
-      {
-         "id": 101,
-         "cell": [
-            "1",
-            "2018",
-            "San Francisco",
-            "ADIB ADNAN",
-            "ABLA",
-            "ASSOC PROF OF CLIN-HCOMP",
-            "945515.00",
-            "146157.00",
-            "0.00",
-            "799358.00"
-         ]
-      },
-      {
-         "id": 102,
-         "cell": [
-            "2",
-            "2018",
-            "Irvine",
-            "ALPESH N",
-            "AMIN",
-            "PROF OF CLIN-HCOMP",
-            "944320.00",
-            "363805.00",
-            "0.00",
-            "580515.00"
-         ]
-      },
-      {
-         "id": 103,
-         "cell": [
-            "3",
-            "2018",
-            "Irvine",
-            "MARJAN",
-            "FARID",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "939865.00",
-            "147058.00",
-            "0.00",
-            "792807.00"
-         ]
-      },
-      {
-         "id": 104,
-         "cell": [
-            "4",
-            "2018",
-            "Los Angeles",
-            "ANDREW",
-            "DA LIO",
-            "HS CLIN PROF-HCOMP",
-            "939651.00",
-            "216974.00",
-            "0.00",
-            "722677.00"
-         ]
-      },
-      {
-         "id": 105,
-         "cell": [
-            "5",
-            "2018",
-            "Irvine",
-            "NINH TUAN",
-            "NGUYEN",
-            "PROF-HCOMP",
-            "938300.00",
-            "323333.00",
-            "0.00",
-            "614967.00"
-         ]
-      },
-      {
-         "id": 106,
-         "cell": [
-            "6",
-            "2018",
-            "San Francisco",
-            "AARON JOHN",
-            "CLARK",
-            "ASST PROF OF CLIN-HCOMP",
-            "936941.00",
-            "124641.00",
-            "0.00",
-            "812300.00"
-         ]
-      },
-      {
-         "id": 107,
-         "cell": [
-            "7",
-            "2018",
-            "Los Angeles",
-            "PROSPER",
-            "BENHAIM",
-            "ASSOC PROF-HCOMP",
-            "935867.00",
-            "110266.00",
-            "0.00",
-            "825601.00"
-         ]
-      },
-      {
-         "id": 108,
-         "cell": [
-            "8",
-            "2018",
-            "Los Angeles",
-            "PAUL",
-            "STATON",
-            "CFO MED CTR",
-            "935022.00",
-            "667429.00",
-            "0.00",
-            "267593.00"
-         ]
-      },
-      {
-         "id": 109,
-         "cell": [
-            "9",
-            "2018",
-            "Los Angeles",
-            "AKIRA",
-            "ISHIYAMA",
-            "PROF-HCOMP",
-            "927293.00",
-            "232966.00",
-            "0.00",
-            "694327.00"
-         ]
-      },
-      {
-         "id": 110,
-         "cell": [
-            "10",
-            "2018",
-            "San Francisco",
-            "NANCY L",
-            "ASCHER",
-            "PROF-HCOMP",
-            "920995.00",
-            "328633.00",
-            "0.00",
-            "592362.00"
-         ]
-      },
-      {
-         "id": 111,
-         "cell": [
-            "11",
-            "2018",
-            "Los Angeles",
-            "YUNG-SHEE JESSICA",
-            "HSU",
-            "HS ASST CLIN PROF-HCOMP",
-            "919905.00",
-            "103453.00",
-            "0.00",
-            "816452.00"
-         ]
-      },
-      {
-         "id": 112,
-         "cell": [
-            "12",
-            "2018",
-            "Los Angeles",
-            "KARO",
-            "ARZOO",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "912501.00",
-            "176443.00",
-            "0.00",
-            "736058.00"
-         ]
-      },
-      {
-         "id": 113,
-         "cell": [
-            "13",
-            "2018",
-            "San Diego",
-            "ANNE MARIE",
-            "WALLACE",
-            "PROF OF CLIN-HCOMP",
-            "907333.00",
-            "250225.00",
-            "0.00",
-            "657108.00"
-         ]
-      },
-      {
-         "id": 114,
-         "cell": [
-            "14",
-            "2018",
-            "Davis",
-            "RICHARD K",
-            "VALICENTI",
-            "PROF-HCOMP",
-            "907138.00",
-            "225087.00",
-            "0.00",
-            "682051.00"
-         ]
-      },
-      {
-         "id": 115,
-         "cell": [
-            "15",
-            "2018",
-            "San Diego",
-            "STUART W",
-            "JAMIESON",
-            "PROF-HCOMP",
-            "905000.00",
-            "549900.00",
-            "0.00",
-            "355100.00"
-         ]
-      },
-      {
-         "id": 116,
-         "cell": [
-            "16",
-            "2018",
-            "Los Angeles",
-            "MARVIN",
-            "BERGSNEIDER",
-            "PROF-HCOMP",
-            "903309.00",
-            "258811.00",
-            "0.00",
-            "644498.00"
-         ]
-      },
-      {
-         "id": 117,
-         "cell": [
-            "17",
-            "2018",
-            "San Diego",
-            "STEVEN C.",
-            "HOWE",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "900834.00",
-            "209862.00",
-            "0.00",
-            "690972.00"
-         ]
-      },
-      {
-         "id": 118,
-         "cell": [
-            "18",
-            "2018",
-            "San Francisco",
-            "C. BENJAMIN",
-            "MA",
-            "PROF IN RES-HCOMP",
-            "897970.00",
-            "198893.00",
-            "0.00",
-            "699077.00"
-         ]
-      },
-      {
-         "id": 119,
-         "cell": [
-            "19",
-            "2018",
-            "San Francisco",
-            "GEOFFREY",
-            "MANLEY",
-            "PROF IN RES-HCOMP",
-            "892607.00",
-            "228951.00",
-            "0.00",
-            "663656.00"
-         ]
-      },
-      {
-         "id": 120,
-         "cell": [
-            "20",
-            "2018",
-            "Los Angeles",
-            "JESSE",
-            "MILLS",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "891971.00",
-            "175796.00",
-            "0.00",
-            "716175.00"
-         ]
-      },
-      {
-         "id": 121,
-         "cell": [
-            "1",
-            "2018",
-            "Los Angeles",
-            "JOSEPH",
-            "CAPRIOLI",
-            "PROF IN RES-HCOMP",
-            "889109.00",
-            "350181.00",
-            "0.00",
-            "538928.00"
-         ]
-      },
-      {
-         "id": 122,
-         "cell": [
-            "2",
-            "2018",
-            "San Francisco",
-            "JACK S",
-            "RESNECK JR.",
-            "PROF OF CLIN-HCOMP",
-            "889065.00",
-            "190858.00",
-            "0.00",
-            "698207.00"
-         ]
-      },
-      {
-         "id": 123,
-         "cell": [
-            "3",
-            "2018",
-            "Los Angeles",
-            "JOHN",
-            "SAVAGE",
-            "INTERCOL ATH HEAD COACH EX",
-            "888422.00",
-            "300000.00",
-            "0.00",
-            "588422.00"
-         ]
-      },
-      {
-         "id": 124,
-         "cell": [
-            "4",
-            "2018",
-            "Los Angeles",
-            "BRIAN",
-            "MORRIS",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "887331.00",
-            "167838.00",
-            "0.00",
-            "719493.00"
-         ]
-      },
-      {
-         "id": 125,
-         "cell": [
-            "5",
-            "2018",
-            "Los Angeles",
-            "ERIK",
-            "ZEEGEN",
-            "HS ASST CLIN PROF-HCOMP",
-            "887171.00",
-            "126112.00",
-            "0.00",
-            "761059.00"
-         ]
-      },
-      {
-         "id": 126,
-         "cell": [
-            "6",
-            "2018",
-            "San Francisco",
-            "JEFFREY PAUL",
-            "NORTH",
-            "HS ASST CLIN PROF-HCOMP",
-            "884653.00",
-            "131325.00",
-            "0.00",
-            "753328.00"
-         ]
-      },
-      {
-         "id": 127,
-         "cell": [
-            "7",
-            "2018",
-            "San Diego",
-            "RUTH SUSANNA",
-            "WATERMAN",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "883097.00",
-            "132874.00",
-            "0.00",
-            "750223.00"
-         ]
-      },
-      {
-         "id": 128,
-         "cell": [
-            "8",
-            "2018",
-            "Irvine",
-            "JEREMIAH",
-            "TAO",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "882033.00",
-            "147058.00",
-            "0.00",
-            "734975.00"
-         ]
-      },
-      {
-         "id": 129,
-         "cell": [
-            "9",
-            "2018",
-            "San Diego",
-            "MARC STUART",
-            "SCHWARTZ",
-            "PHYSCN DIPLOMATE SR",
-            "880000.00",
-            "283712.00",
-            "0.00",
-            "596288.00"
-         ]
-      },
-      {
-         "id": 130,
-         "cell": [
-            "10",
-            "2018",
-            "Davis",
-            "KEE D",
-            "KIM",
-            "PROF OF CLIN-HCOMP",
-            "876216.00",
-            "227551.00",
-            "0.00",
-            "648665.00"
-         ]
-      },
-      {
-         "id": 131,
-         "cell": [
-            "11",
-            "2018",
-            "San Francisco",
-            "PETER R",
-            "CARROLL",
-            "PROF-HCOMP",
-            "875527.00",
-            "313104.00",
-            "0.00",
-            "562423.00"
-         ]
-      },
-      {
-         "id": 132,
-         "cell": [
-            "12",
-            "2018",
-            "Los Angeles",
-            "DAVID",
-            "CHEN",
-            "ASSOC PROF OF CLIN-HCOMP",
-            "874673.00",
-            "171504.00",
-            "0.00",
-            "703169.00"
-         ]
-      },
-      {
-         "id": 133,
-         "cell": [
-            "13",
-            "2018",
-            "Davis",
-            "CHRISTOPHER P",
-            "EVANS",
-            "PROF-HCOMP",
-            "873103.00",
-            "263048.00",
-            "0.00",
-            "610055.00"
-         ]
-      },
-      {
-         "id": 134,
-         "cell": [
-            "14",
-            "2018",
-            "San Francisco",
-            "BARRIE E",
-            "STRICKLAND",
-            "CFO MED CTR",
-            "871113.00",
-            "733179.00",
-            "0.00",
-            "137934.00"
-         ]
-      },
-      {
-         "id": 135,
-         "cell": [
-            "15",
-            "2018",
-            "San Francisco",
-            "LAURA",
-            "PINCUS",
-            "ASSOC PROF OF CLIN-HCOMP",
-            "870003.00",
-            "149467.00",
-            "0.00",
-            "720536.00"
-         ]
-      },
-      {
-         "id": 136,
-         "cell": [
-            "16",
-            "2018",
-            "Riverside",
-            "SAMER",
-            "GHOSTINE",
-            "HS CLIN PROF-HCOMP",
-            "868569.00",
-            "140833.00",
-            "0.00",
-            "727736.00"
-         ]
-      },
-      {
-         "id": 137,
-         "cell": [
-            "17",
-            "2018",
-            "San Francisco",
-            "SHANE",
-            "BURCH",
-            "ASSOC PROF IN RES-HCOMP",
-            "865911.00",
-            "164396.00",
-            "0.00",
-            "701515.00"
-         ]
-      },
-      {
-         "id": 138,
-         "cell": [
-            "18",
-            "2018",
-            "Los Angeles",
-            "DEBORAH",
-            "WONG",
-            "HS ASST CLIN PROF-HCOMP",
-            "865602.00",
-            "135988.00",
-            "0.00",
-            "729614.00"
-         ]
-      },
-      {
-         "id": 139,
-         "cell": [
-            "19",
-            "2018",
-            "Los Angeles",
-            "NICHOLAS",
-            "BERNTHAL",
-            "ASSOC PROF IN RES-HCOMP",
-            "864709.00",
-            "128999.00",
-            "0.00",
-            "735710.00"
-         ]
-      },
-      {
-         "id": 140,
-         "cell": [
-            "20",
-            "2018",
-            "Los Angeles",
-            "KELSEY",
-            "MARTIN",
-            "DEAN",
-            "862250.00",
-            "587250.00",
-            "0.00",
-            "275000.00"
-         ]
-      },
-      {
-         "id": 141,
-         "cell": [
-            "1",
-            "2018",
-            "Los Angeles",
-            "MARK",
-            "LITWIN",
-            "PROF-HCOMP",
-            "857738.00",
-            "316075.00",
-            "0.00",
-            "541663.00"
-         ]
-      },
-      {
-         "id": 142,
-         "cell": [
-            "2",
-            "2018",
-            "San Diego",
-            "GABRIEL G",
-            "HADDAD",
-            "PROF-HCOMP",
-            "857106.00",
-            "360669.00",
-            "0.00",
-            "496437.00"
-         ]
-      },
-      {
-         "id": 143,
-         "cell": [
-            "3",
-            "2018",
-            "San Francisco",
-            "JASLEEN",
-            "KUKREJA",
-            "PROF OF CLIN-HCOMP",
-            "854372.00",
-            "171637.00",
-            "0.00",
-            "682735.00"
-         ]
-      },
-      {
-         "id": 144,
-         "cell": [
-            "4",
-            "2018",
-            "Los Angeles",
-            "DANIEL",
-            "LU",
-            "ASSOC PROF IN RES-HCOMP",
-            "850594.00",
-            "190538.00",
-            "0.00",
-            "660056.00"
-         ]
-      },
-      {
-         "id": 145,
-         "cell": [
-            "5",
-            "2018",
-            "San Diego",
-            "DAVID DANIEL",
-            "GONDA",
-            "HS ASST CLIN PROF-HCOMP",
-            "848647.00",
-            "179117.00",
-            "0.00",
-            "669530.00"
-         ]
-      },
-      {
-         "id": 146,
-         "cell": [
-            "6",
-            "2018",
-            "San Diego",
-            "JERROLD M",
-            "OLEFSKY",
-            "PROF-HCOMP",
-            "846650.00",
-            "433386.00",
-            "0.00",
-            "413264.00"
-         ]
-      },
-      {
-         "id": 147,
-         "cell": [
-            "7",
-            "2018",
-            "Irvine",
-            "RICHARD J",
-            "GANNOTTA",
-            "CEO MED CTR",
-            "838970.00",
-            "714545.00",
-            "0.00",
-            "124425.00"
-         ]
-      },
-      {
-         "id": 148,
-         "cell": [
-            "8",
-            "2018",
-            "San Francisco",
-            "SAMUEL",
-            "HAWGOOD",
-            "CHAN",
-            "838705.00",
-            "829789.00",
-            "0.00",
-            "8916.00"
-         ]
-      },
-      {
-         "id": 149,
-         "cell": [
-            "9",
-            "2018",
-            "San Diego",
-            "WILLIAM R",
-            "FREEMAN",
-            "PROF-HCOMP",
-            "838437.00",
-            "491842.00",
-            "0.00",
-            "346595.00"
-         ]
-      },
-      {
-         "id": 150,
-         "cell": [
-            "10",
-            "2018",
-            "San Francisco",
-            "SHEILA E",
-            "ANTRUM",
-            "SVP ADULT SVC AND PRES",
-            "837766.00",
-            "707141.00",
-            "0.00",
-            "130625.00"
-         ]
-      },
-      {
-         "id": 151,
-         "cell": [
-            "11",
-            "2018",
-            "Los Angeles",
-            "HENRY",
-            "CRYER",
-            "PROF-HCOMP",
-            "837277.00",
-            "269745.00",
-            "0.00",
-            "567532.00"
-         ]
-      },
-      {
-         "id": 152,
-         "cell": [
-            "12",
-            "2018",
-            "Los Angeles",
-            "BARTOSZ",
-            "CHMIELOWSKI",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "837212.00",
-            "162984.00",
-            "0.00",
-            "674228.00"
-         ]
-      },
-      {
-         "id": 153,
-         "cell": [
-            "13",
-            "2018",
-            "Los Angeles",
-            "ALEXANDER",
-            "BLACK",
-            "HS CLIN PROF-HCOMP",
-            "836487.00",
-            "232974.00",
-            "0.00",
-            "603513.00"
-         ]
-      },
-      {
-         "id": 154,
-         "cell": [
-            "14",
-            "2018",
-            "Los Angeles",
-            "BRIANNE",
-            "ROMEROSO",
-            "HS ASST CLIN PROF-HCOMP",
-            "836226.00",
-            "92498.00",
-            "0.00",
-            "743728.00"
-         ]
-      },
-      {
-         "id": 155,
-         "cell": [
-            "15",
-            "2018",
-            "Irvine",
-            "ANTOINE ELIE",
-            "KHOURY",
-            "PROF-HCOMP",
-            "830909.00",
-            "266803.00",
-            "0.00",
-            "564106.00"
-         ]
-      },
-      {
-         "id": 156,
-         "cell": [
-            "16",
-            "2018",
-            "Los Angeles",
-            "ROBERT",
-            "REITER",
-            "PROF-HCOMP",
-            "830443.00",
-            "282469.00",
-            "0.00",
-            "547974.00"
-         ]
-      },
-      {
-         "id": 157,
-         "cell": [
-            "17",
-            "2018",
-            "San Diego",
-            "DAVID ALLEN",
-            "BRENNER",
-            "VC AND DEAN SOM",
-            "829770.00",
-            "609770.00",
-            "0.00",
-            "220000.00"
-         ]
-      },
-      {
-         "id": 158,
-         "cell": [
-            "18",
-            "2018",
-            "Irvine",
-            "SUNIL P",
-            "VERMA",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "829762.00",
-            "203792.00",
-            "0.00",
-            "625970.00"
-         ]
-      },
-      {
-         "id": 159,
-         "cell": [
-            "19",
-            "2018",
-            "Los Angeles",
-            "PETER",
-            "WHYBROW",
-            "PROF-HCOMP",
-            "828913.00",
-            "390845.00",
-            "0.00",
-            "438068.00"
-         ]
-      },
-      {
-         "id": 160,
-         "cell": [
-            "20",
-            "2018",
-            "Los Angeles",
-            "SHAHRYAR",
-            "ASHOURI",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "825175.00",
-            "167829.00",
-            "0.00",
-            "657346.00"
-         ]
-      },
-      {
-         "id": 161,
-         "cell": [
-            "1",
-            "2018",
-            "San Francisco",
-            "THOMAS C",
-            "BARBER",
-            "HS CLIN PROF-HCOMP",
-            "824880.00",
-            "229343.00",
-            "0.00",
-            "595537.00"
-         ]
-      },
-      {
-         "id": 162,
-         "cell": [
-            "2",
-            "2018",
-            "Davis",
-            "ERIC A",
-            "KURZROCK",
-            "PROF-HCOMP",
-            "824276.00",
-            "208200.00",
-            "0.00",
-            "616076.00"
-         ]
-      },
-      {
-         "id": 163,
-         "cell": [
-            "3",
-            "2018",
-            "San Diego",
-            "ANDREW M",
-            "LOWY",
-            "PROF-HCOMP",
-            "823369.00",
-            "250225.00",
-            "0.00",
-            "573144.00"
-         ]
-      },
-      {
-         "id": 164,
-         "cell": [
-            "4",
-            "2018",
-            "Irvine",
-            "NITIN NARAIN",
-            "BHATIA",
-            "PROF OF CLIN-HCOMP",
-            "820001.00",
-            "237616.00",
-            "0.00",
-            "582385.00"
-         ]
-      },
-      {
-         "id": 165,
-         "cell": [
-            "5",
-            "2018",
-            "Irvine",
-            "JOHN G.",
-            "LEE",
-            "PROF OF CLIN-HCOMP",
-            "814660.00",
-            "194148.00",
-            "0.00",
-            "620512.00"
-         ]
-      },
-      {
-         "id": 166,
-         "cell": [
-            "6",
-            "2018",
-            "Riverside",
-            "DEBORAH",
-            "DEAS",
-            "DEAN",
-            "812942.00",
-            "662942.00",
-            "0.00",
-            "150000.00"
-         ]
-      },
-      {
-         "id": 167,
-         "cell": [
-            "7",
-            "2018",
-            "San Diego",
-            "IGOR",
-            "GRANT",
-            "PROF-HCOMP",
-            "809509.00",
-            "437527.00",
-            "0.00",
-            "371982.00"
-         ]
-      },
-      {
-         "id": 168,
-         "cell": [
-            "8",
-            "2018",
-            "San Diego",
-            "ALEXANDER",
-            "NORBASH",
-            "PROF-HCOMP",
-            "806407.00",
-            "292641.00",
-            "0.00",
-            "513766.00"
-         ]
-      },
-      {
-         "id": 169,
-         "cell": [
-            "9",
-            "2018",
-            "Los Angeles",
-            "DIETER",
-            "ENZMANN",
-            "PROF-HCOMP",
-            "804106.00",
-            "374143.00",
-            "0.00",
-            "429963.00"
-         ]
-      },
-      {
-         "id": 170,
-         "cell": [
-            "10",
-            "2018",
-            "Los Angeles",
-            "PAUL",
-            "KEDESHIAN",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "802206.00",
-            "176463.00",
-            "0.00",
-            "625743.00"
-         ]
-      },
-      {
-         "id": 171,
-         "cell": [
-            "11",
-            "2018",
-            "Los Angeles",
-            "MAGGIE",
-            "DINOME",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "802161.00",
-            "171495.00",
-            "0.00",
-            "630666.00"
-         ]
-      },
-      {
-         "id": 172,
-         "cell": [
-            "12",
-            "2018",
-            "Los Angeles",
-            "STEVEN",
-            "LEE",
-            "PROF OF CLIN-HCOMP",
-            "801687.00",
-            "139287.00",
-            "0.00",
-            "662400.00"
-         ]
-      },
-      {
-         "id": 173,
-         "cell": [
-            "13",
-            "2018",
-            "Los Angeles",
-            "SHANT",
-            "SHEKHERDIMIAN",
-            "ASST PROF IN RES-HCOMP",
-            "801150.00",
-            "143275.00",
-            "0.00",
-            "657875.00"
-         ]
-      },
-      {
-         "id": 174,
-         "cell": [
-            "14",
-            "2018",
-            "Los Angeles",
-            "MURRAY",
-            "KWON",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "800484.00",
-            "167821.00",
-            "0.00",
-            "632663.00"
-         ]
-      },
-      {
-         "id": 175,
-         "cell": [
-            "15",
-            "2018",
-            "Los Angeles",
-            "CURTIS",
-            "HUNTER",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "799979.00",
-            "167794.00",
-            "0.00",
-            "632185.00"
-         ]
-      },
-      {
-         "id": 176,
-         "cell": [
-            "16",
-            "2018",
-            "Los Angeles",
-            "GARY",
-            "GITNICK",
-            "PROF-HCOMP",
-            "799088.00",
-            "314995.00",
-            "0.00",
-            "484093.00"
-         ]
-      },
-      {
-         "id": 177,
-         "cell": [
-            "17",
-            "2018",
-            "Los Angeles",
-            "RAM",
-            "PARVATANENI",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "799059.00",
-            "121248.00",
-            "0.00",
-            "677811.00"
-         ]
-      },
-      {
-         "id": 178,
-         "cell": [
-            "18",
-            "2018",
-            "Los Angeles",
-            "TARA",
-            "MCCANNEL",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "796547.00",
-            "176442.00",
-            "0.00",
-            "620105.00"
-         ]
-      },
-      {
-         "id": 179,
-         "cell": [
-            "19",
-            "2018",
-            "Los Angeles",
-            "EDDIE",
-            "HU",
-            "HS ASSOC CLIN PROF-HCOMP",
-            "796538.00",
-            "176439.00",
-            "0.00",
-            "620099.00"
-         ]
-      },
-      {
-         "id": 180,
-         "cell": [
-            "20",
-            "2018",
-            "San Francisco",
-            "GEORG M",
-            "WIESELTHALER",
-            "PROF OF CLIN-HCOMP",
-            "794975.00",
-            "229343.00",
-            "0.00",
-            "565632.00"
-         ]
-      }
-   ]
+ "employees": [
+  {
+   "id": 1,
+   "year": "2018",
+   "location": "Los Angeles",
+   "firstName": "CHARLES",
+   "lastName": "KELLY",
+   "title": "INTERCOL ATH HEAD COACH EX",
+   "grossPay": "3341707.00",
+   "regularPay": "300000.00",
+   "overtimePay": "0.00",
+   "otherPay": "3041707.00"
+  },
+  {
+   "id": 2,
+   "year": "2018",
+   "location": "Berkeley",
+   "firstName": "JUSTIN",
+   "lastName": "WILCOX",
+   "title": "HEAD COACH 5",
+   "grossPay": "3003362.00",
+   "regularPay": "250000.00",
+   "overtimePay": "0.00",
+   "otherPay": "2753362.00"
+  },
+  {
+   "id": 3,
+   "year": "2018",
+   "location": "Los Angeles",
+   "firstName": "JAMES",
+   "lastName": "MORA",
+   "title": "INTERCOL ATH HEAD COACH EX",
+   "grossPay": "2918795.00",
+   "regularPay": "396667.00",
+   "overtimePay": "0.00",
+   "otherPay": "2522128.00"
+  },
+  {
+   "id": 4,
+   "year": "2018",
+   "location": "Los Angeles",
+   "firstName": "STEPHEN",
+   "lastName": "ALFORD",
+   "title": "INTERCOL ATH HEAD COACH EX",
+   "grossPay": "2724497.00",
+   "regularPay": "300000.00",
+   "overtimePay": "0.00",
+   "otherPay": "2424497.00"
+  },
+  {
+   "id": 5,
+   "year": "2018",
+   "location": "Los Angeles",
+   "firstName": "RONALD",
+   "lastName": "BUSUTTIL",
+   "title": "PROF-HCOMP",
+   "grossPay": "2483249.00",
+   "regularPay": "416187.00",
+   "overtimePay": "0.00",
+   "otherPay": "2067062.00"
+  },
+  {
+   "id": 6,
+   "year": "2018",
+   "location": "Los Angeles",
+   "firstName": "KHALIL",
+   "lastName": "TABSH",
+   "title": "HS CLIN PROF-HCOMP",
+   "grossPay": "2284395.00",
+   "regularPay": "210146.00",
+   "overtimePay": "0.00",
+   "otherPay": "2074249.00"
+  },
+  {
+   "id": 7,
+   "year": "2018",
+   "location": "San Francisco",
+   "firstName": "VADIYALA MOHAN",
+   "lastName": "REDDY",
+   "title": "PROF-HCOMP",
+   "grossPay": "2015836.00",
+   "regularPay": "275400.00",
+   "overtimePay": "0.00",
+   "otherPay": "1740436.00"
+  },
+  {
+   "id": 8,
+   "year": "2018",
+   "location": "Irvine",
+   "firstName": "NAVEEN D",
+   "lastName": "BHANDARKAR",
+   "title": "ASSOC PROF OF CLIN-HCOMP",
+   "grossPay": "1965689.00",
+   "regularPay": "203792.00",
+   "overtimePay": "0.00",
+   "otherPay": "1761897.00"
+  },
+  {
+   "id": 9,
+   "year": "2018",
+   "location": "San Diego",
+   "firstName": "MICHAEL M.",
+   "lastName": "MADANI",
+   "title": "PROF OF CLIN-HCOMP",
+   "grossPay": "1936497.00",
+   "regularPay": "291250.00",
+   "overtimePay": "0.00",
+   "otherPay": "1645247.00"
+  },
+  {
+   "id": 10,
+   "year": "2018",
+   "location": "San Francisco",
+   "firstName": "TIMOTHY H",
+   "lastName": "MCCALMONT",
+   "title": "PROF OF CLIN-HCOMP",
+   "grossPay": "1882569.00",
+   "regularPay": "236975.00",
+   "overtimePay": "0.00",
+   "otherPay": "1645594.00"
+  },
+  {
+   "id": 11,
+   "year": "2018",
+   "location": "Los Angeles",
+   "firstName": "JASON",
+   "lastName": "ROOSTAEIAN",
+   "title": "HS ASSOC CLIN PROF-HCOMP",
+   "grossPay": "1814375.00",
+   "regularPay": "165960.00",
+   "overtimePay": "0.00",
+   "otherPay": "1648415.00"
+  },
+  {
+   "id": 12,
+   "year": "2018",
+   "location": "Los Angeles",
+   "firstName": "ERIC",
+   "lastName": "ESRAILIAN",
+   "title": "HS ASSOC CLIN PROF-HCOMP",
+   "grossPay": "1787500.00",
+   "regularPay": "171495.00",
+   "overtimePay": "0.00",
+   "otherPay": "1616005.00"
+  },
+  {
+   "id": 13,
+   "year": "2018",
+   "location": "Los Angeles",
+   "firstName": "DANIEL",
+   "lastName": "GUERRERO",
+   "title": "MGR",
+   "grossPay": "1773709.00",
+   "regularPay": "922894.00",
+   "overtimePay": "0.00",
+   "otherPay": "850815.00"
+  },
+  {
+   "id": 14,
+   "year": "2018",
+   "location": "Los Angeles",
+   "firstName": "BENJAMIN",
+   "lastName": "ANSELL",
+   "title": "HS CLIN PROF-HCOMP",
+   "grossPay": "1742695.00",
+   "regularPay": "216982.00",
+   "overtimePay": "0.00",
+   "otherPay": "1525713.00"
+  },
+  {
+   "id": 15,
+   "year": "2018",
+   "location": "San Francisco",
+   "firstName": "PHILIP E",
+   "lastName": "LEBOIT",
+   "title": "PROF OF CLIN-HCOMP",
+   "grossPay": "1705429.00",
+   "regularPay": "288830.00",
+   "overtimePay": "0.00",
+   "otherPay": "1416599.00"
+  },
+  {
+   "id": 16,
+   "year": "2018",
+   "location": "San Diego",
+   "firstName": "EHTISHAM",
+   "lastName": "MAHMUD",
+   "title": "PROF OF CLIN-HCOMP",
+   "grossPay": "1701593.00",
+   "regularPay": "213615.00",
+   "overtimePay": "0.00",
+   "otherPay": "1487978.00"
+  },
+  {
+   "id": 17,
+   "year": "2018",
+   "location": "Los Angeles",
+   "firstName": "JEFFREY",
+   "lastName": "SUH",
+   "title": "ASSOC PROF OF CLIN-HCOMP",
+   "grossPay": "1523089.00",
+   "regularPay": "167806.00",
+   "overtimePay": "0.00",
+   "otherPay": "1355283.00"
+  },
+  {
+   "id": 18,
+   "year": "2018",
+   "location": "Los Angeles",
+   "firstName": "RICHARD",
+   "lastName": "SHEMIN",
+   "title": "PROF-HCOMP",
+   "grossPay": "1494473.00",
+   "regularPay": "341476.00",
+   "overtimePay": "0.00",
+   "otherPay": "1152997.00"
+  },
+  {
+   "id": 19,
+   "year": "2018",
+   "location": "Los Angeles",
+   "firstName": "AISLING",
+   "lastName": "MURPHY",
+   "title": "HS ASST CLIN PROF-HCOMP",
+   "grossPay": "1459174.00",
+   "regularPay": "109429.00",
+   "overtimePay": "0.00",
+   "otherPay": "1349745.00"
+  },
+  {
+   "id": 20,
+   "year": "2018",
+   "location": "Los Angeles",
+   "firstName": "DINESH",
+   "lastName": "CHHETRI",
+   "title": "PROF IN RES-HCOMP",
+   "grossPay": "1450558.00",
+   "regularPay": "180624.00",
+   "overtimePay": "0.00",
+   "otherPay": "1269934.00"
+  },
+  {
+   "id": 21,
+   "year": "2018",
+   "location": "Los Angeles",
+   "firstName": "ABBAS",
+   "lastName": "ARDEHALI",
+   "title": "PROF-HCOMP",
+   "grossPay": "1444035.00",
+   "regularPay": "232969.00",
+   "overtimePay": "0.00",
+   "otherPay": "1211066.00"
+  },
+  {
+   "id": 22,
+   "year": "2018",
+   "location": "San Diego",
+   "firstName": "ROBERT N.",
+   "lastName": "WEINREB",
+   "title": "PROF-HCOMP",
+   "grossPay": "1437112.00",
+   "regularPay": "640090.00",
+   "overtimePay": "0.00",
+   "otherPay": "797022.00"
+  },
+  {
+   "id": 23,
+   "year": "2018",
+   "location": "Los Angeles",
+   "firstName": "CHRISTOPHER",
+   "lastName": "CRISERA",
+   "title": "HS CLIN PROF-HCOMP",
+   "grossPay": "1403888.00",
+   "regularPay": "187220.00",
+   "overtimePay": "0.00",
+   "otherPay": "1216668.00"
+  },
+  {
+   "id": 24,
+   "year": "2018",
+   "location": "Irvine",
+   "firstName": "JOHN STUART",
+   "lastName": "NELSON",
+   "title": "PROF-HCOMP",
+   "grossPay": "1379644.00",
+   "regularPay": "357692.00",
+   "overtimePay": "0.00",
+   "otherPay": "1021952.00"
+  },
+  {
+   "id": 25,
+   "year": "2018",
+   "location": "San Francisco",
+   "firstName": "MARK R",
+   "lastName": "LARET",
+   "title": "CEO MED CTR",
+   "grossPay": "1359481.00",
+   "regularPay": "1088447.00",
+   "overtimePay": "0.00",
+   "otherPay": "271034.00"
+  },
+  {
+   "id": 26,
+   "year": "2018",
+   "location": "Los Angeles",
+   "firstName": "CHARLES",
+   "lastName": "TSENG",
+   "title": "HS ASSOC CLIN PROF-HCOMP",
+   "grossPay": "1354633.00",
+   "regularPay": "162986.00",
+   "overtimePay": "0.00",
+   "otherPay": "1191647.00"
+  },
+  {
+   "id": 27,
+   "year": "2018",
+   "location": "Los Angeles",
+   "firstName": "CARLA",
+   "lastName": "JANZEN",
+   "title": "ASSOC PROF-HCOMP",
+   "grossPay": "1341370.00",
+   "regularPay": "117315.00",
+   "overtimePay": "0.00",
+   "otherPay": "1224055.00"
+  },
+  {
+   "id": 28,
+   "year": "2018",
+   "location": "San Diego",
+   "firstName": "GERT DIEDERICK",
+   "lastName": "PRETORIUS",
+   "title": "HS ASSOC CLIN PROF-HCOMP",
+   "grossPay": "1340678.00",
+   "regularPay": "220567.00",
+   "overtimePay": "0.00",
+   "otherPay": "1120111.00"
+  },
+  {
+   "id": 29,
+   "year": "2018",
+   "location": "Los Angeles",
+   "firstName": "ALEXANDER",
+   "lastName": "CHIANG",
+   "title": "HS ASST CLIN PROF-HCOMP",
+   "grossPay": "1333078.00",
+   "regularPay": "98210.00",
+   "overtimePay": "0.00",
+   "otherPay": "1234868.00"
+  },
+  {
+   "id": 30,
+   "year": "2018",
+   "location": "San Diego",
+   "firstName": "JOHN JOSEPH",
+   "lastName": "NIGRO",
+   "title": "HS CLIN PROF-HCOMP",
+   "grossPay": "1331109.00",
+   "regularPay": "246536.00",
+   "overtimePay": "0.00",
+   "otherPay": "1084573.00"
+  },
+  {
+   "id": 31,
+   "year": "2018",
+   "location": "Irvine",
+   "firstName": "HAMID",
+   "lastName": "DJALILIAN",
+   "title": "PROF OF CLIN-HCOMP",
+   "grossPay": "1320067.00",
+   "regularPay": "260250.00",
+   "overtimePay": "0.00",
+   "otherPay": "1059817.00"
+  },
+  {
+   "id": 32,
+   "year": "2018",
+   "location": "San Diego",
+   "firstName": "MICHAEL L.",
+   "lastName": "LEVY",
+   "title": "PROF OF CLIN-HCOMP",
+   "grossPay": "1308345.00",
+   "regularPay": "323142.00",
+   "overtimePay": "0.00",
+   "otherPay": "985203.00"
+  },
+  {
+   "id": 33,
+   "year": "2018",
+   "location": "San Diego",
+   "firstName": "SHANG I BRIAN",
+   "lastName": "JIANG",
+   "title": "HS CLIN PROF-HCOMP",
+   "grossPay": "1303968.00",
+   "regularPay": "156739.00",
+   "overtimePay": "0.00",
+   "otherPay": "1147229.00"
+  },
+  {
+   "id": 34,
+   "year": "2018",
+   "location": "Los Angeles",
+   "firstName": "JOHNESE",
+   "lastName": "SPISSO",
+   "title": "CEO MED CTR",
+   "grossPay": "1282298.00",
+   "regularPay": "1032948.00",
+   "overtimePay": "0.00",
+   "otherPay": "249350.00"
+  },
+  {
+   "id": 35,
+   "year": "2018",
+   "location": "Los Angeles",
+   "firstName": "LINDA",
+   "lastName": "LIAU",
+   "title": "PROF-HCOMP",
+   "grossPay": "1278800.00",
+   "regularPay": "309731.00",
+   "overtimePay": "0.00",
+   "otherPay": "969069.00"
+  },
+  {
+   "id": 36,
+   "year": "2018",
+   "location": "San Diego",
+   "firstName": "SCOTT M",
+   "lastName": "LIPPMAN",
+   "title": "PROF-HCOMP",
+   "grossPay": "1264939.00",
+   "regularPay": "313067.00",
+   "overtimePay": "0.00",
+   "otherPay": "951872.00"
+  },
+  {
+   "id": 37,
+   "year": "2018",
+   "location": "San Diego",
+   "firstName": "LUCILA",
+   "lastName": "OHNO-MACHADO",
+   "title": "PROF-HCOMP",
+   "grossPay": "1219348.00",
+   "regularPay": "270851.00",
+   "overtimePay": "0.00",
+   "otherPay": "948497.00"
+  },
+  {
+   "id": 38,
+   "year": "2018",
+   "location": "Los Angeles",
+   "firstName": "BRIAN",
+   "lastName": "DERUBERTIS",
+   "title": "HS ASSOC CLIN PROF-HCOMP",
+   "grossPay": "1189281.00",
+   "regularPay": "179989.00",
+   "overtimePay": "0.00",
+   "otherPay": "1009292.00"
+  },
+  {
+   "id": 39,
+   "year": "2018",
+   "location": "San Diego",
+   "firstName": "CHRISTOPHER J.",
+   "lastName": "KANE",
+   "title": "PROF-HCOMP",
+   "grossPay": "1186200.00",
+   "regularPay": "247291.00",
+   "overtimePay": "0.00",
+   "otherPay": "938909.00"
+  },
+  {
+   "id": 40,
+   "year": "2018",
+   "location": "San Francisco",
+   "firstName": "ISAAC M",
+   "lastName": "NEUHAUS",
+   "title": "PROF OF CLIN-HCOMP",
+   "grossPay": "1184923.00",
+   "regularPay": "165975.00",
+   "overtimePay": "0.00",
+   "otherPay": "1018948.00"
+  }
+ ]
 }
