@@ -6,24 +6,39 @@ if __name__ == "__main__":
     with open('allJsonAppendedTogether.json', 'w') as fp:
         #fp.truncate(0)
         # json.dump({"rows":[]}, fp)
-        fp.write("{\"rows\":[]}")
+        fp.write("{\"employees\":[]}")
 
     with open('allJsonAppendedTogether.json', 'r+') as fp:
         information = json.load(fp)
 
-    with open('pg1.json', 'r') as jsonStr:
-        jsonStrText = json.load(jsonStr)
-        
-    """for fileRange in range(0, 1000+1):"""
+    pgNum = 1
+    for fileRange in range(1, 10):
+        with open('pg' + str(fileRange) + '.json', 'r') as jsonStr:
+            jsonStrText = json.load(jsonStr, strict=False)
+        for index, item in enumerate(jsonStrText['rows']):
+            item['id'] = pgNum * 20 + int(item['id']) - 20
+            rowInfo = jsonStrText["rows"][index]
+            information["employees"].append(rowInfo)
+        pgNum += 1
 
-    for idIndex in range(0, 20):
-        rowInfo = jsonStrText["rows"][idIndex]
-        information["rows"].append(rowInfo)
-
-    print(information)
+    #print(information)
 
     with open('allJsonAppendedTogether.json', 'w') as fp:
-        json.dump(information, fp)
+        json.dump(information, fp, indent=3)
+
+
+    """pgNum = 1
+
+    while pgNum <= 5:
+        with open('pg' + str(pgNum) + '.json', 'r') as jsonStr:
+            jsonStrText = json.load(jsonStr)
+            print(jsonStrText['rows'][1])
+            for dataRow in jsonStrText['rows']:
+                dataRow['id'] = pgNum * 20 + int(dataRow['id']) - 20
+            #print(dataRow)
+                # TODO: append data rows to the allJsonAppendedTogether.json file
+        pgNum += 1"""
+
 
 
 
@@ -54,17 +69,9 @@ if __name__ == "__main__":
 
 
 
-    """
-        pgNum = 2
-    
-        while pgNum <= 5:
-            with open('pg' + str(pgNum) + '.json', 'r') as jsonStr:
-                jsonStrText = json.load(jsonStr)
-                for dataRow in jsonStrText['rows']:
-                    dataRow['id'] = pgNum * 10 + int(dataRow['id'])
-                    # TODO: append data rows to the allJsonAppendedTogether.json file
-            pgNum += 1"""
+
     #obj.close()
+
     #TODO:
     # 1. Make a new file that is for combining all the json stuff
     # 2. Open pg1 and extract data from pg1 to new file
