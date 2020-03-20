@@ -1,0 +1,26 @@
+{
+"page" : "7656",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","*****","*****","GSR-TUIT & FEE REM-UCSD-GRP D","30135.00","30135.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Berkeley","JING","GE","PROJECT POLICY ANL 3","30133.00","30133.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","*****","*****","GSR-FULL FEE REM","30133.00","29733.00","0.00","400.00"]},
+{"id":"4","cell":["4","2018","San Diego","CHRISTIAN LESLIE","WEBER","CLIN NURSE 2","30133.00","26483.00","876.00","2774.00"]},
+{"id":"5","cell":["5","2018","San Diego","ROBERT EDWARD","AROSEMENA","MED CTR CUSTODIAN","30131.00","28210.00","763.00","1158.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","AMBER","BUDDEN","VIS RES","30130.00","30130.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","*****","*****","GSR-FULL FEE REM","30128.00","30128.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","DARCY","RITZAU","STDT SVC ADVISOR 2","30128.00","30128.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","NICHOLAS D","YINGLING","LECT-AY","30128.00","30128.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","GEORGE P.","THOMAS","LECT-AY","30128.00","30128.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","30126.00","30126.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","30125.00","30125.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","30123.00","30023.00","0.00","100.00"]},
+{"id":"14","cell":["14","2018","Davis","MICHAEL S","COX","MED CTR CUSTODIAN SR","30123.00","28200.00","1013.00","910.00"]},
+{"id":"15","cell":["15","2018","Santa Barbara","PAULA","POPESCU","LECT IN SUMMER SESSION","30123.00","24705.00","0.00","5418.00"]},
+{"id":"16","cell":["16","2018","San Diego","*****","*****","GSR-TUIT & FEE REM-UCSD-GRP G","30123.00","30123.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","NELSON","VASQUEZ","ADMIN ANL PRN 2","30122.00","30122.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Riverside","JANICE","AGUSTIN","BLANK AST 3","30122.00","30122.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Riverside","KAMVAR","FARAHBOD","LECT-AY","30121.00","24096.00","0.00","6025.00"]},
+{"id":"20","cell":["20","2018","Irvine","AL ANOUD DAOUD","BADDOUR","SRA 1","30120.00","28401.00","0.00","1719.00"]}]
+}

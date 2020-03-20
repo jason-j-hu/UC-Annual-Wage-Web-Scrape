@@ -1,0 +1,26 @@
+{
+"page" : "6572",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","ERMELINDA B","NALULA","CLIN LAB SCI","42661.00","36904.00","4726.00","1031.00"]},
+{"id":"2","cell":["2","2018","Riverside","DAVID","ULIN","ASST ADJ PROF-AY","42661.00","42661.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","MEI FEN","LI","CLERK","42660.00","41567.00","321.00","772.00"]},
+{"id":"4","cell":["4","2018","Irvine","CARELIA","CONTRERAS","ADMITTING WORKER PRN","42660.00","41608.00","28.00","1024.00"]},
+{"id":"5","cell":["5","2018","Irvine","JEREMY Q","TAYLOR","MED CTR CUSTODIAN SR","42659.00","38386.00","2434.00","1839.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","MARIA-SHEILA","FERNANDO","BLANK AST 3","42658.00","42658.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","ANNETTE","DAVIS","ADMITTING WORKER","42657.00","41464.00","170.00","1023.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","FABIOLA","PEREZ-LUA","STDT LIFE DEV SPEC 3","42657.00","41610.00","0.00","1047.00"]},
+{"id":"9","cell":["9","2018","Davis","*****","*****","JR SPECIALIST","42656.00","35868.00","6788.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","MAGNO","SIMANGAN","MED CTR CUSTODIAN SR","42655.00","35727.00","2393.00","4535.00"]},
+{"id":"11","cell":["11","2018","Berkeley","DIANA","TRAN","BLANK AST 2","42654.00","42154.00","0.00","500.00"]},
+{"id":"12","cell":["12","2018","San Francisco","KRISTEN ELIZABET","GREENLEE","ADMIN OFCR 2","42653.00","40562.00","2091.00","0.00"]},
+{"id":"13","cell":["13","2018","Irvine","CHARLOTTE","SPASSOFF","ASST SPECIALIST","42653.00","42195.00","458.00","0.00"]},
+{"id":"14","cell":["14","2018","Santa Cruz","ELEANOR FIONA","FLEMING","STDT LIFE DEV SPEC 2","42652.00","39657.00","0.00","2995.00"]},
+{"id":"15","cell":["15","2018","Irvine","DIANE","CARO","CLIN NURSE 4","42651.00","42165.00","486.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","BRIAN W","FUNG","CMTY EDUC SPEC 2","42651.00","42555.00","0.00","96.00"]},
+{"id":"17","cell":["17","2018","San Francisco","OTTO GUILLERMO","PENA","TCHN","42650.00","40768.00","1882.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","*****","*****","STDT AFFAIRS OFCR 3 EX","42650.00","42641.00","0.00","9.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","KENNETH","KUNG","LECT-AY-1/9","42650.00","42650.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","ZULEIKA O","PANIAGUA","BLANK AST 3","42648.00","41262.00","546.00","840.00"]}]
+}

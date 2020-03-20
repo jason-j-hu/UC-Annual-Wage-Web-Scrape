@@ -1,0 +1,26 @@
+{
+"page" : "9009",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","*****","*****","TEACHG ASST-GSHIP","17211.00","17211.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","SIOBHAN THERESA","WHITE","TUT-NON STDNT","17211.00","17211.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","17211.00","17211.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Santa Barbara","*****","*****","TEACHG ASST-GSHIP","17208.00","16637.00","0.00","571.00"]},
+{"id":"5","cell":["5","2018","Hastings College Of Law","KEA H","SCULLION","DIRECTOR I","17208.00","17208.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","GUSTAVO","TURIACI","POSTDOC-EMPLOYEE","17208.00","17208.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","*****","*****","TUT-NON GSHIP","17208.00","17208.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","17207.00","10819.00","0.00","6388.00"]},
+{"id":"9","cell":["9","2018","Irvine","JENEE VARIA","RUE SASTRY","PROGR ANL 3","17206.00","17206.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","RACHEL","KOTOK","TEACHER-UNEX","17206.00","0.00","0.00","17206.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","JENNIFER","LEW","PHYSCN AST SR","17205.00","16132.00","1073.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","JORDAN T","BERRY","CLIN LAB SCI","17202.00","16972.00","186.00","44.00"]},
+{"id":"13","cell":["13","2018","San Diego","AMY PEARL","BENNION","RSCH ADM 3","17201.00","13657.00","0.00","3544.00"]},
+{"id":"14","cell":["14","2018","Berkeley","*****","*****","LECT IN SUMMER SESSION","17200.00","10326.00","0.00","6874.00"]},
+{"id":"15","cell":["15","2018","Irvine","TIMOTHY W.","COVINGTON","TEACHER-UNEX-CONTRACT YR","17200.00","0.00","0.00","17200.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","*****","*****","STDT 1","17200.00","17200.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Riverside","ASHIS","MUKHERJEE","ADMIN STIPEND","17200.00","0.00","0.00","17200.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","MANUEL","FLORES","HOSP LAB TCHN 3","17199.00","14767.00","1607.00","825.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","MICHAEL J.","TROXELL","PRG PROMOTION MGR 2","17198.00","17198.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","*****","*****","TEACHG ASST-GSHIP","17196.00","17096.00","0.00","100.00"]}]
+}

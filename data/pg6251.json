@@ -1,0 +1,26 @@
+{
+"page" : "6251",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","ROSAURA ILEN","LOPEZ","HOSP AST 3 PD","46036.00","44908.00","248.00","880.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","RICKY","FORD","PARKING SUPV","46035.00","42121.00","2685.00","1229.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","JASMINE","MALEERAT","BLANK AST 3","46035.00","45751.00","284.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","JEAN","DAVIS","MGT SVC OFCR 1","46035.00","45143.00","0.00","892.00"]},
+{"id":"5","cell":["5","2018","Berkeley","MARTHA","BRUNO","CUSTODIAN SR","46034.00","45943.00","3.00","88.00"]},
+{"id":"6","cell":["6","2018","Davis","ANIL","KUMAR","MED CTR CUSTODIAN SR","46033.00","39661.00","1785.00","4587.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","PABLO","HERNANDEZ","MED CTR CUSTODIAN SR","46033.00","41060.00","1764.00","3209.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","JANINE","GARCIA","PAT COMM REPR","46033.00","46033.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","NATHAN JOAB","ESTANISLAO","TELEMETRY TCHN","46033.00","42592.00","2415.00","1026.00"]},
+{"id":"10","cell":["10","2018","San Francisco","AMANDA GOMEZ","BLEA","CHILD LIFE SPEC 1 PD","46032.00","45795.00","237.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","KAMALJIT K","SINGH","MED CTR CUSTODIAN SR","46032.00","43109.00","559.00","2364.00"]},
+{"id":"12","cell":["12","2018","Davis","MADHU S","BUDAMAGUNTA","ASSOC PROJ SCIENTIST-FY","46032.00","46032.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","ROSALINDA","GONZALES","TCHN","46031.00","43495.00","1926.00","610.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","SIDDHARTHA","SREEKARAM","PRG REPR 2","46031.00","43283.00","830.00","1918.00"]},
+{"id":"15","cell":["15","2018","Santa Cruz","LUCY MARY","RUSSO","FOOD SVC SUPV 1","46031.00","46031.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","PAULO","HERNANDEZ","PAT COMM REPR","46030.00","44244.00","1786.00","0.00"]},
+{"id":"17","cell":["17","2018","Santa Cruz","JOHN","PALOCHAK","GARDENER GROUNDSKEEPER","46030.00","46030.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","KARIN","LOHWASSER","LECT PSOE-AY","46030.00","35745.00","0.00","10285.00"]},
+{"id":"19","cell":["19","2018","Berkeley","CHRISTINE","SU","PROJECT POLICY ANL 3","46030.00","46030.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","PHUC","LE","ASC PHYSCN DIPLOMATE","46028.00","25000.00","0.00","21028.00"]}]
+}

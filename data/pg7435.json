@@ -1,0 +1,26 @@
+{
+"page" : "7435",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","ERIK E","GOMEZ","ELECTR TCHN SR","32505.00","27999.00","953.00","3553.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","EUGENIA M","CEBRUN","BLANK AST 3","32503.00","29501.00","0.00","3002.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","RICHARD","PENG","BLANK AST 2","32503.00","32503.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","SUHAIL","YOUSIF","AUTO EQUIP OPR PRN","32502.00","31093.00","481.00","928.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ALEXIS Y","GOUDEAU","RESC NURSE PD","32502.00","29675.00","0.00","2827.00"]},
+{"id":"6","cell":["6","2018","San Diego","JASMINE RAE","TOCKI","TUT-NON STDNT","32502.00","32402.00","0.00","100.00"]},
+{"id":"7","cell":["7","2018","Berkeley","JESSICA","LUBETSKY","ACAD PRG MGT OFCR 4","32501.00","29250.00","0.00","3251.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","*****","*****","ADMIN ANL","32501.00","26691.00","136.00","5674.00"]},
+{"id":"9","cell":["9","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","32501.00","32401.00","0.00","100.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","NORBERTO","MORENO MARROQUI","MED CTR PARKING AST","32500.00","29815.00","1132.00","1553.00"]},
+{"id":"11","cell":["11","2018","Santa Barbara","KEVIN","NORTH","COMM AND NETWORK TCHL ANL 2","32500.00","32500.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","32500.00","22989.00","0.00","9511.00"]},
+{"id":"13","cell":["13","2018","San Francisco","GLORIA E","COLEMAN","HOSP BLANK AST 3","32499.00","32262.00","33.00","204.00"]},
+{"id":"14","cell":["14","2018","San Francisco","MARYAM LUNA","SALEMME","CLIN RSCH CRD","32499.00","30671.00","0.00","1828.00"]},
+{"id":"15","cell":["15","2018","Davis","JACKIE","BARAHONA","CMTY EDUC SPEC 1","32499.00","32499.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Riverside","DANIEL","NEWELL","COACH AST 3","32498.00","31998.00","0.00","500.00"]},
+{"id":"17","cell":["17","2018","San Francisco","MICHAEL ANDREW","HENNE","CLIN RSCH CRD","32497.00","32380.00","117.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","ANDREW","KNAB","FINANCIAL ANL MGR 2","32496.00","16374.00","0.00","16122.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","ASHLEY KAREN","EQUITZ","BLANK AST 3","32495.00","31936.00","559.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","DEJA","LYNCH","ADMIN CARE CLIN PARTNER","32495.00","29250.00","211.00","3037.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "6913",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","RACHEL","LIEU","LIBRARY PROFL 4","38667.00","38667.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Riverside","KANDIS","ABDUL-AZIZ","ASST PROF-AY-B/E/E","38667.00","38667.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","GUSTAVO","SANCHEZ","LABORER","38666.00","34569.00","4086.00","11.00"]},
+{"id":"4","cell":["4","2018","Santa Cruz","IGNACIO","MELCHOR","COOK","38665.00","38665.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","SANDER","AYALA","CUSTODIAN SR","38664.00","38643.00","21.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JESSICA","WILLIAMS","PAT BILLER 3","38664.00","38164.00","0.00","500.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","CHRISTEN","IBRAHIM","CTRL SVC TCHN 1","38664.00","37017.00","1223.00","424.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","MEGAN","DEBRITO","OMBUDSPERSON 2","38663.00","38253.00","410.00","0.00"]},
+{"id":"9","cell":["9","2018","Berkeley","YUNLONG","TANG","POSTDOC-EMPLOYEE","38662.00","38662.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","ZHONGYUN","LIU","VIS ASST RES NEX","38661.00","35190.00","414.00","3057.00"]},
+{"id":"11","cell":["11","2018","San Francisco","SABRINA A","KARCZEWSKI","HS ASST CLIN PROF-HCOMP","38661.00","32669.00","0.00","5992.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","RANI","MATHEW","RESC NURSE PD","38661.00","34744.00","0.00","3917.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","*****","*****","TEACHG FELLOW-GSHIP","38661.00","29757.00","0.00","8904.00"]},
+{"id":"14","cell":["14","2018","Merced","STEFANIE","FERNANDES","FOOD SVC WORKER SR","38661.00","38218.00","339.00","104.00"]},
+{"id":"15","cell":["15","2018","Berkeley","ANDREA","MARTINEZ","HR GENERALIST 3","38659.00","38659.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","GRACIELA","REYES","MED AST 3","38658.00","38293.00","85.00","280.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","PATRICIA","CHAMBERS","LECT-AY-1/9","38658.00","19489.00","0.00","19169.00"]},
+{"id":"18","cell":["18","2018","San Diego","ALAN LYNN","FRANK","FOOD SVC WORKER","38658.00","37626.00","10.00","1022.00"]},
+{"id":"19","cell":["19","2018","San Diego","TIMOTHY S","CHU","ASST LIBRARIAN-POTNTL CAREER","38657.00","34448.00","0.00","4209.00"]},
+{"id":"20","cell":["20","2018","Irvine","YONG","XIAO","VIS PROF","38654.00","27255.00","0.00","11399.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "6920",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","ALLAN","SMITH","RECALL FACULTY","38557.00","38557.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","*****","*****","GSR-FULL FEE REM","38556.00","31456.00","0.00","7100.00"]},
+{"id":"3","cell":["3","2018","Davis","DAVID M","MOON","SCENE TCHN SR","38554.00","36635.00","1919.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","DAISY","LIU","ETHICS AND CMPLNC PROFL 3","38554.00","38554.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","KIMBERLY SASHA","CHEAM","NURSE AID SR","38554.00","36649.00","828.00","1077.00"]},
+{"id":"6","cell":["6","2018","San Diego","AMANDA N","RICO","TCHN","38554.00","37576.00","978.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","MONICA","HIJAR","HOSP AST 3 PD","38554.00","38218.00","336.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","38553.00","34803.00","0.00","3750.00"]},
+{"id":"9","cell":["9","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","38553.00","34803.00","0.00","3750.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","38553.00","38553.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","HONGHUI","LIANG","LAB AST 2","38552.00","38552.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Riverside","ANTONIETA","GARCIA","CUSTODIAN SR","38551.00","36197.00","1071.00","1283.00"]},
+{"id":"13","cell":["13","2018","San Diego","CAROLYN JEAN","GEE","MED AST 2","38551.00","37009.00","236.00","1306.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","JAMES","ESPARZA","CUSTODIAN SR","38550.00","38223.00","0.00","327.00"]},
+{"id":"15","cell":["15","2018","San Diego","FRANK","RODRIGUEZ HERNA","CUSTODIAN LD","38549.00","37155.00","0.00","1394.00"]},
+{"id":"16","cell":["16","2018","San Francisco","JULIA M","DUERKSEN","PAT RCDS ABSTRACTOR 4","38548.00","37874.00","0.00","674.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","38548.00","38548.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","*****","*****","INFO SYS ANL 1","38548.00","35534.00","3014.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","ADRIANA","MENDOZA","HOSP BLANK AST 3","38547.00","38290.00","169.00","88.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","ELIZABETH BUI","WHITFIELD","ALUMNI EXTERNAL REL SPEC 2","38546.00","38201.00","345.00","0.00"]}]
+}

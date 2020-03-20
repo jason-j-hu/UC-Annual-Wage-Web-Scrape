@@ -1,0 +1,26 @@
+{
+"page" : "7194",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","REGINA R","GRAHAM","HS CLIN INSTR-HCOMP","35334.00","13586.00","0.00","21748.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","LEONARD","CROUCH","CUSTODIAN SR","35334.00","33672.00","295.00","1367.00"]},
+{"id":"3","cell":["3","2018","Davis","ZEVA F","CHO","CMTY EDUC SPEC 2","35334.00","35334.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","MUKUL C","DEBNATH","SRA 4","35334.00","21712.00","0.00","13622.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ANDUYEN","PHAM","BLANK AST 1","35333.00","35333.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Riverside","RENGIN","FIRAT HINES","ASST PROF-AY","35333.00","35333.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","YCYNTHIA","YOUNG","FOOD SVC WORKER","35331.00","33546.00","634.00","1151.00"]},
+{"id":"8","cell":["8","2018","Riverside","JORDAN","CANTONWINE","STOREKEEPER","35331.00","35181.00","150.00","0.00"]},
+{"id":"9","cell":["9","2018","Santa Cruz","*****","*****","TEACHG ASST-GSHIP","35330.00","35230.00","0.00","100.00"]},
+{"id":"10","cell":["10","2018","Davis","KONAN I","KOIKOU","CUSTODIAN","35330.00","33963.00","0.00","1367.00"]},
+{"id":"11","cell":["11","2018","San Diego","KRISTIN MARIE","VLIEM","NURSE PD","35330.00","34604.00","457.00","269.00"]},
+{"id":"12","cell":["12","2018","San Francisco","FERNANDO L.","TARAPE","PARKING REPR","35329.00","26505.00","272.00","8552.00"]},
+{"id":"13","cell":["13","2018","San Francisco","*****","*****","CHIEF RESID PHYS-NON REP","35328.00","35328.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","MATTHEW R","HERZOG","GENETIC CNSLR 2 NEX","35328.00","30312.00","0.00","5016.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","HUGO","SANCHEZ","MED CTR COOK SR","35328.00","32833.00","2117.00","378.00"]},
+{"id":"16","cell":["16","2018","San Diego","DAVID J","WILSON","FOOD SVC WORKER LD","35328.00","35174.00","154.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","MADELINE","SAMUEL","PRG REPR 2","35327.00","33665.00","1202.00","460.00"]},
+{"id":"18","cell":["18","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","35327.00","35227.00","0.00","100.00"]},
+{"id":"19","cell":["19","2018","San Francisco","JOSEPH","MATTOX","REVENUE CYCLE HC ANL 1","35326.00","35326.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","SANDRA","SANDOVAL","BLANK AST 2","35325.00","34825.00","0.00","500.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "7889",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","*****","*****","TEACHG ASST-GSHIP","27881.00","27781.00","0.00","100.00"]},
+{"id":"2","cell":["2","2018","San Diego","ANTHONY MICHAEL","VERLINGO","HOSP AST 2 PD","27881.00","27184.00","101.00","596.00"]},
+{"id":"3","cell":["3","2018","Davis","CHRISTINA V","TRAN","BLANK AST 3","27880.00","27880.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","SUSAN","STAFFORD","HEALTH PROFNS EDUC SPEC 2","27880.00","20943.00","0.00","6937.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","27878.00","23476.00","0.00","4402.00"]},
+{"id":"6","cell":["6","2018","Davis","DEANNA G","PARTIN","PAT RCDS ABSTRACTOR 3","27878.00","27878.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","UGBAD ABDILLAHI","JAMA","NURSE AID SR","27876.00","26497.00","375.00","1004.00"]},
+{"id":"8","cell":["8","2018","Berkeley","SIMA","BELMAR","LECT-AY","27875.00","27875.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","*****","*****","GSR-FULL FEE REM","27873.00","27873.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","*****","*****","RSDT AST","27873.00","17722.00","0.00","10151.00"]},
+{"id":"11","cell":["11","2018","San Diego","GAIL KAREN","ELLSWORTH","PROCUREMENT ANL 2","27873.00","27873.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","D\"ARTAGNAN","SCORZA","LECT-AY-1/9","27872.00","27372.00","0.00","500.00"]},
+{"id":"13","cell":["13","2018","San Diego","AMALIA MARGARET","KAUFMAN","TEACHER-UNEX-CONTRACT YR","27870.00","0.00","0.00","27870.00"]},
+{"id":"14","cell":["14","2018","Irvine","OLIVIA GETHRONEL","BLEDSOE","ACCESS REPR SR","27869.00","26982.00","222.00","665.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","AMOS","ROTHBAUM","STUDIO PROJECTIONIST SR","27867.00","27553.00","0.00","314.00"]},
+{"id":"16","cell":["16","2018","Irvine","*****","*****","GSR-NO REM","27866.00","27866.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","LUZ","MORALES","FOOD SVC WORKER","27865.00","25459.00","2406.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","27865.00","27865.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","LAINIE","KAZAN","ADJ PROF-AY","27863.00","25196.00","0.00","2667.00"]},
+{"id":"20","cell":["20","2018","San Diego","JENYA ALEXA","ANTONOVA-KOCH","SRA 4","27863.00","26792.00","0.00","1071.00"]}]
+}

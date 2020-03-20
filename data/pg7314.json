@@ -1,0 +1,26 @@
+{
+"page" : "7314",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","GINA L","JAMES","NURSE PD","33888.00","31144.00","441.00","2303.00"]},
+{"id":"2","cell":["2","2018","Riverside","*****","*****","TEACHG ASST-GSHIP","33887.00","33787.00","0.00","100.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","TIRSIT","TEGEGEN","STERILE PROCESSING TCHN 1","33886.00","28749.00","3578.00","1559.00"]},
+{"id":"4","cell":["4","2018","San Francisco","ADRIANA","CABRERA MARQUEZ","PAT NAVGTR NON-CLIN 2","33885.00","33885.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","BRITTANY L","MITCHELL","SPEECH PATHOLOGIST EX","33885.00","33885.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","33885.00","33785.00","0.00","100.00"]},
+{"id":"7","cell":["7","2018","San Francisco","MICHELE N.","PETROS","RSCH ADM 3","33884.00","33884.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","KIMBERLY","LUNDELL","ADMIN SPEC","33884.00","31441.00","241.00","2202.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","*****","*****","RESID PHYS I/NON REP","33884.00","26493.00","0.00","7391.00"]},
+{"id":"10","cell":["10","2018","Davis","DENISE M","HO","NURSE PD","33883.00","31701.00","486.00","1696.00"]},
+{"id":"11","cell":["11","2018","San Diego","MICHAEL ALLAN ME","YAP","NURSE PD","33883.00","32484.00","1052.00","347.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","DAVID","DUQUE","STOREKEEPER","33882.00","33874.00","8.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","NIRALI D","PATEL","AUDIT PROFL 4","33882.00","26356.00","0.00","7526.00"]},
+{"id":"14","cell":["14","2018","San Diego","BRENDA","MIRAMONTES","VOC NURSE","33882.00","33620.00","262.00","0.00"]},
+{"id":"15","cell":["15","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","33881.00","33881.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","CHRISTOPHER A.","LEER","COACH AST 3","33880.00","22000.00","0.00","11880.00"]},
+{"id":"17","cell":["17","2018","Berkeley","KAY","COELHO","PROJECT POLICY ANL 2","33878.00","33127.00","251.00","500.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ACACIA","MARKS","BLANK AST 2","33878.00","33420.00","458.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","33877.00","28396.00","0.00","5481.00"]},
+{"id":"20","cell":["20","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","33875.00","0.00","0.00","33875.00"]}]
+}

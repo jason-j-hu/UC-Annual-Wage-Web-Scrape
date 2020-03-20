@@ -1,0 +1,26 @@
+{
+"page" : "9203",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","MAHAN","SOLTANZADEH","LECT-AY","15576.00","15576.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","GINA CECILIA","MAY","LAB AST 2","15576.00","15576.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","HARRY L.","SIMON","LECT-AY","15576.00","15576.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","JAMES PAUL","DILTS","LECT-AY","15576.00","15576.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","MARGARET","KOLB","LECT-AY","15576.00","15576.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","ELIZABETH","AMERA","BLANK AST 2","15575.00","15567.00","8.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","*****","*****","TEACHG ASST-GSHIP","15575.00","15475.00","0.00","100.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","MARC","MAYES","ASSOC SPECIALIST","15575.00","15575.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","ANTHONY","GENNA","TEACHER-UNEX-CONTRACT YR","15575.00","0.00","0.00","15575.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","KIMBERLY","ANDERSON","CMTY HEALTH PRG REPR PD","15573.00","9128.00","168.00","6277.00"]},
+{"id":"11","cell":["11","2018","Berkeley","CINDY","LEUNG","LECT-FY","15572.00","15572.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","CAMERON","IRVIN","LAB AST 3","15571.00","15571.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","MAGDALA","MOSER","TCHL PROJECT MGT PROFL 3","15571.00","15571.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","DAVID","ALDAMA","CUSTODIAN SR","15570.00","14710.00","113.00","747.00"]},
+{"id":"15","cell":["15","2018","Berkeley","*****","*****","GSR-NO REM","15569.00","15569.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","JINSU","KIM","POSTDOC-EMPLOYEE","15569.00","15569.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","*****","*****","STDT 3","15569.00","14970.00","422.00","177.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","*****","*****","TEACHG ASST-GSHIP","15569.00","13769.00","0.00","1800.00"]},
+{"id":"19","cell":["19","2018","Merced","MARK","JONES","BLANK AST 2","15569.00","15569.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","CATHRYN ANN","DENEAR","REG RESP THER 1","15568.00","11705.00","7.00","3856.00"]}]
+}

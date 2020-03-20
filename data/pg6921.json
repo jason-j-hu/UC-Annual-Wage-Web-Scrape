@@ -1,0 +1,26 @@
+{
+"page" : "6921",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","COLLEEN","HOEHN","NURSE PD","38545.00","37995.00","545.00","5.00"]},
+{"id":"2","cell":["2","2018","San Francisco","ANTHONY P","LIEU","CLIN LAB SCI","38545.00","24702.00","0.00","13843.00"]},
+{"id":"3","cell":["3","2018","Irvine","PATRICIA","CYR","ADJ PROF-AY","38545.00","38545.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","MARIA ALEJAND","OLEA-GARCIA","CUSTODIAN SR","38544.00","37150.00","0.00","1394.00"]},
+{"id":"5","cell":["5","2018","Davis","DEBORA A","BASORE","MED OFC SVC CRD 3","38542.00","37859.00","683.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","LUIS","ARAIZA","SCRTY GUARD","38542.00","36265.00","718.00","1559.00"]},
+{"id":"7","cell":["7","2018","San Francisco","LOURDES","DELROSSO","HS ASST CLIN PROF-HCOMP","38541.00","18283.00","0.00","20258.00"]},
+{"id":"8","cell":["8","2018","Riverside","GREGORY","GARCIA","CUSTODIAN SR","38538.00","34358.00","1559.00","2621.00"]},
+{"id":"9","cell":["9","2018","San Diego","CASSANDRA V","MATHENY","BLANK AST 1","38536.00","34943.00","2367.00","1226.00"]},
+{"id":"10","cell":["10","2018","San Diego","RONALD FABRIGAS","WILWAYCO","TCHN","38536.00","38536.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","RYAN","HYON","SRA 1","38535.00","38224.00","311.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","RAVEN","FAAVAE","PRG REPR 1","38535.00","38407.00","128.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","*****","*****","TEACHG FELLOW-GSHIP","38534.00","25328.00","0.00","13206.00"]},
+{"id":"14","cell":["14","2018","Santa Cruz","LINDY CATERINA","BOISVERT","BLANK AST 3","38533.00","37783.00","0.00","750.00"]},
+{"id":"15","cell":["15","2018","San Diego","BENITA","ALTAMIRANO","CUSTODIAN SR","38533.00","38079.00","454.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","SARAH RACHEL","BOESEN","TCHN SR","38533.00","37422.00","345.00","766.00"]},
+{"id":"17","cell":["17","2018","San Diego","JAMES DE LA CRUZ","RAMIREZ","NURSE AID SR","38532.00","37200.00","293.00","1039.00"]},
+{"id":"18","cell":["18","2018","San Francisco","MICHAEL V","INMAN","BLANK AST 3","38531.00","37460.00","0.00","1071.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","EDWARD","ZAPATA","GROUNDSKEEPER","38531.00","34952.00","3579.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","JACOB L","CASTILLO","CUSTODIAN SR","38530.00","36454.00","2076.00","0.00"]}]
+}

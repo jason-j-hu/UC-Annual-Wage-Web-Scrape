@@ -1,0 +1,26 @@
+{
+"page" : "6412",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","MARIA ROSA","GAIARSA","MUSEUM SCI SR","44316.00","36844.00","0.00","7472.00"]},
+{"id":"2","cell":["2","2018","San Diego","NESTOR DOMINGO R","DUPAYA","MED CTR CUSTODIAN","44314.00","39346.00","3927.00","1041.00"]},
+{"id":"3","cell":["3","2018","Davis","MARK","SIEGLER","LECT-AY-1/9","44313.00","23513.00","0.00","20800.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","NICHOLAS","ROSS","ADMIN SPEC","44313.00","44313.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","JUAN","DIAZ PEREZ","MED CTR COOK","44313.00","39530.00","3889.00","894.00"]},
+{"id":"6","cell":["6","2018","San Diego","ANDREW GALLAGHER","LEMON","BLANK AST 3","44312.00","43862.00","297.00","153.00"]},
+{"id":"7","cell":["7","2018","San Diego","ELENA LUCIA","LABRA","MED AST 2","44312.00","42976.00","334.00","1002.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","ELIANA","LEVINE","SRA 3","44311.00","44311.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","PAOLA","RAMIREZ","BLANK AST 2","44311.00","44274.00","37.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","MIGUEL","CAMPOS","TCHN","44310.00","41912.00","812.00","1586.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","JAEIN","KWON","BLANK AST 3","44310.00","43482.00","44.00","784.00"]},
+{"id":"12","cell":["12","2018","Davis","TERYN L","HECKERS","BLANK AST 3","44310.00","42840.00","59.00","1411.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","44309.00","44309.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","44309.00","44309.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","TIFFANY KUAN-LIN","CHEN","SRA 2","44309.00","44309.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","SARAH","BECKMANN","ASST PROF-AY","44308.00","44308.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","ANA","GONZALEZ","CUSTODIAN SR","44308.00","38023.00","6276.00","9.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ANA","LOPEZ","BLANK AST 3","44308.00","41416.00","460.00","2432.00"]},
+{"id":"19","cell":["19","2018","San Diego","FRANCISCO RODRIG,JR","SANDOVAL","SYS OPR APPR","44308.00","43682.00","626.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","BRITTANY CLARESS","ANGULO","SURGICAL TCHN SR","44307.00","38074.00","4320.00","1913.00"]}]
+}

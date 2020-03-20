@@ -1,0 +1,26 @@
+{
+"page" : "7746",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","MARTIN S","ELLISON","PROSPECT RSCH SPEC 3","29204.00","29029.00","0.00","175.00"]},
+{"id":"2","cell":["2","2018","Santa Cruz","*****","*****","TEACHG ASST-GSHIP","29203.00","29003.00","0.00","200.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","CLARISSA","JAVIERTO","CLIN NURSE 2","29203.00","28264.00","896.00","43.00"]},
+{"id":"4","cell":["4","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","29202.00","29202.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","*****","*****","TEACHG ASST-GSHIP","29201.00","25659.00","0.00","3542.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","YAN","ZHAO","DEV ENGR SR","29200.00","29200.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","*****","*****","TEACHG ASST-GSHIP","29199.00","28139.00","0.00","1060.00"]},
+{"id":"8","cell":["8","2018","San Diego","EUGENIA MARGARIT","OLSEN","HOSP UNIT SVC CRD 3","29199.00","27119.00","177.00","1903.00"]},
+{"id":"9","cell":["9","2018","Irvine","LAUREN MICHELLE","SAUNDERS","ADMIN ANL SR","29197.00","29197.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","DAVID","CASTELLANOS","PAT COMM REPR","29197.00","29197.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","*****","*****","GSR-TUIT & FEE REM-UCSD-GRP F","29197.00","29197.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","NATALIE","SANCHEZ","ADMIN ANL PRN SUPV","29196.00","29196.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","NORA","MELNIKOVA","LECT-AY","29195.00","29195.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","STACE","BUDZKO","LECT-AY","29195.00","29195.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","29195.00","29095.00","0.00","100.00"]},
+{"id":"16","cell":["16","2018","Davis","MITCHELL","JACKSON","AGRICULTURAL TCHN PRN","29195.00","28417.00","480.00","298.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","*****","*****","GSR-NO REM","29194.00","24380.00","0.00","4814.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","EDGAR","FUNES","PARKING SUPV","29193.00","26705.00","1836.00","652.00"]},
+{"id":"19","cell":["19","2018","Davis","CADY M","STANTON","SRA 1","29193.00","28713.00","11.00","469.00"]},
+{"id":"20","cell":["20","2018","Davis","JOSEPH","THAO","MED CTR CUSTODIAN SR PD","29193.00","27586.00","1036.00","571.00"]}]
+}

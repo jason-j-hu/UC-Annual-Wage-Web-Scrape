@@ -1,0 +1,26 @@
+{
+"page" : "6784",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","SUDATHIP","DOZIER","BLANK AST 2","40197.00","40197.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","CASSANDRA MARIE","DIETZ","OCCUPATIONAL THER 3 SUPV","40197.00","35323.00","0.00","4874.00"]},
+{"id":"3","cell":["3","2018","Berkeley","CARMEN","FOGHORN","STDT SVC ADVISOR 3","40196.00","38957.00","0.00","1239.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","40196.00","40196.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","ALEXANDRIA LEI","LEVIN","BLANK AST 3","40196.00","38976.00","81.00","1139.00"]},
+{"id":"6","cell":["6","2018","Davis","LAUREN LIRIO","MENDOZA","STDT SVC ADVISOR 2","40195.00","37660.00","0.00","2535.00"]},
+{"id":"7","cell":["7","2018","San Diego","RYAN MICHAEL","WAMHOFF","HOSP BLANK AST 2","40195.00","39191.00","0.00","1004.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","SUSAN","HAN","NURSE PD","40195.00","35028.00","271.00","4896.00"]},
+{"id":"9","cell":["9","2018","Irvine","JOSE IVAN","JIMENEZ","BLANK AST 2","40194.00","40194.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","FRANCES","PARK","PRG REPR 1","40193.00","39932.00","261.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","KARINA","PHANN","COOK","40192.00","39528.00","664.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","JING","XU","POSTDOC-EMPLOYEE","40191.00","40191.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","COLBY","GEKKO","COACH AST 2","40190.00","29318.00","0.00","10872.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","ANGELA","ZENG","RSCH ADM 2","40189.00","38353.00","0.00","1836.00"]},
+{"id":"15","cell":["15","2018","Berkeley","WEI","CHENG","LECT PSOE-AY","40188.00","36250.00","0.00","3938.00"]},
+{"id":"16","cell":["16","2018","Davis","JOSEPH ANTHONY","ANISTRANSKI","LECT PSOE-AY","40188.00","34711.00","0.00","5477.00"]},
+{"id":"17","cell":["17","2018","Irvine","MARTINA","GALICIA","COOK SR","40187.00","38543.00","1644.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","LIDBETH","SOLORZANO","REG RESP THER 1","40187.00","39704.00","0.00","483.00"]},
+{"id":"19","cell":["19","2018","San Francisco","SINA","ZARGHAM","SRA 1","40186.00","40186.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","40186.00","35784.00","0.00","4402.00"]}]
+}

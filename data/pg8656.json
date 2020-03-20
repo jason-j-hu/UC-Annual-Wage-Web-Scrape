@@ -1,0 +1,26 @@
+{
+"page" : "8656",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","UCOP","MICHAEL","MCKINNON","IT ARCHITECT 4","20653.00","19337.00","0.00","1316.00"]},
+{"id":"2","cell":["2","2018","Merced","AUDREY","SULLIVAN","LECT-AY","20652.00","20652.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","GRANT","HUNGERFORD","LECT-AY-CONTINUING","20651.00","19775.00","0.00","876.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","*****","*****","STDT 3","20651.00","19731.00","349.00","571.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","SIOBHAN K","PHILLIPS","VIS ASSOC PROF","20650.00","20650.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JUSTIN","MILES","CNSLR 2","20648.00","20648.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Riverside","*****","*****","TEACHG ASST-GSHIP","20648.00","16869.00","0.00","3779.00"]},
+{"id":"8","cell":["8","2018","San Diego","MIRANDA","MONTGOMERY-KURO","SRA 1","20648.00","19081.00","166.00","1401.00"]},
+{"id":"9","cell":["9","2018","San Francisco","AMY K.","PETRINE","ADMIN OFCR 2","20647.00","20048.00","599.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","*****","*****","GSR-FULL FEE REM","20646.00","20646.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","ERICK","ESCHKER","LECT IN SUMMER SESSION","20646.00","0.00","0.00","20646.00"]},
+{"id":"12","cell":["12","2018","Santa Barbara","*****","*****","ASSOC IN__-AY- 1/9 -NON-GSHIP","20646.00","14685.00","0.00","5961.00"]},
+{"id":"13","cell":["13","2018","Irvine","AMANDIP KAUR","DHAH","PRG REPR 1","20645.00","19953.00","0.00","692.00"]},
+{"id":"14","cell":["14","2018","Santa Cruz","*****","*****","TEACHG ASST-GSHIP","20645.00","13906.00","0.00","6739.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","HECTOR","LEANOS","HOSP LAB TCHN 2","20644.00","20644.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","HELEN","LE","BLANK AST 3","20643.00","20541.00","102.00","0.00"]},
+{"id":"17","cell":["17","2018","Santa Cruz","ERIN ELIZABETH","FOLEY","BLANK AST 3","20643.00","20643.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","DEVON B","O\"NEILL","CNSLNG PSYCHOLOGIST 2 EX","20643.00","20643.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Riverside","*****","*****","GSR-PARTIAL FEE REM","20643.00","20543.00","0.00","100.00"]},
+{"id":"20","cell":["20","2018","Davis","MATTHEW A","ROSELLI","CLIN LIC SOCIAL WORKER","20642.00","20626.00","16.00","0.00"]}]
+}

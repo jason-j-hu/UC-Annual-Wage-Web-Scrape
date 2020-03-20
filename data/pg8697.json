@@ -1,0 +1,26 @@
+{
+"page" : "8697",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","20253.00","20153.00","0.00","100.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","ZOE G","SUTHERLAND","ACADEMIC APPT","20252.00","20252.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Cruz","DAVID D","GOINGS","ADMIN OFCR 2","20251.00","20240.00","11.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","JEFFREY PARAGAS","GARCIA","RADLG TCHNO PD","20251.00","18874.00","0.00","1377.00"]},
+{"id":"5","cell":["5","2018","Berkeley","LOREN","HOUSE","CONTRACT ADM 3","20250.00","20250.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","CHRISTINE MARIE","SALAMA","SCENE TCHN","20249.00","20249.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","*****","*****","GSR-FULL FEE REM","20249.00","20249.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","MICHAEL","WU","SRA 4","20249.00","20249.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","CORINA","ESPINOZA","LECT-AY","20248.00","20248.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ANDREW JONATHAN","WAGNER","LECT-AY","20247.00","19312.00","0.00","935.00"]},
+{"id":"11","cell":["11","2018","San Diego","KARLA GARCIA","REAL","MED CTR CUSTODIAN","20247.00","19506.00","67.00","674.00"]},
+{"id":"12","cell":["12","2018","San Diego","*****","*****","GSR-TUIT & FEE REM-UCSD-GRP F","20246.00","20246.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","*****","*****","GSR-TUIT & FEE REM-UCSD-GRP F","20246.00","20246.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","MARVIC","CARRILLO-TERRAZ","SRA 2 NEX","20246.00","20246.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Irvine","ALI","SHIRKHODA","PHYSCN SR","20245.00","6598.00","0.00","13647.00"]},
+{"id":"16","cell":["16","2018","Davis","*****","*****","GSR-FULL FEE REM","20245.00","20245.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","*****","*****","TEACHG ASST-NON GSHIP","20245.00","15490.00","0.00","4755.00"]},
+{"id":"18","cell":["18","2018","Berkeley","*****","*****","GSR-NO REM","20245.00","20245.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","SKYE","VANVALKENBURGH","BLANK AST 3","20244.00","20106.00","138.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","CELESTE VALENTIN","MANGUNE","PHARMACIST 2 PD","20244.00","3329.00","811.00","16104.00"]}]
+}

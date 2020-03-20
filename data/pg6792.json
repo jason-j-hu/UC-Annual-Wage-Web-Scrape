@@ -1,0 +1,26 @@
+{
+"page" : "6792",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","LILY ALEXANDRA","SHAFFER","ECHOCARDIOGRAPHIC TCHN SR","40118.00","33381.00","2221.00","4516.00"]},
+{"id":"2","cell":["2","2018","San Diego","SANDRA LUZ","PEDREGAL","LECT-AY-CONTINUING","40118.00","40118.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","*****","*****","GSR-NO REM","40117.00","40017.00","0.00","100.00"]},
+{"id":"4","cell":["4","2018","San Francisco","REGINA A","JOHNSON","BUS INTEL SPEC 4","40116.00","37200.00","0.00","2916.00"]},
+{"id":"5","cell":["5","2018","Irvine","MARLENE","CATTANI","HOSP UNIT SVC CRD 2","40116.00","35665.00","2275.00","2176.00"]},
+{"id":"6","cell":["6","2018","Irvine","CLAUDIN A","GOMEZ","PROJ SCIENTIST-FY","40116.00","40116.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","ANA","GARCIA","MED CTR CUSTODIAN SR","40116.00","37955.00","1592.00","569.00"]},
+{"id":"8","cell":["8","2018","Davis","RAYNARD L","DOTES","MED CTR CUSTODIAN SR","40115.00","39208.00","507.00","400.00"]},
+{"id":"9","cell":["9","2018","Santa Cruz","AMY","VIDALI","LECT SOE-AY","40115.00","40115.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","MARCOS A","SOLORIO","HOSP BLANK AST 1","40114.00","38557.00","977.00","580.00"]},
+{"id":"11","cell":["11","2018","Berkeley","AMALIA","WOLLAN","ADMIN OFCR 3","40113.00","36823.00","0.00","3290.00"]},
+{"id":"12","cell":["12","2018","Irvine","JAMIE CUEVAS","JANTZEN","NURSE PD","40112.00","39776.00","336.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","*****","*****","INTRM POSTDOC SCHOLAR-EMPLOYEE","40112.00","40112.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","BIANCA","ROSAS","BLANK AST 2","40111.00","40067.00","44.00","0.00"]},
+{"id":"15","cell":["15","2018","Merced","CHRISTOPHER","ROBLEDO","LECT-AY-1/10","40111.00","34177.00","0.00","5934.00"]},
+{"id":"16","cell":["16","2018","UCOP","DAVINA","EDWARDS","BLANK AST 3","40111.00","40111.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","YOKO","TAKADA","SRA 3","40110.00","40110.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","JULIE EPSTEIN","RAYDEN","STDT AFFAIRS OFCR 2 SUPV","40110.00","30902.00","56.00","9152.00"]},
+{"id":"19","cell":["19","2018","Irvine","DANA L.","LAPSLEY","BLANK AST 2","40109.00","40005.00","104.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","ALYSON","REIMER","BLANK AST 3","40109.00","38471.00","631.00","1007.00"]}]
+}

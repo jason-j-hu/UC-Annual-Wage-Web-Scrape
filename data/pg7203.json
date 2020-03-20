@@ -1,0 +1,26 @@
+{
+"page" : "7203",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","ELIZABETH SUZANN","BAILEY","JR SPECIALIST","35234.00","34837.00","397.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","REBECCA","FONG","HOSP LAB TCHN 2","35234.00","34231.00","250.00","753.00"]},
+{"id":"3","cell":["3","2018","Berkeley","*****","*****","GSR-FULL FEE REM","35234.00","35234.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","35232.00","35232.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","FRANCESCO","NOTARO","ADMIN CARE CLIN PARTNER","35231.00","29021.00","1205.00","5005.00"]},
+{"id":"6","cell":["6","2018","Santa Cruz","ROBERT MI","FIELDING-MILLER","FOOD SVC SUPV 1","35231.00","35231.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","BENITA FLORES","ZAMORA","CUSTODIAN SR","35231.00","34790.00","441.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","TIMOTHY","CHOW","PUBLICATIONS PROD SPEC 2","35229.00","33796.00","12.00","1421.00"]},
+{"id":"9","cell":["9","2018","Merced","ALICIA","BELLUSCI","BLANK AST 2","35229.00","35229.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","CAROLINA","GONZALEZ","SRA 1","35229.00","33184.00","0.00","2045.00"]},
+{"id":"11","cell":["11","2018","Berkeley","*****","*****","FUNDRAISER 2 NEX","35228.00","35228.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","RAYMOND","REYES","CTRL SVC TCHN 1 PD","35228.00","32448.00","828.00","1952.00"]},
+{"id":"13","cell":["13","2018","Davis","ELLEN MAYRA","MENEZES AYRES","VIS PROF","35228.00","35228.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","*****","*****","STDT 1","35228.00","34616.00","41.00","571.00"]},
+{"id":"15","cell":["15","2018","San Diego","*****","*****","POSTDOC-EMPLOYEE","35228.00","35228.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","TOAN CONG","NGUYEN","SRA 1","35228.00","30695.00","0.00","4533.00"]},
+{"id":"17","cell":["17","2018","San Francisco","*****","*****","INTRM POSTDOC SCHOLAR-EMPLOYEE","35227.00","35227.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Riverside","CEASAR","CASTILLO","COOK","35226.00","34451.00","175.00","600.00"]},
+{"id":"19","cell":["19","2018","San Francisco","STACEY ANN","MORRIS","RSCH ADM 4","35225.00","35225.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","NATHAN LEE","NICHOLSON","LINEN SVC WORKER","35225.00","33829.00","382.00","1014.00"]}]
+}

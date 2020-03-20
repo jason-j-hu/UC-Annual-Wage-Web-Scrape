@@ -1,0 +1,26 @@
+{
+"page" : "6500",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","SHARON M","LAM","SRA 1","43413.00","43139.00","0.00","274.00"]},
+{"id":"2","cell":["2","2018","San Diego","NORA TERESA","RAMIREZ","SRA 1","43413.00","43139.00","0.00","274.00"]},
+{"id":"3","cell":["3","2018","Riverside","TAMEESHA","HAYES","FAC PROJECT MGT SPEC 2","43413.00","38534.00","0.00","4879.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","BROOKE","CONTRERAS","LIBRARY AST 3","43412.00","42363.00","169.00","880.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","INDYRA","CALERO","BLANK AST 2","43412.00","43407.00","5.00","0.00"]},
+{"id":"6","cell":["6","2018","Riverside","ADOLFO","MENDEZ","COOK SR","43412.00","42456.00","270.00","686.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","FAVIOLA","OCHOA","BLANK AST 2","43412.00","43015.00","397.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","MEGHA","GARG","HS ASST CLIN PROF-HCOMP","43411.00","43411.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","WILLIAM R","GRIEGO","PARKING REPR SR","43411.00","43411.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","BRITTANY M.","SMITH","SRA 1","43411.00","42807.00","604.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","DIEU THI","NGUYEN","BLANK AST 3","43410.00","43410.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","JONATHAN","SANTOS","RESC NURSE PD","43410.00","40561.00","0.00","2849.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","KAREN","CUNNINGHAM","SR LECT-AY-CONTINUING","43410.00","37410.00","0.00","6000.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","METI","ASFAW","ADMIN SPEC","43410.00","43285.00","125.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","BRIAN MICHIO","SUZUKI","SRA 4","43410.00","31647.00","0.00","11763.00"]},
+{"id":"16","cell":["16","2018","San Francisco","ELYSIA MARIE","ROCHE","SRA 1","43409.00","43011.00","314.00","84.00"]},
+{"id":"17","cell":["17","2018","Irvine","CHELSEA N","RAYL","COLL REPR","43408.00","42329.00","1079.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","HSING-HAU","CHEN","PROGR ANL 3","43408.00","43408.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","JESSICA","FALOR-WARD","ALUMNI EXTERNAL REL SPEC 3","43408.00","43408.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","LARA","ANDERSON","BLANK AST 2","43407.00","43407.00","0.00","0.00"]}]
+}

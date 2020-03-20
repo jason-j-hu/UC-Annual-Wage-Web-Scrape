@@ -1,0 +1,26 @@
+{
+"page" : "7254",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","*****","*****","POST DDS I-VI/NON REP","34688.00","33488.00","0.00","1200.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ANN","WILLIAMSON","NURSE PD","34687.00","32323.00","222.00","2142.00"]},
+{"id":"3","cell":["3","2018","San Diego","*****","*****","GSR-TUIT & FEE REM","34686.00","34686.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","JACOB R","BICE","STEAMFITTER","34685.00","34685.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Riverside","MUHAMMAD","ARIF","ASC PHYSCN","34685.00","14182.00","0.00","20503.00"]},
+{"id":"6","cell":["6","2018","San Diego","CATHERINE RABOT","BOSSHART","MED AST 2","34685.00","33358.00","567.00","760.00"]},
+{"id":"7","cell":["7","2018","Davis","GEORGE A.","BARNETT","RECALL FACULTY","34684.00","34684.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","*****","*****","GSR-FULL FEE REM","34684.00","34684.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Berkeley","*****","*****","GSR-FULL FEE REM","34684.00","34684.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","JAIME","JUAREZ","LABORER","34682.00","34429.00","250.00","3.00"]},
+{"id":"11","cell":["11","2018","San Francisco","SARAH MAR","MENCIA FERNANDE","DIETITIAN PD","34679.00","34679.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","*****","*****","GSR-FULL FEE REM","34676.00","34019.00","14.00","643.00"]},
+{"id":"13","cell":["13","2018","Davis","ROZANNE M","DEWEESE","LECT-AY-CONTINUING","34674.00","34674.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","TRAYVON","LUCAS","CUSTODIAN LD","34673.00","33198.00","155.00","1320.00"]},
+{"id":"15","cell":["15","2018","Riverside","JOHN","LOOPER","CUSTODIAN SR","34673.00","34211.00","462.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","MARIAN KRISTEL","HENARES","CLIN NURSE 1","34672.00","32205.00","319.00","2148.00"]},
+{"id":"17","cell":["17","2018","San Diego","KATHERINE","MENDOZA GARCIA","MED AST 2","34672.00","33692.00","230.00","750.00"]},
+{"id":"18","cell":["18","2018","Irvine","CLAUDIA","OGLIASTRI VARGA","FOOD SVC WORKER","34671.00","34483.00","188.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","KHALED MOHAB","ZAKI","CLIN NURSE 1","34670.00","34670.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","34669.00","34669.00","0.00","0.00"]}]
+}

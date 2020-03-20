@@ -1,0 +1,26 @@
+{
+"page" : "6201",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ANDREEA","POP","BLANK AST 2","46564.00","45249.00","919.00","396.00"]},
+{"id":"2","cell":["2","2018","Davis","CYNTHIA LEE","GOLDBERG","CAREER SVC SPEC 3","46564.00","40954.00","0.00","5610.00"]},
+{"id":"3","cell":["3","2018","San Diego","DANNY B","SABA","INFO SYS ANL 1","46564.00","44564.00","0.00","2000.00"]},
+{"id":"4","cell":["4","2018","Davis","ALESTER B","THOMAS","EMERGENCY TRAUMA TCHN SR","46563.00","40603.00","1161.00","4799.00"]},
+{"id":"5","cell":["5","2018","Irvine","RYAN F","RIVERA","BLDG MAINT WORKER SR","46562.00","46498.00","64.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","46561.00","34803.00","0.00","11758.00"]},
+{"id":"7","cell":["7","2018","Davis","JON ALLEN L","MADARANG","MED OFC SVC CRD 3","46561.00","46234.00","327.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","SOPHIA","NEVEU","PUBL EVENTS MGR","46561.00","44381.00","2180.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","LORENA","MAYORQUIN","CLIN SOCIAL WORKER 1 NEX","46561.00","46561.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","NANCY","LICHTENSTEIN","ADMIN OFCR 2","46560.00","33171.00","6230.00","7159.00"]},
+{"id":"11","cell":["11","2018","San Francisco","ROBERT ANTHONY","CASTILLO","SRA 2 NEX","46559.00","46559.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","MARIA MAGDALENA","GARCIA","HOSP LAB TCHN 1","46559.00","45311.00","450.00","798.00"]},
+{"id":"13","cell":["13","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","46557.00","39057.00","0.00","7500.00"]},
+{"id":"14","cell":["14","2018","San Diego","VANESSA G","DIAZ","SRA 3","46556.00","45892.00","664.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","BRIAN","GOMEZ","MED CTR FOOD SVC WORKER","46556.00","34318.00","9619.00","2619.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","KAREN","VASQUEZ","PAT COMM REPR","46555.00","45908.00","647.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","46555.00","27705.00","0.00","18850.00"]},
+{"id":"18","cell":["18","2018","San Diego","MONICA P","BERRY","NURSE AID SR PD","46555.00","44794.00","750.00","1011.00"]},
+{"id":"19","cell":["19","2018","Davis","LAURA E","DURAN","BLANK AST 3","46552.00","43647.00","2905.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","ARMIDA","SOLC","HOSP AST SR","46551.00","36551.00","8163.00","1837.00"]}]
+}

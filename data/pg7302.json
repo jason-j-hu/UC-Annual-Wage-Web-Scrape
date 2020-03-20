@@ -1,0 +1,26 @@
+{
+"page" : "7302",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","GERMAN O","FIGUEROA CASTRO","CUSTODIAN SR","34024.00","33818.00","206.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","JUAN","MONTES","REG RESP THER PD","34024.00","33350.00","637.00","37.00"]},
+{"id":"3","cell":["3","2018","San Francisco","SANNA M","VATTULAINEN-COL","POSTDOC-EMPLOYEE","34022.00","34022.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","34022.00","34022.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","JJ L","MIRANDA","ASST ADJ PROF-FY","34021.00","27391.00","0.00","6630.00"]},
+{"id":"6","cell":["6","2018","Irvine","MERIWETHER","CLARKE","LECT IN SUMMER SESSION","34021.00","29482.00","0.00","4539.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","MIRNA","BANOS","CUSTODIAN SR","34021.00","31687.00","1634.00","700.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","*****","*****","GSR-NO REM","34021.00","33735.00","0.00","286.00"]},
+{"id":"9","cell":["9","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","34020.00","34020.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","JOYCE","APAU","NURSE PD","34020.00","33134.00","102.00","784.00"]},
+{"id":"11","cell":["11","2018","Berkeley","BARBARA","DE MARCO","RECALL NON-FACULTY ACAD","34020.00","34020.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","KRISTINE","HARRIS","STDT SVC ADVISOR 3","34019.00","34019.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","*****","*****","GSR-NO REM","34019.00","28164.00","0.00","5855.00"]},
+{"id":"14","cell":["14","2018","Riverside","JOSHUA","REGER","LAB AST 1","34014.00","32753.00","361.00","900.00"]},
+{"id":"15","cell":["15","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","34012.00","34012.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Riverside","PAULINA BIANCA","LAROYA","PUBLICATIONS PROD SPEC 2","34011.00","33529.00","482.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","JOSEPH A","PRECIADO","TCHN","34009.00","30180.00","18.00","3811.00"]},
+{"id":"18","cell":["18","2018","San Francisco","CHRIS D.","GRISSOM","NURSE PD","34008.00","27570.00","1697.00","4741.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","34008.00","34008.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","MARTHA MARY","HELMERS","PHYS THER AST PD","34008.00","34008.00","0.00","0.00"]}]
+}

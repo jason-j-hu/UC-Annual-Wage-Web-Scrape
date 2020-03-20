@@ -1,0 +1,26 @@
+{
+"page" : "9961",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","TERRI S","CARTER","PUBLICATIONS PROD SPEC 2","10100.00","10100.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Irvine","MAJA","TODOROVIC","TEACHER-UNEX-CONTRACT YR","10100.00","0.00","0.00","10100.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","ALLEN","KLINGER","RECALL TEACHING","10100.00","0.00","0.00","10100.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","ALLAN J","TOBIN","RECALL TEACHING","10100.00","0.00","0.00","10100.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","YIANNIS N","MOSCHOVAKIS","RECALL TEACHING","10100.00","0.00","0.00","10100.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","FELICITY A.","NUSSBAUM","RECALL TEACHING","10100.00","0.00","0.00","10100.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","JAMES E","GOODWIN","RECALL TEACHING","10100.00","0.00","0.00","10100.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","BRUCE","ROTHSCHILD","RECALL TEACHING","10100.00","0.00","0.00","10100.00"]},
+{"id":"9","cell":["9","2018","Santa Cruz","LUCINDA","PEASE-ALVAREZ","RECALL TEACHING","10100.00","0.00","0.00","10100.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","PATRICK J","COLEMAN","RECALL TEACHING","10100.00","0.00","0.00","10100.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","JOSEPH M","OSTROY","RECALL TEACHING","10100.00","0.00","0.00","10100.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","KATHERINE C","KING","RECALL TEACHING","10100.00","0.00","0.00","10100.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","ROBERT S","KIRSNER","PROFESSOR-ACAD YR-RECALLED","10100.00","0.00","0.00","10100.00"]},
+{"id":"14","cell":["14","2018","San Diego","CAITLIN ELIZABE","FERNANDEZ","ATH TRAINER PD","10100.00","10100.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","EVONNE","SILVA","LECT-AY-1/10","10100.00","10100.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","SAMUEL T","GUINANE","CTRL HEAT COOLING PLT OPR","10099.00","10099.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","*****","*****","STDT 4","10099.00","10065.00","34.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","ALEXANDR","ISFAHANI-HAMMON","RECALL TEACHING","10099.00","10099.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","*****","*****","READER-GSHIP","10098.00","1294.00","0.00","8804.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","VICTORIA","PINTADO","ADMIN CARE CLIN PARTNER PD","10098.00","9931.00","0.00","167.00"]}]
+}

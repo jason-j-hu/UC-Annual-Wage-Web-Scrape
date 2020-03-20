@@ -1,0 +1,26 @@
+{
+"page" : "6441",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","MEGAN ROTAIRO","REMO","HOSP BLANK AST 2","44020.00","43924.00","96.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","PATRICIA ALEJAND","CASTRUITA","RSCH DATA ANL 1","44020.00","44020.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Cruz","MARISOL","GOMEZ","FINANCIAL ANL 3","44020.00","44020.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Santa Barbara","NOE","OBISPO","CUSTODIAN SR","44020.00","43270.00","0.00","750.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ISMAEL","RIVAS","MED CTR FOOD SVC WORKER PRN","44018.00","41852.00","1692.00","474.00"]},
+{"id":"6","cell":["6","2018","Berkeley","KHRYSTYNA","SERHIYENKO","LECT-AY","44018.00","44018.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","KATHERINE YAU","BOHENEK","PHARMACIST PD","44016.00","43913.00","103.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","JULIE MANCIA","FORTUNE","MGR","44016.00","37761.00","0.00","6255.00"]},
+{"id":"9","cell":["9","2018","San Diego","GABRIELA T","VELASQUEZ","BLANK AST 2","44016.00","39605.00","3487.00","924.00"]},
+{"id":"10","cell":["10","2018","Davis","JACQUELINE A","LARRIPA","PROJECT POLICY ANL 3","44015.00","42644.00","0.00","1371.00"]},
+{"id":"11","cell":["11","2018","San Diego","MICHELL","NARANJO-RODRIGU","HEALTH EDUC SUPV 1","44015.00","44015.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","DOMINIC ARTHUR","COFRESI","PAT CARE TCHN","44014.00","44014.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Irvine","HECTOR ANTIONIO","ARROYO","ADMITTING WORKER SR","44014.00","40799.00","2195.00","1020.00"]},
+{"id":"14","cell":["14","2018","Irvine","CHRISTOPHER J.","COOK","BLANK AST 3","44012.00","44012.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Irvine","SARA BRIANNE","BIDDLE","EMERGENCY TRAUMA TCHN SR","44012.00","41992.00","1360.00","660.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","CHRISTOPHER","ONU","PAT TRANSPORT TCHN 2","44012.00","37342.00","2250.00","4420.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","ROBERTO","COBIAN","PAT COMM REPR","44011.00","43847.00","164.00","0.00"]},
+{"id":"18","cell":["18","2018","Riverside","SAMANTHA","TAGOE","BLANK AST 2","44011.00","44011.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","PHOEBE KIRSTIN D","MONDALA","SRA 1","44011.00","44011.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","SARA","GONZALEZ","SRA 1","44011.00","44011.00","0.00","0.00"]}]
+}

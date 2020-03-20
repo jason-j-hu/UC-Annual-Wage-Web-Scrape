@@ -1,0 +1,26 @@
+{
+"page" : "6317",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ANDRES","RODRIGUEZ BRIONES","MED CTR CUSTODIAN SR PD","45344.00","39045.00","2272.00","4027.00"]},
+{"id":"2","cell":["2","2018","San Diego","AKEMI KURAMOTO","ALPASLAN","BLANK AST 3","45344.00","39854.00","65.00","5425.00"]},
+{"id":"3","cell":["3","2018","San Francisco","CUI RONG","LIU","CUSTODIAN SR","45343.00","42726.00","83.00","2534.00"]},
+{"id":"4","cell":["4","2018","Irvine","ROBIN L","OGLE","BLANK AST 2","45343.00","40867.00","4476.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","CHARISMA","HOSEIN","PAT COMM REPR","45343.00","45326.00","17.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","TANYA","ROCHA","PAT COMM REPR","45342.00","45112.00","230.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","ANDRES C","HERRERA II","SRA 1","45342.00","44075.00","1267.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","JEANNETTE GALAND","LUMABAN","SRA 2 NEX","45342.00","44951.00","391.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","KAMARIN","TAKAHARA","STDT AFFAIRS OFCR 2","45340.00","40656.00","0.00","4684.00"]},
+{"id":"10","cell":["10","2018","San Diego","MARILYN","COLLAZOS","VOC NURSE SR PD","45340.00","43914.00","89.00","1337.00"]},
+{"id":"11","cell":["11","2018","San Francisco","NATHALENE MARIE","TRUFFAUX","POSTDOC-EMPLOYEE","45339.00","45339.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","BRIE","FUQUA","POSTDOC-EMPLOYEE","45339.00","32760.00","0.00","12579.00"]},
+{"id":"13","cell":["13","2018","San Diego","NEIL A","BAUTISTA","TCHN","45339.00","43368.00","370.00","1601.00"]},
+{"id":"14","cell":["14","2018","San Diego","SRINIV","RAMACHANDRA RED","RSCH DATA ANL 3","45339.00","45339.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","CRIS","GOMEZ","ACAD ACHIEVEMENT CNSLR 2","45339.00","39328.00","3931.00","2080.00"]},
+{"id":"16","cell":["16","2018","Davis","JACOB P","FLANAGAN","GEOGRAPHIC INFO SYS PROGR 3","45338.00","45338.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Santa Cruz","SHASHIDHAR","SATHYANARAYANA","TEACHER-UNEX-CONTRACT YR","45338.00","0.00","0.00","45338.00"]},
+{"id":"18","cell":["18","2018","Berkeley","SOFIA","NEKMAL","FINANCIAL SVC ANL 2","45338.00","44704.00","634.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","KARL ALLEN","PEREZ","SRA 2 NEX","45337.00","45337.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","JORDAN LINDSEY","DUNCAN","STDT ACAD ADVISOR 2","45337.00","45337.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "9336",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","SANDRA LUZ","RIVERA","CMTY EDUC SPEC 2","14362.00","12952.00","0.00","1410.00"]},
+{"id":"2","cell":["2","2018","Berkeley","*****","*****","TEACHG ASST-NON GSHIP","14362.00","14362.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","*****","*****","STDT 3","14361.00","13768.00","295.00","298.00"]},
+{"id":"4","cell":["4","2018","Berkeley","EMMANUEL","FIGUEROA","COOK","14361.00","14104.00","0.00","257.00"]},
+{"id":"5","cell":["5","2018","Irvine","PEDRO ANDRES","GUTIERREZ","CUSTODIAN SR","14360.00","13704.00","52.00","604.00"]},
+{"id":"6","cell":["6","2018","Irvine","EMILIO VINCENT","GUZMAN","ADMITTING WORKER PRN","14360.00","13351.00","239.00","770.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","14360.00","14360.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","*****","*****","TEACHG ASST-GSHIP","14360.00","14360.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","GARY S,III","KOECH","CLIN NURSE 2","14359.00","5450.00","4712.00","4197.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","DAHIR","ABDI","ADMIN CARE CLIN PARTNER","14359.00","12718.00","34.00","1607.00"]},
+{"id":"11","cell":["11","2018","Davis","ROBERT J","WIENER","LECT-AY-1/9-CONTINUING","14359.00","14359.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","FATIMA","HERNANDEZ LIZARDO","CUSTODIAN SR","14359.00","13468.00","127.00","764.00"]},
+{"id":"13","cell":["13","2018","Berkeley","*****","*****","READER-GSHIP","14358.00","14258.00","0.00","100.00"]},
+{"id":"14","cell":["14","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","14357.00","14257.00","0.00","100.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","*****","*****","TEACHG ASST-GSHIP","14356.00","11992.00","0.00","2364.00"]},
+{"id":"16","cell":["16","2018","Riverside","RENE","BALINGIT","SCENE TCHN AST","14356.00","14356.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","14356.00","14256.00","0.00","100.00"]},
+{"id":"18","cell":["18","2018","Merced","ALFONSO","SEGOVIA SANTILLANO","GROUNDSKEEPER","14355.00","14355.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","MARIA","VILLEGAS RODRIGUEZ","MED CTR CUSTODIAN SR PD","14354.00","13748.00","288.00","318.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","EVAN","FEELEY","ADV OFCR 2","14354.00","14354.00","0.00","0.00"]}]
+}

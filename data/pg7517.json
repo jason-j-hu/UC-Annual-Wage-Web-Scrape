@@ -1,0 +1,26 @@
+{
+"page" : "7517",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","*****","*****","GSR-FULL FEE REM","31626.00","31626.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","LUIS ARMANDO","LOPEZ","JR SPECIALIST","31626.00","28834.00","0.00","2792.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","ALBERT","COMFORT","FAC WORKER","31626.00","26888.00","34.00","4704.00"]},
+{"id":"4","cell":["4","2018","San Francisco","NILSON","WU","CLIN RSCH CRD SR NEX","31625.00","27968.00","0.00","3657.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ROBERTO","SERRANO","MEETING ROOM CAPTAIN 1","31625.00","28358.00","2405.00","862.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","TERA","ESCALERA","FOOD SVC WORKER","31625.00","28930.00","1247.00","1448.00"]},
+{"id":"7","cell":["7","2018","Merced","CHELSEY","PADEN","ADMISSIONS RECRMT SPEC 1","31625.00","31475.00","0.00","150.00"]},
+{"id":"8","cell":["8","2018","San Diego","ANNEMARIE","MILLER","PHARMACY TCHN 3","31625.00","31217.00","408.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","WENDY","WOHLFEILL","MGT SVC OFCR 1","31624.00","32224.00","0.00","-600.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","*****","*****","GSR-NO REM","31624.00","31053.00","0.00","571.00"]},
+{"id":"11","cell":["11","2018","Riverside","*****","*****","TEACHG ASST-GSHIP","31624.00","27987.00","0.00","3637.00"]},
+{"id":"12","cell":["12","2018","San Diego","HOLLY MICHELE","GODDEN","STDT LIFE DEV SPEC 1","31624.00","31484.00","140.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","31623.00","31052.00","0.00","571.00"]},
+{"id":"14","cell":["14","2018","Riverside","*****","*****","GSR-PARTIAL FEE REM","31623.00","27895.00","0.00","3728.00"]},
+{"id":"15","cell":["15","2018","Davis","WILLIAM C","BOURDEAU","INFO SYS ANL 2","31622.00","31622.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","BRITTANY ANNE","BOWENS","PHLEBOTOMIST CERT TCHN 2","31622.00","26622.00","2687.00","2313.00"]},
+{"id":"17","cell":["17","2018","Berkeley","*****","*****","GSR-FULL FEE REM","31621.00","31521.00","0.00","100.00"]},
+{"id":"18","cell":["18","2018","Berkeley","STEFANIE","CHAN","HS ASST CLIN PROF-AY","31619.00","24986.00","0.00","6633.00"]},
+{"id":"19","cell":["19","2018","San Diego","SHANNON JENISE","POWELL","MED CTR FOOD SVC WORKER","31619.00","29600.00","515.00","1504.00"]},
+{"id":"20","cell":["20","2018","Davis","EVA K","TAN","CLIN NURSE 1","31618.00","26838.00","2132.00","2648.00"]}]
+}

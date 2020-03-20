@@ -1,0 +1,26 @@
+{
+"page" : "9307",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","14614.00","14614.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","MATTHEW JAMES","WALSH","BLANK AST 2","14614.00","13904.00","57.00","653.00"]},
+{"id":"3","cell":["3","2018","San Diego","*****","*****","GSR-TUIT & FEE REM","14614.00","14614.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","ROBIN","FLEWLLN","BLANK AST 2","14613.00","14595.00","18.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","*****","*****","STDT AFFAIRS OFCR 1","14612.00","14252.00","15.00","345.00"]},
+{"id":"6","cell":["6","2018","Merced","JOHN","HUEWE","CLERK","14612.00","14601.00","0.00","11.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","*****","*****","TUT-NON STDNT","14611.00","9372.00","0.00","5239.00"]},
+{"id":"8","cell":["8","2018","Davis","KAREN","SCHELEGLE","NURSE PD","14610.00","12944.00","1043.00","623.00"]},
+{"id":"9","cell":["9","2018","Davis","*****","*****","GSR-FULL FEE REM","14610.00","14610.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","14610.00","13594.00","0.00","1016.00"]},
+{"id":"11","cell":["11","2018","San Diego","RUCHITA","ASUDANI","ASC PHYSCN DIPLOMATE","14610.00","0.00","0.00","14610.00"]},
+{"id":"12","cell":["12","2018","Berkeley","KRISTINA","LIU","JR SPECIALIST NEX","14608.00","14608.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","NOUSHIN","PIRNAZAR","HS ASST CLIN PROF-FY","14608.00","14608.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","GREGORIO","GUTIERREZ","FOOD SVC WORKER PD","14608.00","14464.00","32.00","112.00"]},
+{"id":"15","cell":["15","2018","San Francisco","CYNTHIA WEI-WEI","YOUNG","HS ASST CLIN PROF-FY","14608.00","14608.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","MEENA","TAPPOUNI","HS ASST CLIN PROF-FY","14608.00","14608.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","KIM M","MORITA","HS ASST CLIN PROF-FY","14608.00","14608.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","DENNIS","RENDEROS AYALA","STERILE PROCESSING TCHN 1","14608.00","12612.00","1039.00","957.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","SHOSHI","BUGE","ADMIN ANL SR","14608.00","14608.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","*****","*****","STDT 3","14608.00","14036.00","572.00","0.00"]}]
+}

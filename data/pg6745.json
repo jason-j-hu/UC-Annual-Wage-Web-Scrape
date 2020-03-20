@@ -1,0 +1,26 @@
+{
+"page" : "6745",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","ANDY","AU","COOK SR","40684.00","40684.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","JAVIER","VALDOVINOS","COOK","40684.00","40684.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","SILVIA","SALAS ALVAREZ","CUSTODIAN","40683.00","38237.00","122.00","2324.00"]},
+{"id":"4","cell":["4","2018","Berkeley","*****","*****","GSR-FULL FEE REM","40683.00","40683.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","MARIA","LINARES AGUILAR","TCHN AST","40683.00","40560.00","123.00","0.00"]},
+{"id":"6","cell":["6","2018","Santa Cruz","SARAH GRAY","HARKER","BLANK AST 2","40683.00","40277.00","406.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","JULEANE K","JOHNSON","BLANK AST 2","40683.00","40026.00","657.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","*****","*****","GSR-FULL FEE REM","40681.00","40681.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","JESUS","CORRALES","TCHN","40681.00","40622.00","59.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","*****","*****","PGY II PHARMACY RESID/NON REP","40679.00","35799.00","0.00","4880.00"]},
+{"id":"11","cell":["11","2018","Davis","DAVID A","REYNOLDS","BLANK AST 1","40677.00","40588.00","89.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","KRISTINA ALISSA","LAU","VETERINARIAN 2","40676.00","40676.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Riverside","FEI","CHEN","VIS ASSOC RES NEX","40676.00","33600.00","2700.00","4376.00"]},
+{"id":"14","cell":["14","2018","San Diego","LAWRENCE JAMES","PHELPS","FOOD SVC WORKER LD","40676.00","39475.00","170.00","1031.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","MAYRA","IRAHETA","BLANK AST 2","40675.00","36898.00","227.00","3550.00"]},
+{"id":"16","cell":["16","2018","Davis","KAYLEE G","D\"AMICO","PROJECT POLICY ANL 2","40675.00","40675.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","KEVIN","GRIFFITH","PROJECT POLICY ANL 4","40675.00","40675.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","KELLY","NELSON","BLANK AST 3","40674.00","39548.00","1126.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","JIMMY","SINN","LAB MECHN SR","40674.00","40674.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","EMMA","STRONG","STDT SVC ADVISOR 3","40674.00","40674.00","0.00","0.00"]}]
+}

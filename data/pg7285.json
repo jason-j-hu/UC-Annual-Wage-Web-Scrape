@@ -1,0 +1,26 @@
+{
+"page" : "7285",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","MARK JAYSON","NATIVIDAD","MED CTR CUSTODIAN SR","34252.00","32708.00","934.00","610.00"]},
+{"id":"2","cell":["2","2018","San Diego","GREGORY ALAN","MANTUANO","FOOD SVC SUPV 1","34251.00","33934.00","0.00","317.00"]},
+{"id":"3","cell":["3","2018","San Diego","CYNTHI","ESCOBAR DE ARRE","CUSTODIAN SR","34251.00","33983.00","0.00","268.00"]},
+{"id":"4","cell":["4","2018","Davis","ELAINE B","EDWARDS","HOSP UNIT SVC CRD 3","34250.00","32042.00","283.00","1925.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","CHIVETTE LISA","BURTON","PERSONNEL ANL SR SUPV","34250.00","32670.00","0.00","1580.00"]},
+{"id":"6","cell":["6","2018","Davis","GOZDE","GONCU BERK","ASST PROF-AY","34250.00","34250.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Riverside","*****","*****","TEACHG ASST-GSHIP","34249.00","23734.00","0.00","10515.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","KATHRYN","CRONIN","LECT-FY","34248.00","34248.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","MACARENA","LOMELI","BLANK AST 3","34248.00","34073.00","175.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","SILVIA","RAMUNDO","POSTDOC-EMPLOYEE","34247.00","34247.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","*****","*****","STDT 3","34246.00","27677.00","6569.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","*****","*****","RESID PHYS I/NON REP","34244.00","26493.00","0.00","7751.00"]},
+{"id":"13","cell":["13","2018","Berkeley","NIRVA","MAHOTIERE","PROJECT POLICY ANL 3","34242.00","33750.00","0.00","492.00"]},
+{"id":"14","cell":["14","2018","Davis","TIMOTHY R","CRYDER","CEMENT MASON FLOORER","34242.00","34242.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","JESSICA ANN","GAPEN","RADLG TCHNO PD","34242.00","33862.00","0.00","380.00"]},
+{"id":"16","cell":["16","2018","Berkeley","*****","*****","GSR-NO REM","34242.00","31819.00","1207.00","1216.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","ARNOLDO","FIGUEROA","CUSTODIAN SR","34240.00","30508.00","3480.00","252.00"]},
+{"id":"18","cell":["18","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","34239.00","34139.00","0.00","100.00"]},
+{"id":"19","cell":["19","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","34239.00","34139.00","0.00","100.00"]},
+{"id":"20","cell":["20","2018","San Francisco","KRISTINE E.","PERDOMO","BLANK AST 3","34238.00","34181.00","57.00","0.00"]}]
+}

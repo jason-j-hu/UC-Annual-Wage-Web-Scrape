@@ -1,0 +1,26 @@
+{
+"page" : "7090",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","TIFFANY","CHAN","PRACTICE CRD 2","36557.00","33563.00","194.00","2800.00"]},
+{"id":"2","cell":["2","2018","Davis","BIRENDRA N","SINGH","CUSTODIAN","36557.00","34493.00","259.00","1805.00"]},
+{"id":"3","cell":["3","2018","San Francisco","HOANG CANH","HUYNH","ADMIN OFCR 2","36555.00","36555.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","NINA","KASUYA","ADMIN ANL","36555.00","36405.00","0.00","150.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","NIXCIA","GAMEZ ROCHA","PHARMACY TCHN 1 PD","36555.00","35911.00","181.00","463.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","BEDA","ORTIZ","CUSTODIAN SR","36553.00","32459.00","4599.00","-505.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","ANTHONY","GRANATO","MAIL PROCESSOR","36553.00","36539.00","14.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","ADRIANA","NEGRETE","CLERK SR OR SECR","36552.00","36552.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","MAIRA L","GONZALEZ","MED AST 2","36552.00","36400.00","152.00","0.00"]},
+{"id":"10","cell":["10","2018","Irvine","CHRISTOPHER T","LANE","ASC PHYSCN DIPLOMATE","36550.00","3991.00","0.00","32559.00"]},
+{"id":"11","cell":["11","2018","San Francisco","CHI MENG","LAM","MED CTR CUSTODIAN SR PD","36549.00","34848.00","39.00","1662.00"]},
+{"id":"12","cell":["12","2018","San Francisco","GEETIKA","KHARKWAL","ASSOC SPECIALIST","36549.00","31934.00","0.00","4615.00"]},
+{"id":"13","cell":["13","2018","Irvine","ABIGAIL KNAPP","CRUZ","PERSONNEL ANL SR","36547.00","36547.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","*****","*****","GSR-FULL FEE REM","36547.00","36547.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","CHIDERA","IDOWU","PROGR ANL 2","36547.00","34689.00","1064.00","794.00"]},
+{"id":"16","cell":["16","2018","San Diego","*****","*****","GSR-TUIT & FEE REM-UCSD-GRP E","36547.00","36547.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","MADISON E","DUFEK","JR SPECIALIST","36544.00","36544.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","BONNIE A","NIELSEN","BLANK AST 2","36544.00","36544.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","ASCIA","ESKIN","PROGR ANL 2","36543.00","35872.00","0.00","671.00"]},
+{"id":"20","cell":["20","2018","Davis","WENDY A.C.","JIMENEZ","ADMIN AST 3","36543.00","35823.00","720.00","0.00"]}]
+}

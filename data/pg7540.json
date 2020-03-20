@@ -1,0 +1,26 @@
+{
+"page" : "7540",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","*****","*****","GSR-FULL FEE REM","31381.00","31381.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Irvine","JAIME FRANCISCO","GUARDADO","MED CTR CUSTODIAN PD","31381.00","30919.00","462.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Cruz","KEIKO","MACPHERSON","BLANK AST 2","31381.00","29681.00","0.00","1700.00"]},
+{"id":"4","cell":["4","2018","San Diego","MARY","JABARI","LAB AST 2","31381.00","30032.00","108.00","1241.00"]},
+{"id":"5","cell":["5","2018","Irvine","*****","*****","GSR-FULL FEE REM","31380.00","27625.00","0.00","3755.00"]},
+{"id":"6","cell":["6","2018","Irvine","ANN ELLEN","RUIZ","ADMITTING WORKER","31380.00","29698.00","1682.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","JUN","XUAN","POSTDOC-EMPLOYEE","31379.00","31379.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","PARRIAS E","JONES","MED OFC SVC CRD 2","31379.00","31344.00","35.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","DEIDRA","DUNCAN","TEACHER-UNEX-CONTRACT YR","31379.00","0.00","0.00","31379.00"]},
+{"id":"10","cell":["10","2018","San Francisco","DAWN MICHELE","PEARSON","RSCH DATA ANL 2","31378.00","31378.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","*****","*****","GSR-FULL FEE REM","31378.00","31378.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","EDUARDO","ANAYA","CUSTODIAN","31375.00","30928.00","0.00","447.00"]},
+{"id":"13","cell":["13","2018","Irvine","ANASTASIA","VAN DRIEL","CHILD DEV CTR AST","31375.00","31326.00","49.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","ROCKY R","ORINES","HR GENERALIST 2","31375.00","26661.00","3176.00","1538.00"]},
+{"id":"15","cell":["15","2018","Berkeley","PRATYUSH","CHAKRABORTY","POSTDOC-EMPLOYEE","31374.00","31374.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","*****","*****","GSR-FULL FEE REM","31374.00","31374.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","PATRICK E","MCGUIRE","RECALL NON-FACULTY ACAD NEX","31373.00","31373.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","31372.00","31372.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","ERIC R","LOWE","ADMIN SPEC","31371.00","28598.00","0.00","2773.00"]},
+{"id":"20","cell":["20","2018","Davis","PALLAVI","PRIYANKA","MED OFC SVC CRD 2 PD","31371.00","31356.00","15.00","0.00"]}]
+}

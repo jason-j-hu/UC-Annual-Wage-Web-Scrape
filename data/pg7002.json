@@ -1,0 +1,26 @@
+{
+"page" : "7002",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","JANEE B","HARTER","MED OFC SVC CRD 3","37617.00","37376.00","241.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","ALEXEY ALEKSANDR","EFANOV","ASST PROJ SCIENTIST-FY","37617.00","37617.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","LEILA K","SCHWANEMANN","SRA 1","37617.00","36005.00","0.00","1612.00"]},
+{"id":"4","cell":["4","2018","San Francisco","LEANN REIKO S","GUTIERREZ","CLIN LAB SCI PD","37616.00","34448.00","0.00","3168.00"]},
+{"id":"5","cell":["5","2018","Davis","MARLON A","GONZALES","COOK SR","37615.00","35430.00","1786.00","399.00"]},
+{"id":"6","cell":["6","2018","San Diego","NICOLE MARIE","DAVIDSON","PHYS THER AST 1","37614.00","14516.00","0.00","23098.00"]},
+{"id":"7","cell":["7","2018","San Francisco","CYNTHIA BONDOC","RIGGS","FINANCIAL ANL 2","37613.00","37411.00","0.00","202.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","COLIN","HO","ADMIN SPEC","37612.00","35932.00","1246.00","434.00"]},
+{"id":"9","cell":["9","2018","San Diego","ISAIAH JAVIER","HERNANDEZ","MED CTR FOOD SVC WORKER","37612.00","32945.00","3026.00","1641.00"]},
+{"id":"10","cell":["10","2018","San Diego","LISA CHRISTINA","DICKSON","BLANK AST 3","37610.00","37610.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","CECILIA","SANDOVAL","MED CTR CUSTODIAN SR","37609.00","34615.00","2016.00","978.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","BRENNA","O\"MASTA","PUBL ADMSTN ANL","37609.00","37609.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","JULIA","CHASE","SRA 1","37608.00","37268.00","340.00","0.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","*****","*****","SRA 2 NEX","37608.00","37608.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","SAMANTHA LYNN","HALE","PHYS THER 2 NEX","37608.00","29261.00","0.00","8347.00"]},
+{"id":"16","cell":["16","2018","San Francisco","MARK RICHARD","LEE","SURGICAL TCHN SR","37607.00","37285.00","6.00","316.00"]},
+{"id":"17","cell":["17","2018","Irvine","IVY FARRAH","NGUYEN","CMTY HEALTH PRG REPR","37607.00","37607.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","LUCILA","HERNANDEZ","CUSTODIAN SR","37607.00","34192.00","2309.00","1106.00"]},
+{"id":"19","cell":["19","2018","San Francisco","LISA J","CARELLA","HEALTH PROFNS EDUC SPEC 2","37606.00","27382.00","0.00","10224.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","DANNY","ALEJANDRO","MED CTR CUSTODIAN SR","37606.00","32651.00","1680.00","3275.00"]}]
+}

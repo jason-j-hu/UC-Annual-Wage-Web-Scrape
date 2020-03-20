@@ -1,0 +1,26 @@
+{
+"page" : "6316",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","CATALINA","CASTELLON","TCHN","45355.00","43805.00","949.00","601.00"]},
+{"id":"2","cell":["2","2018","San Francisco","JESUS","SUZARA","HOSP BLANK AST 2","45354.00","33053.00","1528.00","10773.00"]},
+{"id":"3","cell":["3","2018","San Diego","MICHELLE LYNN EM","HAINES","HOSP BLANK AST 3","45353.00","39483.00","5771.00","99.00"]},
+{"id":"4","cell":["4","2018","Irvine","SAMANTHA SALIM","ANTON","PUBL EVENTS MGR","45351.00","45349.00","0.00","2.00"]},
+{"id":"5","cell":["5","2018","Berkeley","ERIC","EICHORN","ELECTR TCHN SR","45351.00","40621.00","0.00","4730.00"]},
+{"id":"6","cell":["6","2018","Irvine","LINSEY","TRAN","ADMIN SPEC","45350.00","45350.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","LAUREN N.","BERMUDEZ","STDT AFFAIRS OFCR 2","45350.00","45350.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","KARLA SOFIA","AMEZCUA","ADMIN SPEC","45350.00","45350.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","LAURENCE L","KUMAR","MED CTR SCRTY OFCR","45350.00","38792.00","5790.00","768.00"]},
+{"id":"10","cell":["10","2018","Davis","PAUL J","DOMER","TCHN SR","45350.00","44242.00","0.00","1108.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","JOHN","COLLINS","PROGR ANL 2","45350.00","44258.00","243.00","849.00"]},
+{"id":"12","cell":["12","2018","Irvine","DACIA TORRES","MORANTE","ACCESS REPR SR","45349.00","44570.00","119.00","660.00"]},
+{"id":"13","cell":["13","2018","Davis","KATIE R","KEEHN","BLANK AST 3","45348.00","41927.00","371.00","3050.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","KEVIN","DONOHUE","PUBL ADMSTN ANL","45347.00","45347.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","MIGUEL","RODRIGUEZ","MED CTR COOK","45347.00","42766.00","2242.00","339.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","CHRISTOPHER","TSE","SRA 1","45347.00","45347.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","TERESA","CUEVA","ADMIN CARE CLIN PARTNER","45347.00","43616.00","685.00","1046.00"]},
+{"id":"18","cell":["18","2018","Irvine","JOHN SALVADOR","GARCIA","HOSP BLANK AST 1","45346.00","43371.00","936.00","1039.00"]},
+{"id":"19","cell":["19","2018","Davis","ANGEL","VELGARA VALLADA","AGRICULTURAL TCHN SR","45346.00","42283.00","47.00","3016.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","LUTHARIO LEMUEL","VILLARUEL","RESC NURSE PD","45345.00","41925.00","0.00","3420.00"]}]
+}

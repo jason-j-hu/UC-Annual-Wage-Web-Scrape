@@ -1,0 +1,26 @@
+{
+"page" : "7116",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","PATRICK","GRECO","ADMIN SPEC","36225.00","36087.00","138.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","YULSI LI","FERNANDEZ MONTE","HS CLIN INSTR-HCOMP","36225.00","35174.00","0.00","1051.00"]},
+{"id":"3","cell":["3","2018","Berkeley","JENNIFER","STURDY","PROJECT POLICY ANL 4","36225.00","36225.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Riverside","FLORENTINO","CASEM","PARKING REPR SR","36223.00","34751.00","1437.00","35.00"]},
+{"id":"5","cell":["5","2018","Davis","ISAAC S","ZENDEJAS","CUSTODIAN","36222.00","34337.00","0.00","1885.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","PAUL","WEBBER","PROSTHETIST ORTHOTIST SR","36220.00","31277.00","3840.00","1103.00"]},
+{"id":"7","cell":["7","2018","San Francisco","MEGAN M","DROSS","STDT SVC ADVISOR 3","36219.00","34372.00","1847.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","KAMISHA RACHELLE","EVANS","BLANK AST 3","36219.00","36100.00","119.00","0.00"]},
+{"id":"9","cell":["9","2018","Riverside","MICHELE","HERZOG","BLANK AST 3","36219.00","32604.00","166.00","3449.00"]},
+{"id":"10","cell":["10","2018","San Diego","KEVIN JACOB","MACNEEL","APPLICATIONS PROGR 3","36219.00","27973.00","0.00","8246.00"]},
+{"id":"11","cell":["11","2018","San Diego","AMAHURY,SR","MENDOZA","BLDG MAINT WORKER","36217.00","29384.00","5626.00","1207.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","*****","*****","TEACHG FELLOW-GSHIP","36216.00","24376.00","0.00","11840.00"]},
+{"id":"13","cell":["13","2018","Berkeley","AMY","TICK","ADMISSIONS RECRMT SPEC 2","36216.00","23410.00","0.00","12806.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","DINA","KIRSCHBAUM","LAB AST 1","36214.00","36214.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","ZHIXIN","QIU","POSTDOC-EMPLOYEE","36212.00","36212.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","*****","*****","GSR-FULL FEE REM","36212.00","36212.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","CRAIG","WANNBERG","DEV ENGR ASC","36210.00","36210.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","KATHY","CHEN","PROGR ANL 3","36210.00","36210.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","REBEKA","DOUGLAS","MGT SVC OFCR 2 SUPV","36210.00","36210.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","ALVIN RANDOLPH,JR","BANKS","MED CTR CUSTODIAN","36210.00","34372.00","834.00","1004.00"]}]
+}

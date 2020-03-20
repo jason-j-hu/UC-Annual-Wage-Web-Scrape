@@ -1,0 +1,26 @@
+{
+"page" : "7657",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","30120.00","30120.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","FRANCISCO,JR","FIGUEROA","MRI TCHNO SR","30120.00","19785.00","2904.00","7431.00"]},
+{"id":"3","cell":["3","2018","Berkeley","*****","*****","STDT 4","30120.00","30286.00","-166.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","*****","*****","DEV ENGR AST","30119.00","30119.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","JESSICA","SINGER","LECT-AY-1/10","30119.00","30119.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","30118.00","30118.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","ALAN TADAO","NG","LECT-AY-1/9","30117.00","29965.00","0.00","152.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","30115.00","30015.00","0.00","100.00"]},
+{"id":"9","cell":["9","2018","Berkeley","SAMUEL","BYRD","STDT LIFE DEVT SUPV 1","30115.00","27694.00","0.00","2421.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ANGELIQUE","PONCE-SALAS ANDRADE","PAT COMM REPR","30113.00","29680.00","433.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","JINYAN","GUAN","POSTDOC-EMPLOYEE","30113.00","30113.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","LAUREN WHITNEY","DUNLAP","PROGR ANL 3","30113.00","28574.00","0.00","1539.00"]},
+{"id":"13","cell":["13","2018","San Francisco","JAMIE","SHUM","SRA 1","30112.00","28862.00","0.00","1250.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","NORMA","ANTONANZAS BARROSO","PROGR ANL 3","30110.00","30110.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","30110.00","30010.00","0.00","100.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","30108.00","30108.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","SARAH F","WIENS","STDT SVC ADVISOR 2","30106.00","30106.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","FELICIA SARMIEN","PEREGRINO","HOSP BLANK AST 3","30106.00","29356.00","0.00","750.00"]},
+{"id":"19","cell":["19","2018","Berkeley","GIANNA","KONE","ADMIN OFCR 2","30106.00","30094.00","12.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","ELIZABETH","PATBERG","HS CLIN INSTR-HCOMP","30105.00","26126.00","0.00","3979.00"]}]
+}

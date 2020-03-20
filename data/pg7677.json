@@ -1,0 +1,26 @@
+{
+"page" : "7677",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Riverside","*****","*****","GSR-PARTIAL FEE REM","29957.00","24552.00","0.00","5405.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ARIELLE ANASTASI","MAIN","EHS SPEC 2 EX","29955.00","26737.00","0.00","3218.00"]},
+{"id":"3","cell":["3","2018","Riverside","GEOFFREY","LOGAN","JR SPECIALIST","29955.00","28537.00","0.00","1418.00"]},
+{"id":"4","cell":["4","2018","San Diego","ALEJANDRA ROBLES","ADAME","MED AST 2 PD","29955.00","28805.00","400.00","750.00"]},
+{"id":"5","cell":["5","2018","San Diego","JEANNINE MARIE","HURRISH","FOOD SVC WORKER","29954.00","28082.00","1556.00","316.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JAVIER","RENTERIA DOMINGUEZ","BLANK AST 3","29953.00","27797.00","2150.00","6.00"]},
+{"id":"7","cell":["7","2018","Davis","*****","*****","GSR-FULL FEE REM","29953.00","27976.00","0.00","1977.00"]},
+{"id":"8","cell":["8","2018","Irvine","JOSE ALFREDO","JIMENEZ","HOSP AST SR","29952.00","28532.00","693.00","727.00"]},
+{"id":"9","cell":["9","2018","Riverside","MEREDITH","DINGES","POSTDOC-EMPLOYEE","29952.00","29952.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","NADIV","DHARAN","POSTDOC-EMPLOYEE","29952.00","29952.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","JINGXUE","SHENG","POSTDOC-EMPLOYEE","29952.00","29952.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","*****","*****","GSR-FULL FEE REM","29950.00","29950.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","SIDONG","LEI","POSTDOC-EMPLOYEE","29950.00","29950.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","JOHN W","COLLINS","RSCH AND DEV ENGR 2","29948.00","18372.00","4791.00","6785.00"]},
+{"id":"15","cell":["15","2018","San Diego","STEPHEN DANIEL","ZARATE","MED CTR CUSTODIAN","29948.00","29681.00","267.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Cruz","*****","*****","TEACHG ASST-GSHIP","29947.00","22304.00","0.00","7643.00"]},
+{"id":"17","cell":["17","2018","Riverside","MIA","MALTZ","ASST SPECIALIST NEX","29947.00","29947.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","NANCY","CAO","BLANK AST 2 PD","29945.00","29786.00","159.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","JASMIN","PELAYO","BLANK AST 2","29944.00","29944.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","LILIAN","ENRIQUEZ","CODER","29941.00","29441.00","0.00","500.00"]}]
+}

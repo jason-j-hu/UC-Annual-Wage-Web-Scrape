@@ -1,0 +1,26 @@
+{
+"page" : "9099",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","JASON BENJAMIN","LUSTIG","LECT-AY","16364.00","16364.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","KELLY L","FLEMING","PROJECT POLICY ANL 2","16364.00","16364.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","16363.00","16263.00","0.00","100.00"]},
+{"id":"4","cell":["4","2018","Irvine","CARYN","BRADLEY","PHYS THER 2 PD","16363.00","16363.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Santa Cruz","RAJESH EUGENE","WESTERBERG","THEATRICAL PROD SUPV 1","16363.00","16213.00","0.00","150.00"]},
+{"id":"6","cell":["6","2018","San Diego","INHO","YANG","POSTDOC-EMPLOYEE","16363.00","16363.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","JEREMY J","DONALDSON","ADMISSIONS RECRMT SPEC 3","16361.00","14996.00","0.00","1365.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","CHRISTOPHER","MULLIN","LECT-AY-CONTINUING","16360.00","13309.00","0.00","3051.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","CAROLINA","SILVA","RESC NURSE PD","16359.00","14592.00","0.00","1767.00"]},
+{"id":"10","cell":["10","2018","San Diego","ALEX WILLIAM","KEMPER","REG RESP THER PD","16359.00","15481.00","0.00","878.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","GLENN","VILPPU","LECT-AY-1/9","16357.00","16357.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Santa Barbara","J VALENTINE","NAVARRO BARBOSA","LABORER","16357.00","16357.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","ZACHARY LORING","SALINGER","ACADEMIC COORD I-FY","16356.00","16356.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","HAILEE","NEWMAN","FOOD SVC WORKER","16356.00","15230.00","164.00","962.00"]},
+{"id":"15","cell":["15","2018","San Diego","*****","*****","STDT 4","16355.00","16355.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","CARI ANN","URABE","STDT ACAD SUPV 2","16354.00","16354.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Irvine","JOSHUA","JEONG","LAB AST 1","16354.00","15606.00","0.00","748.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","TIFFANY","CANCHOLA","STERILE PROCESSING TCHN 1","16354.00","13846.00","738.00","1770.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","TEWODROS","BEKELE","PROGR ANL 4","16354.00","16354.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","16354.00","12646.00","0.00","3708.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "8658",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","ARMAN","ZAND","LECT-AY-1/10","20627.00","20627.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","*****","*****","TEACHG ASST-GSHIP","20626.00","20526.00","0.00","100.00"]},
+{"id":"3","cell":["3","2018","Davis","JERRY C","APODACA","TEACHER-UNEX-CONTRACT YR","20625.00","0.00","0.00","20625.00"]},
+{"id":"4","cell":["4","2018","San Diego","MIGUEL DAVID","RODRIGUEZ","BUS SYS ANL 4","20625.00","20625.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","RANJEET","SEHGAL","ADMIN ANL SR","20625.00","20625.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","STEPHANIE RAE","RESENDEZ","PHLEBOTOMIST CERT TCHN 2","20621.00","20611.00","10.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","LAURA A","CALONDER","SRA 1","20620.00","17299.00","0.00","3321.00"]},
+{"id":"8","cell":["8","2018","Davis","JOANNA E","NORMOYLE","PRG REPR 2","20619.00","20508.00","0.00","111.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","KELSEY","MARKLE","ULTRASOUND TCHNO","20618.00","20448.00","170.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","*****","*****","PUBL EDUC SPEC 2","20618.00","20573.00","45.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","*****","*****","GSR-FULL FEE REM","20617.00","20617.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","HOOSHANG","MESHKINPOUR","RECALL FACULTY","20617.00","20617.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Irvine","*****","*****","GSR-NO REM","20617.00","20617.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","AUDRE P","MAY","JR SPECIALIST","20616.00","20616.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","ALEXANDRA","WRIGHT","LECT-AY-1/9","20616.00","20616.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","BRIAN COLEMAN","PECOR","FUNDRAISER 4","20616.00","14558.00","0.00","6058.00"]},
+{"id":"17","cell":["17","2018","Davis","ERIK D","LARSON","JR SPECIALIST","20615.00","14663.00","91.00","5861.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","MARIA","HUITRON","STERILE PROCESSING TCHN 1","20615.00","20176.00","302.00","137.00"]},
+{"id":"19","cell":["19","2018","San Francisco","KARAMPAL S","GILL","PRACTICE CRD 2","20614.00","20406.00","208.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","*****","*****","GSR-NO REM","20614.00","20614.00","0.00","0.00"]}]
+}

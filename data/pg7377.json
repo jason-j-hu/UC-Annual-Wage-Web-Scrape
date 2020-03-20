@@ -1,0 +1,26 @@
+{
+"page" : "7377",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","DIANA","ORTIZ","MED AST 2","33082.00","32423.00","659.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","LINDSAY L","BENSTER","LAB AST 2","33082.00","32806.00","276.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","STACY ANNE","COLLISTER","REGL AND CMPLNC HC SPEC 4","33081.00","25688.00","663.00","6730.00"]},
+{"id":"4","cell":["4","2018","Santa Cruz","*****","*****","TEACHG ASST-GSHIP","33080.00","32970.00","0.00","110.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ANGELICA","RAMIREZ LOPEZ","CLIN LAB SCI","33080.00","28032.00","2626.00","2422.00"]},
+{"id":"6","cell":["6","2018","Irvine","MARILU","BALVER MARTINEZ","CHILD DEV CTR AST","33079.00","33079.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","KELLY","RAMIREZ VASQUEZ","PAT COMM REPR","33079.00","32839.00","240.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","ERIC","DURAN","MED AST 3","33079.00","26283.00","48.00","30.00"]},
+{"id":"9","cell":["9","2018","Davis","ANNA","BRETCHES","REG RESP THER 1","33077.00","32030.00","749.00","298.00"]},
+{"id":"10","cell":["10","2018","Berkeley","*****","*****","GSR-FULL FEE REM","33076.00","33076.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","*****","*****","GSR-FULL FEE REM","33075.00","33075.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","GABRIELA","GUTIERREZ","HOSP BLANK AST 2","33075.00","29409.00","2017.00","1649.00"]},
+{"id":"13","cell":["13","2018","Riverside","ANNETTE","MENESES","STDT SVC ADVISOR 2","33075.00","32775.00","0.00","300.00"]},
+{"id":"14","cell":["14","2018","Irvine","CHANTEL","TANUVASA-STROTM","CLIN SOCIAL WORKER 2 PD","33074.00","33074.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","BUNYADA","PUTTHIRANGSIWONG","VIS ASST PROJ SCIENTIST","33074.00","33074.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","HSIAO-YEN","MA","POSTDOC-EMPLOYEE","33071.00","33071.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","DANIEL","MCAULIFFE","TEACHER-UNEX-CONTRACT YR","33071.00","0.00","0.00","33071.00"]},
+{"id":"18","cell":["18","2018","Davis","KIMBERLY N","TAYLOR","NURSE PD","33070.00","31801.00","1269.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","AMBER D","HARDEN","BLANK AST 3","33068.00","33068.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Riverside","*****","*****","GSR-PARTIAL FEE REM","33068.00","33068.00","0.00","0.00"]}]
+}

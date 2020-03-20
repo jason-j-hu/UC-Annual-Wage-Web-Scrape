@@ -1,0 +1,26 @@
+{
+"page" : "6631",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","YOLANDA","CURIEL","MED CTR COOK AST","41980.00","40073.00","1477.00","430.00"]},
+{"id":"2","cell":["2","2018","Santa Cruz","LAMBER","MALDONADO GALLE","CUSTODIAN SR","41980.00","41980.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","NESTOR","MEJIA","MED CTR PARKING AST","41979.00","37510.00","2610.00","1859.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","VERONICA","FRANCO","BLANK AST 2","41978.00","40422.00","56.00","1500.00"]},
+{"id":"5","cell":["5","2018","San Diego","JIANGLI","LI","SRA 1","41978.00","41978.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","BETHANY ANN","KUNG","NURSE PD","41976.00","38268.00","694.00","3014.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","LAUREN","LOPEZ","BLANK AST 3","41976.00","41115.00","861.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","KENYA","DENMAN","BLANK AST 3","41976.00","41976.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","ELIZABETH","DENLUCK","SRA 1","41976.00","41929.00","47.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","41975.00","41975.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","BRIDGET Y.","SALDIVAR","REG DENTAL AST","41973.00","41630.00","11.00","332.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","WENDY","AGUILAR","CMTY HEALTH PRG REPR","41972.00","40403.00","1569.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","NIKATIA R","RAGSDALE","PHARMACY TCHN 2","41971.00","40809.00","426.00","736.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","ELIZABETH TACY","COSTANZO","STDT SVC ADVISOR 3","41967.00","38064.00","0.00","3903.00"]},
+{"id":"15","cell":["15","2018","Riverside","TONY","VALADEZ","CUSTODIAN SR","41967.00","40571.00","0.00","1396.00"]},
+{"id":"16","cell":["16","2018","San Francisco","ADRIANA","RED","MED CTR FOOD SVC WORKER SR","41966.00","39204.00","1599.00","1163.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","LAUREN ELISE","WELCH","STDT ACAD ADVISOR 3","41966.00","39619.00","0.00","2347.00"]},
+{"id":"18","cell":["18","2018","San Diego","LIDIA LORENA","ROBLES","MED CTR STOREKEEPER","41966.00","39377.00","316.00","2273.00"]},
+{"id":"19","cell":["19","2018","San Diego","ALVARO SAUL","CANO","MED CTR CUSTODIAN","41966.00","33759.00","5562.00","2645.00"]},
+{"id":"20","cell":["20","2018","San Diego","DANIEL","VELARDE","FOOD SVC WORKER LD","41965.00","41283.00","261.00","421.00"]}]
+}

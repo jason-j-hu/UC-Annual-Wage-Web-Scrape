@@ -1,0 +1,26 @@
+{
+"page" : "10171",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","*****","*****","CLERK","9003.00","7382.00","1446.00","175.00"]},
+{"id":"2","cell":["2","2018","San Diego","*****","*****","STDT 4","9003.00","9003.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","*****","*****","STDT 2","9001.00","6501.00","0.00","2500.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","SANTIAGO","VELARDE DIAZ","STDT 1 NON UC","9001.00","9001.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","*****","*****","STDT 3","9001.00","9001.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","*****","*****","STDT 3","9001.00","8933.00","0.00","68.00"]},
+{"id":"7","cell":["7","2018","Berkeley","*****","*****","GSR-NO REM","9000.00","9000.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","DANIEL JOSEPH","ROSSO","HOSP BLANK AST 1","9000.00","8410.00","101.00","489.00"]},
+{"id":"9","cell":["9","2018","Irvine","JAMES M.","LEVERENTZ","TEACHER-UNEX-CONTRACT YR","9000.00","0.00","0.00","9000.00"]},
+{"id":"10","cell":["10","2018","Irvine","EMILY T","NGUYEN","PHARMACIST PD","9000.00","9000.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","PETER","RUSSELL","TEACHER-UNEX-CONTRACT YR","9000.00","0.00","0.00","9000.00"]},
+{"id":"12","cell":["12","2018","Davis","JACEK P","LESKOW","VIS PROF","9000.00","0.00","0.00","9000.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","FATEMEH","HABIBIZAD","SPEAKER-UNEX","9000.00","0.00","0.00","9000.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","MONIQUE","SORGEN","TEACHER-UNEX-CONTRACT YR","9000.00","0.00","0.00","9000.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","ELISABETH M","TISO","LECT IN SUMMER SESSION","9000.00","0.00","0.00","9000.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","UDAYABAGYA","HALIM","TEACHER-UNEX-CONTRACT YR","9000.00","0.00","0.00","9000.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","ELIZABETH RENNIE","BIRD","RECR PRG INSTR","9000.00","9000.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Cruz","ROBERT W,JR.","KNIGHT","TEACHER-UNEX-CONTRACT YR","9000.00","0.00","0.00","9000.00"]},
+{"id":"19","cell":["19","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","9000.00","9000.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Cruz","PHILIP O","CREWS","RECALL TEACHING","9000.00","0.00","0.00","9000.00"]}]
+}

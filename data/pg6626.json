@@ -1,0 +1,26 @@
+{
+"page" : "6626",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","AUSTIN","ZWICK","HOSP LAB TCHN 2 PD","42041.00","41729.00","312.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Cruz","WING YEE","LAU","INTRM POSTDOC SCHOLAR-EMPLOYEE","42041.00","42041.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","JOHN","DAHL","ADMIN ANL PRN 1","42040.00","42040.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","MIGUEL","ACEVES","BLANK AST 2","42040.00","41501.00","0.00","539.00"]},
+{"id":"5","cell":["5","2018","Hastings College Of Law","KOREEN","KELLEHER","DIRECTOR I","42040.00","42040.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","DIANA G","DE LA PENA","SRA 1","42040.00","42040.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","UCOP","ANA","GUTIERREZ","BLANK AST 3","42039.00","42039.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","MARK ARTHURSON B","CAROLINO","CAREER SVC SPEC 3","42039.00","40348.00","0.00","1691.00"]},
+{"id":"9","cell":["9","2018","Berkeley","JESUS","GONZALEZ","CUSTODIAN LD","42037.00","41371.00","585.00","81.00"]},
+{"id":"10","cell":["10","2018","Davis","DEEPALI D","JONES","CLIN LAB SCI","42036.00","36235.00","1395.00","4406.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","GILBERTO","FLORES","BLANK AST 2","42035.00","41501.00","534.00","0.00"]},
+{"id":"12","cell":["12","2018","Merced","FEY","SAELEE","CUSTODIAN SR","42033.00","39720.00","884.00","1429.00"]},
+{"id":"13","cell":["13","2018","San Francisco","DAVID","OLEM","CLIN SOCIAL WORKER 2","42031.00","42031.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","ARACELI","ARELLANO","MED CTR CUSTODIAN SR","42031.00","38689.00","2922.00","420.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","JOSE","RODRIGUEZ","MED CTR COOK","42031.00","39530.00","1528.00","973.00"]},
+{"id":"16","cell":["16","2018","Santa Cruz","JAMES DANIEL","HEARNS","COOK","42031.00","41868.00","163.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","AUDREY","HILLIARD","BLANK AST 3","42031.00","41754.00","277.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","STACY","MILLER","FINANCIAL ANL 2","42030.00","40744.00","0.00","1286.00"]},
+{"id":"19","cell":["19","2018","San Diego","JARED HOLBROOK","HINKLE","COOK SR","42030.00","41168.00","0.00","862.00"]},
+{"id":"20","cell":["20","2018","Berkeley","JOHN","KREITLER","COACH AST 3","42029.00","42029.00","0.00","0.00"]}]
+}

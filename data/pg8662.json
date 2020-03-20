@@ -1,0 +1,26 @@
+{
+"page" : "8662",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ELLEN","NIU","SRA 1","20574.00","20574.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","MARIEL S","ROMERO","SRA 2 NEX","20573.00","18401.00","0.00","2172.00"]},
+{"id":"3","cell":["3","2018","Davis","LISA M","PENNES","STDT LIFE DEV SPEC 2","20573.00","19666.00","415.00","492.00"]},
+{"id":"4","cell":["4","2018","San Diego","*****","*****","POSTDOC-EMPLOYEE","20572.00","20572.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ALMIRA VIANCA","CANLAS","BLANK AST 2","20571.00","20556.00","15.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","NILOTPAL","SANYAL","POSTDOC-EMPLOYEE","20570.00","20570.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Santa Barbara","*****","*****","GSR-NO REM","20569.00","16426.00","0.00","4143.00"]},
+{"id":"8","cell":["8","2018","Merced","*****","*****","GSR-PARTIAL FEE REM","20569.00","20465.00","0.00","104.00"]},
+{"id":"9","cell":["9","2018","Davis","RUPINDER RUBY","KAUR","CMTY EDUC SPEC 2","20568.00","19289.00","0.00","1279.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","20568.00","20568.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","KIMBERLEE","STRYKER","CONTINUING APPT-TEMP AUG","20568.00","20568.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","SANDEEP","KAUR","SRA 2 NEX","20566.00","19467.00","519.00","580.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","20565.00","20565.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","20565.00","20465.00","0.00","100.00"]},
+{"id":"15","cell":["15","2018","Berkeley","ROBERT","CHEW","BLDG MAINT WORKER","20563.00","20486.00","77.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","UTA","GRIESHAMMER","PROJECT POLICY ANL 3 GF","20563.00","20563.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","TIMOTHY R","SANDWINA","ELECTRN","20563.00","20306.00","257.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Cruz","WENCESLAO","LOPEZ DIAZ","FOOD SVC WORKER SR","20563.00","18603.00","1499.00","461.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","JESSIE","GARCIA","CLIN NURSE 1","20563.00","20513.00","50.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","SONIA LEE","HOWELL","TCHL PROJECT MGT PROFL 4","20563.00","20563.00","0.00","0.00"]}]
+}

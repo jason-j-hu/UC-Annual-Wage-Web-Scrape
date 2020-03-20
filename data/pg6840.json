@@ -1,0 +1,26 @@
+{
+"page" : "6840",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","JUSTIN J","BRICE","OPS ROOM SUPP AST PD","39545.00","34381.00","47.00","5117.00"]},
+{"id":"2","cell":["2","2018","Santa Cruz","DARLENE ANN","PEREZ","BLANK AST 2","39544.00","40158.00","483.00","-1097.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","JOHN","IBACH","ANL 2","39544.00","39544.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","BINDU","CHERIAN","PUBL ADMSTN ANL","39543.00","39543.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","BARBARA J","MILLS","COMPUTER RESC SPEC 1","39542.00","38460.00","1082.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","ANI","KARAPETYAN","ADMIN SPEC","39542.00","36608.00","0.00","2934.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","JENNIFER","LEI","ADMIN ANL","39541.00","34301.00","1461.00","3779.00"]},
+{"id":"8","cell":["8","2018","San Francisco","CAMRON C","SCOTT","CLIN NURSE 2","39540.00","39540.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","MAYLIN LUM","FU","SRA 1","39540.00","39540.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","JAMIE","HERNANDEZ JR","SCRTY GUARD","39538.00","37593.00","1945.00","0.00"]},
+{"id":"11","cell":["11","2018","Santa Cruz","VIRGINIA","SILVA RUIZ","CUSTODIAN SR","39536.00","39536.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ESTELLA","CORTEZ","CUSTODIAN SR","39535.00","39535.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","TIM","LYNCH","SRA 3","39535.00","39535.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","PAOLA","HERNANDEZ","BLANK AST 2","39533.00","38386.00","0.00","1147.00"]},
+{"id":"15","cell":["15","2018","Riverside","MINH","VU","STOREKEEPER","39533.00","38941.00","480.00","112.00"]},
+{"id":"16","cell":["16","2018","Santa Cruz","KRISTAL ANN","VALDOVINOS","NON-PHYS CLIN TRAIN-GENL CAMP","39532.00","39532.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Santa Cruz","BRITTANY ANNE","COOPER","NON-PHYS CLIN TRAIN-GENL CAMP","39532.00","39532.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Riverside","MARIA","GONZALEZ","CUSTODIAN SR","39532.00","37781.00","1744.00","7.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","CINDY","KRATZER","LECT-AY-CONTINUING","39532.00","39532.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","RENEE PENELOPE","YANCEY","MED CTR COOK","39532.00","38524.00","0.00","1008.00"]}]
+}

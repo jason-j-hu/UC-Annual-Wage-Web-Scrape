@@ -1,0 +1,26 @@
+{
+"page" : "8453",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","MARVIN","ORDONEZ","MED CTR CUSTODIAN SR","22267.00","22267.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","*****","*****","GSR-FULL FEE REM","22267.00","22267.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","*****","*****","TEACHG ASST-NON GSHIP","22267.00","16063.00","0.00","6204.00"]},
+{"id":"4","cell":["4","2018","Berkeley","CHRISTINA","MCKAY","BLANK AST 3","22266.00","21999.00","267.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","PATRICIA EILEEN","MURRAY","CLIN NURSE 2","22266.00","22107.00","221.00","-62.00"]},
+{"id":"6","cell":["6","2018","Davis","CLAUDIA E","LOPEZ","COOK","22265.00","21890.00","257.00","118.00"]},
+{"id":"7","cell":["7","2018","San Diego","*****","*****","GSR-TUIT & FEE REM-UCSD-GRP D","22265.00","22265.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","BOBBY","JONES","CUSTODIAN","22265.00","22265.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","MABEL Y","OEN","BLANK AST 3","22264.00","22264.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","DANA V","SILCHUK","CLIN NURSE 2","22264.00","18396.00","352.00","3516.00"]},
+{"id":"11","cell":["11","2018","Santa Cruz","*****","*****","TEACHG ASST-GSHIP","22264.00","21354.00","0.00","910.00"]},
+{"id":"12","cell":["12","2018","Davis","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","22264.00","22164.00","0.00","100.00"]},
+{"id":"13","cell":["13","2018","San Diego","NOREEN ACOSTA","SULAPAT","PHLEBOTOMIST CERT TCHN 2","22264.00","22154.00","110.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","LAURIE A","LONG","RSCH ADM 2","22262.00","17983.00","0.00","4279.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","22262.00","22262.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Riverside","*****","*****","GSR-PARTIAL FEE REM","22262.00","16004.00","0.00","6258.00"]},
+{"id":"17","cell":["17","2018","San Diego","MARKO","STOJKOVIC","APPLICATIONS PROGR 3","22262.00","19277.00","0.00","2985.00"]},
+{"id":"18","cell":["18","2018","Davis","WILLIAM R","SILBERMAN","ADMIN OFCR 2","22260.00","22260.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","HANNAH MARIE","DEVITO","CLIN NURSE 2","22259.00","20710.00","1156.00","393.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","DAVID","TUCKER","MUSEUM SCI SR","22258.00","7837.00","0.00","14421.00"]}]
+}

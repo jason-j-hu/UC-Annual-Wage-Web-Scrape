@@ -1,0 +1,26 @@
+{
+"page" : "8275",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","*****","*****","TEACHG ASST-NON GSHIP","24096.00","19590.00","0.00","4506.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","GUILLERMO","RAMIREZ","LECT-AY-1/9","24095.00","24095.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","SARAH A.","KLEIN","TUT-NON STDNT","24095.00","24095.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","JORDAN JAMES WOL","BROUK","CLIN NURSE 2","24095.00","17127.00","3479.00","3489.00"]},
+{"id":"5","cell":["5","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","24095.00","24095.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","24094.00","24094.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Santa Barbara","*****","*****","POSTDOC-EMPLOYEE","24094.00","24094.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","AGNIESZKA ANASTA","KENDRICK","POSTDOC-EMPLOYEE","24094.00","24094.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","ISAIAH MALICKAL","THOMAS","CLIN RSCH CRD","24092.00","23209.00","11.00","872.00"]},
+{"id":"10","cell":["10","2018","San Francisco","TROY BERNARD","ADAMS","MED CTR COOK PD","24092.00","22701.00","1146.00","245.00"]},
+{"id":"11","cell":["11","2018","San Francisco","LILLIAN R","PRINCE","DATA SYS ANL 2","24090.00","21658.00","21.00","2411.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","*****","*****","TUT-GSHIP","24090.00","24090.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Cruz","LEONA REBECCA","ROVEGNO","FINANCIAL SVC ANL 2","24090.00","22904.00","0.00","1186.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","24090.00","20893.00","0.00","3197.00"]},
+{"id":"15","cell":["15","2018","Santa Cruz","ANA C","IBARRA","FOOD SVC SUPV 2","24089.00","23373.00","0.00","716.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","*****","*****","READER-GSHIP","24088.00","23988.00","0.00","100.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","*****","*****","ASSOC IN__-AY- 1/9 -NON-GSHIP","24088.00","19727.00","0.00","4361.00"]},
+{"id":"18","cell":["18","2018","Davis","CHIN-LING","CHEN","DIETITIAN PD","24087.00","24055.00","0.00","32.00"]},
+{"id":"19","cell":["19","2018","San Diego","MAUREEN MARY","QUINN","BLANK AST 3","24087.00","24087.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Cruz","*****","*****","ASSOC IN ____-AY-GSHIP","24084.00","23984.00","0.00","100.00"]}]
+}

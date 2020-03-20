@@ -1,0 +1,26 @@
+{
+"page" : "6973",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","*****","*****","GSR-FULL FEE REM","37888.00","37888.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Irvine","LUCIANA T","BADESCU","HOSP UNIT SVC CRD 2","37887.00","32827.00","3652.00","1408.00"]},
+{"id":"3","cell":["3","2018","Riverside","ALFONSO","CRUZ","COOK","37887.00","37093.00","367.00","427.00"]},
+{"id":"4","cell":["4","2018","San Diego","CARLOS JOSE","MADERIAS","MED CTR STOREKEEPER","37887.00","36292.00","200.00","1395.00"]},
+{"id":"5","cell":["5","2018","Irvine","MARY JANE","HERNANDEZ","BUS TCHL SUPP ANL 2","37886.00","33749.00","74.00","4063.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","PHILLIPA","ROSMAN","LIBRARY AST 3","37886.00","37886.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","TACU","VANG","CMTY EDUC SPEC 2","37886.00","37886.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","37886.00","37215.00","0.00","671.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","JASMINE","CARRILLO","BLANK AST 2","37884.00","35968.00","1130.00","786.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","MELANIA","ABRAHAMIAN","POSTDOC-EMPLOYEE","37884.00","37884.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Santa Barbara","LUISA","BERGERON","JR SPECIALIST","37884.00","37884.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","HUGO","VASQUEZ SANTAELLA","MED CTR CUSTODIAN SR","37883.00","34369.00","192.00","3322.00"]},
+{"id":"13","cell":["13","2018","San Diego","THERESA A","RIDER","BLANK AST 3","37883.00","31247.00","913.00","5723.00"]},
+{"id":"14","cell":["14","2018","Riverside","KATHRYN","ANGER","LECT-AY-CONTINUING","37882.00","37882.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Riverside","EILEEN","RADZIK","BAKER","37882.00","37377.00","477.00","28.00"]},
+{"id":"16","cell":["16","2018","San Francisco","SINA","KHORSAND","SRA 2 NEX","37881.00","34034.00","108.00","3739.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","MICAELA","CARR","ARTIST SR","37881.00","36685.00","33.00","1163.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","MARIA","JUAREZ","CUSTODIAN SR","37880.00","36189.00","308.00","1383.00"]},
+{"id":"19","cell":["19","2018","San Francisco","JILL M","BOND","INSTRUCTIONAL DESIGNER 3","37879.00","37879.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","PATRICIA E","FLYNN","REGISTRAR MGR 1","37879.00","37879.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "8516",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ROBERT","EVERSZ","TEACHER-UNEX-CONTRACT YR","21625.00","0.00","0.00","21625.00"]},
+{"id":"2","cell":["2","2018","Berkeley","EMILY","GOLDSTEIN","RSCH DATA ANL 2","21622.00","21622.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","HIROKO","NOBUTA","POSTDOC-EMPLOYEE","21622.00","21622.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Riverside","JANICE","BORDER","ADMIN MGR 1","21622.00","20102.00","0.00","1520.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","DESIDERIO","RAMOS","FOOD SVC MGR AST SUPV","21621.00","18814.00","593.00","2214.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","EMILY","O\"DEAN","SRA 1","21621.00","21621.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","*****","*****","TEACHG ASST-GSHIP","21620.00","21620.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","*****","*****","TEACHG ASST-GSHIP","21619.00","21519.00","0.00","100.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","BENJAMIN","JACKEL","LECT-AY-1/9","21619.00","21619.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","*****","*****","GSR-FULL FEE REM","21619.00","21619.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","PEIXIN","CHEN","SRA 1","21618.00","20093.00","1521.00","4.00"]},
+{"id":"12","cell":["12","2018","Irvine","NICOLE","CORRALES","ASST SPECIALIST NEX","21618.00","21618.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Irvine","*****","*****","TEACHG ASST-GSHIP","21618.00","16063.00","0.00","5555.00"]},
+{"id":"14","cell":["14","2018","Irvine","EMILIANO C","VELASCO","LAB HELPER","21618.00","21239.00","379.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","BETTY","JACKSON-STEWARD","CASE MGR PD","21618.00","20494.00","0.00","1124.00"]},
+{"id":"16","cell":["16","2018","San Diego","*****","*****","SRA 1","21617.00","21617.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","GREGORY RAY","HIDLEY","COMM AND NETWORK TCHL ANL 5","21615.00","21615.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","PHILIP L","PRITCHETT","RECALL NON-FACULTY ACAD","21615.00","21615.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Santa Cruz","MOLLY BURNS","EATON","BLANK AST 2","21613.00","21613.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","*****","*****","GSR-NO REM","21613.00","21613.00","0.00","0.00"]}]
+}

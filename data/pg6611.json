@@ -1,0 +1,26 @@
+{
+"page" : "6611",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","LUKE","YARBROUGH","ASST PROF-AY","42208.00","42208.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","CUAUHTEMOC","MONCADA","LIBRARY AST 3","42208.00","35761.00","0.00","6447.00"]},
+{"id":"3","cell":["3","2018","Berkeley","EVAN","ODA","STEAMFITTER","42206.00","42068.00","138.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","GONZALO","RUIZ GONZALEZ","AGRICULTURAL TCHN SR","42205.00","42205.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","CONNIE FRANCES","WRIGHT","MED CTR CUSTODIAN","42204.00","40953.00","251.00","1000.00"]},
+{"id":"6","cell":["6","2018","Irvine","JEANETTE","ALCALA","ACCESS REPR SR","42203.00","40659.00","884.00","660.00"]},
+{"id":"7","cell":["7","2018","Berkeley","ANGELA","GOODWIN","ADMIN OFCR 2","42202.00","40603.00","1599.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","ERIC","MIYAHIRA","SRA 2 NEX","42202.00","36309.00","5893.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","MICHAEL ANGELO","SALVADOR","ADMIN CARE CLIN PARTNER","42201.00","36730.00","19.00","5452.00"]},
+{"id":"10","cell":["10","2018","Irvine","KRISTINE MICHELL","ALCARAZ","ADMITTING WORKER SR","42200.00","42200.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Merced","MONICA","FRAGA","ADMISSIONS RECRMT SPEC 3","42199.00","41199.00","0.00","1000.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","SOHEAB","UGRADAR","VIS ASST PROJ SCIENTIST","42198.00","42029.00","169.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","CYNTHIA","BOXRUD","ASC PHYSCN DIPLOMATE","42198.00","39000.00","0.00","3198.00"]},
+{"id":"14","cell":["14","2018","Berkeley","KAREN","MILLIGAN","BLANK AST 3","42198.00","36296.00","0.00","5902.00"]},
+{"id":"15","cell":["15","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","42197.00","34803.00","0.00","7394.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","SARA","BURDORFF","LECT-AY","42194.00","42194.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","ILIANA ALEJANDRA","DE DIOS","HR GENERALIST 2","42194.00","41990.00","204.00","0.00"]},
+{"id":"18","cell":["18","2018","Riverside","MARIA","GERARDO","FARM LABORER","42194.00","42194.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","UDI","MANBER","ADJ PROF-FY","42192.00","40361.00","0.00","1831.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","ELI","SANCHEZ","FOOD SVC WORKER","42192.00","33163.00","8156.00","873.00"]}]
+}

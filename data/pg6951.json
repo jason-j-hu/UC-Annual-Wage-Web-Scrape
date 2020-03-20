@@ -1,0 +1,26 @@
+{
+"page" : "6951",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","JACQUELINE M","RAGASA","NURSE AID SR","38140.00","36116.00","1601.00","423.00"]},
+{"id":"2","cell":["2","2018","San Francisco","HENOCK","WOLDU","PHARMACIST SR EX","38139.00","34138.00","0.00","4001.00"]},
+{"id":"3","cell":["3","2018","Davis","KATHRYN L","HAMMACK","CMTY EDUC SPEC 2","38139.00","38139.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","PETER FINCH","BAKER","SRA 3","38137.00","38137.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","LYNN","BENACCHIO","PAT BILLER 4","38137.00","36873.00","263.00","1001.00"]},
+{"id":"6","cell":["6","2018","UCOP","ALIK","LEE","EXEC AST 4","38136.00","36702.00","0.00","1434.00"]},
+{"id":"7","cell":["7","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","38135.00","38035.00","0.00","100.00"]},
+{"id":"8","cell":["8","2018","Berkeley","WESTON","TATE","LIBRARY AST 2","38134.00","38134.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","PAULA","IRONS","BLANK AST 2","38134.00","37862.00","272.00","0.00"]},
+{"id":"10","cell":["10","2018","ASUCLA","JOVANNA","FIERRO","ANL 1","38133.00","28414.00","0.00","9719.00"]},
+{"id":"11","cell":["11","2018","San Francisco","MATTHEW F","COLLIE","JR SPECIALIST","38132.00","37993.00","139.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","SUE","XIONG","PAT BILLER 2","38131.00","38073.00","58.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","MITZI Y","HURTADO OROZCO","JR SPECIALIST","38131.00","38131.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","CARLOS","TECUATL","CUSTODIAN","38130.00","35344.00","975.00","1811.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","GEORGINA","SANCHEZ","MED CTR CUSTODIAN SR","38130.00","34495.00","420.00","3215.00"]},
+{"id":"16","cell":["16","2018","Davis","KIMBERLY F","COMERFORD","CMTY SVC CASE MGR","38130.00","38130.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","VALERIE","PIPERSBURGH","CLIN CARE PARTNER","38129.00","34458.00","3027.00","644.00"]},
+{"id":"18","cell":["18","2018","Santa Cruz","MARCY","RAMIREZ","BLANK AST 2","38129.00","33504.00","4225.00","400.00"]},
+{"id":"19","cell":["19","2018","Berkeley","REBEKAH LINH","COLLINS","LECT-AY-1/10","38129.00","32255.00","0.00","5874.00"]},
+{"id":"20","cell":["20","2018","Davis","WYLIE L","SKILLMAN","CMTY EDUC SPEC 2","38128.00","38128.00","0.00","0.00"]}]
+}

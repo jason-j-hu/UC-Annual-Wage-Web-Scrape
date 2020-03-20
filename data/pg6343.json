@@ -1,0 +1,26 @@
+{
+"page" : "6343",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","LUIS C","VITE","FAC MGT SPEC 3","45044.00","38696.00","0.00","6348.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","MERCEDES","ELLISON","BLANK AST 1","45044.00","42394.00","783.00","1867.00"]},
+{"id":"3","cell":["3","2018","San Francisco","KALEY NIKKI","ARMSTRONG","REVENUE CYCLE HC ANL 2","45043.00","43170.00","304.00","1569.00"]},
+{"id":"4","cell":["4","2018","San Francisco","MAURICE C.","HENDERSON","MAIL PROCESSOR SR","45043.00","45043.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","KATHY","CHIANG","STDT AFFAIRS OFCR 1","45043.00","42162.00","2381.00","500.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","LUCHINO","CASTAGNO","ADMIN SPEC","45043.00","44493.00","550.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","CAROLYNE","BARDELEBEN","SRA 4","45043.00","42036.00","0.00","3007.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","DA MING","OU","SRA 2 NEX","45042.00","45042.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","MARIA CECILIA C","CUNANAN","BLANK AST 2","45041.00","44291.00","0.00","750.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","KENISHA","JACKSON","BLANK AST 2","45040.00","44290.00","0.00","750.00"]},
+{"id":"11","cell":["11","2018","Santa Barbara","GEORGE","LEVINTHAL","SPEC","45040.00","38866.00","0.00","6174.00"]},
+{"id":"12","cell":["12","2018","Irvine","LEOBARDA","OLEA","MED CTR COOK","45039.00","39235.00","5342.00","462.00"]},
+{"id":"13","cell":["13","2018","Riverside","BARBARA","JABLONSKA","SRA 2 NEX","45039.00","45039.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","MARI","KAWAMURA","SRA 1","45038.00","43139.00","1899.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","VALERIA MONIQUE","VELARDE","MED AST 2","45038.00","44288.00","0.00","750.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","MARIA","PONCE","PAT BILLER 3","45037.00","42857.00","21.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","LEAH BERNICE","BURKE","SRA 2 NEX","45037.00","45037.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","LINDSEY LEE","FANIOLA","ALUMNI EXTERNAL REL SPEC 5","45036.00","44036.00","0.00","1000.00"]},
+{"id":"19","cell":["19","2018","Merced","LINDA","CHANG","STDT SVC ADVISOR 2","45035.00","45035.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","OCTAVIO","URBINA","MAIL PROCESSOR","45035.00","45035.00","0.00","0.00"]}]
+}

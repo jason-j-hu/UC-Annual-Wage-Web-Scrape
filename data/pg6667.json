@@ -1,0 +1,26 @@
+{
+"page" : "6667",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","MAY","VILLAPANDO","BLANK AST 2","41566.00","41496.00","70.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","SANDRA","DIAZ LAZO","BLANK AST 2","41565.00","41565.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","KEVIN JAMES","CONNOR","VOC NURSE SR","41564.00","39818.00","746.00","1000.00"]},
+{"id":"4","cell":["4","2018","San Diego","JOHN BLAKELY,II","MATTHEWS","BLANK AST 3","41563.00","41563.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Merced","BRANDON","PEREZ","ACAD ACHIEVEMENT CNSLR 2","41562.00","41190.00","372.00","0.00"]},
+{"id":"6","cell":["6","2018","Riverside","CAITLIN","MCDERMOTT","BLANK AST 3","41562.00","41335.00","227.00","0.00"]},
+{"id":"7","cell":["7","2018","Riverside","ANDRE","CRAWFORD II","ADMISSIONS RECRMT SPEC 1","41562.00","41562.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","KAREN R","GREY","CLIN NURSE 2","41562.00","40234.00","1328.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","MARCEL RICHARD","BATES","PROGR ANL 2","41561.00","41561.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","*****","*****","TEACHG ASST-GSHIP","41561.00","38577.00","0.00","2984.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","KATHLEEN","GUZMAN","RSDNC HALLS MGR AST","41560.00","31785.00","9678.00","97.00"]},
+{"id":"12","cell":["12","2018","San Diego","TITANIA","JUANG","HS ASST CLIN PROF-HCOMP","41560.00","27300.00","0.00","14260.00"]},
+{"id":"13","cell":["13","2018","San Francisco","JUAN JOS","GURDIAN BARIENT","AUTO EQUIP OPR PRN","41559.00","33078.00","5163.00","3318.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","YUMIN","CHO","VIS ASST PROJ SCIENTIST","41559.00","41559.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","MARY MARGARET","PEARSON","HS ASSOC CLIN PROF-FY","41558.00","41558.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","JESSIE","CHEN","CLIN RSCH CRD","41556.00","41556.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","JASNA","REDZIC","BLANK AST 2","41556.00","41490.00","66.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","MARTA","ORTEGA","SRA 1","41556.00","40607.00","949.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","*****","*****","GSR-FULL FEE REM","41556.00","41556.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","KELSEY L","ERICKSON","SRA 1","41555.00","41547.00","8.00","0.00"]}]
+}

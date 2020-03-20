@@ -1,0 +1,26 @@
+{
+"page" : "6280",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","45717.00","33037.00","0.00","12680.00"]},
+{"id":"2","cell":["2","2018","Irvine","CLEONTE DESEAN","TAYLOR","HOSP AST 2 PD","45717.00","42889.00","2828.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","BETHANY A","CHIDESTER","POSTDOC-EMPLOYEE","45717.00","45717.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","SEAN P","DONOHOE","POSTDOC-EMPLOYEE","45717.00","45717.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","MIRIAM E","SILVERMAN","PSYCHOLOGIST 2","45716.00","45716.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","RICARDO","NUNEZ","MAIL PROCESSOR","45716.00","45687.00","29.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","WILLIAM","ONG","MED CTR CUSTODIAN SR","45713.00","44495.00","874.00","344.00"]},
+{"id":"8","cell":["8","2018","Berkeley","NICOLE","MARTINEZ VASQUEZ","BLANK AST 3","45712.00","45712.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","CARIN MARGARETA","BAKER","ADMIN SPEC","45712.00","45285.00","427.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","MAY N","MANUEL","TCHN","45711.00","43200.00","2511.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","CARLOS","MEZA","CUSTODIAN LD","45711.00","44342.00","8.00","1361.00"]},
+{"id":"12","cell":["12","2018","Davis","ROXANA M","ROSE","BLANK AST 3","45710.00","45710.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","STEVE","NEVAREZ-SOTO","RECR SUPV AST","45710.00","44960.00","0.00","750.00"]},
+{"id":"14","cell":["14","2018","San Diego","VANESSA","ANTON","BLANK AST 3","45710.00","43839.00","144.00","1727.00"]},
+{"id":"15","cell":["15","2018","Davis","*****","*****","RESID-VET MED/NON REP","45709.00","45709.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","MARITZA","RAMIREZ","ADMIN SPEC","45709.00","45709.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","MARIO","ARGUETA","LIFT TEAM TCHN 2","45709.00","40774.00","3985.00","950.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","DAMON","STRAIN","GROUNDSKEEPER","45709.00","45709.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","RUTH","QUINTANILLA","STDT LIFE DEV SPEC 3","45709.00","45709.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","GABRIELLE E.","MINTZ","SRA 1","45708.00","41719.00","3964.00","25.00"]}]
+}

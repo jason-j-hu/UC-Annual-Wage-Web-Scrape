@@ -1,0 +1,26 @@
+{
+"page" : "8849",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","JERRY A","DEMINS","MED CTR CUSTODIAN SR","18707.00","17040.00","467.00","1200.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","JANINE","NEGRIN","SOCIAL WORK ASC AST","18706.00","18471.00","0.00","235.00"]},
+{"id":"3","cell":["3","2018","San Francisco","MONICA","SOLARES","VOC NURSE","18704.00","18187.00","517.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","CAILIN RENEE","LECHNER","CLIN RSCH CRD AST","18704.00","18704.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","*****","*****","TEACHG FELLOW-GSHIP","18704.00","18704.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","*****","*****","TEACHG FELLOW-GSHIP","18704.00","18704.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","EVELYN","ALVARENGA","PAT COMM REPR","18704.00","17830.00","77.00","797.00"]},
+{"id":"8","cell":["8","2018","San Francisco","AVERY","O\"HARA","CLIN RSCH CRD AST","18703.00","18352.00","0.00","351.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","MONICA M","STRETTEN","LAB AST 2","18703.00","17683.00","0.00","1020.00"]},
+{"id":"10","cell":["10","2018","San Diego","PIETER-EWALD","SHARE","POSTDOC-EMPLOYEE","18703.00","18703.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","NILCE PARREIRA","WICKS","LECT-AY-1/9","18702.00","18702.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","ALYSSA","ATWOOD","POSTDOC-EMPLOYEE","18702.00","18702.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","KAREN LOUISE","HILL","HEALTH EDUCATOR 5","18701.00","18701.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","CHRISTOPHER ANDR","SORIANO","BLANK AST 2","18701.00","18312.00","145.00","244.00"]},
+{"id":"15","cell":["15","2018","San Francisco","JEFFREY JOHN","ABATE","CUSTODIAL SUPV 2","18700.00","17221.00","0.00","1479.00"]},
+{"id":"16","cell":["16","2018","San Francisco","ERIC CAMILLE","JOHNSON","STERILE PROCESSING TCHN 3","18700.00","7540.00","302.00","10858.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","RONALD","JARVIS","PUBL EVENTS MGR","18700.00","14181.00","1.00","4518.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","TIFFANY T.","CHAN","BLANK AST 2","18700.00","18106.00","0.00","594.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","MADELINE DIVERS","TOWNSLEY","SRA 1","18699.00","17753.00","0.00","946.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","DEREK","BERING","EHS TCHN SR","18697.00","17508.00","871.00","318.00"]}]
+}

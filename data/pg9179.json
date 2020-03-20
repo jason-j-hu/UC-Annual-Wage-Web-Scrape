@@ -1,0 +1,26 @@
+{
+"page" : "9179",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","PAUL","SHERMAN","TEACHER-UNEX-CONTRACT YR","15800.00","0.00","0.00","15800.00"]},
+{"id":"2","cell":["2","2018","San Diego","JOE","MC CORMICK","TEACHER-UNEX-CONTRACT YR","15800.00","0.00","0.00","15800.00"]},
+{"id":"3","cell":["3","2018","San Diego","ALEXANDRA SIOBHA","ROONEY","SRA 2","15800.00","11049.00","0.00","4751.00"]},
+{"id":"4","cell":["4","2018","San Diego","ADRIAN MATOS","SALENGA","PAT REL PROFL 2","15800.00","15800.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","*****","*****","GSR-NO REM","15799.00","15799.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","EMIKO","MADISON NAKANISHI","SRA 2 NEX","15799.00","15799.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","MARTHA","BALAGUERA","JR SPECIALIST NEX","15798.00","15798.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","MANJEET","RANDHAWA","PROGR ANL 3","15797.00","14026.00","0.00","1771.00"]},
+{"id":"9","cell":["9","2018","Santa Barbara","SARAH","CRAWFORD","EHS SPEC 2 NEX","15796.00","15279.00","517.00","0.00"]},
+{"id":"10","cell":["10","2018","Irvine","LYNNUS F","PENG","ASC PHYSCN DIPLOMATE","15795.00","6226.00","0.00","9569.00"]},
+{"id":"11","cell":["11","2018","Irvine","*****","*****","GSR-NO REM","15795.00","15795.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","*****","*****","TEACHG ASST-GSHIP","15795.00","15695.00","0.00","100.00"]},
+{"id":"13","cell":["13","2018","Berkeley","SUHEL","PATHAN","DATABASE ADM 3","15794.00","15794.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","CHRISTOPHER T","ANDERSON","SRA 1","15794.00","15607.00","187.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","AILEEN ROSE FONT","WAGONER","VOC NURSE SR","15794.00","15794.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","JOY CANLAS","DAVID","NURSE PD","15793.00","15229.00","498.00","66.00"]},
+{"id":"17","cell":["17","2018","Berkeley","*****","*****","TEACHG ASST-NON GSHIP","15793.00","10326.00","0.00","5467.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","*****","*****","STDT 4","15792.00","15757.00","0.00","35.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","MANASENDU","KUNDU","LECT IN SUMMER SESSION","15792.00","0.00","0.00","15792.00"]},
+{"id":"20","cell":["20","2018","Berkeley","PAULA","JUNG","ADMIN OFCR 2","15792.00","14310.00","0.00","1482.00"]}]
+}

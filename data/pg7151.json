@@ -1,0 +1,26 @@
+{
+"page" : "7151",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","VIOLETA","ALVAREZ","ACAD ACHIEVEMENT CNSLR 2","35881.00","32868.00","542.00","2471.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","MELISSA","KNAPP","HOSP BLANK AST 1","35880.00","35733.00","147.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","DEBORAH L","WILLIAMS","HOSP UNIT SVC CRD 3","35879.00","30271.00","1053.00","4555.00"]},
+{"id":"4","cell":["4","2018","Riverside","LOREN","ACOSTA","CUSTODIAN SR","35877.00","34541.00","0.00","1336.00"]},
+{"id":"5","cell":["5","2018","San Diego","JASEN JAMES","HENDERSON","GROUNDSKEEPER","35877.00","35851.00","26.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","HAROLD J","HORGAN","REFRIGERATION MECH","35876.00","28268.00","28.00","7580.00"]},
+{"id":"7","cell":["7","2018","San Diego","VINCIANE GERARDI","VAN MOER","TUT-NON STDNT","35876.00","35776.00","0.00","100.00"]},
+{"id":"8","cell":["8","2018","Berkeley","CHERYL","SCHWAB","SPECIALIST","35876.00","35876.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","BLANCA MARCELA","MORALES","SRA 2","35875.00","34034.00","0.00","1841.00"]},
+{"id":"10","cell":["10","2018","Davis","MIREILLE A","CATON-DARBY","LAB AST 3","35875.00","35875.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","STEPHANIE DE","LA TORRE","MED CTR CUSTODIAN","35874.00","34454.00","404.00","1016.00"]},
+{"id":"12","cell":["12","2018","Davis","ASHLEY ANN","ARVANITES","STDT SVC ADVISOR 2","35870.00","35870.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","AUDREY BRIGITTA","SANCHEZ","SRA 1","35870.00","35787.00","83.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","DAVID","SISANACHANDENG","BLANK AST 2","35870.00","34498.00","45.00","1327.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","EDWIN","TOMAS","MEETING ROOM CAPTAIN 1","35869.00","33198.00","2824.00","-153.00"]},
+{"id":"16","cell":["16","2018","San Diego","JEAN CARLO","ROMERO","CUSTODIAN SR","35869.00","35445.00","424.00","0.00"]},
+{"id":"17","cell":["17","2018","Riverside","VANESSA","ASHWORTH","ASSOC PROJ SCIENTIST-FY NEX","35868.00","35868.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","OLGA LID","OLIVAS HERNANDE","LECT-AY","35867.00","35867.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","EMAN S","MUSTAFA","MED AST 2","35864.00","34957.00","157.00","750.00"]},
+{"id":"20","cell":["20","2018","Irvine","RONALD S","SOLOMON","PHYSCN SR","35862.00","9055.00","0.00","26807.00"]}]
+}

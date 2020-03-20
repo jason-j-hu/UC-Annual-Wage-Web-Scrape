@@ -1,0 +1,26 @@
+{
+"page" : "6322",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","DOTY SANTIAGO","LAUREL","SRA 3","45273.00","45273.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","FROYLAN","ZAMORA","BAKER","45273.00","43880.00","0.00","1393.00"]},
+{"id":"3","cell":["3","2018","Santa Cruz","KIRA CAROLINE","EMERY","BLANK AST 2","45272.00","41210.00","3862.00","200.00"]},
+{"id":"4","cell":["4","2018","San Diego","YUMIKO","IWAI","APPLICATIONS PROGR 3","45272.00","45272.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","TERRY A.","WILSON","LECT-AY-CONTINUING","45272.00","45272.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","JUN QIONG","HUANG","CUSTODIAN SR","45272.00","45056.00","216.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","MARLON","SANCHEZ","CUSTODIAN LD","45271.00","43561.00","315.00","1395.00"]},
+{"id":"8","cell":["8","2018","San Francisco","JIALING","LIU","PROF IN RES-HCOMP","45270.00","45270.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","DIANE","MANDELL","CYTO TCHNO PD","45270.00","45270.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","HUGO","ANTONIO","BAKER AST","45269.00","41684.00","2345.00","1240.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","ELSA","LONON","LECT-AY-CONTINUING","45269.00","42269.00","0.00","3000.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","ROMEO M","SULLANO","CUSTODIAN SR","45268.00","45268.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","YOUQIN","WU","CUSTODIAN SR","45267.00","44809.00","458.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","JIA-NING","CAO","SPECIALIST","45267.00","36063.00","0.00","9204.00"]},
+{"id":"15","cell":["15","2018","San Diego","SARA N","CAMPBELL","BLANK AST 3","45267.00","45267.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","SARA","RUSSELL","BLANK AST 3","45266.00","44982.00","284.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","JUAN","MANRIQUEZ RODRIGUE","K to 14 ACAD PREP SPEC 3","45266.00","42543.00","0.00","2723.00"]},
+{"id":"18","cell":["18","2018","Irvine","AURORA A","MARIN","ADMITTING WORKER","45264.00","44275.00","569.00","420.00"]},
+{"id":"19","cell":["19","2018","Davis","ANGELO M","MARTINEZ","MED CTR SCRTY OFCR","45264.00","36385.00","6349.00","2530.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","FELIPE","LEONOR","PAT TRANSPORT TCHN 2","45263.00","41902.00","565.00","2796.00"]}]
+}

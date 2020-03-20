@@ -1,0 +1,26 @@
+{
+"page" : "8964",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","JAIME","NIETO","SPECIALIST","17617.00","17617.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","REYNA","SIERRA ROJAS","CUSTODIAN SR","17617.00","13222.00","4395.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","*****","*****","TEACHG ASST-NON GSHIP","17615.00","10326.00","0.00","7289.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","CHAUNE KIMIE","KUROMOTO","BLANK AST 2","17615.00","16689.00","0.00","926.00"]},
+{"id":"5","cell":["5","2018","San Diego","NATHAN L","MOEDER","LECT-AY-1/9","17615.00","17615.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","AMANDA","VU","BLANK AST 2","17614.00","17381.00","2.00","231.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","PETER","DORSA","TEACHER-UNEX-CONTRACT YR","17614.00","0.00","0.00","17614.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","JUDITH","BROWN","CYTO TCHNO SR","17613.00","17613.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Santa Cruz","PAUL","VROOMEN","LECT-AY-1/9","17613.00","17613.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Riverside","KRISTINE","WOZNY","WRITER EDITOR 3","17613.00","11760.00","5748.00","105.00"]},
+{"id":"11","cell":["11","2018","San Diego","*****","*****","GSR-TUIT & FEE REM-UCSD-GRP F","17613.00","17613.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","ROSEMARY ELIZABE","BERNSTEIN","POSTDOC-EMPLOYEE","17611.00","17611.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","17611.00","17611.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","GINA","GARCIA","STDT SVC ADVISOR 3","17609.00","17609.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","NEIL Q","TAY","POSTDOC-EMPLOYEE","17609.00","17609.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","YANXIN","LIU","POSTDOC-EMPLOYEE","17609.00","17609.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","*****","*****","TEACHG ASST-GSHIP","17608.00","17348.00","0.00","260.00"]},
+{"id":"18","cell":["18","2018","Riverside","DORIS","LEE","LECT-AY","17607.00","17507.00","0.00","100.00"]},
+{"id":"19","cell":["19","2018","Davis","*****","*****","GSR-FULL FEE REM","17606.00","17606.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","*****","*****","GSR-FULL FEE REM","17606.00","17606.00","0.00","0.00"]}]
+}

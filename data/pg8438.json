@@ -1,0 +1,26 @@
+{
+"page" : "8438",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ANNA","WRIGHT","PUBL ADMSTN ANL PRN","22412.00","22412.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","LOUIELYN ESGUERR","LIRIO","BLANK AST 2","22412.00","22412.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","*****","*****","GSR-FULL FEE REM","22411.00","22411.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","ANDY","YOU","PHARMACIST PD","22409.00","22153.00","0.00","256.00"]},
+{"id":"5","cell":["5","2018","Irvine","NATHAN RYAN","JAMES","JR SPECIALIST NEX","22408.00","20451.00","0.00","1957.00"]},
+{"id":"6","cell":["6","2018","San Francisco","IGNACIA","PEDROSO","PRACTICE CRD 2","22407.00","21340.00","244.00","823.00"]},
+{"id":"7","cell":["7","2018","San Diego","SHELDON A.","NODELMAN","RECALL TEACHING","22407.00","22407.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","CYNTHIA","TANG","CLIN NURSE 1","22406.00","19618.00","0.00","2788.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","EMELY","CANALES","MED AST 3","22405.00","16052.00","86.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","*****","*****","SRA 1","22404.00","22404.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","PHILIP","KELLARD","TEACHER-UNEX-CONTRACT YR","22403.00","0.00","0.00","22403.00"]},
+{"id":"12","cell":["12","2018","Santa Barbara","*****","*****","GSR-NO REM","22402.00","21731.00","0.00","671.00"]},
+{"id":"13","cell":["13","2018","Riverside","*****","*****","TEACHG ASST-GSHIP","22402.00","22402.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Santa Cruz","*****","*****","TEACHG ASST-GSHIP","22401.00","20791.00","0.00","1610.00"]},
+{"id":"15","cell":["15","2018","San Diego","CAMERON ST. CLA","CATHERINE","CLIN RSCH CRD AST","22400.00","20400.00","0.00","2000.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","YAEL","WAIZMAN","SRA 1","22399.00","22399.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","*****","*****","STDT RSDNC HALLS","22399.00","24337.00","0.00","-1938.00"]},
+{"id":"18","cell":["18","2018","Davis","*****","*****","TEACHG ASST-GSHIP","22399.00","22299.00","0.00","100.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","BETH","KRAEMER","PRG REPR 2","22399.00","20771.00","306.00","1322.00"]},
+{"id":"20","cell":["20","2018","San Diego","JARENY","CASTILLO","HEALTH EDUCATOR 1","22399.00","22399.00","0.00","0.00"]}]
+}

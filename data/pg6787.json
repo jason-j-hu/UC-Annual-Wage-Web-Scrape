@@ -1,0 +1,26 @@
+{
+"page" : "6787",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","CORAL","BURCIAGA-LUQUIN","CMTY EDUC SPEC 1","40178.00","40178.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","LINDA A","BLICKENDERFER","TCHN","40178.00","38792.00","787.00","599.00"]},
+{"id":"3","cell":["3","2018","Davis","HILDA","PEREZ","CMTY EDUC SPEC 1","40178.00","40178.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","ABA J","RAMIREZ","CMTY EDUC SPEC 1","40178.00","40178.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","GERALD","FLOWERS","COOK AST","40177.00","33040.00","6763.00","374.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","TERESA","BENITEZ","CUSTODIAN SR","40177.00","37928.00","2249.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","XIAOXU","JIANG","ASST PROJ SCIENTIST-FY","40176.00","32492.00","0.00","7684.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","*****","*****","POSTDOC-EMPLOYEE","40174.00","16396.00","0.00","23778.00"]},
+{"id":"9","cell":["9","2018","San Diego","JOEL","TUMANG","STERILE PROCESSING TCHN 2","40174.00","31104.00","1443.00","7627.00"]},
+{"id":"10","cell":["10","2018","Berkeley","JANN","RONIS","LECT-AY-CONTINUING","40174.00","39474.00","0.00","700.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","LOWELL A","KEPICS","PROGR ANL 3","40172.00","37875.00","0.00","2297.00"]},
+{"id":"12","cell":["12","2018","San Diego","VANESSA CHRISTIN","GOMES","BLANK AST 2","40172.00","39372.00","0.00","800.00"]},
+{"id":"13","cell":["13","2018","Davis","ANNIE VOGEL","CIERNIA","ASST PROJ SCIENTIST-FY","40171.00","39171.00","0.00","1000.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","JUAN","ARROYO","MED CTR COOK","40171.00","35093.00","3718.00","1360.00"]},
+{"id":"15","cell":["15","2018","Riverside","JUAN","GARCIA","STOREKEEPER","40171.00","39570.00","601.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","SANDRA","LIU","HOSP LAB TCHN 2","40170.00","40162.00","0.00","8.00"]},
+{"id":"17","cell":["17","2018","Berkeley","CORRINE","CALLAHAN","COACH AST 3","40170.00","40170.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","MARLON I","BUNGAY","PAT CARE AST","40169.00","38658.00","98.00","1413.00"]},
+{"id":"19","cell":["19","2018","Irvine","JAZMIN","SOLTERO","ADMITTING WORKER","40169.00","37530.00","1733.00","906.00"]},
+{"id":"20","cell":["20","2018","Berkeley","LEANNE","MCKENZIE","PUBL EDUC SPEC 2","40168.00","40168.00","0.00","0.00"]}]
+}

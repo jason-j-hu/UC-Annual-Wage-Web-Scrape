@@ -1,0 +1,26 @@
+{
+"page" : "6923",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","ZAIDA DINORA","GUERRERO","MED CTR CUSTODIAN","38512.00","35616.00","491.00","2405.00"]},
+{"id":"2","cell":["2","2018","San Francisco","CASSANDRA NICOLE","ZUCKERMAN","SRA 1","38511.00","38511.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","JOSEPH","DOLEGOWSKI","LAB AST 3","38511.00","37735.00","177.00","599.00"]},
+{"id":"4","cell":["4","2018","San Diego","TERESA DE JESUS","GONZALEZ","CUSTODIAN SR","38511.00","37117.00","0.00","1394.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","CHENLLE","GABOUREL","CUSTODIAN LD","38510.00","36902.00","1608.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","GERSON H","XINIC","HOSP AST SR","38509.00","36226.00","1131.00","1152.00"]},
+{"id":"7","cell":["7","2018","Davis","MARIO ROMEO HILA","PLATON","COOK SR","38508.00","36649.00","1859.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","JASON","MESROBIAN","RADLG TCHNO PD","38508.00","37242.00","1198.00","68.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","STEPHANIE","FERGUSON","ADMIN SPEC","38506.00","38405.00","101.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","LAUREN BREANNA","KUPIS","SRA 1","38506.00","38506.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","SANDRA A","MEDINA BENITEZ","MED CTR CUSTODIAN","38506.00","36576.00","922.00","1008.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","YELENA","KARANOVICH","ADMIN SPEC","38504.00","37504.00","0.00","1000.00"]},
+{"id":"13","cell":["13","2018","Davis","CLEOTILDE","SOLANO","CUSTODIAN","38504.00","36431.00","0.00","2073.00"]},
+{"id":"14","cell":["14","2018","Irvine","ARTURO","FIGUEROA","CUSTODIAN","38501.00","36740.00","529.00","1232.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","*****","*****","TEACHER-UNEX-CONTRACT YR","38501.00","33499.00","0.00","5002.00"]},
+{"id":"16","cell":["16","2018","Berkeley","MARIA","GONZALEZ","CUSTODIAN SR","38501.00","37974.00","453.00","74.00"]},
+{"id":"17","cell":["17","2018","Davis","GIOVANNI","CIRCELLA","ASST RES-FY NEX","38500.00","38500.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","AMY J","BUONO","VIS ASST PROF","38500.00","38500.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","CATHERINE E.","PFAFF","VIS ASST PROF","38500.00","38500.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","CRISTIAN","MARTINEZ ESPARZ","VIS ASST PROF","38500.00","38500.00","0.00","0.00"]}]
+}

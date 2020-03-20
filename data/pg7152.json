@@ -1,0 +1,26 @@
+{
+"page" : "7152",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","KEITH A","RANDLE","CUSTODIAN SR","35862.00","35365.00","497.00","0.00"]},
+{"id":"2","cell":["2","2018","Riverside","DOMINIC","SALAZAR","FAC MGT SPEC 1","35862.00","35857.00","0.00","5.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","35859.00","35859.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","KARLA","RAMIREZ","ADMIN SPEC","35858.00","35620.00","523.00","-285.00"]},
+{"id":"5","cell":["5","2018","San Diego","FREDDIE RENE","THOMPSON","REVENUE CYCLE HC SUPV 2","35858.00","35858.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","MARISELA","ZAMORA","MED CTR FOOD SVC WORKER PRN","35854.00","35414.00","418.00","22.00"]},
+{"id":"7","cell":["7","2018","San Diego","LADIA D.","LAYACAN","BLANK AST 2","35854.00","35854.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","FRANCESCO","CECI","POSTDOC-EMPLOYEE","35853.00","35853.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","LAMAR R","RUTHERFORD","LECT-AY-1/9","35853.00","31545.00","0.00","4308.00"]},
+{"id":"10","cell":["10","2018","Riverside","BERTHA","ALBA RIOS","CUSTODIAN SR","35853.00","34490.00","0.00","1363.00"]},
+{"id":"11","cell":["11","2018","San Francisco","CARYN L","BERN","ADJ PROF-FY","35851.00","35851.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","JANE","TURBINER","RSCH ADM 3","35851.00","35254.00","0.00","597.00"]},
+{"id":"13","cell":["13","2018","San Diego","LULA JOHN","BOM","BLANK AST 3","35850.00","35850.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","SOMAYEH","MEYSAMI","POSTDOC-EMPLOYEE","35849.00","35849.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","LYNDON","JERNIGAN","CUSTODIAN SR","35848.00","34430.00","32.00","1386.00"]},
+{"id":"16","cell":["16","2018","San Francisco","CASSANDRA HANNAI","ELIAPO","PRACTICE CRD 3","35846.00","35846.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","JODY CAROLYN","MILLER","VIS ASST PROJ SCIENTIST","35845.00","31567.00","0.00","4278.00"]},
+{"id":"18","cell":["18","2018","Davis","ANGELA MARIE","MEDINA","FARM LABORER","35845.00","35845.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","35845.00","35845.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","RIMMA B","LEVENZON","TCHN","35845.00","34314.00","923.00","608.00"]}]
+}

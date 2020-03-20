@@ -1,0 +1,26 @@
+{
+"page" : "7130",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","VICTOR","SERRANO","CUSTODIAN SR","36139.00","35231.00","908.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","36139.00","34769.00","0.00","1370.00"]},
+{"id":"3","cell":["3","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","36139.00","34769.00","0.00","1370.00"]},
+{"id":"4","cell":["4","2018","San Diego","LAURE M","MCWAY","CLIN NURSE 2","36138.00","32403.00","986.00","2749.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","36137.00","36137.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","NORMA ANGELICA","HERNANDEZ","MED CTR CUSTODIAN","36137.00","34427.00","698.00","1012.00"]},
+{"id":"7","cell":["7","2018","Davis","JORDAN M","KWONG","BLANK AST 2","36134.00","36134.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Riverside","TONI","LAWRENCE","FUNDRAISER 4","36134.00","35485.00","0.00","649.00"]},
+{"id":"9","cell":["9","2018","San Francisco","ZHENYI","AN","POSTDOC-EMPLOYEE","36133.00","33633.00","0.00","2500.00"]},
+{"id":"10","cell":["10","2018","San Francisco","JUAN-JOSE J","FERNANDEZ JR","HOSP LAB TCHN 2 PD","36133.00","34577.00","1419.00","137.00"]},
+{"id":"11","cell":["11","2018","Irvine","BETTY CHANDA","KAPASA","NURSE PD","36133.00","31576.00","4537.00","20.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","MARINA","ALAS","CUSTODIAN SR","36130.00","32873.00","2466.00","791.00"]},
+{"id":"13","cell":["13","2018","San Francisco","SAMANTHA","GONZALEZ","ADMIN OFCR 2","36129.00","35638.00","491.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","ALEXANDRA","SCHLEIN","RSCH DATA ANL 3","36128.00","31128.00","0.00","5000.00"]},
+{"id":"15","cell":["15","2018","San Diego","*****","*****","NON-PHYS CLIN TRAIN","36127.00","36127.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","*****","*****","TEACHG ASST-GSHIP","36126.00","33167.00","0.00","2959.00"]},
+{"id":"17","cell":["17","2018","Davis","SARA ANN","DOWLING","CHEF 2","36125.00","36125.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Riverside","DUANE","CONLEY","RECR PRG LEADER 4 BYA","36125.00","31775.00","0.00","4350.00"]},
+{"id":"19","cell":["19","2018","Davis","DERRICK","MONROE","CUSTODIAN","36124.00","34746.00","0.00","1378.00"]},
+{"id":"20","cell":["20","2018","San Diego","ANGELA SELENE CU","MACALE","NURSE PD","36124.00","31683.00","936.00","3505.00"]}]
+}

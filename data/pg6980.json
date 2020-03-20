@@ -1,0 +1,26 @@
+{
+"page" : "6980",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","BENISON","PANG","LECT-AY","37808.00","34470.00","0.00","3338.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","ANN","BOOCHANGKOOL","BLANK AST 3","37808.00","37778.00","30.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","ERIC J","CROSS","PARKING OPS ENFORCEMENT SUPV 2","37808.00","24342.00","0.00","13466.00"]},
+{"id":"4","cell":["4","2018","Irvine","CATHERINE","GALICIA","ELECTROCARDIOGRAPH TCHN SR","37807.00","31291.00","5687.00","829.00"]},
+{"id":"5","cell":["5","2018","Davis","GARY J","CHILDERS","AGRICULTURAL TCHN PRN","37807.00","31723.00","0.00","6084.00"]},
+{"id":"6","cell":["6","2018","Davis","ROSE MARIE","ACOBA","CUSTODIAN","37807.00","36431.00","15.00","1361.00"]},
+{"id":"7","cell":["7","2018","San Francisco","FERRY","FERDIANTO","PHYSCN AST","37806.00","37806.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","JENNIFER","MACKEY","BLANK AST 1","37806.00","37777.00","29.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","JASMINDER","DEOL","ADMIN ANL SR","37804.00","37804.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","CHUNG HENG","LIU","JR SPECIALIST","37803.00","37392.00","411.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MINERVA","MOLINA","CUSTODIAN SR","37802.00","36999.00","803.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","ELISSA TEST","SERAPIO","HS CLIN INSTR-FY","37800.00","0.00","0.00","37800.00"]},
+{"id":"13","cell":["13","2018","Irvine","SERGIO","MEDINA","CUSTODIAN","37800.00","36589.00","0.00","1211.00"]},
+{"id":"14","cell":["14","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","37800.00","34571.00","0.00","3229.00"]},
+{"id":"15","cell":["15","2018","San Francisco","JAMIE K","PHUNG","BLANK AST 3","37799.00","37763.00","36.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Cruz","MELISSA A","DOUGLAS","ASSOC SPECIALIST","37799.00","37799.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Santa Cruz","EVAN CHRISTOPHER","DOMSIC","AGRICULTURAL TCHN SR","37798.00","37798.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","FERNANDO","TAPIA GONZALEZ","MED CTR FOOD SVC WORKER PRN","37797.00","36903.00","463.00","431.00"]},
+{"id":"19","cell":["19","2018","Santa Cruz","VERONICA","CHACON DE SAUNO","FOOD SVC WORKER SR","37797.00","37769.00","28.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","FIDEL","DE AVILA","PARKING REPR SR","37796.00","35568.00","2222.00","6.00"]}]
+}

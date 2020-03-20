@@ -1,0 +1,26 @@
+{
+"page" : "9708",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","OSAMA","KHAN","LECT-AY-1/10","11673.00","11673.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Irvine","*****","*****","GSR-NO REM","11672.00","8972.00","0.00","2700.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","*****","*****","STDT EVENTS","11671.00","11671.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Santa Barbara","*****","*****","STDT 1","11669.00","11669.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","*****","*****","STDT 1","11669.00","11308.00","542.00","-181.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","GERALD","LONGHURST","RECALL TEACHING","11668.00","0.00","0.00","11668.00"]},
+{"id":"7","cell":["7","2018","Berkeley","YU WEN","CHEN","RSCH AND DEV ENGR 2","11667.00","11667.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","KATHERINE","GOODRICH","POSTDOC-EMPLOYEE","11667.00","11667.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","NICOLE F","LANSHAW","PROJECT POLICY ANL 1","11667.00","11667.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","DIANA C","WU","HEALTH PROFNS EDUC SPEC 4","11667.00","11667.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","EMIL R","HEINZE","ADDL COMP-HGH&OLIVE VIEW MCS","11667.00","0.00","0.00","11667.00"]},
+{"id":"12","cell":["12","2018","Davis","LAUREN R","SHIMEK","ASST ADJ PROF-FY","11667.00","11667.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","*****","*****","STDT 3","11667.00","11176.00","0.00","491.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","JEFFREY M","MILLER","HS ASSOC CLIN PROF-FY","11667.00","0.00","0.00","11667.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","BAHAREH TAVANA","GORDON","ADDL COMP-HGH&OLIVE VIEW MCS","11667.00","0.00","0.00","11667.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","GLEN ROBERT","PEARLSTEIN","ADDL COMP-HGH&OLIVE VIEW MCS","11667.00","0.00","0.00","11667.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","SCOTT RYAN","LUNDBERG","ADDL COMP-HGH&OLIVE VIEW MCS","11667.00","0.00","0.00","11667.00"]},
+{"id":"18","cell":["18","2018","Davis","WENHAO","SU","POSTDOC-EMPLOYEE","11667.00","11667.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","BORISLAVA","BEKKER","VIS ASST PROF-HCOMP","11667.00","11667.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","SOOHWAN","OH","POSTDOC-EMPLOYEE","11667.00","11667.00","0.00","0.00"]}]
+}

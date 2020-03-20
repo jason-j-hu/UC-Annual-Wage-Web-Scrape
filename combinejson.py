@@ -16,16 +16,27 @@ if __name__ == "__main__":
         with open('pg' + str(fileRange) + '.json', 'r') as jsonStr:
             jsonStrText = json.load(jsonStr, strict=False)
         for index, item in enumerate(jsonStrText['rows']):
+            itemNum = item['cell']
             item['id'] = pgNum * 20 + int(item['id']) - 20
-            item['year'] = item['cell'][1]
-            item['location'] = item['cell'][2]
-            item['firstName'] = item['cell'][3]
-            item['lastName'] = item['cell'][4]
-            item['title'] = item['cell'][5]
-            item['grossPay'] = item['cell'][6]
-            item['regularPay'] = item['cell'][7]
-            item['overtimePay'] = item['cell'][8]
-            item['otherPay'] = item['cell'][9]
+            item['year'] = itemNum[1]
+            item['location'] = itemNum[2]
+            for character in itemNum[3]:
+                if character == " ":
+                    itemNum3 = itemNum[3].split(" ", 1)
+                    item['firstName'] = itemNum3[0].title()
+                    #print(item['firstName'])
+                    item['middleName(s)'] = itemNum3[1].title()
+                    #print(item['middleName(s)'])
+                    break
+                else:
+                    item['firstName'] = itemNum[3].title()
+                    item['middleName(s)'] = ''
+            item['lastName'] = itemNum[4].title()
+            item['title'] = itemNum[5]
+            item['grossPay'] = itemNum[6]
+            item['regularPay'] = itemNum[7]
+            item['overtimePay'] = itemNum[8]
+            item['otherPay'] = itemNum[9]
             item.pop('cell')
             rowInfo = jsonStrText["rows"][index]
             information["employees"].append(rowInfo)
@@ -37,36 +48,8 @@ if __name__ == "__main__":
         json.dump(information, fp, indent = 1)
 
 
-    """pgNum = 1
-
-    while pgNum <= 5:
-        with open('pg' + str(pgNum) + '.json', 'r') as jsonStr:
-            jsonStrText = json.load(jsonStr)
-            print(jsonStrText['rows'][1])
-            for dataRow in jsonStrText['rows']:
-                dataRow['id'] = pgNum * 20 + int(dataRow['id']) - 20
-            #print(dataRow)
-                # TODO: append data rows to the allJsonAppendedTogether.json file
-        pgNum += 1"""
 
 
-
-
-    """with open('pg1.json', 'r') as jsonStr:
-        jsonStrText = json.load(jsonStr)
-    for idIndex in range(0, 20):
-        rowInfo = jsonStrText['rows'][idIndex]
-        print(rowInfo)"""
-
-
-
-
-    """obj = open('allJsonAppendedTogether.json', 'r+')
-    mergedFile = json.load(obj)
-    b = print(mergedFile)
-    mergedFile['rows'].append("hello")
-    print(mergedFile['rows'])
-    json.dump(b, obj)"""
 
 
 
@@ -77,10 +60,6 @@ if __name__ == "__main__":
         print(data['rows'][1])"""
 
 
-
-
-
-    #obj.close()
 
     #TODO:
     # 1. Make a new file that is for combining all the json stuff

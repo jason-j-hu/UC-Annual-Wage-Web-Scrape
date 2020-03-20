@@ -1,0 +1,26 @@
+{
+"page" : "7027",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","CATINA MARIE","HYMAN","INFO SYS ANL 2","37297.00","30659.00","0.00","6638.00"]},
+{"id":"2","cell":["2","2018","Riverside","BALDEMAR","BALDOVINOS","GROUNDSKEEPER","37297.00","36974.00","308.00","15.00"]},
+{"id":"3","cell":["3","2018","San Diego","ALGANESH H","GIORGIS","CHILD DEV CTR TEACHER 1","37296.00","36525.00","0.00","771.00"]},
+{"id":"4","cell":["4","2018","San Diego","JAMES A","MORGAN","ABLE SEAMAN 2","37296.00","23068.00","14228.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","MARGARET","UBARIEKE","CHILD DEV CTR TEACHER 1","37296.00","36525.00","0.00","771.00"]},
+{"id":"6","cell":["6","2018","Davis","MARIANNE ELIZABE","ROE","RADLG TCHNO SR","37295.00","35519.00","1115.00","661.00"]},
+{"id":"7","cell":["7","2018","San Diego","YASMINE RAJAI","ALSAYEGH","CHILD DEV CTR TEACHER 1","37295.00","35808.00","0.00","1487.00"]},
+{"id":"8","cell":["8","2018","Riverside","CALVIN","LEWIS","CUSTODIAN SR","37294.00","35978.00","0.00","1316.00"]},
+{"id":"9","cell":["9","2018","Davis","VICTORIA L","DE LA TRINIDAD","JR SPECIALIST","37293.00","36896.00","397.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","JOANA","VELIS","BLANK AST 1","37293.00","37049.00","244.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","LAQUETTA","RILEY","CHEF 2","37293.00","31867.00","5246.00","180.00"]},
+{"id":"12","cell":["12","2018","Davis","MARIA FLORES","GOMEZ","MED CTR FOOD SVC WORKER PRN","37292.00","34937.00","2106.00","249.00"]},
+{"id":"13","cell":["13","2018","Davis","BRENNAN P","MARSH-ARMSTRONG","JR SPECIALIST","37292.00","34942.00","2350.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","PURVA","GUPTA","SRA 2 NEX","37292.00","37292.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","JOYABRATA","MAL","POSTDOC-EMPLOYEE","37291.00","37291.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","DELL","LEE","CUSTODIAN","37291.00","37272.00","0.00","19.00"]},
+{"id":"17","cell":["17","2018","Davis","*****","*****","CHIEF RESID PHYS-NON REP","37290.00","36455.00","0.00","835.00"]},
+{"id":"18","cell":["18","2018","Davis","*****","*****","CHIEF RESID PHYS-NON REP","37290.00","36455.00","0.00","835.00"]},
+{"id":"19","cell":["19","2018","Berkeley","LYDIA","VAUGHN","POSTDOC-EMPLOYEE","37290.00","37290.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","DIANA A","BAUTISTA MARTIN","TCHN","37286.00","36878.00","408.00","0.00"]}]
+}

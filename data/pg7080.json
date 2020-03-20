@@ -1,0 +1,26 @@
+{
+"page" : "7080",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","TANISHA","HARBIN-SYKES","CUSTODIAN SR","36683.00","32965.00","3718.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","NIKKI","PHANHTHILATH","LAB AST 2","36682.00","32646.00","2484.00","1552.00"]},
+{"id":"3","cell":["3","2018","San Diego","RODERICK A","TYLER","MED CTR CUSTODIAN SR","36682.00","29842.00","86.00","6754.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","NICOLE ALEXANDRA","CRESSY","CLIN NURSE 2","36682.00","26021.00","5233.00","5428.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ASHLEY","HENRY","ADMIN CARE CLIN PARTNER","36681.00","33462.00","493.00","2726.00"]},
+{"id":"6","cell":["6","2018","San Diego","BLANCA EMMA","AGUILAR","CUSTODIAN SR","36681.00","35287.00","0.00","1394.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","EDMUND","MONSEF","LECT-FY","36680.00","8977.00","0.00","27703.00"]},
+{"id":"8","cell":["8","2018","Santa Cruz","ERIN S","RAMSDEN","STDT LIFE DEV SPEC 3","36680.00","36680.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","YUANJIE","LI","POSTDOC-EMPLOYEE","36680.00","36680.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","ERIK","MORRIS","REVENUE CYCLE HC ANL 1","36679.00","36583.00","96.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","TOMMY","DUONG","APPLICATIONS PROGR 3","36677.00","23201.00","0.00","13476.00"]},
+{"id":"12","cell":["12","2018","Davis","TRINI","BARAJAS","TRANSLATOR PD","36676.00","36676.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","36675.00","36575.00","0.00","100.00"]},
+{"id":"14","cell":["14","2018","San Francisco","SOFIYA","TKACH","COLL REPR SR","36673.00","35989.00","0.00","684.00"]},
+{"id":"15","cell":["15","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","36673.00","36673.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","KYLE","CLARK","ADMIN OFCR 3","36671.00","35725.00","0.00","946.00"]},
+{"id":"17","cell":["17","2018","Irvine","ROBIN N","BECHTOLD","ADMIN ANL PRN 1","36670.00","36491.00","179.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","NAJI D","DMEIRI","APPLICATIONS PROGR 3","36670.00","35293.00","0.00","1377.00"]},
+{"id":"19","cell":["19","2018","San Francisco","LYSANDER JUNE","ASUNCION","BLDG MAINT WORKER","36669.00","36669.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","MAXIMO","RODRIGUEZ","COOK","36669.00","35130.00","686.00","853.00"]}]
+}

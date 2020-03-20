@@ -1,0 +1,26 @@
+{
+"page" : "8428",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","JONATHAN DAVID","DAVIS","HS CLIN INSTR-HCOMP","22500.00","7315.00","0.00","15185.00"]},
+{"id":"2","cell":["2","2018","San Francisco","KIM RUTH","MAGUIRE","ADMIN OFCR 3","22500.00","22500.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","ANITA M","SHAMMEE","CLIN RSCH CRD","22500.00","22500.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","THOMAS","ORTH","RECALL TEACHING","22500.00","0.00","0.00","22500.00"]},
+{"id":"5","cell":["5","2018","Davis","EDWIN DAVID,II","WEATHERSBY","ATH PROFL 1 BYA","22500.00","0.00","0.00","22500.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","STUART","BIEGEL","RECALL NON-FACULTY ACAD","22500.00","0.00","0.00","22500.00"]},
+{"id":"7","cell":["7","2018","Riverside","*****","*****","GSR-PARTIAL FEE REM","22500.00","17806.00","0.00","4694.00"]},
+{"id":"8","cell":["8","2018","San Diego","DRAGOS C","CRACIUN","TEACHER-UNEX-CONTRACT YR","22500.00","0.00","0.00","22500.00"]},
+{"id":"9","cell":["9","2018","San Diego","ALYSSON M.","SATTERLUND","VC STDT AFFAIRS","22500.00","22500.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Irvine","AUBREY NITA","SCHRIMPSCHER","ACCESS REPR SR","22499.00","22404.00","95.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","BYRON","MAYHAN","MGT SVC OFCR 2 SUPV","22498.00","22498.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","*****","*****","INTRM POSTDOC SCHOLAR-EMPLOYEE","22498.00","22498.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","BEI","YAN","ASST PROJ SCIENTIST-FY-B/E/E","22498.00","22498.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","22498.00","22398.00","0.00","100.00"]},
+{"id":"15","cell":["15","2018","Irvine","*****","*****","INTRM POSTDOC SCHOLAR-EMPLOYEE","22497.00","22497.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","JOANNA MAE","SILVERIO","NURSE AID SR","22497.00","22461.00","0.00","36.00"]},
+{"id":"17","cell":["17","2018","San Francisco","DUAN MY","CUNG","FINANCIAL SVC ANL 1","22496.00","22441.00","55.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","ADAM","LEIPZIG","LECT-AY-1/10","22495.00","22495.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","JEREMY RICHARD","CARLSON","MED AST 2","22494.00","20864.00","1512.00","118.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","VERONICA NAOMI","MORRIS","ADMIN CARE CLIN PARTNER","22493.00","18545.00","304.00","3644.00"]}]
+}

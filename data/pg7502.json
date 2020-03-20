@@ -1,0 +1,26 @@
+{
+"page" : "7502",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","RYAN","MCCOMBS","LAB AST 2","31792.00","31792.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","*****","*****","RESID PHYS I/NON REP","31792.00","16002.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","EDWIN","MARTINEZ","SCRTY GUARD SR","31792.00","29947.00","1457.00","388.00"]},
+{"id":"4","cell":["4","2018","San Diego","LESLEY ANN MARIA","GRIZZELL","BLANK AST 3","31791.00","31791.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","GYAN S","SAHOTA","PHARMACY TCHN 2","31790.00","20835.00","0.00","10955.00"]},
+{"id":"6","cell":["6","2018","Berkeley","LUIS","LOPEZ","TCHN SR","31790.00","28722.00","2956.00","112.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","EMILY A","ZAPLATOSCH","STDT AFFAIRS OFCR 3 EX","31789.00","30568.00","0.00","1221.00"]},
+{"id":"8","cell":["8","2018","San Diego","REYNA ALICIA","ALVAREZ","BLANK AST 3","31789.00","30789.00","0.00","1000.00"]},
+{"id":"9","cell":["9","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","31787.00","31687.00","0.00","100.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","MARIA","MATIAS","FOOD SVC WORKER SR","31786.00","30120.00","1166.00","500.00"]},
+{"id":"11","cell":["11","2018","Davis","JULIA K","HUERTA","NURSE PD","31785.00","28106.00","637.00","3042.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","JOSE SANTIAGO","HERRERA","BLANK AST 3","31784.00","29994.00","8.00","1782.00"]},
+{"id":"13","cell":["13","2018","Berkeley","SABRIYA","ROSEMOND","POSTDOC-EMPLOYEE","31783.00","31633.00","0.00","150.00"]},
+{"id":"14","cell":["14","2018","Berkeley","DMITRY","REKESH","LECT-FY","31782.00","31092.00","0.00","690.00"]},
+{"id":"15","cell":["15","2018","Santa Cruz","DAVID M","STAFFORD","ASSOC SPECIALIST","31781.00","31781.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","CHE-WEI","CHANG","POSTDOC-EMPLOYEE","31780.00","31780.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","MINGSHUO","ZENG","POSTDOC-EMPLOYEE","31779.00","31779.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","SHANGWEN","ZHA","POSTDOC-EMPLOYEE","31779.00","31779.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","XIAO","ZHU","POSTDOC-EMPLOYEE","31779.00","31779.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","JAIME J","QUINTERO","AUTO EQUIP OPR SR","31779.00","31779.00","0.00","0.00"]}]
+}

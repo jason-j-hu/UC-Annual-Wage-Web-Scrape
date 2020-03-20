@@ -1,0 +1,26 @@
+{
+"page" : "6896",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","HUNG CHEONG","YUNG","SCRTY GUARD","38890.00","36398.00","2492.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","MANXIA","LIU","CUSTODIAN SR","38890.00","36350.00","0.00","2540.00"]},
+{"id":"3","cell":["3","2018","Davis","MADELINE M","DANIELS","BLANK AST 1","38890.00","38514.00","376.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","JAY W","RENFROE","COOK","38890.00","38611.00","279.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","ELMER A","DE LA ROSA","CLERK SR OR SECR","38890.00","38012.00","128.00","750.00"]},
+{"id":"6","cell":["6","2018","San Diego","CHERI LEE","KACZMAREK","DIETITIAN 2","38889.00","35870.00","0.00","3019.00"]},
+{"id":"7","cell":["7","2018","Santa Barbara","JODI MARIE","SWITZER","EHS SPEC 3","38888.00","31519.00","0.00","7369.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","JANET","VOGEL","MGR","38886.00","38886.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","BERTHA ALICIA","AVALOS","CUSTODIAN","38884.00","37490.00","161.00","1233.00"]},
+{"id":"10","cell":["10","2018","Davis","LISSETTE","MUNOZ","BLANK AST 2","38883.00","37446.00","1414.00","23.00"]},
+{"id":"11","cell":["11","2018","San Francisco","SHARAYAH J","CADELINA","PAT CARE AST PD","38882.00","32711.00","4661.00","1510.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","SALVADOR","APARICIO","CUSTODIAN SR","38882.00","35201.00","2242.00","1439.00"]},
+{"id":"13","cell":["13","2018","San Francisco","JORGE ULISES","RIVAS","MAIL PROCESSOR SR","38881.00","38427.00","448.00","6.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","CHARITY L","KURLAS","CLIN SPEC EX","38881.00","37478.00","0.00","1403.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","38880.00","38880.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","DAREN","LEE","CUSTODIAN LD","38879.00","34645.00","2314.00","1920.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","SOMCHIT","PANCHIENG","MED CTR CUSTODIAN SR","38879.00","23970.00","3029.00","11880.00"]},
+{"id":"18","cell":["18","2018","San Francisco","DARLENE VERGARA","MERGILLANO","STDT SVC ADVISOR 3","38877.00","38877.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Irvine","MARCELINA","CAMACHO","CUSTODIAN","38877.00","38877.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Hastings College Of Law","KATHERINE L","GUDIKSEN","GRAD FELLOW","38877.00","28877.00","0.00","10000.00"]}]
+}

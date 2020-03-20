@@ -1,0 +1,26 @@
+{
+"page" : "6261",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Cruz","RUTH","MARTINEZ","FOOD SVC WORKER PRN","45919.00","45671.00","248.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","MARKO","LUBARDA","LECT IN SUMMER SESSION","45919.00","18155.00","0.00","27764.00"]},
+{"id":"3","cell":["3","2018","Irvine","RYAN J","CLAYTON-PALMER","ADMITTING WORKER PRN","45918.00","44760.00","138.00","1020.00"]},
+{"id":"4","cell":["4","2018","San Francisco","KAYLA NICOLE","ADAMS","PRACTICE CRD 3","45916.00","44977.00","371.00","568.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","HERLINDA","CARRILLO","CUSTODIAN SR","45915.00","41630.00","4285.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","DIANA","GUMBER","SRA 2 NEX","45913.00","45913.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","*****","*****","RESID-VET MED/NON REP","45912.00","45612.00","0.00","300.00"]},
+{"id":"8","cell":["8","2018","Davis","ANNA A","KOCH","RECR SUPV 1","45912.00","45912.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Santa Barbara","JAIME","YEPEZ","LABORER LD","45912.00","42716.00","2265.00","931.00"]},
+{"id":"10","cell":["10","2018","Berkeley","*****","*****","INTRM POSTDOC SCHOLAR-EMPLOYEE","45911.00","45911.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","ROBERT A.","NISBET","TEACHER-UNEX-CONTRACT YR","45910.00","0.00","0.00","45910.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","SAMUEL","WATSON","SRA 1","45910.00","45910.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","MARIA","PARK","CURRICULUM PLNR 3","45910.00","45410.00","0.00","500.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","CARLOS","ROSALES","MAIL PROCESSOR","45909.00","45343.00","566.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","JEREMY ALLAN","SNYDER","FINANCIAL AID OFCR 3","45909.00","45559.00","350.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","CHERYL ANN","RADKE","LIBRARY AST 3","45909.00","43818.00","91.00","2000.00"]},
+{"id":"17","cell":["17","2018","San Diego","CHANEL","CASTANEDA CUMMI","STDT SVC ADVISOR 2","45909.00","45409.00","0.00","500.00"]},
+{"id":"18","cell":["18","2018","San Francisco","HENGAMEH","SHAMS","POSTDOC-EMPLOYEE","45906.00","45906.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","CHRISTIN","LIU","CNSLNG ATTORNEY","45906.00","43906.00","0.00","2000.00"]},
+{"id":"20","cell":["20","2018","Berkeley","GUNG","YOUNG","COOK SR","45905.00","43984.00","436.00","1485.00"]}]
+}

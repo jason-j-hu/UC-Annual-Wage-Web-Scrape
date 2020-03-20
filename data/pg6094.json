@@ -1,0 +1,26 @@
+{
+"page" : "6094",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","JOE","PELATO","PAT BILLER 3","47640.00","47139.00","0.00","501.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","KENNY","LOPEZ","BLANK AST 3","47639.00","47639.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","JUAN-LUIS","ALVAREZ","HEALTH TCHN 3","47639.00","46022.00","440.00","1177.00"]},
+{"id":"4","cell":["4","2018","Irvine","ARTURO IVAN","ZAVALA","BLANK AST 3","47638.00","46186.00","432.00","1020.00"]},
+{"id":"5","cell":["5","2018","San Diego","ALICE PARAS","CARR","BLANK AST 3","47637.00","46612.00","0.00","1025.00"]},
+{"id":"6","cell":["6","2018","Santa Cruz","JENNIFER L","KELLY","ASST PROF-AY","47636.00","35083.00","0.00","12553.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","JASON","DUNCAN","ADMIN SPEC","47635.00","46456.00","1179.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","EDUARDO","MENDEZ","BLANK AST 3","47635.00","47635.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","ZHAOYUN","ZENG","CUSTODIAN SR","47635.00","43037.00","4021.00","577.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","DIEGO","MARCIAL","MED CTR CUSTODIAN SR PD","47634.00","41129.00","2302.00","4203.00"]},
+{"id":"11","cell":["11","2018","Berkeley","AMY","CHIN","LIBRARY SUPV 1","47633.00","47633.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","KATIE JANE","ALVAREZ","ADMITTING WORKER PRN","47633.00","44308.00","2305.00","1020.00"]},
+{"id":"13","cell":["13","2018","Davis","CLAUDIA M","PINEIRO","MED AST 1","47632.00","47527.00","105.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","DAVID","MARTINEZ","BLANK AST 3","47632.00","47615.00","17.00","0.00"]},
+{"id":"15","cell":["15","2018","Santa Barbara","LIZETH","MATA","CUSTODIAN SR","47632.00","43339.00","2847.00","1446.00"]},
+{"id":"16","cell":["16","2018","Riverside","AMBER","RHEMREV","BLANK AST 3","47632.00","46082.00","0.00","1550.00"]},
+{"id":"17","cell":["17","2018","Davis","KATHRYN D","FINAN","CHILD LIFE SPEC 1 NEX","47628.00","46714.00","914.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","GUADALUPE MARIA","MARTINEZ","PHLEBOTOMIST CERT TCHN 2","47627.00","46877.00","0.00","750.00"]},
+{"id":"19","cell":["19","2018","Santa Cruz","MARK RAMONE","GARDNER","STDT LIFE DEV SPEC 3","47626.00","47276.00","0.00","350.00"]},
+{"id":"20","cell":["20","2018","Riverside","HUA","DU","POSTDOC-EMPLOYEE","47626.00","47626.00","0.00","0.00"]}]
+}

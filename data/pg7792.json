@@ -1,0 +1,26 @@
+{
+"page" : "7792",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","28714.00","20791.00","0.00","7923.00"]},
+{"id":"2","cell":["2","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","28714.00","20791.00","0.00","7923.00"]},
+{"id":"3","cell":["3","2018","San Francisco","SYLVIA M.","YU","BLANK AST 3","28713.00","28713.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Santa Barbara","*****","*****","READER-NON GSHIP","28713.00","20532.00","0.00","8181.00"]},
+{"id":"5","cell":["5","2018","Berkeley","MICHELLE","HARRINGTON","COMM SPEC 3","28712.00","28332.00","0.00","380.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","CHRISTINE","MALONE","NURSE PD","28711.00","25432.00","0.00","3279.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","28711.00","28611.00","0.00","100.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","CHRISTINE","SMITH","ADMIN ANL SR","28710.00","28710.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Berkeley","*****","*****","GSR-NO REM","28708.00","28708.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","HANQIN","CAI","ASST ADJ PROF-AY","28708.00","28708.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","CLAIRE","WINTERS","PUBL INFO REPR SR","28708.00","28708.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","NICOLE MARIE","CHAVEZ","FOOD SVC WORKER PRN","28707.00","28022.00","78.00","607.00"]},
+{"id":"13","cell":["13","2018","Irvine","ILONA PAULINA","FOIK","JR SPECIALIST","28706.00","28706.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","28706.00","28706.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Irvine","RICHARD G","GUTIERREZ","BLANK AST 3","28704.00","28153.00","551.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","MAY H.","PAING","SRA 1","28703.00","25718.00","0.00","2985.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","ANDREW","HARTWELL","BLANK AST 3","28702.00","28702.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","*****","*****","TEACHG ASST-GSHIP","28702.00","24561.00","0.00","4141.00"]},
+{"id":"19","cell":["19","2018","San Francisco","OLGA","GULYAEVA","POSTDOC-EMPLOYEE","28700.00","28700.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","JIBRIL","READER","FOOD SVC WORKER SR PD","28699.00","28435.00","319.00","-55.00"]}]
+}

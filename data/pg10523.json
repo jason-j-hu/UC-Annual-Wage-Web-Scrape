@@ -1,0 +1,26 @@
+{
+"page" : "10523",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","PAIGE","MUELLER","LECT IN SUMMER SESSION","7500.00","0.00","0.00","7500.00"]},
+{"id":"2","cell":["2","2018","Berkeley","PETER","HENNING","VIS PROF","7500.00","7500.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","MIN","HE","RSCH AND DEV ENGR 2","7500.00","7500.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","ANATOL","KREITZER","ASSOC PROF IN RES-FY","7500.00","0.00","0.00","7500.00"]},
+{"id":"5","cell":["5","2018","Davis","*****","*****","STDT 2","7500.00","7500.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","SUZANNE","MILNER","VIS ASST PROJ SCIENTIST","7500.00","7500.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","JEFFREY SEAN","WEST","TEACHER-UNEX-CONTRACT YR","7500.00","0.00","0.00","7500.00"]},
+{"id":"8","cell":["8","2018","Irvine","MICHAEL R.","FISCHER","TEACHER-UNEX-CONTRACT YR","7500.00","0.00","0.00","7500.00"]},
+{"id":"9","cell":["9","2018","Irvine","MARTIN","JAROSZEWICZ","LRNG SKLS CNSLR PRN","7500.00","7500.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Irvine","AMY CHRISTINE","BAGHRAMIAN","TEACHER-UNEX-CONTRACT YR","7500.00","0.00","0.00","7500.00"]},
+{"id":"11","cell":["11","2018","Irvine","*****","*****","STDT 4","7500.00","7500.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","ROCKY DAVID","MURRAY","TEACHER-UNEX-CONTRACT YR","7500.00","0.00","0.00","7500.00"]},
+{"id":"13","cell":["13","2018","Irvine","JAMES M","SIMMONS","LRNG SKLS CNSLR PRN","7500.00","7500.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","ESTHER S","GRASSIAN","RECALL NON-FACULTY ACAD","7500.00","0.00","0.00","7500.00"]},
+{"id":"15","cell":["15","2018","Irvine","TODD LAMART","WOODSON","TEACHER-UNEX-CONTRACT YR","7500.00","0.00","0.00","7500.00"]},
+{"id":"16","cell":["16","2018","Davis","LINDA SMITH","JACOBS","TEACHER-UNEX-CONTRACT YR","7500.00","0.00","0.00","7500.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","DUKE","HUANG","LECT-FY-CONTINUING","7500.00","7500.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","PAMELA G","BAILIS","LECT IN SUMMER SESSION","7500.00","0.00","0.00","7500.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","CHRISTOPHER OWDE","BROWN","ADDL COMP-HGH&OLIVE VIEW MCS","7500.00","0.00","0.00","7500.00"]},
+{"id":"20","cell":["20","2018","Santa Cruz","FRANK R","GALUSZKA","RECALL TEACHING","7500.00","0.00","0.00","7500.00"]}]
+}

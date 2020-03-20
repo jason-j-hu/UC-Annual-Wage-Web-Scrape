@@ -1,0 +1,26 @@
+{
+"page" : "7342",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","STEVEN","STAHLER","LECT-AY-CONTINUING","33521.00","33521.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","THAO TL","LE","DATA SYS ANL 2","33520.00","25753.00","0.00","7767.00"]},
+{"id":"3","cell":["3","2018","San Diego","ERNESTO A.","MEDINA","MED CTR CUSTODIAN SR","33519.00","32272.00","0.00","1247.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","33513.00","25409.00","0.00","8104.00"]},
+{"id":"5","cell":["5","2018","Santa Cruz","PEDRO","ZAVALA","COOK","33513.00","32168.00","181.00","1164.00"]},
+{"id":"6","cell":["6","2018","San Diego","MARY ELLEN","STOUT","TUT-NON STDNT","33512.00","33412.00","0.00","100.00"]},
+{"id":"7","cell":["7","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","33511.00","33411.00","0.00","100.00"]},
+{"id":"8","cell":["8","2018","Berkeley","ROBYN","ROSENFELD","SRA 3","33510.00","33510.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","33508.00","29535.00","0.00","3973.00"]},
+{"id":"10","cell":["10","2018","Davis","BELINDA MARIE","MARTINEAU","WRITER EDITOR 3","33507.00","33507.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","SHENG-MEI","HONG","BLANK AST 2","33507.00","26320.00","1262.00","5925.00"]},
+{"id":"12","cell":["12","2018","Davis","ANA M","LOPEZ","COOK","33507.00","32704.00","803.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","EVAN","STEIN","BLANK AST 1","33505.00","31062.00","162.00","2281.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","MICHAEL A","DERRICO","LECT IN SUMMER SESSION","33504.00","24066.00","0.00","9438.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","JOSE ANTONIO","MICHILOT","BLANK AST 2","33503.00","26647.00","0.00","6856.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","KIRSTEN","LUDWIG","SRA 3","33502.00","33502.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","*****","*****","PROJECT POLICY ANL 3","33501.00","33454.00","47.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","*****","*****","RESID PHYS II-VIII/NON REP","33501.00","31501.00","0.00","2000.00"]},
+{"id":"19","cell":["19","2018","Berkeley","RICHARD","BROWN","COOK","33498.00","31913.00","748.00","837.00"]},
+{"id":"20","cell":["20","2018","Riverside","JONATHAN","LIM","LECT PSOE-AY","33498.00","33498.00","0.00","0.00"]}]
+}
