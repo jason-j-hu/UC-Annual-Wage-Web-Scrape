@@ -1,0 +1,26 @@
+{
+"page" : "4506",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","AMY","PANCZAKIEWICZ","FIELD RESEARCHER 3","62301.00","62051.00","0.00","250.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","CHRISTOPHER","LO","HS CLIN INSTR-HCOMP","62300.00","61300.00","0.00","1000.00"]},
+{"id":"3","cell":["3","2018","Berkeley","ANJUM","FITCH","STDT ACAD SPEC 2","62299.00","54047.00","8252.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","EDITH M","ESPINA","NURSE AID SR","62298.00","46549.00","7873.00","7876.00"]},
+{"id":"5","cell":["5","2018","Irvine","BARBARA SALVACIO","RUIZ","BLANK AST 2","62297.00","53991.00","7616.00","690.00"]},
+{"id":"6","cell":["6","2018","San Francisco","JULIE A.","CARRASCO","ADMIN OFCR 2","62296.00","62296.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","ROLANDO","TEPOSTE","MED CTR SCRTY OFCR SR","62295.00","47853.00","8663.00","5779.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","ALISSA","MCCULLOUGH","CLIN NURSE 2","62294.00","57401.00","231.00","4662.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","THOMAS","CORONEL","MED CTR CUSTODIAN SR","62291.00","44744.00","14346.00","3201.00"]},
+{"id":"10","cell":["10","2018","Irvine","DENISE B.","CHILCOTE","ADMIN ANL","62290.00","51612.00","0.00","10678.00"]},
+{"id":"11","cell":["11","2018","Irvine","MIRNA GRANADOS","FRANCO","HOSP LAB TCHN 2","62290.00","55722.00","3119.00","3449.00"]},
+{"id":"12","cell":["12","2018","San Francisco","CLAUDIA ELENA","FARRIS","HOSP BLANK AST 2","62289.00","60906.00","243.00","1140.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","TATIANA","DOUGLAS","VOC NURSE SR","62289.00","61307.00","139.00","843.00"]},
+{"id":"14","cell":["14","2018","San Francisco","ROBERT D","CROMLEY","CLIN NURSE 2","62288.00","59793.00","1353.00","1142.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","62288.00","55949.00","0.00","6339.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","HAE YONG VALERIE","KUAN","FINANCIAL SVC ANL 3","62288.00","62288.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","DONA","CRUZ","HOSP BLANK AST 3","62287.00","62183.00","67.00","37.00"]},
+{"id":"18","cell":["18","2018","Davis","LUZ L","GALLAGHER","CURRICULUM PLNR 2","62286.00","60282.00","573.00","1431.00"]},
+{"id":"19","cell":["19","2018","Davis","CHARLES G.","COLEMAN","ACAD HR ANL 2","62286.00","62043.00","243.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","ELIZABETH","PASOL","PRACTICE CRD 2","62285.00","60742.00","522.00","1021.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "2989",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","VICKY LEONG","TATEO","HEALTH PROFNS EDUC SPEC 3","86233.00","86233.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","LYNNE M","ASHCRAFT","PAYROLL MGR 1","86232.00","86232.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","REBECCA","BERNSTEIN","ADMIN ANL PRN SUPV","86232.00","86232.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","DELORA","DOMINGUEZ","MGT SVC OFCR 2","86231.00","82613.00","0.00","3618.00"]},
+{"id":"5","cell":["5","2018","Davis","*****","*****","STF PHARMACIST 2","86230.00","84715.00","815.00","700.00"]},
+{"id":"6","cell":["6","2018","Irvine","LAURA ANN","MASSENA","MGT SVC OFCR 3 SUPV","86229.00","86229.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","DARRYL","MICKENS","SCRTY SUPV 1 HC","86227.00","68350.00","11021.00","6856.00"]},
+{"id":"8","cell":["8","2018","Santa Cruz","IVAN DARYL","DITMARS","GEN ACCOUNTANT 4","86227.00","85777.00","0.00","450.00"]},
+{"id":"9","cell":["9","2018","Davis","KEVIN C","MILLER","ASSOC LIBRARIAN-POTNTL CAREER","86226.00","82626.00","0.00","3600.00"]},
+{"id":"10","cell":["10","2018","Davis","BRUCE S","BOLES","SKLD CRAFTS AND TRADES SUPV 2","86226.00","86226.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","HELOISA T","KINDER","INSTRUCTIONAL DESIGNER 3","86224.00","86224.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","BLAIR","BUTLER","CLIN SOCIAL WORKER 2","86221.00","86221.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","BENJAMIN","GRIFFIN","WRITER EDITOR 4","86221.00","86221.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","ROBIN","POMERANCE","ADMIN OFCR 3","86220.00","86220.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","BILL","VAN NESS","ELECTRN","86219.00","82119.00","940.00","3160.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","ELIZABETH","GARCIA","HOSP BLANK AST 3","86217.00","59692.00","21057.00","5468.00"]},
+{"id":"17","cell":["17","2018","Davis","CHERYL W","BACH","INSTITUTIONAL RSCH ANL 3","86216.00","86216.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","KATHERINE","SARKARATI","CLIN SOCIAL WORKER 3","86216.00","86216.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","VELMA AGUSTIN","PUCAN","HOSP BLANK AST 2","86214.00","59604.00","16227.00","10383.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","LAURA","FERREIRA","GI ENDOSCOPY TCHN 3","86213.00","62868.00","11178.00","12167.00"]}]
+}

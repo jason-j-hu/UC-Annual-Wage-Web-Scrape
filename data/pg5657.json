@@ -1,0 +1,26 @@
+{
+"page" : "5657",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","MARK","GOEBEL","SOUND TCHN","51428.00","51428.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","ERIN R","WECHSLER","ASSOC SPECIALIST","51427.00","51427.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","ALYCIA","DAVIS","POSTDOC-EMPLOYEE","51427.00","51427.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","CESAR","BECERRA","ADMIN SPEC","51426.00","50696.00","730.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","ABDELAZIZ","ELNAGGAR","POSTDOC-EMPLOYEE","51425.00","51425.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","BIENVENIDO","VALENCIA","FAC WORKER","51425.00","50996.00","429.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","CESAR","GARCIA","PHARMACY TCHN 1","51425.00","49196.00","995.00","1234.00"]},
+{"id":"8","cell":["8","2018","San Diego","DARNY","KHAMPHAN","HOSP BLANK AST 3","51425.00","50475.00","200.00","750.00"]},
+{"id":"9","cell":["9","2018","San Francisco","RAYELL M","MCMAHAN","BLANK AST 3","51424.00","50123.00","160.00","1141.00"]},
+{"id":"10","cell":["10","2018","San Francisco","TATIYANA","VOVCHOK","HOSP LAB TCHN 1","51424.00","34693.00","1237.00","15494.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","GAY","KURAHASHI","TRAVEL RESERVATIONIST 2","51424.00","51424.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","AARON JOSEPH","INSERRA","HEALTH TCHN 2","51424.00","49246.00","956.00","1222.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","EMILIO V","ARRIAGA JR","STORES SUPV SR","51423.00","38731.00","0.00","12692.00"]},
+{"id":"14","cell":["14","2018","Berkeley","DER-HSIEN","LIEN","POSTDOC-EMPLOYEE","51423.00","51423.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","KIMBERLY","BISSELL","ACAD HR ANL 3","51423.00","51423.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","CHRISTINE CORREA","LUDAN","HOSP BLANK AST 1","51422.00","44492.00","282.00","6648.00"]},
+{"id":"17","cell":["17","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","51421.00","43663.00","0.00","7758.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","LAINI","PETERSON","BLANK AST 3","51421.00","51059.00","12.00","350.00"]},
+{"id":"19","cell":["19","2018","San Francisco","ORIT HANA","LESMAN SEGEV","SRA 2 NEX","51420.00","51420.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","BELINDA","CERVANTES","BLANK AST 3","51420.00","49420.00","0.00","2000.00"]}]
+}

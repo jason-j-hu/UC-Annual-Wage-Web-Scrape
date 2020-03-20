@@ -1,0 +1,26 @@
+{
+"page" : "8013",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","DANIEL SCOTT","BARRY","RSCH CMPLNC ANL 1","26635.00","25530.00","0.00","1105.00"]},
+{"id":"2","cell":["2","2018","Irvine","SALVADOR","PACHECO","CLIN NURSE 2","26634.00","24555.00","802.00","1277.00"]},
+{"id":"3","cell":["3","2018","San Diego","*****","*****","GSR-TUIT & FEE REM","26634.00","26634.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","SUSAN E","KNOWLES","CLIN LAB MGR 1","26633.00","26633.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","*****","*****","TUT-NON STDNT","26633.00","22777.00","0.00","3856.00"]},
+{"id":"6","cell":["6","2018","Santa Cruz","*****","*****","READER-NON GSHIP","26632.00","26632.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","*****","*****","GSR-FULL FEE REM","26631.00","26631.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Santa Cruz","MARIA NOEMI","BERARDI","INTERN-CLIN PSYCH-GENL CAMP","26630.00","26630.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","AUSTIN W","TODD","SRA 1","26630.00","26485.00","145.00","0.00"]},
+{"id":"10","cell":["10","2018","Irvine","KRISHNA","SHAH","FIN ANL SR","26629.00","26629.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MICHAEL","MURPHY","VIS PROF","26629.00","26629.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","ADRIANE","STEINACKER","LECT IN SUMMER SESSION","26629.00","0.00","0.00","26629.00"]},
+{"id":"13","cell":["13","2018","Berkeley","SONAL","PATEL","LECT-AY-CONTINUING","26628.00","18744.00","0.00","7884.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","LINDA","NEWCOMB","PERSONNEL ANL PRN","26627.00","26627.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","TWYLA MARIE","GARCIA","COOK SR","26627.00","25825.00","802.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","*****","*****","SRA 2 NEX","26627.00","26627.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","DENNIS W","MCALISTER","COOK","26626.00","25014.00","1575.00","37.00"]},
+{"id":"18","cell":["18","2018","Irvine","KATELYN ROSE MEL","PAXTON","CLIN NURSE 1","26626.00","24710.00","1257.00","659.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","ROSALBA","DELGADO","BLANK AST 3","26626.00","26597.00","29.00","0.00"]},
+{"id":"20","cell":["20","2018","Riverside","*****","*****","GSR-PARTIAL FEE REM","26626.00","26526.00","0.00","100.00"]}]
+}

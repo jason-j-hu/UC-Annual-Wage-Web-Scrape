@@ -1,0 +1,26 @@
+{
+"page" : "5738",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","50721.00","43663.00","0.00","7058.00"]},
+{"id":"2","cell":["2","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","50721.00","43663.00","0.00","7058.00"]},
+{"id":"3","cell":["3","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","50721.00","43663.00","0.00","7058.00"]},
+{"id":"4","cell":["4","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","50721.00","43663.00","0.00","7058.00"]},
+{"id":"5","cell":["5","2018","San Diego","ABHILA","KIZHAKKE PULIYA","POSTDOC-EMPLOYEE","50721.00","50721.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","ANA KAREN","GARCIA","HOSP BLANK AST 3","50720.00","49022.00","693.00","1005.00"]},
+{"id":"7","cell":["7","2018","Riverside","NANCY","CRUZ","ADMISSIONS RECRMT SPEC 2","50720.00","49520.00","0.00","1200.00"]},
+{"id":"8","cell":["8","2018","San Diego","EVANS OSUMBA","OWALLA","AUDIT MGR 2","50720.00","50720.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","MARIA","JACOBO","HOSP BLANK AST 2","50719.00","48312.00","2407.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","RAYMUND VAL BEQU","GONZALES","VOC NURSE SR","50719.00","50719.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MAGALI","DE LOS SANTOS-RODARTE","ADMIN ANL","50719.00","48580.00","2139.00","0.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","CHRISTINE A","MAREZ","EVENTS SPEC 3","50718.00","50718.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","POOYA","KHODADADI","STDT AFFAIRS OFCR 2","50718.00","48669.00","24.00","2025.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","BRANDON","DOHENY","ASST SPECIALIST","50717.00","50717.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","SHARLENE S","SINGH","OPS ROOM AST 1","50714.00","50371.00","180.00","163.00"]},
+{"id":"16","cell":["16","2018","San Diego","DESIREE ROSE KUU","MARA","HOSP BLANK AST 3","50714.00","48862.00","845.00","1007.00"]},
+{"id":"17","cell":["17","2018","Irvine","MARIA A.","SANTANA","CLIN NURSE 2","50713.00","46731.00","1628.00","2354.00"]},
+{"id":"18","cell":["18","2018","Davis","PAMELA W","DEVINE","ADMIN OFCR 2","50713.00","50262.00","451.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","JEFFREY","SONG","FINANCIAL ANL 2","50713.00","44509.00","102.00","6102.00"]},
+{"id":"20","cell":["20","2018","Irvine","MARIA A.","RUIZ","MED AST","50712.00","48568.00","1718.00","426.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "4809",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","FRANK M","HO","BLANK AST 3","59254.00","59254.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","SUSIE FRONDA","MORRIS","BLANK AST 3","59254.00","59254.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","BERTHA E.","PERNICANO","BLANK AST 3","59254.00","59254.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","ROQUEL Y","SHIPLEY","BLANK AST 3","59254.00","59254.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","LAUREN M","DAVID","ADMISSIONS RECRMT SPEC 3","59253.00","59253.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","CRYSTAL M","WHITE","FINANCIAL SVC ANL 2","59251.00","59251.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","LILY","ZHANG","ADMIN ANL SR","59251.00","58951.00","0.00","300.00"]},
+{"id":"8","cell":["8","2018","San Diego","DURICE WHITE","GALLOWAY","ALUMNI EXTERNAL REL MGR 3","59250.00","40375.00","0.00","18875.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","JAZMIN","GONZALEZ","COLL REPR SR","59248.00","52779.00","2343.00","4126.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","LAWANDA","BAINS","STDT AFFAIRS OFCR 3 EX","59248.00","58748.00","0.00","500.00"]},
+{"id":"11","cell":["11","2018","Davis","ANTHONY B","STEPHENSON","CLIN IMG IT SPEC 2","59248.00","57663.00","707.00","878.00"]},
+{"id":"12","cell":["12","2018","Berkeley","ALETA","MARTINEZ","ADMIN OFCR 2","59245.00","59245.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","MAYA","KATZ","HS ASST CLIN PROF-HCOMP","59244.00","27885.00","0.00","31359.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","DANIELLE","PONZINI","SRA 3","59244.00","59244.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","CHRISTINE","CHENG","ASST LIBRARIAN-POTNTL CAREER","59244.00","59244.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","ANTHONY","CHIN","FINANCIAL ANL 2","59243.00","59137.00","106.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","DAISY M.","SANTIAGO","NURSE AID SR","59242.00","41893.00","9270.00","8079.00"]},
+{"id":"18","cell":["18","2018","Davis","JAMILA KAMARIA","BROWN","FINANCIAL AID OFCR 3","59241.00","59241.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Irvine","DEBRA","FISCH","PSYCHIATRIC TCHN SR","59240.00","58273.00","546.00","421.00"]},
+{"id":"20","cell":["20","2018","San Diego","CASSANDRA ANN","CRAIG","VOC NURSE SR","59240.00","58490.00","0.00","750.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "8321",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","23657.00","19255.00","0.00","4402.00"]},
+{"id":"2","cell":["2","2018","Davis","ALBA D.","DE LEON","CUSTODIAN SR","23657.00","23657.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","ANITA","MONTOYA","BLANK AST 3","23656.00","21842.00","1744.00","70.00"]},
+{"id":"4","cell":["4","2018","Irvine","*****","*****","GSR-FULL FEE REM","23654.00","20534.00","0.00","3120.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ALEXA","OLSEN","PRG REPR 2","23654.00","22491.00","323.00","840.00"]},
+{"id":"6","cell":["6","2018","San Francisco","MICHAEL","BARAJAS","PAT NAVGTR CLIN 3","23653.00","22874.00","0.00","779.00"]},
+{"id":"7","cell":["7","2018","Berkeley","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","23653.00","23553.00","0.00","100.00"]},
+{"id":"8","cell":["8","2018","San Francisco","SANYOG GANAPATRA","SHITOLE","HS CLIN INSTR-HCOMP","23650.00","20374.00","0.00","3276.00"]},
+{"id":"9","cell":["9","2018","Riverside","REY","O\"DAY","TEACHER-UNEX-CONTRACT YR","23650.00","0.00","0.00","23650.00"]},
+{"id":"10","cell":["10","2018","Berkeley","SHUBHAYU","CHATTERJEE","POSTDOC-EMPLOYEE","23648.00","21667.00","0.00","1981.00"]},
+{"id":"11","cell":["11","2018","Davis","*****","*****","TEACHG ASST-GSHIP","23648.00","23548.00","0.00","100.00"]},
+{"id":"12","cell":["12","2018","Irvine","*****","*****","TEACHG ASST-GSHIP","23648.00","19643.00","0.00","4005.00"]},
+{"id":"13","cell":["13","2018","Davis","TRINH X","NGUYEN","JR SPECIALIST NEX","23648.00","16893.00","135.00","6620.00"]},
+{"id":"14","cell":["14","2018","San Francisco","ERICA L","HUEY","ASST SPECIALIST","23647.00","21482.00","0.00","2165.00"]},
+{"id":"15","cell":["15","2018","Berkeley","QUINN","GARDNER","EHS SPEC 4","23646.00","7800.00","0.00","15846.00"]},
+{"id":"16","cell":["16","2018","San Francisco","TAKAE","KOYAMA","PHYS THER 1 PD","23646.00","20867.00","0.00","2779.00"]},
+{"id":"17","cell":["17","2018","Berkeley","*****","*****","LECT-AY-1/10","23646.00","23646.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","23645.00","23386.00","159.00","100.00"]},
+{"id":"19","cell":["19","2018","San Francisco","MELANIE M A","KUNG","NURSE STF CRD PD","23645.00","22033.00","504.00","1108.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","KAYLA","MILLER","ADMIN CARE CLIN PARTNER PD","23645.00","22850.00","323.00","472.00"]}]
+}

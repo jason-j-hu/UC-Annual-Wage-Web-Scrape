@@ -1,0 +1,26 @@
+{
+"page" : "4815",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","CAROLINE","HWANG","HEALTH INFO CODER 1","59188.00","57852.00","479.00","857.00"]},
+{"id":"2","cell":["2","2018","Irvine","ALIYA E","THOMAS","ADMIN ANL PRN 1","59187.00","59187.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","XIAOJIAN","LU","STDT AFFAIRS OFCR 3 EX","59187.00","55406.00","56.00","3725.00"]},
+{"id":"4","cell":["4","2018","Davis","DODY D","BENTON","PAT BILLER 3","59186.00","54762.00","4424.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","DEBORAH A","SNYDER","BLANK AST 3","59186.00","59186.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","ADAM","STOCKER","SURVEY RESEARCHER 2","59186.00","58686.00","0.00","500.00"]},
+{"id":"7","cell":["7","2018","San Diego","MELISSA C.","LY","EHS SPEC 2 NEX","59185.00","55909.00","400.00","2876.00"]},
+{"id":"8","cell":["8","2018","Riverside","DARRON","PINKNEY","ALUMNI EXTERNAL REL SPEC 2","59185.00","56685.00","0.00","2500.00"]},
+{"id":"9","cell":["9","2018","Davis","MARY","SANCHEZ","BLANK AST 3","59184.00","59184.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","YVETTE","DANDY","ADMIN SPEC","59184.00","58272.00","312.00","600.00"]},
+{"id":"11","cell":["11","2018","Irvine","PATRICIA M","RAMSEY","CMTY HEALTH PRG MGR","59183.00","59183.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","TIMOTHY W.","HILTON","ASST PROJ SCIENTIST-FY","59182.00","59182.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","AUGUSTINE J","TORRES","APPLICATIONS PROGR 4","59182.00","59182.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","NAZILA","MASSOUDIAN","PROGR ANL 2","59181.00","59181.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","JOY","AULT","FINANCIAL ANL 2","59179.00","58216.00","382.00","581.00"]},
+{"id":"16","cell":["16","2018","Berkeley","JADE","CHO","STDT ACAD SPEC 2","59179.00","58483.00","696.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","ALICE C","ROBERTS","SRA 4","59178.00","59178.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","HEATHER B","CARTER","OCCUPATIONAL THER 1 PD","59178.00","58292.00","886.00","0.00"]},
+{"id":"19","cell":["19","2018","Irvine","YAZMIN","GUZMAN ROSA","VOC NURSE SR","59178.00","58017.00","490.00","671.00"]},
+{"id":"20","cell":["20","2018","Davis","BARBARA L","MOHONDRO","BLANK AST 3","59178.00","59178.00","0.00","0.00"]}]
+}

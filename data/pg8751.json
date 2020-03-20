@@ -1,0 +1,26 @@
+{
+"page" : "8751",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","19687.00","16187.00","0.00","3500.00"]},
+{"id":"2","cell":["2","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","19686.00","19586.00","0.00","100.00"]},
+{"id":"3","cell":["3","2018","Irvine","REGINA MARIE","LOEHR","ASSOC SPECIALIST","19685.00","18187.00","0.00","1498.00"]},
+{"id":"4","cell":["4","2018","Davis","*****","*****","TEACHG ASST-GSHIP","19685.00","19685.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","CHERRY A","COSTALES","ACCESS REPR","19685.00","18125.00","9.00","1551.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","RYAN ISAIAH","WARD","COOK AST","19684.00","17416.00","687.00","1581.00"]},
+{"id":"7","cell":["7","2018","San Francisco","NAFEESA N.","LEE","CLIN NURSE 2","19683.00","18718.00","965.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","SUNSARAE","WILLIAMS-JACKSO","ACCESS REPR PRN","19683.00","18579.00","112.00","992.00"]},
+{"id":"9","cell":["9","2018","Irvine","BINGYAO","ZHU","JR SPECIALIST","19681.00","19681.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","*****","*****","TEACHG ASST-NON GSHIP","19680.00","12391.00","0.00","7289.00"]},
+{"id":"11","cell":["11","2018","Irvine","EMILY","COLORADO","NURSE PD","19680.00","19633.00","47.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","EDDIE ANTHONY","VASQUEZ","HOSP AST 3 PD","19680.00","18309.00","621.00","750.00"]},
+{"id":"13","cell":["13","2018","Berkeley","*****","*****","TEACHG ASST-NON GSHIP","19680.00","12391.00","0.00","7289.00"]},
+{"id":"14","cell":["14","2018","Berkeley","*****","*****","TEACHG ASST-NON GSHIP","19680.00","12391.00","0.00","7289.00"]},
+{"id":"15","cell":["15","2018","San Francisco","BEHZAD","AMOOZGAR","ASST SPECIALIST","19679.00","18404.00","0.00","1275.00"]},
+{"id":"16","cell":["16","2018","Santa Cruz","FABIO","CASTELLANOS EZQ","FOOD SVC WORKER SR","19679.00","18925.00","275.00","479.00"]},
+{"id":"17","cell":["17","2018","Davis","DANIELLE E","LAUB","DIETETIC AST PD","19679.00","19315.00","124.00","240.00"]},
+{"id":"18","cell":["18","2018","San Francisco","NICHOLAS T","WANG","LAB AST 2","19678.00","17299.00","129.00","2250.00"]},
+{"id":"19","cell":["19","2018","San Francisco","EFREN P,JR","BARIA","ASC PHYSCN DIPLOMATE","19677.00","7312.00","0.00","12365.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","KIM","RUTLEY-CAMPBELL","NURSE PD","19677.00","17653.00","390.00","1634.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "4992",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","CONSTANCE","RICHARDSON","AUTO EQUIP OPR SR","57454.00","51364.00","4717.00","1373.00"]},
+{"id":"2","cell":["2","2018","Davis","ALANA C","MARTIN","HOSP UNIT SVC CRD 3","57453.00","54332.00","2458.00","663.00"]},
+{"id":"3","cell":["3","2018","San Diego","ELIZABETH ANNE","DEFRIES","CMTY EDUC SPEC 3","57453.00","56453.00","0.00","1000.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","MARYKNOLL","CULATA","EMERGENCY TRAUMA TCHN SR","57453.00","45797.00","6720.00","4936.00"]},
+{"id":"5","cell":["5","2018","Riverside","MICHELLE","KING","ADMIN SUPV 1","57452.00","57206.00","0.00","246.00"]},
+{"id":"6","cell":["6","2018","San Francisco","MICHQUINELL WAYN","BUCKNER","PRACTICE CRD 2","57451.00","56070.00","241.00","1140.00"]},
+{"id":"7","cell":["7","2018","San Diego","JOANN","COLUMBO","SRA 3","57451.00","43842.00","0.00","13609.00"]},
+{"id":"8","cell":["8","2018","San Diego","ANTHONY ICASIANO","RAYMUNDO","PAT ESCORT","57451.00","38821.00","4663.00","13967.00"]},
+{"id":"9","cell":["9","2018","San Diego","KYLO TREMAYNE","ANDERSON","REVENUE CYCLE HC ANL 3","57450.00","56450.00","0.00","1000.00"]},
+{"id":"10","cell":["10","2018","San Diego","LATONYA ELINOR","DAVIS","ADMIN AST 3","57450.00","56031.00","0.00","1419.00"]},
+{"id":"11","cell":["11","2018","San Diego","LORNA CAMAISA","ALBERTO","REG RESP THER 1","57450.00","55142.00","863.00","1445.00"]},
+{"id":"12","cell":["12","2018","San Diego","GIOVANNI","ZEVI DELLA PORT","ASST PROJ SCIENTIST-FY","57450.00","57450.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","JONATTHAN","JEAN-PIERRE","ULTRASOUND TCHNO SR","57449.00","52227.00","285.00","4937.00"]},
+{"id":"14","cell":["14","2018","San Francisco","CHRISTINE V","MERGILLANO","CLIN RSCH CRD","57449.00","57449.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","JENNIFER","ARMSTRONG","COLL REPR SR","57449.00","57166.00","0.00","283.00"]},
+{"id":"16","cell":["16","2018","Berkeley","SHANNON","WILSON","RSCH ADM 4","57447.00","57447.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","PETER","GOLUB","LECT-AY","57446.00","57296.00","0.00","150.00"]},
+{"id":"18","cell":["18","2018","Berkeley","JENIFER","MACGILLVARY","PUBLICATIONS PROD SPEC 3","57446.00","57446.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","ANDREA","EUBANKS","BLANK AST 3","57446.00","49938.00","7437.00","71.00"]},
+{"id":"20","cell":["20","2018","San Francisco","RUBIA MAGALY","PADILLA","MED CTR FOOD SVC WORKER SR","57445.00","52328.00","3960.00","1157.00"]}]
+}

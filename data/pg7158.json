@@ -1,0 +1,26 @@
+{
+"page" : "7158",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Cruz","LUCAS E","GASPERIK","SRA 3","35791.00","20942.00","600.00","14249.00"]},
+{"id":"2","cell":["2","2018","San Francisco","MICHIYOSHI","MAEDA","AUTO EQUIP OPR PRN","35790.00","34089.00","638.00","1063.00"]},
+{"id":"3","cell":["3","2018","Davis","TANISHA S","LOVE","HOSP UNIT SVC CRD 3","35790.00","33127.00","2295.00","368.00"]},
+{"id":"4","cell":["4","2018","Davis","MADHAV","CHANDRASEKHER","VIS ASST PROF","35788.00","35788.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","CAROLINA","ROBLES","ADMIN ANL AST","35787.00","33778.00","61.00","1948.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","35787.00","35687.00","0.00","100.00"]},
+{"id":"7","cell":["7","2018","Berkeley","GEORGINA","GUINOO","LAB HELPER","35787.00","35787.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","JACQUELINE N","AYYOUB","CLIN RSCH CRD AST","35786.00","35786.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","CHLOE B","AULETTA-YOUNG","SRA 2 NEX","35785.00","32824.00","351.00","2610.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","MEIYANA","KIDD","CLERK SR OR SECR","35785.00","35258.00","27.00","500.00"]},
+{"id":"11","cell":["11","2018","San Diego","JOSE IGNACIO","FUSTE","ASST PROF-AY","35780.00","35000.00","0.00","780.00"]},
+{"id":"12","cell":["12","2018","Irvine","THEA LEE","BULLOCK","ADMIN ANL PRN 2","35779.00","35779.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","LAFONDA","WHITE","ADMIN SPEC","35779.00","35779.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","HELEN E","KABARDIN","MED AST 2","35778.00","35749.00","29.00","0.00"]},
+{"id":"15","cell":["15","2018","Santa Barbara","EYDIE","HARRIDGE","FINANCIAL ANL 2","35777.00","35777.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","WILLIAM B","SHORE","RECALL FACULTY","35775.00","35775.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Irvine","BRETT SEGURA","CERVANTES","CMTY HEALTH PRG REPR","35775.00","35346.00","429.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","35774.00","35774.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","35774.00","35774.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","ROBYN N","STOIANOVICI","STF PHARMACIST 2","35774.00","33254.00","2105.00","415.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "9239",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","*****","*****","STDT 3","15234.00","13981.00","0.00","1253.00"]},
+{"id":"2","cell":["2","2018","Berkeley","ANDRES","HERNANDEZ-ORTIZ","COOK","15234.00","14537.00","18.00","679.00"]},
+{"id":"3","cell":["3","2018","San Francisco","MADAN","MUKUNDAN","SRA 3","15233.00","13377.00","0.00","1856.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","NANCY","RESENDIZ-ZAYAS","CLERK SR OR SECR","15233.00","15094.00","139.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","*****","*****","STDT 2","15232.00","15232.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","*****","*****","READER-NON GSHIP","15232.00","15232.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","JEANIE MAY","GARCIA","CLIN LAB SCI","15232.00","15123.00","109.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","CAROLINE E","BENNETT","FUNDRAISER 3 GF","15230.00","12763.00","0.00","2467.00"]},
+{"id":"9","cell":["9","2018","Davis","JULIANA D","TUTTLE","ADMIN OFCR 2","15230.00","15230.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","REBECCA LEE","HARLOW","BLANK AST 3","15230.00","14290.00","503.00","437.00"]},
+{"id":"11","cell":["11","2018","Berkeley","*****","*****","GSR-FULL FEE REM","15230.00","12530.00","0.00","2700.00"]},
+{"id":"12","cell":["12","2018","San Francisco","DARIUS CLAUDE-LO","FARTASH","PAT CARE TCHN PD","15227.00","14216.00","222.00","789.00"]},
+{"id":"13","cell":["13","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","15226.00","15126.00","0.00","100.00"]},
+{"id":"14","cell":["14","2018","Berkeley","VERNE","ROBERTS","MASSAGE THERAPIST 2","15225.00","0.00","0.00","15225.00"]},
+{"id":"15","cell":["15","2018","Davis","CHRIS","GRAILLAT","CMTY EDUC SPEC 2","15225.00","14455.00","218.00","552.00"]},
+{"id":"16","cell":["16","2018","Irvine","KRYSTAL AILEEN","CARTA","SRA 1","15222.00","12054.00","0.00","3168.00"]},
+{"id":"17","cell":["17","2018","Berkeley","GLORIA","BALDERAS","ALUMNI EXTERNAL REL SPEC 3","15221.00","14162.00","0.00","1059.00"]},
+{"id":"18","cell":["18","2018","Irvine","*****","*****","STDT 4","15220.00","14711.00","328.00","181.00"]},
+{"id":"19","cell":["19","2018","Irvine","CRYSTAL BRIANNA","OCHOA","ACCESS REPR","15219.00","14995.00","224.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","DOUGLAS","IRION","ADMIN ANL SR","15219.00","15219.00","0.00","0.00"]}]
+}

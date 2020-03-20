@@ -1,0 +1,26 @@
+{
+"page" : "3989",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","IRIS","MAU","STDT AFFAIRS OFCR 2","68493.00","63493.00","0.00","5000.00"]},
+{"id":"2","cell":["2","2018","Davis","KEVIN J","MARLEY","INFO SYS ANL 2","68492.00","47160.00","1543.00","19789.00"]},
+{"id":"3","cell":["3","2018","San Diego","BEATRICE CHAVIRA","GARCIA","AMBUL CARE ADMSTN CRD 2","68490.00","65252.00","2231.00","1007.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","SUKANTHA","CHANDRASEKARAN","ADJ INSTR-HCOMP","68488.00","65021.00","0.00","3467.00"]},
+{"id":"5","cell":["5","2018","Davis","CHRISTOPHER SCOT","FALLON","DIGITAL COMM SPEC 3","68486.00","68486.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Santa Cruz","SARAH CHRIS","WOODSIDE BURY","STDT LIFE DEV MGR 1","68486.00","65536.00","0.00","2950.00"]},
+{"id":"7","cell":["7","2018","San Diego","CAROLENA D","DEUTSCH-GARCIA","FUNDRAISER 4","68485.00","68485.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","JANET","BLODGETT","RSCH DATA ANL 3","68484.00","65704.00","580.00","2200.00"]},
+{"id":"9","cell":["9","2018","Irvine","KIMBERLY L","SMITH-LYONS","ADMIN ANL SR","68484.00","68484.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","CHRISTIE MARIE","BRUNNER","PUBLICATIONS PROD SPEC 3","68484.00","68484.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","JENNIFER CB","ROWE","PUBL EDUC SPEC 3","68484.00","68334.00","0.00","150.00"]},
+{"id":"12","cell":["12","2018","Davis","BRYAN P","MYERS","CARPENTER","68483.00","68483.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Cruz","JANET L","REEDY","ADMISSIONS RECRMT SUPV 1","68483.00","67183.00","0.00","1300.00"]},
+{"id":"14","cell":["14","2018","Davis","FROZAN S A","KAKAR","CLIN REGIS ANL 2","68482.00","67560.00","40.00","882.00"]},
+{"id":"15","cell":["15","2018","San Diego","CARINA","STANESCU","CLIN NURSE 2","68481.00","63271.00","1957.00","3253.00"]},
+{"id":"16","cell":["16","2018","San Francisco","PATRICIA A","MOORE-RACINE","RSCH ADM 2","68480.00","68480.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Irvine","MAREK K","MANDAU","ADMIN ANL SR","68480.00","64242.00","0.00","4238.00"]},
+{"id":"18","cell":["18","2018","Irvine","RACHEL ANNE","HOLLAND","ADMIN ANL","68478.00","65043.00","2979.00","456.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","CONNIE","JUNG","STDT AFFAIRS OFCR 3 EX","68478.00","66478.00","0.00","2000.00"]},
+{"id":"20","cell":["20","2018","San Diego","DWAYNE ALFONZO","SANDERS","RESP CARE PRACT TCHN","68478.00","63110.00","2159.00","3209.00"]}]
+}

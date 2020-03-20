@@ -1,0 +1,26 @@
+{
+"page" : "6312",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","WELMER A","NERI","NURSE PD","45397.00","36240.00","313.00","8844.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","ALMA","JAIMES","CUSTODIAN SR","45397.00","42689.00","2708.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","CHRISTINE","MEJIA","BLANK AST 2","45397.00","45386.00","11.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","EVA E","VILLEDA","BLANK AST 2","45396.00","45396.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","JENNIFER LYNN","BENTLEY","LIBRARY AST 3","45395.00","43776.00","0.00","1619.00"]},
+{"id":"6","cell":["6","2018","San Diego","LUCIA","HALL","SRA 1","45395.00","44863.00","532.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","SARINA I","WEINSTEIN","ADMIN OFCR 2","45394.00","43977.00","0.00","1417.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","DANNY","FLORES","HOSP LAB TCHN 1","45394.00","44524.00","735.00","135.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","DUSTIN","HOWIE","FAC MECH","45392.00","43525.00","1808.00","59.00"]},
+{"id":"10","cell":["10","2018","Davis","KARI D","HAGEN","SRA 3","45391.00","45391.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","SAMANTHA T","ENGELMANN","BLANK AST 3","45390.00","44861.00","29.00","500.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","DAVID","ENG","LIBRARY AST 3","45390.00","45390.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","ARTHUR A","ALVAREZ","STDT ACAD ADVISOR 2","45390.00","45390.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","ASHLEY LINN","YRIBE","ADMITTING WORKER PRN","45389.00","43203.00","1166.00","1020.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","EDWING","GUEVARA","BLANK AST 2","45389.00","45389.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","VANESSA RENEE","REED","HOSP BLANK AST 3","45389.00","43877.00","761.00","751.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","RANDI","SHANNAHAN","PHYS THER 2 NEX","45388.00","45388.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ERIC","GOLD","ATH PROFL 1 BYA","45387.00","43859.00","1528.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","FIDEL E","SINLAO","VOC NURSE SR","45386.00","41811.00","1369.00","2206.00"]},
+{"id":"20","cell":["20","2018","San Diego","SALVADOR","MORALES-FARIAS","CUSTODIAN SR","45386.00","42044.00","1888.00","1454.00"]}]
+}

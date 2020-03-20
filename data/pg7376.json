@@ -1,0 +1,26 @@
+{
+"page" : "7376",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","33092.00","33092.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","LAN","LIU","JR SPECIALIST","33091.00","30673.00","0.00","2418.00"]},
+{"id":"3","cell":["3","2018","San Diego","DEEBA","POURMAND","CLIN RSCH CRD","33091.00","29712.00","0.00","3379.00"]},
+{"id":"4","cell":["4","2018","Irvine","VENSON CONSOLACI","PASAMBA","HOSP AST SR","33090.00","30127.00","1101.00","1862.00"]},
+{"id":"5","cell":["5","2018","Merced","*****","*****","TEACHG ASST-GSHIP","33090.00","32990.00","0.00","100.00"]},
+{"id":"6","cell":["6","2018","San Diego","KASSIE KAYLEE","MARQUISS","CLIN RSCH CRD AST","33090.00","32000.00","0.00","1090.00"]},
+{"id":"7","cell":["7","2018","Irvine","*****","*****","GSR-FULL FEE REM","33088.00","29333.00","0.00","3755.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","BLANCA","OLVERA VALENTIN","CUSTODIAN SR","33088.00","33082.00","6.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","MICHELLE","CARRILLO","HOSP BLANK AST 3","33088.00","33040.00","48.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","33087.00","33087.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","33086.00","33086.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","GARGI","DAHIYA","ADMIN ANL AST","33085.00","33085.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","ELISABETH","HIGGINS O\"CONNO","LECT-AY","33085.00","33085.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","33085.00","33085.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","CARRIE H","WHITECOTTON","ADMIN OFCR 2","33084.00","33064.00","20.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","*****","*****","GSR-TUIT & FEE REM","33084.00","33084.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","GABRIELA A","RUIZ-COSS","BLANK AST 3","33084.00","30382.00","724.00","1978.00"]},
+{"id":"18","cell":["18","2018","San Francisco","YOCELIN J","AGUILAR","HOSP LAB TCHN 1 PD","33083.00","30394.00","2000.00","689.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","33083.00","33083.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","33083.00","33083.00","0.00","0.00"]}]
+}

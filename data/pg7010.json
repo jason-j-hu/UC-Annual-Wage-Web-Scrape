@@ -1,0 +1,26 @@
+{
+"page" : "7010",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","MARIA ELENA","SPANGENBERG","STDT AFFAIRS OFCR 2","37529.00","37526.00","3.00","0.00"]},
+{"id":"2","cell":["2","2018","Irvine","MIMI MING YANG","ANDERSON","STDT AFFAIRS OFCR 2","37529.00","37406.00","123.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","NATALIA GLUKHOVA","MIKHAIL","NURSE PD","37529.00","33608.00","429.00","3492.00"]},
+{"id":"4","cell":["4","2018","San Diego","MARIE R.","TURINGAN","RSCH ADM 2","37529.00","37529.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","ELIZABETH","MONTANO","LECT SOE-AY","37528.00","37528.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","RAECHEL ELAINE","PATERSON","JR SPECIALIST","37528.00","37528.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Merced","SUNNI","NELSON","LIBRARY AST 3","37528.00","36964.00","176.00","388.00"]},
+{"id":"8","cell":["8","2018","Riverside","RICH","YUEH","ASST PROF-AY-B/E/E","37528.00","37528.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","ALEJANDRA","CAMACHO","CUSTODIAN SR","37528.00","37053.00","14.00","461.00"]},
+{"id":"10","cell":["10","2018","Davis","*****","*****","RESID PHYS II-VIII/NON REP","37527.00","36177.00","0.00","1350.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","ANTHONY","RUCKER","PAT TRANSPORT TCHN 2 PD","37527.00","34060.00","568.00","2899.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","TRACY REYNOLDS","MAXWELL","MED AST 2","37527.00","37510.00","17.00","0.00"]},
+{"id":"13","cell":["13","2018","Irvine","JHEALYN F","ROGERS","BLANK AST 3","37525.00","37161.00","364.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","LESTER","SUAREZ","POSTDOC-EMPLOYEE","37525.00","37525.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","WENDY","SINEK","TEACHER-UNEX","37524.00","0.00","0.00","37524.00"]},
+{"id":"16","cell":["16","2018","Irvine","MARTIN","ZAMORA","COOK","37523.00","37158.00","365.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","TEWDROS TSEHA","GHEBREMARIAM","SRA 2 NEX","37523.00","33114.00","0.00","4409.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ANGELA","PEREZ","HOSP BLANK AST 2","37523.00","36938.00","549.00","36.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","WILBER","CORNEJO","CUSTODIAN SR","37523.00","34088.00","1983.00","1452.00"]},
+{"id":"20","cell":["20","2018","San Diego","ADORA B","AGUILAR","LAB AST 1","37523.00","37523.00","0.00","0.00"]}]
+}

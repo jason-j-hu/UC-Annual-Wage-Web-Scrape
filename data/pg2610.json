@@ -1,0 +1,26 @@
+{
+"page" : "2610",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","JENNIFER L","CHRISTENSEN","CLIN NURSE 2","95290.00","86441.00","4403.00","4446.00"]},
+{"id":"2","cell":["2","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","95286.00","61340.00","0.00","33946.00"]},
+{"id":"3","cell":["3","2018","San Francisco","JOAO M","BRAZ","ASSOC RES-FY","95283.00","95283.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","LIUSHENG","HUANG","ASSOC RES-FY","95283.00","95283.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","PUAY-WAH","PHUAN","ASSOC RES-FY","95283.00","95283.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","IRA L","BLITZ","ASSOC RES-FY","95283.00","95283.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","WAGNER ELIAS","PORTOCARRERO","CLIN NURSE 2","95283.00","82536.00","4658.00","8089.00"]},
+{"id":"8","cell":["8","2018","Irvine","SIMONE","MEINARDI","ASSOC RES-FY","95283.00","95283.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","JEAN-PIERRE","WILLIAMS","ASSOC RES-FY","95283.00","95283.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","LIU","WEI","ASSOC RES-FY","95283.00","95283.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","ANNA","MATYNIA","ASSOC RES-FY","95283.00","95283.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","DARA","GHAHREMANI","ASSOC RES-FY","95283.00","95283.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","KATHLEEN M","HOLDER","COMM SPEC 3","95283.00","95283.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","KAREN","HUEN","ASSOC RES-FY","95283.00","95283.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","CLAIRE MONIQUE M. L. DUGA","DARZACQ","ASSOC RES-FY","95283.00","95283.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","REYMUND BERSALON","PACIO","CASE MGR EX","95282.00","93912.00","370.00","1000.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","RHEA DISSA","LIN","ADMIN ANL PRN 1","95281.00","93781.00","0.00","1500.00"]},
+{"id":"18","cell":["18","2018","Irvine","JENNY","SUAREZ","RESP THER 2","95280.00","89243.00","4208.00","1829.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","JOHN","GONZAGA","CLIN NURSE 2","95280.00","87744.00","2554.00","4982.00"]},
+{"id":"20","cell":["20","2018","Irvine","AARON","CHUNG","PHYS THER 2 NEX","95277.00","94576.00","41.00","660.00"]}]
+}

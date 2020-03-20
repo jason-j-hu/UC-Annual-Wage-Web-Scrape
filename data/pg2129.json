@@ -1,0 +1,26 @@
+{
+"page" : "2129",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","DALE E","MUDD","RADLG TCHNO","108413.00","108160.00","253.00","0.00"]},
+{"id":"2","cell":["2","2018","Berkeley","ROBYN","PEASE","EMPLOYMENT REPR 4","108413.00","108413.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","KELLIE","MINER","CLIN NURSE 2","108412.00","105703.00","0.00","2709.00"]},
+{"id":"4","cell":["4","2018","San Diego","ZHOUXIN","SHEN","RSCH DATA ANL 4","108412.00","108412.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","JILL ELIZABETH","GLEASON","PHYS THER 3 EX","108408.00","107598.00","0.00","810.00"]},
+{"id":"6","cell":["6","2018","San Diego","ROBERT","KLUENDER","PROF-AY","108408.00","108408.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","MICHAEL","D\"AMBROSIO","ASST RES-FY-B/E/E","108408.00","108408.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","RATANAR","HANG","CT TCHNO","108405.00","90664.00","8628.00","9113.00"]},
+{"id":"9","cell":["9","2018","San Francisco","MICHAEL RICHARD","BILLINGS","COMM SPEC 4","108404.00","108404.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","KEVIN","CORNETT","CLIN NURSE 2","108404.00","95899.00","1438.00","11067.00"]},
+{"id":"11","cell":["11","2018","San Diego","DAVID MICHAEL","RUBEN","RESP CARE PRACT TCHN","108401.00","76336.00","24662.00","7403.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","KHOA","NGUYEN","CLIN NURSE 2","108397.00","95427.00","5698.00","7272.00"]},
+{"id":"13","cell":["13","2018","Davis","KATHERINE M","WILLS","CLIN NURSE 2","108396.00","103079.00","789.00","4528.00"]},
+{"id":"14","cell":["14","2018","San Francisco","MICHAEL NGUYEN","HO","CLIN LAB SCI","108394.00","107253.00","0.00","1141.00"]},
+{"id":"15","cell":["15","2018","San Francisco","LAURA ANNE","DILLON","ENTERPRISE RISK MGT ANL 4","108394.00","108394.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","TIFFANY Y","WRIGHT","FINANCIAL ANL 4","108393.00","101762.00","0.00","6631.00"]},
+{"id":"17","cell":["17","2018","San Francisco","ALEXANDER M","WEIL","BEH HEALTH PSYCHIATRIC MGR 1","108386.00","107386.00","0.00","1000.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ROBERT BRETT","KELLY","HS ASSOC CLIN PROF-HCOMP","108383.00","28351.00","0.00","80032.00"]},
+{"id":"19","cell":["19","2018","Riverside","STUART","KRIEGER","PROF-AY","108383.00","108383.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Riverside","MICHELLE","BLOOM","PROF-AY","108383.00","108383.00","0.00","0.00"]}]
+}

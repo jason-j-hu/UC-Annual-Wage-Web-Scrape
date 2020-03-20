@@ -1,0 +1,26 @@
+{
+"page" : "8659",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","*****","*****","GSR-NO REM","20614.00","20614.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","VIOLET EJANG","AGEMBAH","RSDT ADVISOR","20613.00","24483.00","275.00","-4145.00"]},
+{"id":"3","cell":["3","2018","San Diego","CORY J.","PARKER","BUS SYS ANL 4","20613.00","20613.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","SERGIO","RUIZ","PHYS PLT MECH","20612.00","19837.00","775.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","DANIELLE","MACHT","PUBL ADMSTN ANL","20612.00","19538.00","0.00","1074.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","COLLEEN ELIZABET","BERSANO","BLANK AST 2","20611.00","16488.00","0.00","4123.00"]},
+{"id":"7","cell":["7","2018","Riverside","*****","*****","GSR-PARTIAL FEE REM","20611.00","20511.00","0.00","100.00"]},
+{"id":"8","cell":["8","2018","San Diego","JAMES ALFRED","GUEVARA","BIOINFORMATICS PROGR 1","20610.00","20610.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Berkeley","*****","*****","GSR-TUIT & FEE REM","20609.00","20609.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","BARANSEL","KAMAZ","POSTDOC-EMPLOYEE","20609.00","20609.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Riverside","*****","*****","TEACHG ASST-GSHIP","20609.00","16063.00","0.00","4546.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","VICTORIA","PINTADO","CLIN NURSE 1","20609.00","20148.00","0.00","461.00"]},
+{"id":"13","cell":["13","2018","San Diego","JINCHUL","KIM","SRA 3","20608.00","20608.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","PETER JOHN","MLADINA","LECT-AY-1/9","20607.00","0.00","0.00","20607.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","GANNA","SCHILDER","CLIN NURSE 1","20606.00","20556.00","50.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","ARIANA ANDREA","ORTIZ-ATKINS","ADMIN ANL PRN 1","20606.00","19707.00","0.00","899.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","SHKLOV","WILLIS","ADMIN CARE PARTNER","20605.00","17885.00","2286.00","434.00"]},
+{"id":"18","cell":["18","2018","San Diego","CARLOS","CASILLAS","MED CTR CUSTODIAN","20604.00","18682.00","1127.00","795.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","MARY","OCALIAN","CHILD DEV CTR TEACHER 1","20603.00","19807.00","282.00","514.00"]},
+{"id":"20","cell":["20","2018","Davis","*****","*****","GSR-FULL FEE REM","20603.00","20603.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "2319",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Cruz","ANDRE J","DANIELS","INFO SYS ANL 4","103070.00","102120.00","0.00","950.00"]},
+{"id":"2","cell":["2","2018","Santa Cruz","ZACHARY ALLEN","ZIMMER","ASST PROF-AY","103069.00","93092.00","0.00","9977.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","ROY LEE JOE","KAO","HS ASST CLIN PROF-HCOMP","103069.00","65264.00","0.00","37805.00"]},
+{"id":"4","cell":["4","2018","Davis","MING-WEN","LI","LAB RSCH SUPV 2","103068.00","103068.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","PATRICIA LYNN","HYATT","OCCUPATIONAL THER 2 NEX","103067.00","98666.00","3381.00","1020.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","ERIN","HUNTER","CLIN NURSE 2","103066.00","91829.00","328.00","10909.00"]},
+{"id":"7","cell":["7","2018","Davis","PATRICIA JM","APPLEGATE","HS CLIN PROF-HCOMP","103066.00","76937.00","0.00","26129.00"]},
+{"id":"8","cell":["8","2018","Irvine","ERICA","SANTANA DO NASC","CLIN NURSE 2","103060.00","86912.00","8843.00","7305.00"]},
+{"id":"9","cell":["9","2018","Irvine","CHANDLER JANELLE","MURPHY","CLIN NURSE 2","103057.00","90016.00","6569.00","6472.00"]},
+{"id":"10","cell":["10","2018","Davis","FLORENT P.","TROUILLAS","ASST SPECIALIST COOP EXT","103055.00","103055.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","STEPHANIE N","VAN GINKEL","DIR","103054.00","102304.00","0.00","750.00"]},
+{"id":"12","cell":["12","2018","Davis","PAUL T","HIROSE","SYS ADM 4","103053.00","103053.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","ALI ELIZABETH","BROCK","CLIN NURSE 2","103053.00","77479.00","2552.00","23022.00"]},
+{"id":"14","cell":["14","2018","San Diego","JAVIER","ROBLES","MAINT MECH","103051.00","76976.00","19707.00","6368.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","HELINA","SHIRVANI","CLIN NURSE 2","103049.00","88884.00","428.00","13737.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","ROSE","ESTRADA","PUBL ADMSTN ANL PRN","103047.00","103017.00","0.00","30.00"]},
+{"id":"17","cell":["17","2018","San Francisco","KRISTIN H","SIMONSON","PROJECT POLICY ANL 4","103042.00","103042.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Riverside","PHILIPPE","ROLSHAUSEN","ASSOC SPECIALIST COOP EXT","103042.00","103042.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","RENEE K.","BOYD","GEN ACCOUNTANT 4","103038.00","103038.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","CHARITO M","BONDOC","CLIN INFORMATICS SPEC 3","103038.00","102038.00","0.00","1000.00"]}]
+}

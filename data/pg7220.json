@@ -1,0 +1,26 @@
+{
+"page" : "7220",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Riverside","MICHAEL","CLEMONS","ADMIN MGR 1","35000.00","35000.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","JOELLE M.","COLETTA","HS ASSOC CLIN PROF-HCOMP","35000.00","0.00","0.00","35000.00"]},
+{"id":"3","cell":["3","2018","Riverside","YURIKA","TAMURA","VIS ASST PROF","35000.00","35000.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","AMY T","NGUYEN-CHYUNG","VIS ASST PROF","35000.00","35000.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","SHAWN","BAYERN","TEACHER-UNEX-CONTRACT YR","35000.00","0.00","0.00","35000.00"]},
+{"id":"6","cell":["6","2018","Berkeley","SUDHEER","GUPTA","VIS PROF","35000.00","35000.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","JESSICA","DOMINGUEZ-GOMEZ","ADMITTING WORKER","34999.00","34623.00","376.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","BRIAN","RICHARDSON","CUSTODIAN SR","34999.00","33639.00","6.00","1354.00"]},
+{"id":"9","cell":["9","2018","San Diego","RACHEL B.","RIGOLI","STDT SVC ADVISOR 3","34998.00","34998.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","MIGUEL","MENDEZ","FOOD SVC WORKER","34996.00","34794.00","72.00","130.00"]},
+{"id":"11","cell":["11","2018","Santa Barbara","*****","*****","GSR-NO REM","34996.00","34996.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","34996.00","34996.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","BRENNA LEE","DEPEW","CLIN NURSE 2","34996.00","32737.00","180.00","2079.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","TINA","FULLER","MED CTR CUSTODIAN SR","34995.00","34927.00","38.00","30.00"]},
+{"id":"15","cell":["15","2018","Santa Cruz","KARLA MAIA DE","OLIVEIRA","COOK SR","34995.00","34924.00","71.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","34995.00","34995.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","SCOTT GIBSON","PEACOCK","SRA 2 NEX","34993.00","33285.00","0.00","1708.00"]},
+{"id":"18","cell":["18","2018","Irvine","GUADALUPE","LLAMAS","ADMITTING WORKER PRN","34993.00","33524.00","1469.00","0.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","*****","*****","GSR-NO REM","34993.00","27832.00","0.00","7161.00"]},
+{"id":"20","cell":["20","2018","Riverside","WILLIAM","RABKIN","ASST ADJ PROF-AY","34992.00","34992.00","0.00","0.00"]}]
+}

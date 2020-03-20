@@ -1,0 +1,26 @@
+{
+"page" : "9803",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","ALEXIS ELAINE","HENRY","CLIN NURSE 2","11023.00","9959.00","440.00","624.00"]},
+{"id":"2","cell":["2","2018","San Diego","AMY","LIU","KEY ENTRY OPR","11023.00","11023.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","ZACHARY","GAMLIELI","FUNDRAISER 2 NEX","11022.00","11022.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","KATHERINE AMANDA","WOODRUM","ADMIN CARE CLIN PARTNER PD","11022.00","10632.00","85.00","305.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","MARK","STORI","INTERCOL ATH COACH AST EX","11022.00","9000.00","0.00","2022.00"]},
+{"id":"6","cell":["6","2018","Berkeley","LAURIE","BURRELL","FOOD SVC WORKER SR","11022.00","10780.00","235.00","7.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","*****","*****","STDT 1","11021.00","11018.00","0.00","3.00"]},
+{"id":"8","cell":["8","2018","Irvine","*****","*****","GSR-TUIT & FEE REM","11020.00","10920.00","0.00","100.00"]},
+{"id":"9","cell":["9","2018","San Diego","ELISA W","HOVANDER","VIS ASST PROF","11020.00","0.00","0.00","11020.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","*****","*****","STDT 3","11020.00","10828.00","0.00","192.00"]},
+{"id":"11","cell":["11","2018","Davis","ROBERTO","SEQUEIRA","CAREER SVC SPEC 2","11019.00","11019.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","*****","*****","STDT 4 NON UC","11019.00","11019.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","ONIL CONRAD,JR","LACERTE","ELECTRN","11019.00","9577.00","28.00","1414.00"]},
+{"id":"14","cell":["14","2018","Davis","MARY","JANICKI","CLIN LAB SCI","11018.00","5533.00","1595.00","3890.00"]},
+{"id":"15","cell":["15","2018","San Francisco","NAOMI","ZIV","POSTDOC-EMPLOYEE","11017.00","8517.00","0.00","2500.00"]},
+{"id":"16","cell":["16","2018","Davis","*****","*****","TEACHG ASST-GSHIP","11017.00","11017.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Irvine","NUJHAT","ALI","JR SPECIALIST","11016.00","10062.00","0.00","954.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","CHRISTINE","GRAVES","BLANK AST 1","11016.00","10574.00","411.00","31.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","*****","*****","STDT INTERN","11016.00","11016.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","SUSANNA","VAKILI","CLIN SOCIAL WORKER 3","11015.00","10130.00","0.00","885.00"]}]
+}

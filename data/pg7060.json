@@ -1,0 +1,26 @@
+{
+"page" : "7060",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","ABRAHAM","VALDEZ","CUSTODIAN","36937.00","35743.00","14.00","1180.00"]},
+{"id":"2","cell":["2","2018","San Francisco","SIMAR S","SINGH","CLIN RSCH CRD","36936.00","35258.00","455.00","1223.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","AARON","KWABLA","VOC NURSE SR","36934.00","36272.00","522.00","140.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","DAVID","STEPHAN","PROGR ANL 2","36934.00","36934.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","36934.00","28034.00","0.00","8900.00"]},
+{"id":"6","cell":["6","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","36933.00","27115.00","0.00","9818.00"]},
+{"id":"7","cell":["7","2018","San Diego","LETISHA LYNETTE","MASSY","BENEFITS ANL 2","36931.00","35818.00","241.00","872.00"]},
+{"id":"8","cell":["8","2018","San Francisco","GINA","SALDANA","CLIN NURSE 2","36930.00","31033.00","540.00","5357.00"]},
+{"id":"9","cell":["9","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","36930.00","36930.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","36930.00","36930.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","36930.00","36930.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","LUISA Y","LARSEN","BLANK AST 1","36930.00","36930.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","SARA JEMIMA","CEJA","CHILD DEV CTR TEACHER 1","36930.00","35808.00","0.00","1122.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","SKYLAR","HEIMAN","CUSTODIAN SR","36929.00","35495.00","112.00","1322.00"]},
+{"id":"15","cell":["15","2018","San Francisco","BRENDA MACADAEG","VELASCO","NURSE STF CRD","36928.00","34654.00","795.00","1479.00"]},
+{"id":"16","cell":["16","2018","San Francisco","MARY","NABAKOOZA","PAT SUPP AST PD","36927.00","35126.00","946.00","855.00"]},
+{"id":"17","cell":["17","2018","Irvine","KIONA MARIE","PARKER","LAB AST 2","36927.00","36517.00","410.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","JENNIFER","CHAVEZ","HOSP AST SR","36927.00","35136.00","1038.00","753.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","*****","*****","POSTDOC-EMPLOYEE","36925.00","31925.00","0.00","5000.00"]},
+{"id":"20","cell":["20","2018","San Diego","LINDSAY ANN","WALSH","CLIN NURSE 2","36925.00","33668.00","1216.00","2041.00"]}]
+}

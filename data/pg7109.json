@@ -1,0 +1,26 @@
+{
+"page" : "7109",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Riverside","YUHUAN","WANG","LAB AST 1","36317.00","36317.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","EMILY V.","SMITH","COACH AST 3","36316.00","32000.00","0.00","4316.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","HORACE","YOUNG","CLERK","36316.00","35629.00","687.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","TREVOR","DAVIDSON","CHEF 2","36316.00","30396.00","4233.00","1687.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","BRYCE","FREEMAN","PAT COMM REPR","36313.00","36074.00","0.00","239.00"]},
+{"id":"6","cell":["6","2018","San Diego","PAULINE TABORA","FLEMING","HOSP AST 3 PD","36313.00","36057.00","256.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","PATRICE MARY","SUTTON","RECALL NON-FACULTY ACAD","36312.00","36221.00","0.00","91.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","CLAUDIA","MENDOZA","PRG REPR 1","36311.00","34093.00","2184.00","34.00"]},
+{"id":"9","cell":["9","2018","Davis","ERIN N","SPANIEL","BLANK AST 2","36311.00","36311.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Riverside","PETRA","RUBALCAVA","PHLEBOTOMIST CERT TCHN 2","36311.00","36237.00","74.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","GERONIMO","ALVAREZ","COOK","36310.00","33968.00","1396.00","946.00"]},
+{"id":"12","cell":["12","2018","San Diego","CHRISTOPHER G","O\"KEEFE","LAB AST 2","36309.00","34818.00","0.00","1491.00"]},
+{"id":"13","cell":["13","2018","Irvine","LINDSAY J","CARROLL","ADMIN ANL","36308.00","36308.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","MALINI","GANDHI","PUBL ADMSTN ANL AST","36308.00","35780.00","528.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","SOPIKO","JIMSHELEISHVILI","CURRICULUM PLNR 2","36307.00","33280.00","3027.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","JORGE E","ORTEGA","FAC MECH","36307.00","30758.00","830.00","4719.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","JANET","CHEN","ADMIN SPEC","36306.00","36147.00","159.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","JONATHAN A","CO","HOSP BLANK AST 2","36304.00","33475.00","2817.00","12.00"]},
+{"id":"19","cell":["19","2018","San Diego","VICTOR JACOB","LEMUS","MED CTR CUSTODIAN","36304.00","34092.00","199.00","2013.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","NOLAN","SAX","FOOD SVC WORKER","36302.00","35244.00","416.00","642.00"]}]
+}

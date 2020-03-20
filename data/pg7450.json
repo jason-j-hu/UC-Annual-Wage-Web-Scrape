@@ -1,0 +1,26 @@
+{
+"page" : "7450",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","32354.00","32354.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","32354.00","32354.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","32354.00","32354.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","32354.00","32354.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","CHARLA","KORDANA","EVENTS SPEC 2","32353.00","32353.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JOSE MANUEL","RODRIGUEZ","ADMIN ANL","32352.00","31340.00","424.00","588.00"]},
+{"id":"7","cell":["7","2018","Davis","ANEEKA S","DIBBLE","PAT ACCESS SVC SUPV 2","32352.00","30442.00","0.00","1910.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","REYNA","FLORES","FOOD SVC WORKER","32351.00","31119.00","1232.00","0.00"]},
+{"id":"9","cell":["9","2018","Berkeley","VICKIE","WIGGINS","FOOD SVC WORKER SR","32350.00","30801.00","549.00","1000.00"]},
+{"id":"10","cell":["10","2018","San Francisco","SULING T","WANG","INFO SYS ANL 2","32350.00","31350.00","0.00","1000.00"]},
+{"id":"11","cell":["11","2018","Davis","JANET CATHERINE","YOUNGE","VIS PROF","32350.00","31500.00","0.00","850.00"]},
+{"id":"12","cell":["12","2018","Davis","*****","*****","GSR-FULL FEE REM","32350.00","32350.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","THU","HUYNH","SRA 1","32349.00","32349.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","JERZY S.","KOSMALA","TEACHER-SPEC PROG-CONTINUING","32349.00","31161.00","0.00","1188.00"]},
+{"id":"15","cell":["15","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","32349.00","32349.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","GLENDA","GARCIA-BONGCARO","NURSE PD","32349.00","29865.00","497.00","1987.00"]},
+{"id":"17","cell":["17","2018","San Francisco","CHRISTOPHER D","GILBERT","BEH HEALTH PSYCHIATRIC PROFL 4","32348.00","31382.00","0.00","966.00"]},
+{"id":"18","cell":["18","2018","Davis","CALEB M","JONES","PROJECT POLICY ANL 3","32348.00","32348.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","CRISELDA","SANCHEZ","FOOD SVC WORKER PRN","32348.00","32013.00","254.00","81.00"]},
+{"id":"20","cell":["20","2018","Davis","HEIDI R","BENSON","CLIN NURSE 2","32347.00","24345.00","3117.00","4885.00"]}]
+}

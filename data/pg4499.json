@@ -1,0 +1,26 @@
+{
+"page" : "4499",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","62395.00","59093.00","0.00","3302.00"]},
+{"id":"2","cell":["2","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","62395.00","59093.00","0.00","3302.00"]},
+{"id":"3","cell":["3","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","62395.00","59093.00","0.00","3302.00"]},
+{"id":"4","cell":["4","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","62395.00","59093.00","0.00","3302.00"]},
+{"id":"5","cell":["5","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","62395.00","59093.00","0.00","3302.00"]},
+{"id":"6","cell":["6","2018","Davis","DANIELLE S","ITO","CLIN NURSE 2","62394.00","59377.00","599.00","2418.00"]},
+{"id":"7","cell":["7","2018","San Diego","IPACIO","ZARATE","IRRIGATION MECH","62394.00","58210.00","4184.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","*****","*****","RESID PHYS II-VIII/NON REP","62393.00","59093.00","0.00","3300.00"]},
+{"id":"9","cell":["9","2018","San Diego","JAN TERRYL","KEANE","MARKETING SPEC 3","62393.00","62243.00","0.00","150.00"]},
+{"id":"10","cell":["10","2018","Irvine","HANNA H","KIM","ADMIN ANL SR","62391.00","61198.00","1193.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","VICTOR XI HUI","CHOU","MED CTR CUSTODIAN SR","62388.00","59970.00","1518.00","900.00"]},
+{"id":"12","cell":["12","2018","Davis","KAZUHIDE","TAKEUCHI","LECT-AY","62388.00","57513.00","0.00","4875.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","NINA","DEVRIES","ADV OFCR 2","62388.00","62388.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","CHARLENE JANE","MANDAU","ADMIN ANL","62385.00","62378.00","0.00","7.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","GRACE","GALVAN-SILVA","BLANK AST 3","62385.00","59732.00","2653.00","0.00"]},
+{"id":"16","cell":["16","2018","Riverside","ANNA","MEZA","BUS SYS ANL 2 NEX","62383.00","61783.00","0.00","600.00"]},
+{"id":"17","cell":["17","2018","San Diego","DEBORAH LYNN","KOPKOWSKI","PAT BILLER 4","62383.00","60859.00","524.00","1000.00"]},
+{"id":"18","cell":["18","2018","Berkeley","HARSHIT","AGARWAL","POSTDOC-EMPLOYEE","62382.00","62382.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","CROMWELL JAMES C","PASION","PRACTICE CRD 2","62382.00","60175.00","1306.00","901.00"]},
+{"id":"20","cell":["20","2018","San Francisco","JOANNA EN-TSI","FAN","CLIN RSCH CRD","62382.00","61733.00","649.00","0.00"]}]
+}

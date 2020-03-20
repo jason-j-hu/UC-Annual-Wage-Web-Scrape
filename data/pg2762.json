@@ -1,0 +1,26 @@
+{
+"page" : "2762",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","ROHIT","BOSE","ASST PROF-HCOMP","91478.00","43794.00","0.00","47684.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","STACEY","SIMS","MGR","91477.00","80536.00","0.00","10941.00"]},
+{"id":"3","cell":["3","2018","San Diego","ROSE SOHYUN","PARK","CLIN NURSE 2","91476.00","86730.00","2685.00","2061.00"]},
+{"id":"4","cell":["4","2018","Davis","CHERYL","CARNIGLIA","CASE MGR NEX","91474.00","90820.00","567.00","87.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","PAMELA","GRIEMAN","PUBLICATIONS MGR","91472.00","86472.00","0.00","5000.00"]},
+{"id":"6","cell":["6","2018","San Diego","JESSICA ANN","MCGEARY","CLIN NURSE 2","91470.00","87323.00","1324.00","2823.00"]},
+{"id":"7","cell":["7","2018","San Francisco","VINCENT SINH","HOANG","ADMIN SUPV 1","91466.00","91466.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","RESHMA","GUPTA","ASC PHYSCN DIPLOMATE","91465.00","48056.00","0.00","43409.00"]},
+{"id":"9","cell":["9","2018","San Diego","ROBERT LAWRENCE","MONROE","WRITER EDITOR 4","91465.00","90465.00","0.00","1000.00"]},
+{"id":"10","cell":["10","2018","San Francisco","NATHAN MICHAEL","YOUNG","ASST ADJ PROF-HCOMP","91462.00","80002.00","0.00","11460.00"]},
+{"id":"11","cell":["11","2018","Davis","AILI","GUO","HS ASSOC CLIN PROF-HCOMP","91460.00","62704.00","0.00","28756.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","AMY","BELL","RESC NURSE PD","91460.00","83497.00","1064.00","6899.00"]},
+{"id":"13","cell":["13","2018","Davis","JOHN F","SMAHA","ELECTRN","91459.00","77123.00","0.00","14336.00"]},
+{"id":"14","cell":["14","2018","Davis","MONICA L.","COOPER","COOP EXT ADVISOR","91458.00","91258.00","0.00","200.00"]},
+{"id":"15","cell":["15","2018","Irvine","ANDREW ALLEN","PALERMO","ASSOC PROF-AY","91458.00","91458.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Cruz","KATHRYN BENEDI","BROWNFIELD","INFO SYS ANL 3","91458.00","90508.00","0.00","950.00"]},
+{"id":"17","cell":["17","2018","Berkeley","FATTANEH","ROHANI","INFO SYS ANL 3","91457.00","90457.00","0.00","1000.00"]},
+{"id":"18","cell":["18","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","91456.00","64556.00","0.00","26900.00"]},
+{"id":"19","cell":["19","2018","Merced","ERIC","CANNON","FINANCIAL ANL 4","91456.00","85691.00","0.00","5765.00"]},
+{"id":"20","cell":["20","2018","San Diego","JANICE S","ROCHELLE","COMPENSATION ANL 3","91456.00","90456.00","0.00","1000.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "3903",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","ZOE BLAKE","SAMSON","CLIN NURSE 2","69773.00","64963.00","3688.00","1122.00"]},
+{"id":"2","cell":["2","2018","Berkeley","KELSEY","FRANCIS","PROJECT POLICY ANL 3","69770.00","69270.00","0.00","500.00"]},
+{"id":"3","cell":["3","2018","San Francisco","LAUREN ANN","SUER","CLIN NURSE 2","69767.00","55927.00","118.00","13722.00"]},
+{"id":"4","cell":["4","2018","Irvine","CLAUDIA","MONTESDEOCA","ADMIN ANL SR","69767.00","67275.00","0.00","2492.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","FERNANDO","LOZANO MURILLO","FAC MECH","69767.00","58329.00","10518.00","920.00"]},
+{"id":"6","cell":["6","2018","San Diego","ROBYN KEIKO","AUSTIN","HEALTH PROFNS EDUC SPEC 3","69767.00","69767.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","ANTON LUIS","DEL ROSARIO","RSCH ADM 3","69767.00","67767.00","0.00","2000.00"]},
+{"id":"8","cell":["8","2018","San Diego","JIMMY C.","LEE","RSCH ADM 3","69767.00","67767.00","0.00","2000.00"]},
+{"id":"9","cell":["9","2018","San Diego","TIFFANY MARY","ELMORE","RSCH ADM 3","69767.00","67767.00","0.00","2000.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ABU TAHER","MAHFUZUR RAHMAN","RADLG TCHNO SR","69765.00","64837.00","1142.00","3786.00"]},
+{"id":"11","cell":["11","2018","Berkeley","MARIA","LOPEZ","STDT SVC ADVISOR 3","69765.00","69265.00","0.00","500.00"]},
+{"id":"12","cell":["12","2018","Irvine","ALA\"A M","TOLBA","PROGR ANL 3","69764.00","68986.00","0.00","778.00"]},
+{"id":"13","cell":["13","2018","Santa Cruz","JENIFER LYN","ARMSTRONG","PHARMACIST SR EX","69764.00","69764.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","TINA","CHANG","CONTINUING EDUCATOR II","69764.00","64713.00","0.00","5051.00"]},
+{"id":"15","cell":["15","2018","San Diego","KI H.","KIM","BUS TCHL SUPP ANL 2","69763.00","69763.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","ANA V","BENAVIDES","ADMITTING WORKER PRN","69762.00","68730.00","0.00","1032.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","FRANCES","PEREZ","ORTHOPEDIC TCHN SR","69762.00","66757.00","1828.00","1177.00"]},
+{"id":"18","cell":["18","2018","Irvine","SUSAN E","CROSS","LRNG SKLS CNSLR PRN","69757.00","69757.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","JOSE","CASTELLANOS","OPHTHALMIC TCHN 1","69757.00","69727.00","4.00","26.00"]},
+{"id":"20","cell":["20","2018","San Francisco","VERONICA V.","GALLOWAY","HOSP BLANK AST 3","69754.00","68398.00","212.00","1144.00"]}]
+}

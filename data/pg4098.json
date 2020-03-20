@@ -1,0 +1,26 @@
+{
+"page" : "4098",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","JEREMY RYAN","LANE","CLIN SOCIAL WORKER 1 EX","67068.00","67068.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","GREGORY","SANDOVAL","ARTS AND LECTURES MGR","67068.00","66318.00","0.00","750.00"]},
+{"id":"3","cell":["3","2018","Berkeley","MARILYN","SEID-RABINOW","STDT ACAD SPEC 4","67068.00","67068.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","ALISON","LIPMAN","LECT-AY","67067.00","59672.00","0.00","7395.00"]},
+{"id":"5","cell":["5","2018","Davis","LISA A","TAFOYA","PHARMACY TCHN 2","67065.00","63142.00","2715.00","1208.00"]},
+{"id":"6","cell":["6","2018","San Francisco","JEFFREY","GUILLEN","HOSP LAB TCHN 1","67064.00","66776.00","0.00","288.00"]},
+{"id":"7","cell":["7","2018","Davis","LAURIE M","WARRICK","CLIN RSCH CRD SR NEX","67064.00","67064.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","MARIA","MEJIA","PUBL ADMSTN ANL SR","67064.00","67064.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","JESSICA M","HERNANDEZ","PHARMACY TCHN 2","67063.00","63647.00","3226.00","190.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ROXANA","GUTIERREZ","HOSP LAB TCHN 2","67062.00","60727.00","2473.00","3862.00"]},
+{"id":"11","cell":["11","2018","San Diego","ANDRES","FLORES","ATH TRAINER 3","67061.00","57484.00","5834.00","3743.00"]},
+{"id":"12","cell":["12","2018","Davis","GAYLE M","GRASMICK","CONTRACTS AND GRANTS SUPV 1","67060.00","67060.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","NAHID G","NASRABAD","DIETETIC AST","67060.00","65045.00","2015.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","CARLA C","FEUERSTEIN","ACAD HR ANL 2","67060.00","63560.00","0.00","3500.00"]},
+{"id":"15","cell":["15","2018","Irvine","SUSAN L","SCHAFER","STDT AFFAIRS OFCR 3 EX","67059.00","67059.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","BLAKE ALEXANDER","JOHNSON","CLIN RSCH CRD","67059.00","64875.00","2184.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","YI","TIAN","SRA 2 NEX","67059.00","67059.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","ROBERT DENNIS,JR.","PAYNE","SRA 2 NEX","67059.00","67059.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","RYOJI","SHIRAKI","SRA 2 NEX","67059.00","67059.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Cruz","MICHAEL GORDON","LARKINS","PHYS PLT MECH","67059.00","67035.00","24.00","0.00"]}]
+}

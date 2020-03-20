@@ -1,0 +1,26 @@
+{
+"page" : "6365",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","WEIXIAN","XI","POSTDOC-EMPLOYEE","44804.00","36768.00","0.00","8036.00"]},
+{"id":"2","cell":["2","2018","Davis","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","44804.00","44804.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","44804.00","44804.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","MARVIN LEE","JONES","CUSTODIAN LD","44804.00","43410.00","0.00","1394.00"]},
+{"id":"5","cell":["5","2018","Irvine","MAXINE CALIMLI","VILLANUEVA","ADMIN SPEC","44803.00","44803.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","LESLIE ANN","FREEMAN","ADMIN SPEC","44803.00","44803.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","PETER R","FELTMAN","CLIN RSCH CRD AST","44802.00","44783.00","19.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","EMILY","ROLAND","ADMIN SPEC","44801.00","44051.00","0.00","750.00"]},
+{"id":"9","cell":["9","2018","Davis","PATRICIA JO","RILJE","PHARMACY TCHN 3","44801.00","44744.00","0.00","57.00"]},
+{"id":"10","cell":["10","2018","San Diego","RONNIE Y","SALILENG","MED CTR CUSTODIAN SR","44801.00","42044.00","1755.00","1002.00"]},
+{"id":"11","cell":["11","2018","Irvine","ERIC","KIM","DENTIST SR","44800.00","0.00","0.00","44800.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","MARISA","VELA","ADMIN SPEC","44800.00","44800.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","JUAN","VENTURA","COOK","44800.00","44800.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Riverside","HENRI","SHIMOJYO","SUPV TEACHER ED-AY","44800.00","44938.00","0.00","-138.00"]},
+{"id":"15","cell":["15","2018","San Diego","YA-JU","CHANG","POSTDOC-EMPLOYEE","44799.00","44799.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","MAISEE","YANG","SRA 1","44798.00","44798.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","LAURA","ANTONUCCI","POSTDOC-EMPLOYEE","44798.00","44798.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","CALVIN KAING","LEE","SRA 1","44798.00","44736.00","62.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","LORI","SOLOMON","DENTAL HYGIENIST","44797.00","44797.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","EUGENE","YOUNG","BLANK AST 2","44796.00","44247.00","549.00","0.00"]}]
+}

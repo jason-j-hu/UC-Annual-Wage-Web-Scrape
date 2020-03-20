@@ -1,0 +1,26 @@
+{
+"page" : "4429",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","63145.00","59093.00","0.00","4052.00"]},
+{"id":"2","cell":["2","2018","San Francisco","RICHARD B","WILLIAMS","MED CTR FOOD SVC WORKER","63144.00","62189.00","955.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","JOANNA MARIE","BERSONDA","PRACTICE CRD 3","63143.00","58108.00","4363.00","672.00"]},
+{"id":"4","cell":["4","2018","Berkeley","CAROLYN","TSOSIE","FINANCIAL SVC ANL 2","63142.00","63142.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","JENNA","PASTORELLI","CLIN NURSE 2","63141.00","54121.00","216.00","8804.00"]},
+{"id":"6","cell":["6","2018","Davis","ANDREA M","VIVAR","PHLEBOTOMIST CERT TCHN 2","63138.00","56683.00","4330.00","2125.00"]},
+{"id":"7","cell":["7","2018","Davis","DONNA L","CHAN","CURRICULUM PLNR 2","63138.00","62192.00","26.00","920.00"]},
+{"id":"8","cell":["8","2018","Berkeley","STEVEN","HERRERA","BUS TCHL SUPP ANL 2","63138.00","63138.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","PHONESITH","SIVORAPHONH","HOSP LAB TCHN 2","63135.00","58713.00","784.00","3638.00"]},
+{"id":"10","cell":["10","2018","San Diego","BARRY D","PETERS","TCHL PROJECT MGT PROFL 4","63135.00","50479.00","0.00","12656.00"]},
+{"id":"11","cell":["11","2018","Davis","MARK","RUSSELL","AUTO EQUIP OPR PRN","63134.00","63134.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","UCOP","ALLISON","HILL","ADMIN OFCR 2","63134.00","62463.00","171.00","500.00"]},
+{"id":"13","cell":["13","2018","Davis","CARMEN M","GOMEZ","LECT-AY","63133.00","63133.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","KIMBERLY","BALL","LECT-AY","63133.00","63133.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","MELISSA MARIE","CHANDON","LECT-AY","63133.00","63133.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","MARTHA GRACIELA","CORTES","PRACTICE CRD 3","63132.00","61727.00","265.00","1140.00"]},
+{"id":"17","cell":["17","2018","San Diego","JENNIFER B","EDWARDS","CARE SUPV 2","63132.00","63132.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","PRISCILLA H","TONG","PROGR ANL 2","63131.00","63131.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","DARRYL","SAN PEDRO","HR GENERALIST 3","63131.00","61165.00","1466.00","500.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","MARK","WATLEY","PROGR ANL 2","63130.00","58587.00","4027.00","516.00"]}]
+}

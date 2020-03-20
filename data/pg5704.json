@@ -1,0 +1,26 @@
+{
+"page" : "5704",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","MARISOL","ROMAN","HOSP BLANK AST 3","51022.00","49522.00","1128.00","372.00"]},
+{"id":"2","cell":["2","2018","Davis","ROBIN","SCHMIDT","LAB MECHN HELPER","51022.00","51022.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","MARTHA M.","BRACAMONTES","BLANK AST 1","51022.00","50013.00","9.00","1000.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","JAMES","FREITAS","MED CTR SCRTY OFCR","51021.00","38380.00","8517.00","4124.00"]},
+{"id":"5","cell":["5","2018","Irvine","REGINA LYNN","MORENO","ACCESS REPR SR","51020.00","49917.00","442.00","661.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","MIRIAM","HUICHAPAN","BLANK AST 3","51020.00","51020.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","GUSTAVO","VICTORIA","MED CTR SCRTY OFCR","51018.00","38712.00","7953.00","4353.00"]},
+{"id":"8","cell":["8","2018","Riverside","LILIA","VALENCIA","BLANK AST 3","51017.00","50549.00","18.00","450.00"]},
+{"id":"9","cell":["9","2018","Riverside","JOHANNES","MAYER","POSTDOC-EMPLOYEE","51016.00","50316.00","0.00","700.00"]},
+{"id":"10","cell":["10","2018","Berkeley","SONYA","CROOMS","SCRTY GUARD SR","51016.00","51016.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","JAMILA ZALIKIA","MOTEN","MED OFC SVC CRD 3","51015.00","50706.00","309.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","JASON","QUIROS","SRA 2","51012.00","51012.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","DI","WU","SRA 2","51012.00","51012.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","SARAH","MOLITORIS","MGT SVC OFCR 1","51012.00","49512.00","0.00","1500.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","SHAYDA","JALALI","BLANK AST 3","51010.00","49915.00","1091.00","4.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","WILLIAM","RAMIREZ","SCRTY GUARD","51010.00","41066.00","8288.00","1656.00"]},
+{"id":"17","cell":["17","2018","Davis","DEAN C","KARNOPP","RECALL FACULTY","51008.00","51008.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Riverside","ANDREJ","MOLCHAN","ADMISSIONS RECRMT SPEC 3","51008.00","51008.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","CHARLES","D\"ARCY","COACH AST 3","51008.00","50008.00","0.00","1000.00"]},
+{"id":"20","cell":["20","2018","Davis","CHRISTOPHER E","BUSH","BUS TCHL SUPP ANL 3","51007.00","51007.00","0.00","0.00"]}]
+}

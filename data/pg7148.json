@@ -1,0 +1,26 @@
+{
+"page" : "7148",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","MATTHEW M","HIGA","LIBRARY AST 2","35917.00","35917.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","LUCILA","FRANCO","CUSTODIAN SR","35915.00","34526.00","0.00","1389.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","MARTIN","RODRIGUEZ","BLANK AST 2","35915.00","35837.00","78.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","ELIZABETH","CASTANEDA","FOOD SVC WORKER LD","35913.00","35913.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","JOSE LUIS","MORA","MED CTR COOK","35912.00","33383.00","1493.00","1036.00"]},
+{"id":"6","cell":["6","2018","Irvine","*****","*****","TEACHG ASST-GSHIP","35911.00","20791.00","0.00","15120.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","AUSTIN","TAYLOR","SOUND TCHN","35910.00","31864.00","4046.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","*****","*****","ADMIN ANL SR","35908.00","37555.00","0.00","-1647.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","RICHARD","FAGIN","BLANK AST 3","35908.00","28229.00","0.00","7679.00"]},
+{"id":"10","cell":["10","2018","Davis","MARISA Y","RODRIGUEZ","CMTY EDUC SPEC 2","35907.00","35416.00","3.00","488.00"]},
+{"id":"11","cell":["11","2018","San Diego","LISA TUYET VY DI","GOLE","CURRICULUM PLNR 2","35907.00","35529.00","370.00","8.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","GEORGE","CHIN","COOK","35906.00","25863.00","8837.00","1206.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","MICHELLE","LEE","POSTDOC-EMPLOYEE","35906.00","35906.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","CHRISTIE","FANOUS","BLANK AST 2","35904.00","35499.00","405.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","ASHLY N","PITTMAN","CLIN RSCH CRD","35903.00","35876.00","27.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","ROMUALDO P","MORALES","CUSTODIAN","35902.00","33829.00","0.00","2073.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","FRANTZ","MAZARIEGOS","MEETING ROOM CAPTAIN 1","35902.00","33342.00","1717.00","843.00"]},
+{"id":"18","cell":["18","2018","San Francisco","KARLA V","SARANTOPULOS","ADMIN SUPV 1","35901.00","35901.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","TRINH THI AI","NGUYEN","STF PHARMACIST 1 NEX","35900.00","17614.00","16990.00","1296.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","*****","*****","STDT PEER CNSLR","35900.00","26076.00","0.00","9824.00"]}]
+}

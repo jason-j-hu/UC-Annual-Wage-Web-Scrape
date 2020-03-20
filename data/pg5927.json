@@ -1,0 +1,26 @@
+{
+"page" : "5927",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","DANIEL","ARAUJO","POSTDOC-EMPLOYEE","49151.00","49151.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","XIANGPENG","LI","POSTDOC-EMPLOYEE","49151.00","49151.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","RONALD","MA","LAB AST 3","49151.00","49151.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","MARIA-KRISTINE","DIMAANO-SALANGA","SRA 1","49151.00","49151.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","VALERIE J","CHIAPPONE","RSCH ADM 2","49151.00","48455.00","696.00","0.00"]},
+{"id":"6","cell":["6","2018","Riverside","YONGZAN","ZHENG","POSTDOC-EMPLOYEE","49151.00","49151.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Riverside","MICHAEL","RUPP","POSTDOC-EMPLOYEE","49151.00","49151.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","DAVIDE","BERNAREGGI","POSTDOC-EMPLOYEE","49151.00","49151.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","JARRED M","ROBERTS","POSTDOC-EMPLOYEE","49151.00","49151.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","MAZIE","HUANG","PRACTICE CRD 2","49150.00","49116.00","34.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","STEVE","VARGAS","BLANK AST 3","49150.00","48602.00","548.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","KATHRYN KOLSTAD","HOFFMAN","ADMIN SPEC","49149.00","46140.00","3009.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","VALERIE L","BATTLES","COOK","49149.00","41186.00","7958.00","5.00"]},
+{"id":"14","cell":["14","2018","San Diego","JOSEPH MICHAEL","CANTOR","ASST RES-FY","49149.00","45539.00","0.00","3610.00"]},
+{"id":"15","cell":["15","2018","Davis","GABRIELA D","BARAJAS","MED OFC SVC CRD 2","49148.00","49148.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Cruz","LUCILA","VARGAS","CUSTODIAN SR","49148.00","48379.00","0.00","769.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","WILBER","CARRILLO","CUSTODIAN SR","49148.00","47494.00","1654.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","ERICK","GOMEZ","CUSTODIAN","49148.00","39767.00","7684.00","1697.00"]},
+{"id":"19","cell":["19","2018","Davis","EMILY J","MCDANIEL","CHILD LIFE SPEC 1 NEX","49147.00","49055.00","92.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","LENNOX","DALEY","STORES WORKER","49147.00","48209.00","938.00","0.00"]}]
+}

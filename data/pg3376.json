@@ -1,0 +1,26 @@
+{
+"page" : "3376",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","DORIS E","RIVAS WONG","PRACTICE CRD 3","78293.00","75330.00","1810.00","1153.00"]},
+{"id":"2","cell":["2","2018","San Francisco","MIN M","HTUN","HOSP LAB TCHN 1","78290.00","72387.00","287.00","5616.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","HANGJIE","JI","ASST ADJ PROF-AY","78290.00","70025.00","0.00","8265.00"]},
+{"id":"4","cell":["4","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","78289.00","60644.00","0.00","17645.00"]},
+{"id":"5","cell":["5","2018","San Francisco","MIRNA JEANNETTE","BENAVIDES","PHARMACY TCHN 3","78289.00","74374.00","1401.00","2514.00"]},
+{"id":"6","cell":["6","2018","Irvine","BEN","KONG","MED CTR ELECTR TCHN SR","78289.00","73673.00","638.00","3978.00"]},
+{"id":"7","cell":["7","2018","San Francisco","SHEILA CASTRO","TOLENTINO","HOSP LAB TCHN 1","78288.00","75567.00","1577.00","1144.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","LARRY","CAMPOS","HOSP LAB TCHN 4","78284.00","71161.00","4777.00","2346.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","MARISSA","CHAVEZ","GI ENDOSCOPY TCHN 3","78284.00","61124.00","10734.00","6426.00"]},
+{"id":"10","cell":["10","2018","San Francisco","EVELINA M","TUASON","PRACTICE CRD 3","78283.00","75367.00","918.00","1998.00"]},
+{"id":"11","cell":["11","2018","Irvine","CARYN R","NEISWENDER","PROGR ANL 3","78283.00","78283.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","DARREN","ZOOK","LECT-AY-CONTINUING","78283.00","73783.00","0.00","4500.00"]},
+{"id":"13","cell":["13","2018","Davis","TERREA L","PARKER","STDT LIFE DEVT SUPV 2","78282.00","78282.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","JAVIER","LOPEZ","PLUMBER","78279.00","74350.00","3920.00","9.00"]},
+{"id":"15","cell":["15","2018","Irvine","LANA","LE NAVARRETE","CLIN NURSE 2","78278.00","65047.00","8176.00","5055.00"]},
+{"id":"16","cell":["16","2018","San Francisco","WILLIZA TAN","CRUZ","HOSP LAB TCHN 1","78275.00","76813.00","321.00","1141.00"]},
+{"id":"17","cell":["17","2018","San Diego","ROBYN ANN","CHADWICK","INFO SYS ANL 3","78274.00","76739.00","35.00","1500.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ELENA","CHAVEZ","MGT SVC OFCR 2 SUPV","78273.00","75480.00","0.00","2793.00"]},
+{"id":"19","cell":["19","2018","Riverside","TAMI","FRIEDRICH","ADMIN OFCR 4","78272.00","78022.00","0.00","250.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","JOSHUA","SAMANI","LECT PSOE-AY","78272.00","78272.00","0.00","0.00"]}]
+}

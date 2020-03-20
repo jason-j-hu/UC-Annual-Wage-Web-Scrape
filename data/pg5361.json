@@ -1,0 +1,26 @@
+{
+"page" : "5361",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","CHRISTINE","AHN","CLIN NURSE 2","54022.00","53945.00","0.00","77.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","ANTONIO","ALMANZA","AUTO TCHN","54022.00","51188.00","2834.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","ELIZABETH","TOMPKINS","PAT RCDS ABSTRACTOR 2","54022.00","53190.00","58.00","774.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","DANIELLE","SORK","PRG REPR 3","54021.00","54021.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","TERI R.","DEN HERDER","PROCUREMENT ANL 2","54021.00","51650.00","965.00","1406.00"]},
+{"id":"6","cell":["6","2018","Berkeley","VICTORIA","YASENCHOK","BLANK AST 3","54021.00","54021.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","BRENDA","ANTONIO","BLANK AST 3","54020.00","52320.00","0.00","1700.00"]},
+{"id":"8","cell":["8","2018","Davis","ARLEN O","HACKLE","MED CTR ENVIR SVC WORKER 1","54018.00","41788.00","9577.00","2653.00"]},
+{"id":"9","cell":["9","2018","Berkeley","JESSICA","FREUND","FUNDRAISER 3","54016.00","54016.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","ERIN LEIGH","BAILEY","CLIN RSCH CRD SR NEX","54016.00","50734.00","51.00","3231.00"]},
+{"id":"11","cell":["11","2018","San Francisco","THOMAS B","GAINOUS","POSTDOC-EMPLOYEE","54016.00","54016.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ALBERTO","VALENZUELA","BLANK AST 3","54016.00","51120.00","2847.00","49.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","JOAN","LING","LECT-AY-CONTINUING","54016.00","35716.00","0.00","18300.00"]},
+{"id":"14","cell":["14","2018","Berkeley","STEPHEN","COTTON","POSTDOC-EMPLOYEE","54016.00","54016.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Irvine","ANTHONY F.","JOHNS","PHLEBOTOMIST","54014.00","48948.00","4002.00","1064.00"]},
+{"id":"16","cell":["16","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","54014.00","50614.00","0.00","3400.00"]},
+{"id":"17","cell":["17","2018","Irvine","JANNET","CAMPOS","BLANK AST 3","54013.00","50956.00","2011.00","1046.00"]},
+{"id":"18","cell":["18","2018","San Diego","LANA M","HARTWELL","CURRICULUM PLNR 2","54012.00","52812.00","0.00","1200.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","INDIRA","GARCIA","STDT AFFAIRS OFCR 2","54011.00","53011.00","0.00","1000.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","NIA","MACKIE","ADMIN SPEC","54011.00","52680.00","1331.00","0.00"]}]
+}

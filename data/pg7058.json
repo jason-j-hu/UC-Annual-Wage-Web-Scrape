@@ -1,0 +1,26 @@
+{
+"page" : "7058",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","RUI","ADACHI","JR SPECIALIST","36969.00","36767.00","202.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","SELSA","PEREZ","CUSTODIAN SR","36968.00","36968.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","NICOLE","BURKE","FINANCIAL SVC ANL 2","36966.00","36966.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","TIARA ILEXIS","CARBULLIDO","HOSP AST 3 PD","36966.00","36344.00","622.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","SAMUEL","KARLIN","RSCH DATA ANL 2","36965.00","36965.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Merced","KIMBERLY","YANOGACIO","ACAD HR ANL 2","36962.00","36876.00","86.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","CHOTIKA","CHEYSOBHON","MED CTR CUSTODIAN SR","36961.00","34565.00","1779.00","617.00"]},
+{"id":"8","cell":["8","2018","San Diego","DARCI J","MILLER","HEALTH EDUCATOR 3","36961.00","33513.00","0.00","3448.00"]},
+{"id":"9","cell":["9","2018","San Francisco","LAURA A","MOHR","REVENUE CYCLE HC ANL 1","36960.00","36960.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","JENNY","FONG","CLIN RSCH CRD","36960.00","31037.00","667.00","5256.00"]},
+{"id":"11","cell":["11","2018","San Diego","*****","*****","TUT-NON STDNT","36958.00","36858.00","0.00","100.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","CLAIRE","CHIK","PRG REPR 3","36957.00","36957.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","ESPERANZA MELISS","FITOUSSI","CLIN NURSE 2","36957.00","30372.00","2789.00","3796.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","TANIA","ARMIENTA","MED CTR CUSTODIAN SR","36955.00","36926.00","18.00","11.00"]},
+{"id":"15","cell":["15","2018","San Diego","GLORIA MARIA","RIVERA","CUSTODIAN SR","36952.00","36916.00","27.00","9.00"]},
+{"id":"16","cell":["16","2018","San Diego","RONG WANG","ZABLOCKI","CMPTL AND DATA SCI RSCH SPEC 3","36952.00","36952.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","*****","*****","INTRM POSTDOC SCHOLAR-EMPLOYEE","36951.00","36951.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","JUN","ZHU","ASSOC SPECIALIST","36950.00","36950.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","*****","*****","POSTDOC-EMPLOYEE","36950.00","36950.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","AARON","SCHLEYHAHN","MED CTR CUSTODIAN SR","36948.00","33382.00","2854.00","712.00"]}]
+}

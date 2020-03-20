@@ -1,0 +1,26 @@
+{
+"page" : "4750",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","RAUL","MAGALLANES","GROUNDS SUPV NEX","59820.00","52040.00","6080.00","1700.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","LAUREN","RUBIO","MARKETING SPEC 3","59819.00","59819.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","LORENZO S.","MAURICIO","MED CTR FOOD SVC WORKER SR","59818.00","52890.00","3741.00","3187.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","JACQUELINE","ALEGRIA","MED AST 3","59818.00","59620.00","143.00","55.00"]},
+{"id":"5","cell":["5","2018","San Diego","MARIA DELALUZ","ALVAREZ","HEALTH PROFNS EDUC SPEC 2","59818.00","59318.00","0.00","500.00"]},
+{"id":"6","cell":["6","2018","Berkeley","ANA BELEN","REDONDO CAMPILLOS","LECT-AY","59818.00","56318.00","0.00","3500.00"]},
+{"id":"7","cell":["7","2018","Berkeley","JING","CHENG","ASSOC SPECIALIST","59818.00","59818.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","MICHELLE Y.","MOSELEY","CMTY EDUC SPEC 3","59817.00","56610.00","0.00","3207.00"]},
+{"id":"9","cell":["9","2018","Davis","MARY A","NAUER","EXEC AST 3","59817.00","57539.00","0.00","2278.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","AUSHU","BERNAS","MED AST 3","59816.00","58368.00","1093.00","355.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","JOHN","ARMOUR","ADJ PROF-FY","59816.00","59816.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","IVY C","HAMILTON","MED OFC SVC CRD 3","59816.00","59216.00","600.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","CARISSA","ALMANDMOSS","EVENTS SPEC 3","59816.00","59816.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","JIMMY","HERNANDEZ","CHEF 2","59815.00","55058.00","4757.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","LILIA G","TUMBAGA","CASE MGR NEX","59814.00","58846.00","936.00","32.00"]},
+{"id":"16","cell":["16","2018","Davis","ANITA D","GARCIA","MED OFC SVC CRD 3","59814.00","59770.00","44.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","BALBIR K","GILL","MED OFC SVC CRD 3","59813.00","59555.00","258.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","MONICA","NAPUTI","RSCH ADM 2","59813.00","59258.00","55.00","500.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","JENNY","YOO","STDT AFFAIRS OFCR 3 EX","59812.00","59812.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","STEVEN D.","ILOTT","LIBRARY PROFL 4","59812.00","59812.00","0.00","0.00"]}]
+}

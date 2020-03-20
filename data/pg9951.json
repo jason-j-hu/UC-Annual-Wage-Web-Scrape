@@ -1,0 +1,26 @@
+{
+"page" : "9951",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","*****","*****","STDT 2 WKSTY","10155.00","10098.00","0.00","57.00"]},
+{"id":"2","cell":["2","2018","Berkeley","ELISABETH","SADOULET","RECALL FACULTY","10155.00","10155.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","LORRAINE A","CARROLL","AMBUL CARE ADMSTN MGR 2","10154.00","10154.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","GIOVANNI","AGUILAR","ATH PROFL 1 BYA","10154.00","10154.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","WILLIAM","SCHNEIDER","VIS PROF","10154.00","10154.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","*****","*****","LECT IN SUMMER SESSION","10153.00","6884.00","0.00","3269.00"]},
+{"id":"7","cell":["7","2018","San Diego","*****","*****","STDT 4","10153.00","10108.00","0.00","45.00"]},
+{"id":"8","cell":["8","2018","Berkeley","*****","*****","STDT 2","10152.00","10152.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Santa Cruz","CLARA","WEYGANDT","LECT-AY-1/9","10152.00","9468.00","0.00","684.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","WILLARD L","GARMAN","TEACHER-UNEX-CONTRACT YR","10152.00","0.00","0.00","10152.00"]},
+{"id":"11","cell":["11","2018","San Diego","DOUGLAS B","TIPPIN","ASC PHYSCN","10152.00","0.00","0.00","10152.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","*****","*****","TEACHG FELLOW-GSHIP","10151.00","10151.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Riverside","*****","*****","GSR-PARTIAL FEE REM","10151.00","9963.00","0.00","188.00"]},
+{"id":"14","cell":["14","2018","Irvine","CHAD DENNIS","SMELTZ","TEACHER-UNEX-CONTRACT YR","10150.00","0.00","0.00","10150.00"]},
+{"id":"15","cell":["15","2018","Irvine","SALENA ARVIZU","HERNANDEZ","CASE MGR EX","10150.00","10150.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","PAUL","WITCOVER","TEACHER-UNEX-CONTRACT YR","10150.00","0.00","0.00","10150.00"]},
+{"id":"17","cell":["17","2018","Davis","*****","*****","STDT 4","10150.00","10150.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","10150.00","10050.00","0.00","100.00"]},
+{"id":"19","cell":["19","2018","Berkeley","GEMMA","NIERMANN","LECT IN SUMMER SESSION","10150.00","0.00","0.00","10150.00"]},
+{"id":"20","cell":["20","2018","Berkeley","*****","*****","STDT 2","10149.00","10049.00","100.00","0.00"]}]
+}

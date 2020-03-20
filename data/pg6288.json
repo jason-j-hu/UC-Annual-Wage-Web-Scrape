@@ -1,0 +1,26 @@
+{
+"page" : "6288",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","CHRISTOPHER","SWORD","ADMIN ANL","45629.00","44562.00","0.00","1067.00"]},
+{"id":"2","cell":["2","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","45628.00","42432.00","0.00","3196.00"]},
+{"id":"3","cell":["3","2018","Irvine","EMILY","DAWIDOFF","ADMIN SPEC","45628.00","45628.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","ANYSA","CALDERON","BLANK AST 3","45628.00","45474.00","154.00","0.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","JAIME","GARCIA","BLDG MAINT WORKER SR","45628.00","45628.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","ARAN B","MERATI","SRA 1","45628.00","45628.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","DEVI","WISEMAN","BLANK AST 3","45627.00","44298.00","112.00","1217.00"]},
+{"id":"8","cell":["8","2018","Davis","COREY R","VERMILION","BLANK AST 3","45627.00","45350.00","277.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","SAMANTHA","YEO","SRA 3","45627.00","45627.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","RORY JOH","KAMERMAN-KRETZM","HS ASST CLIN PROF-HCOMP","45627.00","28502.00","0.00","17125.00"]},
+{"id":"11","cell":["11","2018","San Francisco","MARIANNA","SILVESTRI","PAT BILL AND COLL REPR 3","45626.00","37942.00","0.00","7684.00"]},
+{"id":"12","cell":["12","2018","San Francisco","ANTHONY DAVID","KNOX","SRA 1","45626.00","44533.00","1093.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","ALEXIA","RAMIREZ","LIBRARY SUPV 1","45626.00","45626.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","ARACELI","AMEZCUA","PAT COMM REPR","45625.00","45625.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","VIKTOR","SULZHIK","MED CTR ENVIR SVC WORKER 1","45625.00","41287.00","1697.00","2641.00"]},
+{"id":"16","cell":["16","2018","San Diego","MA. KATERINA","RAMOS","MED AST 2","45625.00","45625.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","JOSEPH A","WHITESIDE","GROUNDSKEEPER","45622.00","45312.00","310.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","KHANH KATHY NGUY","DONG","STDT AFFAIRS OFCR 2","45620.00","45620.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","ROMAN KING","FLINTROY","CLIN SOCIAL WORKER 1 EX","45619.00","45619.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","TUNISIA","NASSAR","ADMIN CARE CLIN PARTNER","45619.00","38211.00","1296.00","6112.00"]}]
+}

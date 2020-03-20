@@ -1,0 +1,26 @@
+{
+"page" : "4016",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","CLAUDIA","JIMENEZ","VOC NURSE SR","68103.00","67245.00","108.00","750.00"]},
+{"id":"2","cell":["2","2018","San Francisco","JULIE LYNN","ERICH","ADMIN OFCR 2","68101.00","68101.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","JAY D.","LEEK","ARTIST SR","68101.00","66024.00","2077.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","MICHELLE ULRICH","SIRIGNANO","DIETITIAN 2","68101.00","66841.00","260.00","1000.00"]},
+{"id":"5","cell":["5","2018","Davis","CHRISOULA AGAP","SKOURITAKIS","INSTRUCTIONAL DESIGNER 3","68100.00","67600.00","0.00","500.00"]},
+{"id":"6","cell":["6","2018","San Diego","KIM SOMERA","GAVINA","CLIN NURSE 2","68099.00","64752.00","964.00","2383.00"]},
+{"id":"7","cell":["7","2018","Davis","ANGELA S","MARCHBANKS","CONTRACT ADM 2","68098.00","68066.00","32.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","THELMA S","SIMMONS","COMM AND NETWORK TCHL ANL 2","68098.00","68098.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","LISA","MONAHAN","BLANK AST 3","68096.00","59825.00","7271.00","1000.00"]},
+{"id":"10","cell":["10","2018","Davis","ANTONIO N","SANTILLANEZ","CARPENTER","68094.00","67371.00","723.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","ANNE VICTORIA","BEDIGIAN","CLIN RSCH CRD SR NEX","68093.00","63635.00","0.00","4458.00"]},
+{"id":"12","cell":["12","2018","Davis","MELANIE L","NELSON","RSCH ADM 3","68093.00","66543.00","0.00","1550.00"]},
+{"id":"13","cell":["13","2018","Berkeley","RACHEL","MARGOSIAN","FINANCIAL SVC ANL 2","68093.00","68093.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","68092.00","60744.00","0.00","7348.00"]},
+{"id":"15","cell":["15","2018","Davis","ANA M","HINMAN","IP OFCR 2","68091.00","68091.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","JOANNA","BETTINGER","RSCH AND DEV ENGR 3","68090.00","67590.00","0.00","500.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","MICHAEL","WHITE","PRG REPR 2","68089.00","47859.00","8330.00","11900.00"]},
+{"id":"18","cell":["18","2018","Berkeley","HONG","QUACH","LAB RSCH SUPV 1","68087.00","68087.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","SAMUEL","WONG","RSCH ADM 3","68084.00","68084.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","JESSICA DODICK","FIELDS","RSCH DATA ANL 2","68083.00","66142.00","941.00","1000.00"]}]
+}

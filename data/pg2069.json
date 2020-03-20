@@ -1,0 +1,26 @@
+{
+"page" : "2069",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","UCOP","YELAMANDA","AMANCHI","BUS SYS ANL 3","110363.00","110363.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Berkeley","DEBORAH","RUTKOWSKI-HOWARD","CONTRACTS AND GRANTS SUPV 2","110363.00","110363.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Irvine","CRAIG ALAN","DENNEY","CONST PROJECT MGR","110362.00","110362.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","MARIA VEREMMA I","BALINGIT","CLIN NURSE 2","110359.00","108718.00","0.00","1641.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","KELLY","CHARLTON","PUBL ADMSTN ANL PRN","110357.00","110357.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","MARIA GLORIA","TONDO","CLIN LAB SCI SPEC","110355.00","100873.00","3056.00","6426.00"]},
+{"id":"7","cell":["7","2018","Irvine","JOSHUA ISRAEL","SANTOS","CLIN LAB SCI SPEC","110354.00","104014.00","5316.00","1024.00"]},
+{"id":"8","cell":["8","2018","San Francisco","LARRY NATHANIEL","BATES","APPLICATIONS PROGR 3","110350.00","109350.00","0.00","1000.00"]},
+{"id":"9","cell":["9","2018","Davis","DANIEL A","SEGEL","SYS ADMSTN SUPV 2","110350.00","110350.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Irvine","PHILIP BAYARD","VEILLER","ADMIN ANL PRN 2","110346.00","110346.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","ALICE","HOFTMAN","ASC PHYSCN","110341.00","110341.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","LAUREN","GIBSON","HEALTH INFO SYS ANL","110340.00","103456.00","0.00","6884.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","NIDA","KARIMI","CLIN NURSE 3","110340.00","105512.00","1817.00","3011.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","JIN","PARK","CLIN LAB SCI","110337.00","103821.00","5517.00","999.00"]},
+{"id":"15","cell":["15","2018","Irvine","XUAN THANH THI","HO","CLIN LAB SCI SPEC","110327.00","102378.00","6899.00","1050.00"]},
+{"id":"16","cell":["16","2018","Irvine","ALLEN MIN","CHEN","PROF OF CLIN-HCOMP","110327.00","30955.00","0.00","79372.00"]},
+{"id":"17","cell":["17","2018","Irvine","CLINT HIDEO","MARUKI","PROGR ANL 4 SUPV","110325.00","110325.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","JOSHUA P","WESTLING","REG RESP THER 1","110324.00","100230.00","4041.00","6053.00"]},
+{"id":"19","cell":["19","2018","San Diego","DOUGLAS N.","GUREVITCH","RSCH AND DEV ENGR 4","110323.00","108185.00","0.00","2138.00"]},
+{"id":"20","cell":["20","2018","San Diego","JANEAN R.","THOMPSON","ADMIN OFCR 3","110322.00","105322.00","0.00","5000.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "3666",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","FRANCES M","HERNANDEZ","ACCESS REPR PRN","73177.00","63614.00","5666.00","3897.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","AUDREY","HARRIS","ASST ADJ PROF-AY","73176.00","62925.00","0.00","10251.00"]},
+{"id":"3","cell":["3","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","73175.00","58154.00","0.00","15021.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","ANDRES","YBARRA","PROGR ANL 2","73174.00","73174.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","GABRIELA","DUPRAT-AMBRIZ","PAT RCDS ABSTRACTOR 3","73171.00","71303.00","1118.00","750.00"]},
+{"id":"6","cell":["6","2018","San Francisco","CHERYL M","COPP","CLIN NURSE 3","73170.00","61507.00","3374.00","8289.00"]},
+{"id":"7","cell":["7","2018","San Francisco","ERLINDA G","CALPITO","REG DIETETIC TCHN","73170.00","71714.00","290.00","1166.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","SHARON","SOLIS","CMPTL DATA SCI RSCH SPEC 3 GF","73169.00","73169.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","CHUNDI","CHEN","ADMITTING WORKER SR","73166.00","65817.00","5603.00","1746.00"]},
+{"id":"10","cell":["10","2018","Irvine","WILLIAM G,JR","NAGEL","ADMIN ANL SR","73166.00","73166.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","MALLORY B","BOECKMAN","EMPLOYEE REL REPR 3","73165.00","70686.00","88.00","2391.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ALYSON","BECKMAN","PRG REPR 3","73165.00","73165.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","73165.00","65665.00","0.00","7500.00"]},
+{"id":"14","cell":["14","2018","San Francisco","WILLIAM","HO","HEALTH PROFNS EDUC SPEC 3","73164.00","72164.00","0.00","1000.00"]},
+{"id":"15","cell":["15","2018","San Francisco","MARINA","METREVELI","PRACTICE CRD 3","73163.00","71228.00","793.00","1142.00"]},
+{"id":"16","cell":["16","2018","San Francisco","AI","LE","REG RESP THER 1","73162.00","52049.00","11807.00","9306.00"]},
+{"id":"17","cell":["17","2018","San Diego","JANINA LOPEZ","JIMENEZ","CLIN RSCH ANL 4","73162.00","73162.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","DAVID ANTHONY","PAREDES","PAT CARE DIALYSIS TCHN 2","73160.00","68473.00","1887.00","2800.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","ANDREW","GRANT","HVAC MECH","73159.00","73159.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","73158.00","54790.00","0.00","18368.00"]}]
+}

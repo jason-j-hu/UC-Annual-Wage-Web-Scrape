@@ -1,0 +1,26 @@
+{
+"page" : "6712",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","CRYSTAL","HAN","PUBL ADMSTN ANL SR","41053.00","41053.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","SARAH N","FETHEROLF","LAB AST 3","41051.00","41051.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","EULA ANN","MISTICA","NURSE AID SR","41051.00","40045.00","6.00","1000.00"]},
+{"id":"4","cell":["4","2018","San Diego","FLORDELUNA BAUTI","VILLAMOR","PHLEBOTOMIST CERT TCHN 2","41050.00","37273.00","1434.00","2343.00"]},
+{"id":"5","cell":["5","2018","Santa Cruz","MARY ELIZABETH","ALLEN","LIBRARY AST 3","41049.00","40023.00","26.00","1000.00"]},
+{"id":"6","cell":["6","2018","San Diego","DIANA ALEJA","VARGAS-GARCIA","BLANK AST 2","41047.00","40547.00","0.00","500.00"]},
+{"id":"7","cell":["7","2018","Davis","REBECCA LARKIN","VAUGHN","MUSEUM EDUCATOR 2","41046.00","40845.00","201.00","0.00"]},
+{"id":"8","cell":["8","2018","Santa Cruz","GLORIA","AMAYA","FOOD SVC WORKER SR","41046.00","39512.00","257.00","1277.00"]},
+{"id":"9","cell":["9","2018","San Diego","SERGIO VICTORINO","ALVARADO","MED CTR FOOD SVC WORKER","41046.00","34222.00","4796.00","2028.00"]},
+{"id":"10","cell":["10","2018","Berkeley","RAQUEL","CARRASCO","CUSTODIAN","41046.00","38535.00","171.00","2340.00"]},
+{"id":"11","cell":["11","2018","San Francisco","TAMMY M","NICASTRO","ACADEMIC COORD II-FY","41045.00","41045.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","ROSA A","HERRERA","COOK SR","41044.00","36330.00","4210.00","504.00"]},
+{"id":"13","cell":["13","2018","Davis","KAMLESH","LATA","CUSTODIAN SR","41044.00","41044.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","JENNIFER","GARCIA","SRA 2 NEX","41043.00","40874.00","169.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","ALISHA ARTI","RAM","MED OFC SVC CRD 2","41043.00","40963.00","80.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Cruz","TERESA","MAGANA DE ZAMOR","FOOD SVC WORKER SR","41042.00","40872.00","165.00","5.00"]},
+{"id":"17","cell":["17","2018","Berkeley","JENNIFER","SEINO","HS ASSOC CLIN PROF-AY","41042.00","41042.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","MARCELA","FIERRO","BLANK AST 3","41041.00","40173.00","522.00","346.00"]},
+{"id":"19","cell":["19","2018","San Diego","CALLIE ROSE","ACKLEY","CLIN NURSE 2","41041.00","38892.00","798.00","1351.00"]},
+{"id":"20","cell":["20","2018","Berkeley","LUZ","ROMERO","EVENTS SPEC 3","41039.00","41039.00","0.00","0.00"]}]
+}

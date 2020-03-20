@@ -1,0 +1,26 @@
+{
+"page" : "6415",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","ANTOANETA I","GORANOVA","REG DENTAL AST","44292.00","44223.00","69.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ARMANDO","SMITH","CLERK SR OR SECR","44292.00","40064.00","228.00","4000.00"]},
+{"id":"3","cell":["3","2018","San Diego","CAROLINA","AVINA PERZABAL","HOSP AST 3 PD","44292.00","43145.00","397.00","750.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","LESLIE","LARREYNAGA","PAT COMM REPR","44291.00","44291.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","STEVEN","MARTINEZ","PAT COMM REPR","44291.00","44123.00","168.00","0.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","JASON","BENEDICT","ASST SPECIALIST","44291.00","44291.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","RONG","FANG","CUSTODIAN","44291.00","42618.00","270.00","1403.00"]},
+{"id":"8","cell":["8","2018","San Francisco","MAYRA ELIZABETH","SALAVERRIA","PAT TRANSPORT TCHN 1","44290.00","33826.00","5175.00","5289.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","NINA","ZASLAVSKIY","CLIN NURSE 2","44289.00","43136.00","75.00","1078.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","SHADIA","BAUTISTA","BLANK AST 3","44289.00","44150.00","139.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","DYLAN R","KINSER","TCHN SR","44288.00","40976.00","2712.00","600.00"]},
+{"id":"12","cell":["12","2018","Irvine","DANIEL PABLO T","STA INES","RESP THER 2","44287.00","44081.00","0.00","206.00"]},
+{"id":"13","cell":["13","2018","San Diego","KAY F","WIGGINS","BLANK AST 3","44287.00","43413.00","874.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","SIAVASH","MOGHADAMI","APPLICATIONS PROGR 2","44286.00","44286.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","ALI","MIRZA","PROGR ANL 3","44286.00","44286.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","JENNIFER ANN","BRISCOE","COMM SPEC 3","44286.00","44286.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","SARAH R","MIETKIEWICZ","CLIN NURSE 2","44285.00","38525.00","2819.00","2941.00"]},
+{"id":"18","cell":["18","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","44285.00","36177.00","0.00","8108.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","MICHAEL","CAUN","SRA 3 SUPV","44284.00","44284.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","STACI M","GONZALES","BLANK AST 2","44284.00","43603.00","681.00","0.00"]}]
+}

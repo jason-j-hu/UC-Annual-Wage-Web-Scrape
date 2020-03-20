@@ -1,0 +1,26 @@
+{
+"page" : "2306",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Merced","EVANS","LUSULI","COMPENSATION ANL 4","103426.00","103426.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","ERIN L","MURRAY","DATA ANALYSIS SUPV 2","103425.00","103425.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Irvine","CLAUDIA LEE","BURNETTE","ADMIN ANL SR","103424.00","100903.00","0.00","2521.00"]},
+{"id":"4","cell":["4","2018","Davis","ANTONINA F","GUTSU","SURGICAL TCHN SR","103420.00","72940.00","15381.00","15099.00"]},
+{"id":"5","cell":["5","2018","Irvine","JANET MARIE","SERVIN","HEALTH INFO CODER 4","103419.00","99758.00","2641.00","1020.00"]},
+{"id":"6","cell":["6","2018","San Diego","GARY A.","HUBER","PROJ SCIENTIST-FY","103417.00","103417.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","JAY","CHAVEZ","FINANCIAL ANL 4","103415.00","103415.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","UCOP","KATHLEEN","SALVATY","ETHICS AND CMPLNC MGR 3","103414.00","84014.00","0.00","19400.00"]},
+{"id":"9","cell":["9","2018","Riverside","FRANCESCA","HOPKINS","ASST PROF-AY","103414.00","77817.00","0.00","25597.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ERIN","MA","CLIN LAB SCI","103413.00","91093.00","5507.00","6813.00"]},
+{"id":"11","cell":["11","2018","San Diego","DUNWICK B.","AGONCILLO","APPLICATIONS PROGR 4","103413.00","98797.00","0.00","4616.00"]},
+{"id":"12","cell":["12","2018","Irvine","SCOTT MITCHELL","LUSBY","PROGR ANL 4 SUPV","103412.00","103412.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","CONSTANCE I.","FULLER","TCHL PROJECT MGT PROFL 4","103412.00","103412.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","STEPHANIE","SOARES","ACAD PRG MGT OFCR 4","103411.00","102361.00","0.00","1050.00"]},
+{"id":"15","cell":["15","2018","Irvine","GLENDA M.","FLORES","ASSOC PROF-AY","103408.00","103408.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","DAWN","LY","CLIN NURSE 2","103405.00","99392.00","2687.00","1326.00"]},
+{"id":"17","cell":["17","2018","San Diego","KAYLA NICOLE","LAURIANO","CLIN NURSE 2","103404.00","87473.00","3818.00","12113.00"]},
+{"id":"18","cell":["18","2018","San Francisco","AN N.","PHAN","COMPENSATION ANL 3","103400.00","102400.00","0.00","1000.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","YESENIA","DIAZ","CLIN NURSE 2","103399.00","87779.00","1675.00","13945.00"]},
+{"id":"20","cell":["20","2018","San Francisco","DIANE ELIZABETH","ARMSTRONG","PHYS THER 2 EX","103398.00","101566.00","0.00","1832.00"]}]
+}

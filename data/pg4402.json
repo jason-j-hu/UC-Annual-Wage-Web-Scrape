@@ -1,0 +1,26 @@
+{
+"page" : "4402",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","KRISTINE","NERA","ACAD HR ANL 3","63406.00","61697.00","322.00","1387.00"]},
+{"id":"2","cell":["2","2018","Davis","JENNIFER L.","HUDSON","FINANCIAL SVC ANL 2","63404.00","63304.00","100.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","JUSTIN","LOVETT","PRG REPR 3","63404.00","63404.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","MARK","SCHNEIDER","BLDG MAINT WORKER SR","63403.00","63403.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","JASON","ANTHONY","STDT ACAD SPEC 3","63403.00","62903.00","0.00","500.00"]},
+{"id":"6","cell":["6","2018","Davis","SCOTT","BUHL","FIELD RESEARCHER 2","63402.00","60278.00","3124.00","0.00"]},
+{"id":"7","cell":["7","2018","Santa Cruz","BRENT ANDREW","ALSAKER","CNSLNG PSYCHOLOGIST 2 EX","63402.00","61100.00","0.00","2302.00"]},
+{"id":"8","cell":["8","2018","San Francisco","JAMES ROBERT","MOSER","BLANK AST 3","63401.00","56626.00","4.00","6771.00"]},
+{"id":"9","cell":["9","2018","Irvine","JAMES","WANG","ADMIN ANL SR","63401.00","63401.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Irvine","JASMIN JACQULYNE","RAMIREZ","ADMIN ANL SR","63401.00","63401.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","DANIEL","LOSEN","DIR","63400.00","63400.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","PAUL","REYES","PHARMACY TCHN 2","63400.00","56417.00","2809.00","4174.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","ALFREDO","EUDAVE","BLANK AST 3 SUPV","63399.00","61581.00","1818.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","OPHELIA","NADORES","PHLEBOTOMIST CERT TCHN 2","63399.00","60910.00","1914.00","575.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","JACINTA","OKOKWE","CLIN CARE PARTNER PD","63399.00","49574.00","11035.00","2790.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","63399.00","55949.00","0.00","7450.00"]},
+{"id":"17","cell":["17","2018","Irvine","ALEJANDRA","GARIBAY","STDT AFFAIRS OFCR 3 EX","63398.00","62648.00","0.00","750.00"]},
+{"id":"18","cell":["18","2018","Davis","VOLODYMYR S","STEPANENKO","STERILE PROCESSING TCHN 2","63398.00","57540.00","3107.00","2751.00"]},
+{"id":"19","cell":["19","2018","Berkeley","JULIA","MEARS","STDT ACAD SPEC 3","63398.00","62898.00","0.00","500.00"]},
+{"id":"20","cell":["20","2018","San Francisco","BILLY WAH","YIP","MED CTR COOK","63397.00","60960.00","1297.00","1140.00"]}]
+}

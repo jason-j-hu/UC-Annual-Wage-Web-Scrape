@@ -1,0 +1,26 @@
+{
+"page" : "4945",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","THOMAS MICHAEL","JOYCE","RSCH ADM 1","57944.00","57504.00","0.00","440.00"]},
+{"id":"2","cell":["2","2018","Berkeley","ALISON","MARKLEIN","POSTDOC-EMPLOYEE","57943.00","57943.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","BARBARA C","NICHOLAS","CLIN NURSE 2","57943.00","56534.00","767.00","642.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","GABRIEL","AGUILAR","FAC WORKER","57943.00","50996.00","3476.00","3471.00"]},
+{"id":"5","cell":["5","2018","Irvine","KIM THIEN","NGUYEN","ASST PROJ SCIENTIST-FY","57942.00","57942.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","JOHN ALEXANDER","BENSON","COMPUTER NETWORK TCHNO 3","57942.00","50512.00","0.00","7430.00"]},
+{"id":"7","cell":["7","2018","Berkeley","DEANNA","KISER-GO","STDT ACAD ADVISOR 3","57942.00","57442.00","0.00","500.00"]},
+{"id":"8","cell":["8","2018","San Francisco","PAULA E","HERNANDEZ","HOSP UNIT SVC CRD 3","57941.00","54154.00","2266.00","1521.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","BETHANY","STARK","BLANK AST 3","57939.00","57229.00","419.00","291.00"]},
+{"id":"10","cell":["10","2018","San Diego","TIFFANY JOYCE","COOPER","DIETITIAN 2","57939.00","56938.00","0.00","1001.00"]},
+{"id":"11","cell":["11","2018","San Diego","PAULINE AIRLA FE","DEGUZMAN","STDT SVC ADVISOR 3","57939.00","57939.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","JULIE","NGUYEN","HOSP BLANK AST 3","57938.00","56175.00","620.00","1143.00"]},
+{"id":"13","cell":["13","2018","Irvine","ROXANNE M","CORNEJO","BLANK AST 3","57938.00","57938.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","JIN","LEE","POSTDOC-EMPLOYEE","57938.00","57938.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","BENJAMIN MICHAEL","MENDOZA","STDT LIFE DEV SPEC 2","57938.00","55938.00","0.00","2000.00"]},
+{"id":"16","cell":["16","2018","San Diego","JOSEPH ALLEN RUA","RAMIREZ","STDT LIFE DEV SPEC 2","57938.00","55938.00","0.00","2000.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","ELI","SONGCO","HOSP BLANK AST 3","57937.00","57167.00","577.00","193.00"]},
+{"id":"18","cell":["18","2018","San Diego","MARCUS WILLIAM","THOMPSON","K to 14 ACAD PREP SPEC 3","57935.00","57935.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","ULISES","ALARCON VILLASE","K to 14 ACAD PREP SPEC 3","57935.00","57935.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","DANIEL","ARNOLD","POSTDOC-EMPLOYEE","57935.00","57935.00","0.00","0.00"]}]
+}

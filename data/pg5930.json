@@ -1,0 +1,26 @@
+{
+"page" : "5930",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ADRIANA","BROWN","BLANK AST 3 SUPV","49132.00","47846.00","286.00","1000.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ALBY","FRANCO","BLANK AST 3","49131.00","47702.00","1429.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","FERNANDO","GARCIA","MED CTR CUSTODIAN LD","49130.00","45151.00","3602.00","377.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","TYLER","FRANCIS","MGT SVC OFCR 1","49130.00","48620.00","0.00","510.00"]},
+{"id":"5","cell":["5","2018","Davis","WARREN B","NG","SRA 1","49130.00","49130.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","ADAM T","NIESE","SRA 1","49130.00","49130.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","MARTINA P.","PASILLAS","SRA 1","49130.00","49130.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","BAISHA L","CLAXTON","MED AST 1","49128.00","48491.00","637.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","JOSEPH M.","SUGIE","POSTDOC-EMPLOYEE","49128.00","49128.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","HAZEL","SANCHEZ","NURSE PD","49126.00","43678.00","0.00","5448.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","RENATO","MARTINEZ","BLANK AST 2","49125.00","48441.00","684.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","RICKY","FLORES","CUSTODIAL SUPV 2","49125.00","49125.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","PAIGE KRISTI","BATHERSFIELD","PAT NAVGTR NON-CLIN 3","49125.00","49125.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","DANIEL","TYLER","CUSTODIAN","49123.00","40241.00","6307.00","2575.00"]},
+{"id":"15","cell":["15","2018","Berkeley","ANGEL","FERNANDEZ MARTI","SPECIALIST","49122.00","49122.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","ARACELY","CHAVEZ","HOSP BLANK AST 4","49122.00","47254.00","518.00","1350.00"]},
+{"id":"17","cell":["17","2018","San Diego","JAQUELINE","GUTIERREZ","HOSP AST 3 PD","49122.00","48761.00","326.00","35.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","HECTOR","BARRIOS","CUSTODIAN SR","49122.00","43369.00","4250.00","1503.00"]},
+{"id":"19","cell":["19","2018","Irvine","PHILLIP","GOMEZ","ADMITTING WORKER PRN","49121.00","47994.00","287.00","840.00"]},
+{"id":"20","cell":["20","2018","San Diego","EMELIA VILLAROS","BAINTO","APPLICATIONS PROGR 1","49121.00","47830.00","1291.00","0.00"]}]
+}

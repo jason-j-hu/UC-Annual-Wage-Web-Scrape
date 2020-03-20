@@ -1,0 +1,26 @@
+{
+"page" : "7160",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","APRIL L","CHANEY","LAB AST 3","35758.00","33489.00","282.00","1987.00"]},
+{"id":"2","cell":["2","2018","Riverside","*****","*****","TEACHG ASST-GSHIP","35757.00","32528.00","0.00","3229.00"]},
+{"id":"3","cell":["3","2018","Davis","JOSEPHINE","CARDENAS","CUSTODIAN SR","35756.00","35017.00","568.00","171.00"]},
+{"id":"4","cell":["4","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","35754.00","35654.00","0.00","100.00"]},
+{"id":"5","cell":["5","2018","Davis","DAVID M","LAVALLE","CUSTODIAN SR","35754.00","34474.00","1084.00","196.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","ALEKSANDAR","STAJIC","CLERK SR OR SECR","35754.00","35254.00","0.00","500.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","JENNIFER","NULTY","NURSE PD","35753.00","32070.00","305.00","3378.00"]},
+{"id":"8","cell":["8","2018","San Diego","CHRISTOPHER ANT","HERNANDEZ","PAT ESCORT","35753.00","34752.00","0.00","1001.00"]},
+{"id":"9","cell":["9","2018","Davis","DANIEL D","GARCIA","COOK","35752.00","35442.00","310.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","PATRICK","BANDA","FOOD SVC WORKER SR","35752.00","30779.00","3987.00","986.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","ALEJANDRA","SILVA","CMTY HEALTH PRG REPR","35752.00","35726.00","26.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","TERRAN NICOLAUS","OLSON","APPLICATIONS PROGR 3","35751.00","35751.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","KELSI DAWN","ANTRIM","DIETETIC AST","35750.00","34243.00","1507.00","0.00"]},
+{"id":"14","cell":["14","2018","Merced","DUSTY","VENTURA","LECT-AY","35749.00","23882.00","0.00","11867.00"]},
+{"id":"15","cell":["15","2018","San Diego","SEAN R.","HANEY","POSTDOC-EMPLOYEE","35749.00","35749.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","VISHAL SURESH","CHANDAN","HS ASSOC CLIN PROF-HCOMP","35748.00","19503.00","0.00","16245.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","KEVIN","MIZELL","MED CTR CUSTODIAN SR","35748.00","34161.00","940.00","647.00"]},
+{"id":"18","cell":["18","2018","San Diego","JAQUELINE","BAUTISTA DIAZ","CUSTODIAN SR","35748.00","34354.00","0.00","1394.00"]},
+{"id":"19","cell":["19","2018","Riverside","SABRINA","SIMMONS","LIBRARY AST 4","35748.00","35737.00","0.00","11.00"]},
+{"id":"20","cell":["20","2018","Davis","JILL A","HAYNES","CLIN SPEC NEX","35747.00","29083.00","0.00","6664.00"]}]
+}

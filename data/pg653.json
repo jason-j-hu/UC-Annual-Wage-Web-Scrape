@@ -1,0 +1,26 @@
+{
+"page" : "653",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","TIMOTHY SEAN","CATHEY","CLIN NURSE 3","186166.00","118742.00","58729.00","8695.00"]},
+{"id":"2","cell":["2","2018","Davis","TARA","LANGE","STF PHARMACIST 2","186153.00","141116.00","34179.00","10858.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","HOSEA","NELSON","ASST PROF-AY","186151.00","117682.00","0.00","68469.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","NICHOLAS","HAWRYSZ","MGR","186141.00","177923.00","0.00","8218.00"]},
+{"id":"5","cell":["5","2018","San Diego","JUSTIN WILLIAM","BOUW","PHARMACY MGR 1","186133.00","183933.00","0.00","2200.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JESSICA","SAMSON","PERFUSIONIST PRN NEX","186124.00","152418.00","11714.00","21992.00"]},
+{"id":"7","cell":["7","2018","Berkeley","DAVID","TRINKLE","EXEC ADVISOR 5","186122.00","186122.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","PAOLA","CESSI","PROF-AY","186075.00","150408.00","0.00","35667.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","KIMBERLY","HOLDEN","PHARMACIST SR SUPV","186062.00","177779.00","0.00","8283.00"]},
+{"id":"10","cell":["10","2018","Davis","WILLIAM T","TUCKER","IP MGR 2","186062.00","186062.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","BRENDA L","WATKINS","NURSE PRACT 2","186053.00","174277.00","10194.00","1582.00"]},
+{"id":"12","cell":["12","2018","San Francisco","DONNA LEE","CHIN","CLIN NURSE 2","186050.00","147522.00","8008.00","30520.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","KIRK","LOHMUELLER","ASSOC PROF-AY","186050.00","126084.00","0.00","59966.00"]},
+{"id":"14","cell":["14","2018","San Francisco","SOPHIA G","SAEED","HS CLIN PROF-HCOMP","186046.00","120090.00","0.00","65956.00"]},
+{"id":"15","cell":["15","2018","San Francisco","RYAN PATRICK","WILSON","PHYSCN AST SR","186044.00","167794.00","15088.00","3162.00"]},
+{"id":"16","cell":["16","2018","San Francisco","KIMBERLY","TROTTER","NEURODIAGNOSTIC SVC MGR 1","186036.00","170701.00","0.00","15335.00"]},
+{"id":"17","cell":["17","2018","San Francisco","PATRICIA JO ANN","LUTH","CLIN NURSE 2","186020.00","149226.00","7978.00","28816.00"]},
+{"id":"18","cell":["18","2018","Irvine","FA CHYI","LEE","HS CLIN PROF-HCOMP","186012.00","85103.00","0.00","100909.00"]},
+{"id":"19","cell":["19","2018","Irvine","PETER A.","BOWLER","SR LECT SOE-AY","186008.00","140080.00","0.00","45928.00"]},
+{"id":"20","cell":["20","2018","Davis","ROLAND W","FREUND","PROF-AY","186003.00","186003.00","0.00","0.00"]}]
+}

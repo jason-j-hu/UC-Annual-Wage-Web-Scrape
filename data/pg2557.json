@@ -1,0 +1,26 @@
+{
+"page" : "2557",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ENRIQUE","DONDONAY","RESC NURSE PD","96643.00","93209.00","2393.00","1041.00"]},
+{"id":"2","cell":["2","2018","Irvine","HAO","WANG","PROGR ANL 3","96636.00","96636.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Merced","ALISHA","KIMBLE","ADMIN MGR 2","96634.00","96634.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","ALISON","RATH","ACAD HR ANL 4","96631.00","91763.00","0.00","4868.00"]},
+{"id":"5","cell":["5","2018","Davis","LINDA J","FORBES","MARKETING SPEC 4","96629.00","96629.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","ADRIENNE S","ERTMAN","CLIN LAB SCI","96628.00","81282.00","1797.00","13549.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","GEVORG","STEPANYAN","ADMIN ANL PRN 1","96626.00","92043.00","0.00","4583.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","BRIDGETTE","WILLIAMS","RESC NURSE PD","96625.00","88065.00","205.00","8355.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","AQUEELAH","TILLMAN","CLIN NURSE 2","96624.00","91705.00","968.00","3951.00"]},
+{"id":"10","cell":["10","2018","Berkeley","LOUIS","AHTTY","ELECTRN","96622.00","96622.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","LESLIE","KWAN","COMM AND NETWORK TCHL ANL 3","96619.00","96619.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","GUO J","WEN LOO","BUS TCHL SUPP ANL 3","96619.00","92298.00","0.00","4321.00"]},
+{"id":"13","cell":["13","2018","San Diego","SYLVIA A","DUBEAU","FUNDRAISER 4","96619.00","66022.00","0.00","30597.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","RACHEL","ARRIAGA","EXEC AST 4","96618.00","96618.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","DAVID R","CALLAWAY","SYS ADM 5","96617.00","88991.00","0.00","7626.00"]},
+{"id":"16","cell":["16","2018","San Diego","CHRISTOPHER SCOT","GALLEGOS","REG RESP THER 1","96616.00","82006.00","3847.00","10763.00"]},
+{"id":"17","cell":["17","2018","Berkeley","SHAWN","PATRICK","ELECTRN","96615.00","93287.00","373.00","2955.00"]},
+{"id":"18","cell":["18","2018","Irvine","GEORGE","GRANELL","INSP PLNR EST NEX","96614.00","96151.00","346.00","117.00"]},
+{"id":"19","cell":["19","2018","Davis","LUCILLE R","RAMOS","REIMB HC ANL 3","96614.00","95739.00","0.00","875.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","KELLI","HAM","LIBRARIAN-CAREER STATUS","96613.00","96613.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "4564",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","MICHELLE ANN","MAR","ADMIN ANL SR","61758.00","61663.00","95.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","HIROYUKI","OKANO","ASSOC PROJ SCIENTIST-FY","61758.00","61758.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","LATRELL LOUISE","HAWES","RSCH ADM 3","61757.00","59030.00","1727.00","1000.00"]},
+{"id":"4","cell":["4","2018","Davis","ASHIKA N","SHARMA","OPS ROOM AST 1","61756.00","52432.00","6577.00","2747.00"]},
+{"id":"5","cell":["5","2018","Davis","*****","*****","PAT SUPP SVC SUPV 1","61755.00","58259.00","151.00","3345.00"]},
+{"id":"6","cell":["6","2018","San Diego","PAMELA C","FRANCO","ADMISSIONS RECRMT SPEC 3","61753.00","58753.00","0.00","3000.00"]},
+{"id":"7","cell":["7","2018","Irvine","CLAUDIA","WEIHE","SRA 3","61752.00","61752.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","RUI SHENG","CHANG","SRA 3","61752.00","61752.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","UCOP","VALERIE","BROWN","FINANCIAL SVC ANL 2","61751.00","61751.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","DAVID ANTHONY","CARLOS","BUS TCHL SUPP ANL 2","61751.00","61751.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","JHOVANY","GONZALEZ","STDT ACAD ADVISOR 3","61750.00","61250.00","0.00","500.00"]},
+{"id":"12","cell":["12","2018","Irvine","OZGE GACAR","CAN","HR ANL 4","61750.00","61750.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","JASON","NGHE","ADMIN OFCR 2","61749.00","60749.00","0.00","1000.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","LANCE","WAKASA","ADMIN ANL","61748.00","59765.00","1483.00","500.00"]},
+{"id":"15","cell":["15","2018","Berkeley","ZULEMA","LARA","BLANK AST 3","61748.00","60150.00","1598.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","MARIANA","MACHADO CARDOSO","CLIN NURSE 1","61747.00","56894.00","140.00","4713.00"]},
+{"id":"17","cell":["17","2018","Davis","JENNIFER N.","JACKSON","INSTITUTIONAL RSCH ANL 2","61747.00","60261.00","1486.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","SHEILA CARLETTA","ROBINSON","PROCTOR SR","61747.00","53341.00","6920.00","1486.00"]},
+{"id":"19","cell":["19","2018","Riverside","JEAN","WEISS","LIBRARY AST 4","61747.00","61747.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Riverside","CHRISTINE","STRAITT","LIBRARY AST 4","61747.00","61747.00","0.00","0.00"]}]
+}

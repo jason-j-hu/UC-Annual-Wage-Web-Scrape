@@ -1,0 +1,26 @@
+{
+"page" : "4836",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","DANIEL LEE","DILLON","SYS ADM 2","58994.00","56858.00","0.00","2136.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","FRAN","LAMBERT","FAC MECH","58993.00","58329.00","664.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","TSIGEREDA A.","KABTIYMER","OPS ROOM SUPP AST","58992.00","53668.00","3145.00","2179.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","TAMMY","RICKABAUGH","SRA 3 SUPV","58992.00","58992.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ROSLEEN","MALA","PUBL ADMSTN ANL SR","58992.00","58992.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JACLYN","JOSEPH","PHARMACY TCHN 2","58992.00","55322.00","2561.00","1109.00"]},
+{"id":"7","cell":["7","2018","San Diego","JAYSON DANIEL","SCHMIDT","FINANCIAL SVC ANL 3","58992.00","58392.00","0.00","600.00"]},
+{"id":"8","cell":["8","2018","Berkeley","KENDALL","MOALEM","PROJECT POLICY ANL 4","58992.00","52769.00","0.00","6223.00"]},
+{"id":"9","cell":["9","2018","San Francisco","SAMIR","DATTA","RSCH DATA ANL 2","58991.00","58991.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","SAMEER","LADAK","PROGR ANL 2","58990.00","53645.00","5128.00","217.00"]},
+{"id":"11","cell":["11","2018","San Diego","AMBROSIA ANGELIC","MARTINEZ","RESP CARE PRACT TCHN","58990.00","51513.00","3813.00","3664.00"]},
+{"id":"12","cell":["12","2018","Berkeley","LONGGANG","PANG","ASST PROJ SCIENTIST-FY","58990.00","58990.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","NICOLE E.","DENNIS","FINANCIAL SVC ANL 2","58988.00","56346.00","389.00","2253.00"]},
+{"id":"14","cell":["14","2018","Berkeley","EUGENE","OH","ASST PROJ SCIENTIST-FY","58988.00","58988.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","ASHLEY","GANNON","VOC NURSE SR","58987.00","58773.00","146.00","68.00"]},
+{"id":"16","cell":["16","2018","San Diego","VIOLETA JUANITA","GALARZA","BLANK AST 3","58987.00","57966.00","21.00","1000.00"]},
+{"id":"17","cell":["17","2018","Berkeley","ANGELICA","ESCARIO","BLANK AST 3","58987.00","58807.00","180.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","ERIC","KOEHN","LECT-AY-1/10","58987.00","58987.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","PHILIP","MACK","ADJ PROF-HCOMP","58985.00","51315.00","0.00","7670.00"]},
+{"id":"20","cell":["20","2018","Davis","TOAN Q","TRINH","POSTDOC-EMPLOYEE","58985.00","58985.00","0.00","0.00"]}]
+}

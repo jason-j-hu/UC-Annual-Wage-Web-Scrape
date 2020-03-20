@@ -1,0 +1,26 @@
+{
+"page" : "4866",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","JENNIFER R.","HICKMAN","ADMIN OFCR 2","58690.00","57208.00","473.00","1009.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","JERRY","COLE","BLANK AST 2","58689.00","58055.00","7.00","627.00"]},
+{"id":"3","cell":["3","2018","San Diego","MELINDA","PEDERSON","RSCH ADM 3","58688.00","56188.00","0.00","2500.00"]},
+{"id":"4","cell":["4","2018","San Francisco","CHRISTINA DING-C","FANG","CLIN RSCH CRD","58687.00","57470.00","664.00","553.00"]},
+{"id":"5","cell":["5","2018","Davis","BRYAN","FITCH","PHYS PLT MECH","58687.00","58180.00","484.00","23.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","SUMMER","ROBINS","PUBL ADMSTN ANL","58687.00","57300.00","1387.00","0.00"]},
+{"id":"7","cell":["7","2018","Riverside","JIMMY","LEE","PARKING REPR LD","58687.00","46953.00","11001.00","733.00"]},
+{"id":"8","cell":["8","2018","Irvine","LETICIA","RUVALCABA","MED CTR CUSTODIAN SR","58686.00","43901.00","14334.00","451.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","MIGUEL","DEL CASTILLO CUEVA","FAC MAINT SUPV","58686.00","58571.00","115.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","MEGAN","FRIEDLANDER","PRG REPR 3","58684.00","58684.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","ANNE","BARR","PAT BILLER 3","58684.00","57684.00","0.00","1000.00"]},
+{"id":"12","cell":["12","2018","Davis","RENU","KUMAR","HOSP UNIT SVC CRD 3","58683.00","54808.00","3445.00","430.00"]},
+{"id":"13","cell":["13","2018","Berkeley","DIANA","ZHANG","PAYROLL ANL 2","58682.00","58682.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Riverside","ANGEL","GARCIA","EEO REPR 4","58681.00","42247.00","0.00","16434.00"]},
+{"id":"15","cell":["15","2018","Irvine","EDNA E","BIDDY","HS ASST CLIN PROF-HCOMP","58680.00","33207.00","0.00","25473.00"]},
+{"id":"16","cell":["16","2018","Davis","BRYAN K","HEYANO","AGRICULTURAL TCHN PRN","58680.00","58680.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","CASEY MARIE VERG","CARPIO","RSCH ADM 3","58679.00","58679.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","ALEXANDER YURIEV","PIGAROV","RES-FY-B/E/E","58679.00","39741.00","0.00","18938.00"]},
+{"id":"19","cell":["19","2018","San Francisco","KENNETH ELLIOTT","NEWTON","IT SCRTY MGR 1","58678.00","58678.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","WILFREDO","DAGAN","FAC MECH","58678.00","58329.00","349.00","0.00"]}]
+}

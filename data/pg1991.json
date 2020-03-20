@@ -1,0 +1,26 @@
+{
+"page" : "1991",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","ANTHONY GERARD","GARCIA","FAC PROJECT MGT SPEC 4","112847.00","111847.00","0.00","1000.00"]},
+{"id":"2","cell":["2","2018","Riverside","FREDERICK","DO","INFO SYS SUPV 2","112847.00","103228.00","0.00","9619.00"]},
+{"id":"3","cell":["3","2018","Irvine","KATE RYAN KUHLMA","LOKSHIN","ASST RES-AY","112843.00","81033.00","0.00","31810.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","ALLISON","LEVINE","CLIN NURSE 3","112843.00","106895.00","1553.00","4395.00"]},
+{"id":"5","cell":["5","2018","San Diego","SABRINA E","PATEL","CLIN NURSE 3","112843.00","105088.00","3520.00","4235.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","CHRISTOPHER","STEVENS","ASSOC PROF-AY","112842.00","96658.00","0.00","16184.00"]},
+{"id":"7","cell":["7","2018","Santa Cruz","NEDA","ATANASOSKI","PROF-AY","112842.00","112842.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","AMANDA MICHELLE","GRAY","CLIN NURSE 2","112842.00","94987.00","7596.00","10259.00"]},
+{"id":"9","cell":["9","2018","UCOP","SAILAJA","GANTI","SYS ADM 4","112841.00","102841.00","0.00","10000.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","LYNETTE","DEFRANCIA","OCCUPATIONAL THER 3 NEX","112839.00","111739.00","0.00","1100.00"]},
+{"id":"11","cell":["11","2018","San Francisco","ANNA G.","GELLER","NURSE PRACT 2","112835.00","112835.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","MICHAEL G.","MCNALLY","PROF-AY-B/E/E","112833.00","112833.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","MOHAMMAD YOUSEF","BAHADORI","LECT-AY-CONTINUING","112833.00","72833.00","0.00","40000.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","HEATHER","PROVENCHER","ADMIN ANL PRN 2","112832.00","96601.00","1665.00","14566.00"]},
+{"id":"15","cell":["15","2018","Davis","ERICK K","JENKINS","CONTRACT ADMSTN MGR 1","112827.00","112827.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","SALIH","ACIKSOZ","ASST PROF-AY","112825.00","112825.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","112825.00","65665.00","0.00","47160.00"]},
+{"id":"18","cell":["18","2018","San Francisco","SUSAN A","DEVRIES","ULTRASOUND TCHNO PRN","112817.00","108290.00","2080.00","2447.00"]},
+{"id":"19","cell":["19","2018","Davis","MARK P","BOLDA","COOP EXT ADVISOR","112817.00","106317.00","0.00","6500.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","CHRISTINE","LANOIE","ADV OFCR 3","112817.00","112817.00","0.00","0.00"]}]
+}

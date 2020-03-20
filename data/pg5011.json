@@ -1,0 +1,26 @@
+{
+"page" : "5011",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","JOY","CHEN","CLIN RSCH CRD","57249.00","57249.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","IRMA","RIVERA","MED CTR CUSTODIAN SR","57249.00","44319.00","12544.00","386.00"]},
+{"id":"3","cell":["3","2018","Santa Cruz","DAVID KEITH","SUGG","STDT ACAD ADVISOR 2","57249.00","52269.00","1680.00","3300.00"]},
+{"id":"4","cell":["4","2018","Irvine","DARCY L","CANDELARIA","ADMITTING WORKER PRN","57248.00","54080.00","2492.00","676.00"]},
+{"id":"5","cell":["5","2018","Merced","MICHELLE","GREENWOOD","ACAD ACHIEVEMENT CNSLR 3","57248.00","57248.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","HEIDI M","SAECHIN","HOSP BLANK AST 3","57247.00","56107.00","0.00","1140.00"]},
+{"id":"7","cell":["7","2018","San Francisco","CLAUDIA","HERNANDEZ GARCI","PRACTICE CRD 3","57247.00","56294.00","293.00","660.00"]},
+{"id":"8","cell":["8","2018","San Francisco","XI","LIU","POSTDOC-EMPLOYEE","57247.00","57247.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","MICHELLE ANN","TORRES","BLANK AST 3","57247.00","56221.00","0.00","1026.00"]},
+{"id":"10","cell":["10","2018","San Francisco","CHRISTOPHER JAME","WHITE","ACAD PRG MGR 2","57247.00","57247.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","JOHN STEPHEN","GERAGHTY","VICE CHAN AST","57247.00","57247.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","DAVID","HAN","LECT-FY-CONTINUING","57247.00","41788.00","0.00","15459.00"]},
+{"id":"13","cell":["13","2018","Santa Cruz","MARK A","MATTERN","AUTO EQUIP OPR SR","57246.00","57218.00","28.00","0.00"]},
+{"id":"14","cell":["14","2018","Riverside","UZIEL","SAUCEDA","HS ASST CLIN PROF-HCOMP","57246.00","30970.00","0.00","26276.00"]},
+{"id":"15","cell":["15","2018","San Francisco","GORDON D","ARNOTT","CLIN NURSE 2","57245.00","44925.00","3131.00","9189.00"]},
+{"id":"16","cell":["16","2018","Davis","ADELENA YOL","MARTINEZ-AVILA","PAT BILLER 3","57245.00","49026.00","8213.00","6.00"]},
+{"id":"17","cell":["17","2018","San Francisco","LEAN D","NICDAO","PAT CARE TCHN","57244.00","55368.00","504.00","1372.00"]},
+{"id":"18","cell":["18","2018","Hastings College Of Law","BRIDGET E","LUCEY-COSE","PRIN ADMIN ANALYST","57244.00","57244.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Riverside","ROBERT","SMITH","COACH AST 2","57244.00","56744.00","0.00","500.00"]},
+{"id":"20","cell":["20","2018","San Diego","ROSELLE ESPIRITU","GALANG","PHLEBOTOMIST CERT TCHN 2","57244.00","51908.00","2585.00","2751.00"]}]
+}

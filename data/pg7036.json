@@ -1,0 +1,26 @@
+{
+"page" : "7036",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","*****","*****","AST PHYSCN","37242.00","36142.00","0.00","1100.00"]},
+{"id":"2","cell":["2","2018","San Francisco","CHRISTINA KIMIKO","FUJII","HOSP BLANK AST 3","37240.00","34560.00","0.00","2680.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","STEPHANIE","WYNBRANDT","BLANK AST 3","37240.00","35622.00","118.00","1500.00"]},
+{"id":"4","cell":["4","2018","Irvine","RAMIRO","GARCIA JR.","FOOD SVC WORKER","37239.00","36468.00","721.00","50.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","MADELINE","HALEY","ADMIN SPEC","37239.00","37088.00","6.00","145.00"]},
+{"id":"6","cell":["6","2018","Davis","STEPHEN A","MATHIS","MATERIALS MGT HC SPEC 3","37239.00","27356.00","0.00","9883.00"]},
+{"id":"7","cell":["7","2018","San Diego","OSCAR","GAYTAN","MED CTR FOOD SVC WORKER","37239.00","36023.00","203.00","1013.00"]},
+{"id":"8","cell":["8","2018","San Diego","JAMES ASBURY","SANFORD","POSTDOC-EMPLOYEE","37238.00","37238.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Berkeley","SHUMING","AN","POSTDOC-EMPLOYEE","37238.00","37238.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","CHRISTOPHER SCOT","REINERT","ATH PROFL 3 BYA","37237.00","30042.00","0.00","7195.00"]},
+{"id":"11","cell":["11","2018","San Diego","LOVELYN M","ALBANO","MED CTR CUSTODIAN","37237.00","34490.00","341.00","2406.00"]},
+{"id":"12","cell":["12","2018","Irvine","HUGO","SANCHEZ","CUSTODIAN","37236.00","37027.00","0.00","209.00"]},
+{"id":"13","cell":["13","2018","Irvine","LINDA LE","VONG","ADMIN ANL","37235.00","32994.00","196.00","4045.00"]},
+{"id":"14","cell":["14","2018","Irvine","JORGE","RAMIREZ","GROUNDSKEEPER","37235.00","37235.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Irvine","ALEJANDRO LOPEZ","CARLOS","GROUNDSKEEPER","37235.00","37235.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","37234.00","37234.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","37234.00","37234.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Merced","MARK","BURROLA","CUSTODIAN SR","37234.00","36032.00","0.00","1202.00"]},
+{"id":"19","cell":["19","2018","Berkeley","MARIA","HERNANDEZ","LAB HELPER","37234.00","37234.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","DUANE L","SOLOMON","POLICE OFCR","37233.00","27618.00","4594.00","5021.00"]}]
+}

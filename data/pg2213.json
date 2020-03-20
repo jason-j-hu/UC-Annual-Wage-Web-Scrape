@@ -1,0 +1,26 @@
+{
+"page" : "2213",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","GASTON","PFLUEGL","ACADEMIC ADMINISTRATOR V","106012.00","106012.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Berkeley","SUSAN","KOSKINEN","LIBRARIAN-CAREER STATUS","106010.00","102410.00","0.00","3600.00"]},
+{"id":"3","cell":["3","2018","Berkeley","CHRISTINA","TARR","LIBRARIAN-CAREER STATUS","106010.00","102410.00","0.00","3600.00"]},
+{"id":"4","cell":["4","2018","Irvine","SHANE H","SHIMANUKI","CLIN NURSE 2","106008.00","92985.00","9528.00","3495.00"]},
+{"id":"5","cell":["5","2018","San Diego","FRANCESCA","TELESE","ASST PROF IN RES-HCOMP","106008.00","106008.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","DAVID H.","NG","INFO SYS ANL 3","106007.00","101159.00","0.00","4848.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","JONATHAN","MORGAN","CLIN NURSE 2","106006.00","98177.00","5765.00","2064.00"]},
+{"id":"8","cell":["8","2018","San Diego","VICTOR VALENTINE","MAGAGNA","ASSOC PROF-AY","106003.00","84475.00","0.00","21528.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","JAMES","LISTER","ASST ADJ PROF-HCOMP","106000.00","106000.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","LOUIS","REYNAUD","COACH AST 2","106000.00","100000.00","0.00","6000.00"]},
+{"id":"11","cell":["11","2018","San Diego","NICOLE JEANETTE","HEARD","CLIN NURSE 2","106000.00","97747.00","2531.00","5722.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","GREGORY","ELLIS","ADMIN ANL PRN 2","105999.00","105999.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","COREY L.","ANAKA","NURSE SVC SUPV 2","105997.00","105192.00","793.00","12.00"]},
+{"id":"14","cell":["14","2018","Santa Cruz","MICHAEL JAMES","TASSIO","EXEC ADVISOR MGR 1","105995.00","103478.00","0.00","2517.00"]},
+{"id":"15","cell":["15","2018","San Diego","LAURA JEANNE","STEVENS","LECT SOE-AY","105994.00","90406.00","0.00","15588.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","ERIC","BASANES","CLIN LAB SCI","105993.00","103434.00","1735.00","824.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","JULIANNA","ROBERSON","CLIN NURSE 2","105993.00","88676.00","882.00","16435.00"]},
+{"id":"18","cell":["18","2018","San Francisco","CYNTHIA L.","PIONTKOWSKI","INFO SYS ANL 4","105992.00","105992.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","HASMIK","COCHRAN","DEMO TEACHER-CONTINUING","105982.00","100782.00","0.00","5200.00"]},
+{"id":"20","cell":["20","2018","Berkeley","DIANA","MOORE","FUNDRAISING MGR 1","105979.00","105979.00","0.00","0.00"]}]
+}

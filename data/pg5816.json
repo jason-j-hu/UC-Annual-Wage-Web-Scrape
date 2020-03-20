@@ -1,0 +1,26 @@
+{
+"page" : "5816",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","BONIFACIO P","AGUILAR","GROUNDSKEEPER","50053.00","50053.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","REYNA LUPITA","VILLARINO","HOSP BLANK AST 3","50053.00","46437.00","2354.00","1262.00"]},
+{"id":"3","cell":["3","2018","ASUCLA","ALFONSO","RAMIREZ","ANL 2","50052.00","49334.00","0.00","718.00"]},
+{"id":"4","cell":["4","2018","San Diego","RYAN DANIEL","MCGILLICUDDY","EVENTS SPEC 2","50052.00","46709.00","2343.00","1000.00"]},
+{"id":"5","cell":["5","2018","San Diego","KATELYN ROSE","HEASLEY","HOSP BLANK AST 3","50052.00","44500.00","1138.00","4414.00"]},
+{"id":"6","cell":["6","2018","San Diego","SAMANTHA ROSE","SORCE","PHYS THER 1 NEX","50051.00","48943.00","413.00","695.00"]},
+{"id":"7","cell":["7","2018","Berkeley","JUNLING","HUANG","POSTDOC-EMPLOYEE","50050.00","50050.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","JOSUE ANDR","ARRIETA HIDALGO","REG DENTAL AST","50050.00","49939.00","111.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","CLEMENT A.","GUILLOTEAU","POSTDOC-EMPLOYEE","50050.00","50050.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","RAQUEL","DE SOUSA ABREU","POSTDOC-EMPLOYEE","50050.00","50050.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","JAAN","LEPSON","ASSOC RES-FY","50050.00","50050.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","THERESA A","GEER","BLANK AST 3","50049.00","49913.00","136.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","RAMIRO","RODRIGUEZ","MED CTR CUSTODIAN SR PD","50049.00","43985.00","970.00","5094.00"]},
+{"id":"14","cell":["14","2018","Davis","LAURA RACHEL","RAMIREZ","MED OFC SVC CRD 3","50049.00","49910.00","139.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","ERIK R","FERNANDEZ","CUSTODIAL SUPV 1","50048.00","49994.00","0.00","54.00"]},
+{"id":"16","cell":["16","2018","San Diego","MELISSA J.","CARRENO","BLANK AST 2","50048.00","48988.00","59.00","1001.00"]},
+{"id":"17","cell":["17","2018","San Diego","CELESTINA APALIT","PARANI","HOSP BLANK AST 3","50048.00","44209.00","570.00","5269.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ALYSE MARIE","DISTEFANO","ADMIN ANL PRN 2","50048.00","45619.00","0.00","4429.00"]},
+{"id":"19","cell":["19","2018","San Diego","MARCELLUS TYREE","ANDERSON","BLANK AST 3","50047.00","50047.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","RAMYA","SANKAR","PROJECT POLICY ANL 2","50046.00","49451.00","595.00","0.00"]}]
+}

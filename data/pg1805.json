@@ -1,0 +1,26 @@
+{
+"page" : "1805",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","HENRY P","LEE","PROF-AY-B/E/E","119189.00","109992.00","0.00","9197.00"]},
+{"id":"2","cell":["2","2018","San Diego","LINDSEY MARIE","BERGER","CLIN NURSE 2","119188.00","99305.00","8630.00","11253.00"]},
+{"id":"3","cell":["3","2018","San Francisco","JOSEPHYNE T","QUACH","AUDIT PROFL 4","119187.00","118187.00","0.00","1000.00"]},
+{"id":"4","cell":["4","2018","Santa Barbara","JAMISON","STEIDL","RES-FY","119175.00","119175.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","HUNG M","NGUYEN","CLIN NURSE 2","119173.00","91064.00","19393.00","8716.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","SAADA","HASSEN","CLIN LAB SCI","119170.00","103309.00","5140.00","10721.00"]},
+{"id":"7","cell":["7","2018","Davis","ANDRES","RESENDEZ","PROF-AY","119170.00","119170.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","MICHAEL O","CARAVALHO","SYS INTEGRATION ENGR 4","119169.00","117294.00","0.00","1875.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","BEVERLY","ALFARO","CATH LAB RADLG TCHNO","119169.00","97563.00","7139.00","14467.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ANGELA","HORNE","LIBRARIAN-CAREER STATUS","119166.00","108016.00","0.00","11150.00"]},
+{"id":"11","cell":["11","2018","San Francisco","SIMONETTE","SUNG","RADLG TCHNO SR","119165.00","108552.00","3706.00","6907.00"]},
+{"id":"12","cell":["12","2018","San Diego","CHRISTOPHER PAUL","CLIFFORD","DECISION SUPP SPEC 4","119165.00","118165.00","0.00","1000.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","ELLEN R","SCHUSTER","MGR","119164.00","77217.00","0.00","41947.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","INNA","LOZOVSKAYA","HISTO TCHNO 2","119162.00","116292.00","2466.00","404.00"]},
+{"id":"15","cell":["15","2018","San Diego","ROMAIN JULIEN","HEUX","RSCH AND DEV ENGR 4","119160.00","94995.00","0.00","24165.00"]},
+{"id":"16","cell":["16","2018","San Francisco","SETAREH","SARRAFAN","BUS SYS ANL 4","119158.00","118158.00","0.00","1000.00"]},
+{"id":"17","cell":["17","2018","Davis","STEPHEN RICHARD","BOUCHER","ASSOC PROF-FY-B/E/E","119158.00","119158.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","KUN","ZHOU","ASSOC RES-FY-B/E/E","119158.00","119158.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","ALEXANDER","KURZHANSKIY","ASSOC RES-FY-B/E/E","119158.00","119158.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","JACOB R","HIBEL","ASSOC PROF-AY","119154.00","107376.00","0.00","11778.00"]}]
+}

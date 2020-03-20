@@ -1,0 +1,26 @@
+{
+"page" : "2775",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ERIKA","STEBBINS","COACH SPEC","91170.00","91170.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","UCOP","ROBERT","SYLVIA","VENDOR REL SPEC 3","91169.00","91169.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","JAMES","COLON","BUS SYS ANL 3","91167.00","91167.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Santa Barbara","DENISE","SALUDARES","APPLICATIONS PROGR 3","91167.00","91167.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","REBECA M","BOYTE","HEALTH EDUC SUPV 2","91166.00","91166.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","JENNIFER M","LAZZARI","HOSP LAB TCHN 2","91166.00","91166.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","GLENDA","DE GUZMAN","APPLICATIONS PROGR 3","91165.00","70753.00","0.00","20412.00"]},
+{"id":"8","cell":["8","2018","Riverside","TAMMY","GIGLIO","EVENTS SPEC 4","91164.00","91164.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","91163.00","79195.00","0.00","11968.00"]},
+{"id":"10","cell":["10","2018","Irvine","MARIA ELENA","MARTINEZ","CLIN APPLICATIONS PROFL 3","91162.00","87906.00","0.00","3256.00"]},
+{"id":"11","cell":["11","2018","San Francisco","RONALD W","GADREAULT","SURGICAL TCHN","91161.00","80501.00","2725.00","7935.00"]},
+{"id":"12","cell":["12","2018","San Francisco","UNIQUE J","LAYLOR","ANESTHETIST NURSE SR NEX","91161.00","91155.00","0.00","6.00"]},
+{"id":"13","cell":["13","2018","Irvine","ALFREDO ALEJAND","PADILLA","SURGICAL TCHN SR","91159.00","57417.00","25858.00","7884.00"]},
+{"id":"14","cell":["14","2018","Davis","RODNEY W.","ADAMCHAK","ACADEMIC COORD I-FY","91159.00","91159.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","AUDREY","CRISTOBAL","ASSOC FLD PROG SUPV","91159.00","91159.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","MICHELLE R","GEIS","QLTY IMPV HC SPEC 4","91158.00","83765.00","0.00","7393.00"]},
+{"id":"17","cell":["17","2018","San Diego","SAMUEL C.,JR.","PERALTA","IT SCRTY ANL 3","91158.00","91158.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","KE","YANG","APPLICATIONS PROGR 3","91158.00","90158.00","0.00","1000.00"]},
+{"id":"19","cell":["19","2018","San Francisco","ROBIN L","HELMSTREIT","VOC NURSE SR","91157.00","88505.00","1627.00","1025.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","KRISTIE","KWIECIEN","CLIN NURSE 3","91156.00","85674.00","513.00","4969.00"]}]
+}

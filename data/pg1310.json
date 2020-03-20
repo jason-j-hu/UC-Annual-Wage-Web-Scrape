@@ -1,0 +1,26 @@
+{
+"page" : "1310",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","UCOP","CHRISTY","THOMPSON","BUS SYS ANL MGR 1","139246.00","139246.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","AMY MICHELLE","SHONTZ","CLIN NURSE 2","139242.00","109233.00","17386.00","12623.00"]},
+{"id":"3","cell":["3","2018","San Francisco","JENNY","HO","CASE MGR EX","139238.00","134118.00","0.00","5120.00"]},
+{"id":"4","cell":["4","2018","Davis","KIM","RHODES","FINANCIAL ANL MGR 2","139238.00","139238.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","MONIKA","BELDEN-SOKOLOSK","CTRL STERILE MGR 1","139236.00","127307.00","0.00","11929.00"]},
+{"id":"6","cell":["6","2018","Davis","YUEYUE","FAN","PROF-AY-B/E/E","139230.00","125270.00","0.00","13960.00"]},
+{"id":"7","cell":["7","2018","Irvine","AILEEN","ANDAYA","NURSE PRACT 2","139222.00","100790.00","32759.00","5673.00"]},
+{"id":"8","cell":["8","2018","San Francisco","JULIE","BELARDE","CLIN LAB SCI SPEC","139214.00","131445.00","645.00","7124.00"]},
+{"id":"9","cell":["9","2018","Davis","COLIN","REARDON","ASST PROF-SFT-VM","139210.00","139210.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","SALMA NIHMAT","SHARIFF-MARCO","ASSOC ADJ PROF-HCOMP","139209.00","103681.00","0.00","35528.00"]},
+{"id":"11","cell":["11","2018","San Francisco","RODANNI TANEGA","PUGEDA","APPLICATIONS PROGR 4","139206.00","139206.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","DAWN M","CAMERON","CLIN NURSE 2","139204.00","109689.00","8614.00","20901.00"]},
+{"id":"13","cell":["13","2018","San Diego","SAMMY M.","MANGLAL-LAN","CLIN LAB SCI SPEC","139203.00","100885.00","30846.00","7472.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","DONALD","PARKS","SPEC","139203.00","128004.00","0.00","11199.00"]},
+{"id":"15","cell":["15","2018","San Francisco","RODOLFO GUTIERRE","SALGADO","RAD THER TCHNO","139192.00","131060.00","6992.00","1140.00"]},
+{"id":"16","cell":["16","2018","Davis","LORRENE D","RITCHIE","SPECIALIST COOP EXT","139192.00","138992.00","0.00","200.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","LYNETTE","HAND","ADM CRD OFCR","139190.00","129600.00","0.00","9590.00"]},
+{"id":"18","cell":["18","2018","Davis","KRAIG R.","BRADY","FOOD SVC MGR 3","139186.00","139186.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","MALLORY","GOMPERT","ADV OFCR 4","139180.00","136680.00","0.00","2500.00"]},
+{"id":"20","cell":["20","2018","Berkeley","SIDALIA","REEL","PROJECT POLICY ANL 5","139178.00","139178.00","0.00","0.00"]}]
+}

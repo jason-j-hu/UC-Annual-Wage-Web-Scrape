@@ -1,0 +1,26 @@
+{
+"page" : "5868",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","FELICITY","FENTON-ESQUINAS","CLIN NURSE 2","49635.00","46798.00","946.00","1891.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","GLORIA","HUERTA","CLIN NURSE 2","49634.00","47886.00","210.00","1538.00"]},
+{"id":"3","cell":["3","2018","ASUCLA","IRENEO","ALPUERTO","ANL 1","49634.00","48877.00","0.00","757.00"]},
+{"id":"4","cell":["4","2018","San Diego","SARAH NICHOLE","ROSIER","HOSP BLANK AST 3","49634.00","48489.00","145.00","1000.00"]},
+{"id":"5","cell":["5","2018","San Diego","ROSARIA","BERCOW","BLANK AST 3","49633.00","49458.00","175.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","STEPHANIE DIANA","GIRARDAT","BENEFITS ANL 1","49633.00","49133.00","0.00","500.00"]},
+{"id":"7","cell":["7","2018","Davis","VALERIE C","BARTOLE","BLANK AST 3","49632.00","49386.00","237.00","9.00"]},
+{"id":"8","cell":["8","2018","San Diego","ALICE SILIANG","SHNITKIND","HR GENERALIST 2","49632.00","48632.00","0.00","1000.00"]},
+{"id":"9","cell":["9","2018","San Diego","JAHZEEL DELA CRU","BASA","RESP CARE PRACT TCHN","49632.00","47933.00","446.00","1253.00"]},
+{"id":"10","cell":["10","2018","San Diego","GRACE L.","VALENCIA","RECALL NON-FACULTY ACAD","49632.00","30037.00","0.00","19595.00"]},
+{"id":"11","cell":["11","2018","Davis","KAI S","CHENG","STDT SVC ADVISOR 2","49631.00","48866.00","765.00","0.00"]},
+{"id":"12","cell":["12","2018","Riverside","CEDRICK","DAVIS","APPLICATIONS PROGR 2","49631.00","49451.00","180.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","MICHAEL WILLIAM","HELE","FUNDRAISER 4","49630.00","49630.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","PAULINE","MACIAS","NURSE AID SR","49629.00","48629.00","0.00","1000.00"]},
+{"id":"15","cell":["15","2018","Irvine","JINGZHE","MA","POSTDOC-EMPLOYEE","49626.00","49626.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","DENISE","MCDOWELL","HOSP BLANK AST 3","49626.00","48349.00","274.00","1003.00"]},
+{"id":"17","cell":["17","2018","San Diego","HIMANSHU","VYAS","POSTDOC-EMPLOYEE","49626.00","49626.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","ANDREW K","MCCLARY","SRA 3","49626.00","49626.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","ZULEMA","HERNANDEZ","ADMIN ANL","49625.00","48472.00","1153.00","0.00"]},
+{"id":"20","cell":["20","2018","UCOP","EDNA","GONZALEZ","HR GENERALIST 2","49625.00","49042.00","583.00","0.00"]}]
+}

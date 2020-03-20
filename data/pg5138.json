@@ -1,0 +1,26 @@
+{
+"page" : "5138",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","POLLY L","CASTILLO","BLANK AST 3","56080.00","55475.00","605.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","JOE J","DIAZ","PAT BILLER 3","56080.00","51226.00","4854.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","PO-HENG","LIN","POSTDOC-EMPLOYEE","56078.00","56078.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","NATALIE ANN","RICHARTE","HOSP BLANK AST 3","56078.00","55791.00","204.00","83.00"]},
+{"id":"5","cell":["5","2018","San Francisco","ZEPING","LUO","SRA 2 NEX","56077.00","56077.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","ROGER D","DELLACA","LECT-AY","56077.00","55327.00","0.00","750.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","SUN GOO","HWANG","POSTDOC-EMPLOYEE","56077.00","56077.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","ROQUE","HERNANDEZ","FAC MECH","56075.00","56000.00","50.00","25.00"]},
+{"id":"9","cell":["9","2018","Irvine","LUIS LOMELI","RUIZ","GROUNDSKEEPER","56074.00","50323.00","4453.00","1298.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","HOLLY","BUCK","POSTDOC-EMPLOYEE","56074.00","56074.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","MARLON AQUINO","MANUEL","NURSE PD","56072.00","43521.00","5453.00","7098.00"]},
+{"id":"12","cell":["12","2018","Irvine","JOSE VIDAL","ANIMAS LOPEZ","ADMITTING WORKER PRN","56072.00","52824.00","2352.00","896.00"]},
+{"id":"13","cell":["13","2018","Davis","JENNIFER","KIMBALL","CLIN RSCH CRD","56072.00","56072.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","MARCOS","RODRIGUES","SCRTY GUARD SR SUPV","56072.00","54823.00","0.00","1249.00"]},
+{"id":"15","cell":["15","2018","San Diego","ARLYN CASTILLO","SAMBRANO","NURSE AID SR","56072.00","43618.00","5124.00","7330.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","SUZETTE","GEORGE","BLANK AST 3","56071.00","55951.00","120.00","0.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","KELLY","CROWELL","FINANCIAL AID OFCR 3","56070.00","56070.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","GEORGIOS","DETORAKIS","POSTDOC-EMPLOYEE","56069.00","56069.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Santa Cruz","CATHERINE MARIE-","ELLIOTT","ADMIN OFCR 2","56069.00","55119.00","0.00","950.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","OMAR","CONTRERAS","CTRL SVC TCHN LD 3","56066.00","54400.00","1172.00","494.00"]}]
+}

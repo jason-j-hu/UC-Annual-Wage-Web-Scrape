@@ -1,0 +1,26 @@
+{
+"page" : "4771",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Cruz","JORGE J","GARCIA","SYS ADMSTN SUPV 2","59592.00","59592.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","ASUCLA","GILBERT","MORALES","ANL 3","59592.00","58541.00","0.00","1051.00"]},
+{"id":"3","cell":["3","2018","San Diego","GRACIELA","RESOLME","BLANK AST 3","59592.00","58592.00","0.00","1000.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","ALISA","JONES","HOSP BLANK AST 3","59589.00","58674.00","632.00","283.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ASHLEY","BARDON","PUBL ADMSTN ANL SR","59589.00","58382.00","0.00","1207.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","TRACIE","STEWART","CLIN NURSE 2","59589.00","57339.00","0.00","2250.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","MARTHA","VAZQUEZ","HOSP BLANK AST 3","59588.00","58573.00","600.00","415.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","YOLANDA","LUNA","PARKING ENFORCEMENT SPEC","59588.00","51994.00","7169.00","425.00"]},
+{"id":"9","cell":["9","2018","Irvine","GLENDA TERESA","PULIDO","ADMITTING WORKER PRN","59587.00","53336.00","5573.00","678.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","MIN","LEE","PROGR ANL 2","59586.00","52795.00","3291.00","3500.00"]},
+{"id":"11","cell":["11","2018","Davis","SALEDA D","BRAGGS","HEALTH TCHN 4 NEX","59586.00","58386.00","0.00","1200.00"]},
+{"id":"12","cell":["12","2018","San Diego","LATTERLY WAN","ORTEGA","ACAD HR ANL 2","59585.00","57144.00","201.00","2240.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","YASMI","HURTADO","ADMIN SPEC","59584.00","58584.00","0.00","1000.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","SHEREEN","GERGES","ADMIN SPEC","59584.00","59046.00","0.00","538.00"]},
+{"id":"15","cell":["15","2018","Davis","ROSE M","MADRIGAL","MED OFC SVC CRD 3","59584.00","59541.00","43.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","MARIAM","KIROLOS","ADMIN SPEC","59584.00","59046.00","0.00","538.00"]},
+{"id":"17","cell":["17","2018","San Francisco","NANCY","YU","PRACTICE CRD 3","59582.00","57618.00","1063.00","901.00"]},
+{"id":"18","cell":["18","2018","Irvine","HETTY YANPING","HA","STDT AFFAIRS OFCR 3 EX","59580.00","59580.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","SEBASTIAN","WERNER","POSTDOC-EMPLOYEE","59580.00","59580.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","WIRAT","LEAMOUNG","PHLEBOTOMIST CERT TCHN 2","59580.00","57631.00","1398.00","551.00"]}]
+}

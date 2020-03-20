@@ -1,0 +1,26 @@
+{
+"page" : "2404",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","ANN A","HOLM","CLIN NURSE 2","100720.00","89678.00","3839.00","7203.00"]},
+{"id":"2","cell":["2","2018","Irvine","SHEILA","FARID","CLIN NURSE 4","100720.00","86218.00","11570.00","2932.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","BEVERLY","UNABIA","CLIN NURSE 2","100717.00","86987.00","807.00","12923.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","MEGAN","VAN NESS","ADMIN ANL PRN 2","100714.00","92157.00","0.00","8557.00"]},
+{"id":"5","cell":["5","2018","Irvine","ALDEN DOMINIC V","BOLANOS","CLIN NURSE 2","100713.00","88775.00","4567.00","7371.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","NATALIE","SANAEE","CLIN NURSE 2","100713.00","93708.00","3258.00","3747.00"]},
+{"id":"7","cell":["7","2018","Santa Cruz","ELIDA ELISABET K","ERICKSON","SUSTAIN MGR 2","100711.00","100711.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","CHA B","VUE","CASE MGR SOCIAL WORKER","100708.00","97545.00","2805.00","358.00"]},
+{"id":"9","cell":["9","2018","San Francisco","AARON NICHOLAS","GARCIA","HOSP RAD PHYSICIST EX","100707.00","93644.00","1548.00","5515.00"]},
+{"id":"10","cell":["10","2018","Irvine","CHARLENE ANNE","STRINGER","MGR","100706.00","99956.00","0.00","750.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","PRACHI","BALAJI","ADMIN ANL SR","100703.00","95931.00","0.00","4772.00"]},
+{"id":"12","cell":["12","2018","San Francisco","MARY A","SNIDER","POLICE SERGEANT SUPV 2","100702.00","79590.00","10077.00","11035.00"]},
+{"id":"13","cell":["13","2018","San Francisco","MICHAEL","MACAYAN","HISTO TCHNO 1","100701.00","92459.00","2633.00","5609.00"]},
+{"id":"14","cell":["14","2018","Riverside","SINISA","COH","ASST PROF-AY-B/E/E","100700.00","100700.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","JUAN M","OLLOQUI","SYS ADM 5","100699.00","100699.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","NICOLE","BROWN","LIBRARIAN-POTNTL CAREER STATUS","100697.00","97097.00","0.00","3600.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","ANNIE","TRAN","CLIN NURSE 2","100692.00","85883.00","1330.00","13479.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","FANG-I","CHU","STATISTICIAN PRN","100688.00","96188.00","0.00","4500.00"]},
+{"id":"19","cell":["19","2018","Irvine","ANNA MICHELLE","WIST","CLIN NURSE 2","100683.00","93614.00","3857.00","3212.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","SHELLEY","BROWN","MGR","100681.00","100681.00","0.00","0.00"]}]
+}

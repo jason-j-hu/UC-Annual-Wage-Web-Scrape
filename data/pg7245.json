@@ -1,0 +1,26 @@
+{
+"page" : "7245",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","JESSICA","CAMACHO","HOSP BLANK AST 3","34793.00","28652.00","2059.00","4082.00"]},
+{"id":"2","cell":["2","2018","San Diego","DORIS","LOPEZ ARAIZA","CUSTODIAN SR","34792.00","34182.00","610.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","MICHAEL M","MCGINTY","CNSLNG PSYCHOLOGIST 3 HX","34789.00","34177.00","0.00","612.00"]},
+{"id":"4","cell":["4","2018","San Diego","ADRIAN","REYES-LEON","CUSTODIAN SR","34788.00","33394.00","0.00","1394.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","LUIS","CAMPBELL BECKLES","STOREKEEPER","34787.00","34770.00","17.00","0.00"]},
+{"id":"6","cell":["6","2018","Santa Cruz","VIVIANE","SILVA DE PAULA","VIS ASST RES","34786.00","34786.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","DANIEL","ZUEHLSDORF","AUTO EQUIP OPR SR","34785.00","29884.00","4901.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","NICKOLAUS J","CABCABIN","STERILE PROCESSING TCHN 2 PD","34785.00","30838.00","964.00","2983.00"]},
+{"id":"9","cell":["9","2018","Riverside","JON","BOTTHOFF","ASST SPECIALIST","34785.00","32219.00","0.00","2566.00"]},
+{"id":"10","cell":["10","2018","San Francisco","WALID","HADLA","APPLICATIONS PROGR 3","34784.00","34784.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","JEZELLE YOUNAN","RABBATH","ADMIN ANL","34783.00","34783.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ASHLEY","LABAT","CUSTODIAN SR","34783.00","33306.00","131.00","1346.00"]},
+{"id":"13","cell":["13","2018","Davis","HILDA YOLANDA","CERROS","FOOD SVC WORKER SR","34783.00","32181.00","1688.00","914.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","BRANDON JAMES","SUBE","EHS SPEC 1 EX","34783.00","33582.00","0.00","1201.00"]},
+{"id":"15","cell":["15","2018","San Diego","PHOEBE LIM","MENDOZA","CASE MGR EX","34783.00","34783.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","*****","*****","GSR-FULL FEE REM","34782.00","34782.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Irvine","CHRISTOPHER J","LUBATTI","MED CTR SCRTY OFCR","34781.00","29809.00","1468.00","3504.00"]},
+{"id":"18","cell":["18","2018","San Diego","JAIME MARTINEZ","GARCIA","CUSTODIAN SR","34781.00","34764.00","17.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","*****","*****","LECT IN SUMMER SESSION","34780.00","30241.00","0.00","4539.00"]},
+{"id":"20","cell":["20","2018","San Diego","ANGELA BAUTISTA","PAMINTUAN","NURSE PD","34780.00","32549.00","0.00","2231.00"]}]
+}

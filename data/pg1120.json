@@ -1,0 +1,26 @@
+{
+"page" : "1120",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","UCOP","DIORI","JOHNSON","ADMIN MGR 1","149250.00","141812.00","0.00","7438.00"]},
+{"id":"2","cell":["2","2018","Irvine","PHYLLIS","AGRAN","PHYSCN SR","149248.00","40599.00","0.00","108649.00"]},
+{"id":"3","cell":["3","2018","Davis","NADIRA A","REDD","CLIN NURSE 2","149239.00","132606.00","3550.00","13083.00"]},
+{"id":"4","cell":["4","2018","Berkeley","CLAUDIA","COVELLO","HC ADM SHS MGR 3","149235.00","122461.00","0.00","26774.00"]},
+{"id":"5","cell":["5","2018","San Francisco","ANDRES M.","SALOM","NEURO TCHNO SR","149233.00","128224.00","14169.00","6840.00"]},
+{"id":"6","cell":["6","2018","San Francisco","MARIA T","CHAO","ASSOC ADJ PROF-HCOMP","149229.00","113095.00","0.00","36134.00"]},
+{"id":"7","cell":["7","2018","Berkeley","JEAN","DELANEY","ADMIN MGR 1","149229.00","149229.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","SANDRA","PEREZ","ACAD PRG MGT OFCR 5","149228.00","100612.00","0.00","48616.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","JENNIFER","HAN","HS ASST CLIN PROF-HCOMP","149224.00","83435.00","0.00","65789.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","HONGHANG","HE","PROGR ANL 4","149222.00","142878.00","0.00","6344.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","KURT","KAINSINGER","DIR","149222.00","137383.00","0.00","11839.00"]},
+{"id":"12","cell":["12","2018","San Diego","APRIL LYNN","WATESKA","NURSE SVC MGR 1","149218.00","138859.00","0.00","10359.00"]},
+{"id":"13","cell":["13","2018","San Francisco","ERI YAMAZAKI","GLAUB","RAD THER TCHNO","149217.00","147220.00","857.00","1140.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","BENJAMIN","MAZIN","PROF-AY","149217.00","149217.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","MARGARET EARLING","ROBERTS","ASSOC PROF-AY","149215.00","136425.00","0.00","12790.00"]},
+{"id":"16","cell":["16","2018","San Francisco","SARAH L","SCHNEIDER","REHAB SVC MGR 1","149211.00","142718.00","0.00","6493.00"]},
+{"id":"17","cell":["17","2018","San Francisco","SUSAN","WALL","RECALL HCOMP","149208.00","147532.00","0.00","1676.00"]},
+{"id":"18","cell":["18","2018","San Francisco","ROBERT JAMES","CAMACHO","PAT ACCESS SVC MGR 2","149200.00","136136.00","0.00","13064.00"]},
+{"id":"19","cell":["19","2018","San Francisco","MACKENZIE","CLARK","PHARMACIST SPEC","149200.00","145199.00","0.00","4001.00"]},
+{"id":"20","cell":["20","2018","San Diego","MARIA THERESA","ELAYDA","CLIN NURSE 2","149197.00","123535.00","12982.00","12680.00"]}]
+}

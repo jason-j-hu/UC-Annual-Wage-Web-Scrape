@@ -1,0 +1,26 @@
+{
+"page" : "5811",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","RENDALL","BLANCO","PHYS THER AST 1","50100.00","46484.00","228.00","3388.00"]},
+{"id":"2","cell":["2","2018","Berkeley","JOEL","MOSKOWITZ","RECALL NON-FACULTY ACAD","50100.00","50100.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","ELIZABETH","CRUZ","STDT SVC ADVISOR 2","50100.00","35446.00","14654.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","LING","XU","POSTDOC-EMPLOYEE","50100.00","50100.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","IGNACIO","JIMENEZ MORENO","BLDG MAINT WORKER SR","50099.00","48945.00","1154.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","CHELSEA","CHAVEZ","NURSE PD","50099.00","49694.00","59.00","346.00"]},
+{"id":"7","cell":["7","2018","Irvine","PHILIP MASTERMA","BROADBENT","LECT-AY","50098.00","50098.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","VALARIE J","SEVILLA","MED OFC SVC CRD 3","50098.00","49152.00","946.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","LUIS","LUNA","PAT TRANSPORT TCHN 2","50097.00","46439.00","3046.00","610.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","JUNGWON","SUH","BLANK AST 3","50097.00","49848.00","899.00","-650.00"]},
+{"id":"11","cell":["11","2018","Berkeley","RITA DE CASSIA","PESSOTTI","POSTDOC-EMPLOYEE","50096.00","50096.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","MARIA","MACIEL","ADMITTING WORKER","50096.00","47033.00","2578.00","485.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","SUNNA","SIDDIQUI","ADMIN ANL","50096.00","48871.00","1225.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","LAUREN","POPOV","POSTDOC-EMPLOYEE","50095.00","50095.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","CHANG","XIE","POSTDOC-EMPLOYEE","50095.00","50095.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","BEI","GAO","POSTDOC-EMPLOYEE","50095.00","50095.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","LEE","DIETTERICH","POSTDOC-EMPLOYEE","50095.00","50095.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","AURELIE","DOS SANTOS","POSTDOC-EMPLOYEE","50095.00","50095.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","CAITLIN","TAYLOR","POSTDOC-EMPLOYEE","50095.00","50095.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","NIKHIL NITIN","KULKARNI","POSTDOC-EMPLOYEE","50095.00","50095.00","0.00","0.00"]}]
+}

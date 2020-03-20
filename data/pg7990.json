@@ -1,0 +1,26 @@
+{
+"page" : "7990",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","*****","*****","GSR-TUIT & FEE REM-UCSD-GRP F","26884.00","26884.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","*****","*****","RSCH AND DEV ENGR 1","26883.00","26108.00","775.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","RAHIMA","MOHAMMAD","FOOD SVC WORKER SR","26882.00","25925.00","941.00","16.00"]},
+{"id":"4","cell":["4","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","26881.00","26881.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","26881.00","26781.00","0.00","100.00"]},
+{"id":"6","cell":["6","2018","San Diego","NADIA MONIQUE","HAMILTON","MED AST 2 PD","26881.00","26334.00","547.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","LEONCIA","VILLARINO","CUSTODIAN SR","26881.00","25554.00","0.00","1327.00"]},
+{"id":"8","cell":["8","2018","Davis","KATHERINE","UHDE","CMTY EDUC SPEC 2","26880.00","26880.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","MARTHA","CASTRO","FOOD SVC WORKER","26880.00","26726.00","134.00","20.00"]},
+{"id":"10","cell":["10","2018","Irvine","PEARL LYNNE","LAW","JR SPECIALIST","26878.00","24026.00","1306.00","1546.00"]},
+{"id":"11","cell":["11","2018","Davis","JOANNA M","RAYMOND","CUSTODIAN","26878.00","25478.00","188.00","1212.00"]},
+{"id":"12","cell":["12","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","26877.00","25212.00","0.00","1665.00"]},
+{"id":"13","cell":["13","2018","Davis","*****","*****","TEACHG ASST-GSHIP","26875.00","26775.00","0.00","100.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","OCHAN","OTIM","TEACHER-UNEX-CONTRACT YR","26875.00","0.00","0.00","26875.00"]},
+{"id":"15","cell":["15","2018","San Francisco","TRACY M","WEISENBERGER","SRA 1","26874.00","26874.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","*****","*****","STDT 1","26874.00","26874.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","SON T.","TRAN","CLIN LAB SCI PD","26873.00","21762.00","432.00","4679.00"]},
+{"id":"18","cell":["18","2018","Berkeley","*****","*****","GSR-FULL FEE REM","26871.00","26871.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","DAYNE","MCKOY","CLERK SR OR SECR","26868.00","21571.00","4458.00","839.00"]},
+{"id":"20","cell":["20","2018","Davis","TANEKA","CARNES-JACKSON","CLIN LIC SOCIAL WORKER PD","26868.00","24591.00","754.00","1523.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "4041",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","PAOLA","PEDERZOLI-CARRILLO","CLIN NURSE 3","67758.00","66465.00","0.00","1293.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ELVIA","VARGAS","PROGR ANL 2","67757.00","66757.00","0.00","1000.00"]},
+{"id":"3","cell":["3","2018","San Diego","KATHRYN","TRULOCK","PROJECT POLICY ANL 2","67756.00","63418.00","2838.00","1500.00"]},
+{"id":"4","cell":["4","2018","San Francisco","ANDRES","HERRERA","PARKING OPS ENFORCEMENT SUPV 1","67754.00","67754.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","MARIA ROWENA","BAUTISTA","VOC NURSE SR","67754.00","66207.00","1220.00","327.00"]},
+{"id":"6","cell":["6","2018","Davis","SOTHEA B","VINH","VOC NURSE SR","67754.00","65142.00","2612.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","KERRI ANNE","BERTRAND","CLIN RSCH SUPV 1","67754.00","67754.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","RYAN","TRAN","BUS TCHL SUPP ANL 2","67754.00","67754.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","VLAD","SARIOGLO","HVAC CNTRL TCHN","67753.00","46472.00","2619.00","18662.00"]},
+{"id":"10","cell":["10","2018","San Diego","MARTHA","SINGH","K to 14 ACAD PREP SPEC 3","67752.00","67752.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MOSTAFA","DADRAS","POSTDOC-EMPLOYEE","67751.00","67751.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Riverside","MARY","VOSS","ADMIN OFCR 2","67749.00","65138.00","11.00","2600.00"]},
+{"id":"13","cell":["13","2018","San Francisco","LISA M","GEORGETTI GOMEZ","PROJECT POLICY ANL 2","67748.00","67748.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","RAMIRO","GARCIA","BUS TCHL SUPP ANL 3","67748.00","67748.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","MIGUEL","LEMUS","HOSP LAB TCHN 3","67748.00","67669.00","58.00","21.00"]},
+{"id":"16","cell":["16","2018","San Diego","RAINA PALPALLATO","LEE","VOC NURSE SR","67748.00","66500.00","497.00","751.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","NAYA","HIGASHIJIMA","INTERCOL ATH COACH AST EX","67748.00","59248.00","0.00","8500.00"]},
+{"id":"18","cell":["18","2018","Santa Cruz","AMY J","MANDELL","CNSLNG PSYCHOLOGIST 2 EX","67747.00","65811.00","0.00","1936.00"]},
+{"id":"19","cell":["19","2018","Merced","ALEXANDER","MELLOR","PROJECT POLICY ANL 2","67746.00","67746.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","IRIS","FINGER","PSYCHOLOGIST 2","67745.00","67745.00","0.00","0.00"]}]
+}

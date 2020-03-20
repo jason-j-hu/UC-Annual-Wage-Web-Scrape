@@ -1,0 +1,26 @@
+{
+"page" : "3078",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","JONATHAN HOWARD","JETTE","CLIN INFORMATICS SPEC 3","84277.00","83402.00","0.00","875.00"]},
+{"id":"2","cell":["2","2018","Santa Cruz","JOSE M","MEDRANO","FLEET SVC SUPV 2","84276.00","83860.00","0.00","416.00"]},
+{"id":"3","cell":["3","2018","Berkeley","DALENE","SCHWARTZ COREY","PROJECT POLICY ANL 3","84276.00","83776.00","0.00","500.00"]},
+{"id":"4","cell":["4","2018","San Diego","MARGARET S.","LOTT","ACADEMIC COORD I-AY","84275.00","84275.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","COLLEEN M","SHEEHAN","DIGITAL COMM SPEC 3","84275.00","81275.00","0.00","3000.00"]},
+{"id":"6","cell":["6","2018","Berkeley","ELIZABETH","PEARCE","PROJECT POLICY ANL 3","84273.00","83773.00","0.00","500.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","JULIA","MACK","ASST ADJ PROF-HCOMP","84273.00","84273.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","KATIE FERGUSON","HETRICK","COMM SPEC 3","84272.00","84272.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","JORDAN RYAN","FONG","MATERIALS MGT HC SPEC 3","84271.00","80571.00","0.00","3700.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","JOHN","WEATHERSBY","PROGR ANL 3","84271.00","80419.00","0.00","3852.00"]},
+{"id":"11","cell":["11","2018","Davis","GINA","BRANDAU","REG RESP THER 1","84270.00","75799.00","1715.00","6756.00"]},
+{"id":"12","cell":["12","2018","ASUCLA","DORIA","DEEN","DIR","84270.00","84270.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","ERIK TAPPER","DAHL","APPLICATIONS PROGR 3","84269.00","84269.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","CLYDE","THOMPSON","LOCKSMITH","84268.00","71678.00","7771.00","4819.00"]},
+{"id":"15","cell":["15","2018","Santa Barbara","DENISE","BELANGER","ADMIN OFCR 3","84268.00","84268.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","NATALIE","STOLPP","REG RESP THER 1","84266.00","71587.00","4739.00","7940.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","CHERRY","CHILDRESS","LIBRARIAN-CAREER STATUS","84266.00","84266.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","CONNI LYNN","ZOELLNER","NURSE PRACT PD","84265.00","83176.00","89.00","1000.00"]},
+{"id":"19","cell":["19","2018","Davis","SHELBI L","RODRIQUEZ","LABOR REL REPR 4","84263.00","84263.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","ASUCLA","CHET","COHEN","ANL 5","84262.00","81263.00","0.00","2999.00"]}]
+}

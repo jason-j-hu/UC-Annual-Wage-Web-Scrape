@@ -1,0 +1,26 @@
+{
+"page" : "6583",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","JUAN R","FERNANDEZ","CUSTODIAN SR","42530.00","37781.00","4241.00","508.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","TIFFANY","MAO","LAB AST 3","42530.00","41773.00","757.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","ELSA","MARQUEZ","CUSTODIAN SR","42530.00","42530.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","MARY ROSE ARGAO","SUAREZ","ADMITTING WORKER","42529.00","40037.00","2072.00","420.00"]},
+{"id":"5","cell":["5","2018","Davis","KATHRYN A","JACKSON","STDT ACAD ADVISOR 2","42528.00","37444.00","3241.00","1843.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","SANDRA","CAMARENA PEREZ","CUSTODIAN SR","42527.00","33706.00","8810.00","11.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","HECTOR","PRADO","BLANK AST 2","42527.00","41470.00","57.00","1000.00"]},
+{"id":"8","cell":["8","2018","San Francisco","BEIDUO","RAO","ASST SPECIALIST","42526.00","42526.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","KENNETH M.","NG","ASST SPECIALIST","42526.00","42526.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","CHARALAMPIA","APOSTOLOPOULOU","ASST SPECIALIST","42526.00","42526.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","OLGA V","TATARENKOVA","ASST SPECIALIST","42526.00","42526.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","CHRISTINA","LIN","ASST SPECIALIST","42526.00","42526.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Irvine","*****","*****","TEACHG ASST-GSHIP","42526.00","32528.00","0.00","9998.00"]},
+{"id":"14","cell":["14","2018","Irvine","YIBO","WANG","ASST SPECIALIST","42526.00","42526.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","HEATHER","ARROYO","HEALTH INFO CODER 2","42526.00","41744.00","4.00","778.00"]},
+{"id":"16","cell":["16","2018","Berkeley","KELSEY","HENNICK","ASST SPECIALIST","42526.00","42526.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","CORBY","DALE","SPECIALIST","42525.00","42525.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","42525.00","38123.00","0.00","4402.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","BENJAMIN","MARTINEZ","MED CTR CUSTODIAN SR PD","42525.00","35300.00","6075.00","1150.00"]},
+{"id":"20","cell":["20","2018","San Diego","STEPHEN C","CRUZ","LIBRARY AST 3","42525.00","40390.00","2105.00","30.00"]}]
+}

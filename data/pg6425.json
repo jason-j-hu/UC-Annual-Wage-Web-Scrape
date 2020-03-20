@@ -1,0 +1,26 @@
+{
+"page" : "6425",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","PANKAJ","KUMAR","MED CTR COOK","44197.00","39463.00","4250.00","484.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","JULIA","SALDANA","CHILD DEV CTR TEACHER 2 LD","44196.00","43682.00","514.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","44196.00","33341.00","0.00","10855.00"]},
+{"id":"4","cell":["4","2018","Davis","JERRETT","CHOW","EMERGENCY TRAUMA TCHN SR","44195.00","41901.00","676.00","1618.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","JIA","PANG","SRA 2 NEX","44195.00","42070.00","0.00","2125.00"]},
+{"id":"6","cell":["6","2018","San Francisco","KIMMY","PHUNG","STERILE PROCESSING TCHN 2","44194.00","40895.00","0.00","3299.00"]},
+{"id":"7","cell":["7","2018","Irvine","MEGAN","SCHLEH","BLANK AST 3","44194.00","43921.00","28.00","245.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","MAYRA","PAUL","BLANK AST 2","44194.00","43423.00","751.00","20.00"]},
+{"id":"9","cell":["9","2018","San Diego","RAYMOND ALLAN B","VERA CRUZ","BLANK AST 3","44194.00","40559.00","3135.00","500.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","DANIELLE","ANDERSON","BLANK AST 2","44192.00","43692.00","0.00","500.00"]},
+{"id":"11","cell":["11","2018","San Francisco","KHATIA","GOBEJISHVILI","BLANK AST 2","44191.00","44191.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","*****","*****","PHARMACIST SPEC","44191.00","44191.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","KENDALL F","KEARNS","SRA 1","44190.00","44190.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","NATHANIEL A","MARKLEY","ANESTHESIA TCHN","44190.00","40007.00","3317.00","866.00"]},
+{"id":"15","cell":["15","2018","Davis","SHANKAR","NAND","MED CTR CUSTODIAN SR","44188.00","42069.00","1260.00","859.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","CALLI","FORCE","FINANCIAL SVC ANL 2","44188.00","44188.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","PATRICIA","MORENO","CUSTODIAN SR","44188.00","44188.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","SHARON","LOEWENBEIN","CLIN SOCIAL WORKER 2 PD","44187.00","44187.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Merced","JESUS","ALVAREZ","STDT SVC ADVISOR 2","44187.00","44060.00","127.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","TIFFANY A","DOUGLASS","BLANK AST 2","44186.00","40867.00","3319.00","0.00"]}]
+}

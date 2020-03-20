@@ -1,0 +1,26 @@
+{
+"page" : "3530",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ADA","VAN DEN VLEKKERT","VOC NURSE SR","75511.00","74906.00","129.00","476.00"]},
+{"id":"2","cell":["2","2018","San Francisco","MARK N","WOODING","INSTRUCTIONAL DESIGNER 3","75507.00","75507.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","MILLICENT E COOP","MAGIERA","PLNG SPEC 4","75507.00","75507.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","HEATHER M","LIN","PRACTICE CRD 3","75505.00","73689.00","673.00","1143.00"]},
+{"id":"5","cell":["5","2018","San Francisco","CHARLOTTE K","MARCO","EVENTS SPEC 3","75504.00","74504.00","0.00","1000.00"]},
+{"id":"6","cell":["6","2018","Davis","TRACEY A","FERNANDEZ","RSCH ADM 2","75503.00","73246.00","2257.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","SEAN MICHAEL","O\"ROURKE","ASSOC PROJ SCIENTIST-FY","75502.00","75502.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","LUNIVA SHRESTHA","ALSBERGE","ADMIN OFCR 3","75501.00","74501.00","0.00","1000.00"]},
+{"id":"9","cell":["9","2018","San Diego","SUZANNE MARIE","BACON","ALUMNI EXTERNAL REL SPEC 4","75501.00","73001.00","0.00","2500.00"]},
+{"id":"10","cell":["10","2018","Berkeley","AVNI","KANSARA","STDT SVC ADVISOR 3","75501.00","75501.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","GARY","BUCCIARELLI","POSTDOC-EMPLOYEE","75500.00","75500.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Santa Barbara","YATING","WAN","POSTDOC-EMPLOYEE","75500.00","75500.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","KAREN G.","ABRAMS","VISUAL COMM SPEC 4","75500.00","73000.00","0.00","2500.00"]},
+{"id":"14","cell":["14","2018","San Francisco","TIMOTHY JAMES","ADAMICH","ADMIN OFCR 3","75498.00","74117.00","381.00","1000.00"]},
+{"id":"15","cell":["15","2018","Riverside","ED","BIRNBAUM","BUS TCHL SUPP ANL 3","75496.00","74246.00","0.00","1250.00"]},
+{"id":"16","cell":["16","2018","San Diego","ADRIANA","DE MARCHI GHERI","LECT-AY-CONTINUING","75495.00","74455.00","0.00","1040.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","CHERYL","RICHARD","ADMIN ANL","75494.00","70057.00","4687.00","750.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","CURTIS","BOELKE","MENTAL HEALTH PRACT SR","75492.00","71147.00","3389.00","956.00"]},
+{"id":"19","cell":["19","2018","San Francisco","IKECHUKWU","EKENNA","PAT CARE AST","75487.00","53727.00","13713.00","8047.00"]},
+{"id":"20","cell":["20","2018","Berkeley","SHAOSUI","XU","ASST RES-FY","75487.00","75487.00","0.00","0.00"]}]
+}

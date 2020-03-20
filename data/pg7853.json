@@ -1,0 +1,26 @@
+{
+"page" : "7853",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ISH","BHALLA","HS CLIN INSTR-HCOMP","28125.00","26124.00","0.00","2001.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","AYAKO","TAKAMORI","VIS ASST PROF","28125.00","28125.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","ANTONIO","MOYA","HS CLIN INSTR-HCOMP","28125.00","26124.00","0.00","2001.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","ALTAF","SAADI","HS CLIN INSTR-HCOMP","28125.00","26124.00","0.00","2001.00"]},
+{"id":"5","cell":["5","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","28125.00","25678.00","0.00","2447.00"]},
+{"id":"6","cell":["6","2018","Berkeley","JESSY","ETIENNE","POSTDOC-EMPLOYEE","28124.00","28124.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","RUI","MA","CLIN LAB SCI PD","28124.00","26746.00","0.00","1378.00"]},
+{"id":"8","cell":["8","2018","Davis","KALI","YANG","COOK","28123.00","26224.00","1864.00","35.00"]},
+{"id":"9","cell":["9","2018","Irvine","BRENDAN LAURENCE","SHAPIRO","LRNG SKILLS CNSLR SR NEX","28122.00","28122.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ANUJA","BOSE","LECT-AY-1/9","28122.00","28122.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","CHOONGKI","SUNG","DEV ENGR ASC","28122.00","27744.00","0.00","378.00"]},
+{"id":"12","cell":["12","2018","Merced","*****","*****","GSR-PARTIAL FEE REM","28122.00","28122.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","TOMAS","MCKAY ALLIENDE","LECT-AY-1/10","28121.00","28121.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","STEFAN K","FLORES","ASC PHYSCN","28120.00","10807.00","0.00","17313.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","*****","*****","TEACHG FELLOW-GSHIP","28120.00","19316.00","0.00","8804.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","28120.00","28120.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","*****","*****","NON-PHYS CLIN TRAIN","28119.00","28119.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","*****","*****","NON-PHYS CLIN TRAIN","28119.00","28119.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","GERALDINE","SEVIER","RECORDS ANL 2","28119.00","26110.00","881.00","1128.00"]},
+{"id":"20","cell":["20","2018","San Francisco","NOELANI M","BRISBANE","OCCUPATIONAL THER 1 EX","28117.00","28117.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "7213",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","BRIAN","HIRAKAWA","MAIL PROCESSOR","35107.00","35100.00","7.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","ASHLEY YVONNE","ROCHA","HOSP BLANK AST 3","35107.00","34357.00","0.00","750.00"]},
+{"id":"3","cell":["3","2018","San Francisco","LUCIA","ABULENCIA","OPS ROOM SUPP AST","35106.00","33756.00","0.00","1350.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","GABRIELLE","RABAYA","NURSE PD","35106.00","20838.00","8362.00","5906.00"]},
+{"id":"5","cell":["5","2018","Irvine","ISABELLA LEANN","GRANADOS","MED AST","35105.00","34734.00","0.00","371.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","DEMETRIUS","COLLINS","CUSTODIAN SR","35105.00","34621.00","216.00","268.00"]},
+{"id":"7","cell":["7","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","35105.00","35105.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","ANGELA MARIE BON","AHN","CLIN NURSE 2","35105.00","29907.00","2529.00","2669.00"]},
+{"id":"9","cell":["9","2018","San Francisco","COLBY C","SOSTARICH","RSCH CMPLNC ANL 2","35103.00","35103.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","35103.00","34803.00","0.00","300.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","EMMA IZAMAR","ROJAS MATIAS","PUBL ADMSTN ANL AST","35103.00","30693.00","0.00","4410.00"]},
+{"id":"12","cell":["12","2018","San Francisco","MARTHA L.","VILLA-GUARDADO","BLANK AST 3","35101.00","34681.00","420.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","NATHANIEL R","WELTON","CLIN NURSE 2","35100.00","31974.00","1250.00","1876.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","CHARITY","CRAWFORD","CLIN NURSE 2","35100.00","29371.00","1431.00","4298.00"]},
+{"id":"15","cell":["15","2018","San Francisco","CRISTY","CHIANG","PHARMACY TCHN 2 PD","35098.00","30984.00","2007.00","2107.00"]},
+{"id":"16","cell":["16","2018","Irvine","DANIELLE MELENDE","GARCIA","BLANK AST 2","35098.00","23158.00","3141.00","8799.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","35097.00","35097.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","*****","*****","GSR-PARTIAL FEE REM","35097.00","34997.00","0.00","100.00"]},
+{"id":"19","cell":["19","2018","Santa Cruz","BEATRIZ","ALLEN","AUTO EQUIP OPR SR","35096.00","34402.00","575.00","119.00"]},
+{"id":"20","cell":["20","2018","San Diego","*****","*****","POSTDOC-EMPLOYEE","35093.00","35093.00","0.00","0.00"]}]
+}

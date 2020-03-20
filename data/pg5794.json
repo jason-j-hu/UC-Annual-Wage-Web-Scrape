@@ -1,0 +1,26 @@
+{
+"page" : "5794",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","MARCO A","RIVEROS GONZALE","MED CTR COOK","50268.00","40035.00","9813.00","420.00"]},
+{"id":"2","cell":["2","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","50268.00","46868.00","0.00","3400.00"]},
+{"id":"3","cell":["3","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","50267.00","33600.00","0.00","16667.00"]},
+{"id":"4","cell":["4","2018","Riverside","TYLER","SCHARTEL","POSTDOC-EMPLOYEE","50266.00","51464.00","0.00","-1198.00"]},
+{"id":"5","cell":["5","2018","Riverside","JEANETTE","MARTINEZ","CAREER SVC SPEC 3","50264.00","49764.00","0.00","500.00"]},
+{"id":"6","cell":["6","2018","Davis","KATHERINE","LABBE","ASST PROJ SCIENTIST-FY","50263.00","50263.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Santa Cruz","RENEE MARI","KOLLAR-BACHMAN","TEACHER-UNEX-CONTRACT YR","50262.00","35000.00","0.00","15262.00"]},
+{"id":"8","cell":["8","2018","San Diego","HAYLEY LORETTA","HEATH","PUBLICATIONS PROD SPEC 2","50262.00","48765.00","497.00","1000.00"]},
+{"id":"9","cell":["9","2018","Davis","GUIDO","LEVIN","BUS TCHL SUPP ANL 2","50261.00","50261.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","RAMON,JR.","CERVANTES","CARE SUPV 2","50261.00","50261.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","OLGA","KAGAN","PROF-AY","50260.00","49367.00","0.00","893.00"]},
+{"id":"12","cell":["12","2018","Davis","MICHAEL D","LACOUNT","POSTDOC-EMPLOYEE","50260.00","50260.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","JOSE","CAMPOS","CUSTODIAN","50260.00","39053.00","11207.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","LINDA DIANE","URSILLO","HOSP UNIT SVC CRD 3","50259.00","48596.00","648.00","1015.00"]},
+{"id":"15","cell":["15","2018","ASUCLA","LAURA","ORTIZ","ANL 1","50258.00","49435.00","0.00","823.00"]},
+{"id":"16","cell":["16","2018","San Diego","JEAN ALEXANDRE","BERNATCHEZ","POSTDOC-EMPLOYEE","50258.00","50258.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","OLGA IGOREVNA","MAVRINSKAYA","OPS ROOM AST 1","50257.00","42868.00","4118.00","3271.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","SHANTEA","BARNES","HOSP LAB TCHN 1","50257.00","49800.00","6.00","451.00"]},
+{"id":"19","cell":["19","2018","San Diego","HAEYUN","JUNG","ASST PROJ SCIENTIST-FY","50257.00","41268.00","0.00","8989.00"]},
+{"id":"20","cell":["20","2018","Davis","LAURA V","GASTELUM","MED INTERPRETER 1","50256.00","50064.00","192.00","0.00"]}]
+}

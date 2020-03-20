@@ -1,0 +1,26 @@
+{
+"page" : "6338",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ALIYA","SHIRIF","CHILD DEV ASC","45098.00","40806.00","174.00","4118.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","*****","*****","SRA 3","45097.00","40678.00","0.00","4419.00"]},
+{"id":"3","cell":["3","2018","San Diego","MARBELY M","OLIVO","MED AST 2","45097.00","44097.00","0.00","1000.00"]},
+{"id":"4","cell":["4","2018","Irvine","DANA KRONICK","BUTTLAR","SPEECH PATHOLOGIST PD","45096.00","44905.00","191.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","NICHOLAS","JOHNSON","POSTDOC-EMPLOYEE","45094.00","45094.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","MAYER","SAIDIAN","ASST SPECIALIST","45092.00","45092.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Merced","YESENIA","SOSA AGUILAR","BLANK AST 2","45092.00","42706.00","72.00","2314.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","LAURENCE","DIZON","MED CTR STOREKEEPER SR","45091.00","40894.00","3150.00","1047.00"]},
+{"id":"9","cell":["9","2018","Davis","CHARLES N","NJENGA","MED CTR CUSTODIAN SR","45090.00","37274.00","5188.00","2628.00"]},
+{"id":"10","cell":["10","2018","Riverside","IMRAN","FAROOQ","GOVT REL SPEC 5","45090.00","44790.00","0.00","300.00"]},
+{"id":"11","cell":["11","2018","San Diego","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","45089.00","41689.00","0.00","3400.00"]},
+{"id":"12","cell":["12","2018","San Francisco","KETAKI D","BELSARE","POSTDOC-EMPLOYEE","45088.00","45088.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","LIZETH","MACHUCA","MED AST 1","45088.00","44903.00","185.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","LAURA","BOUWENS","RSCH CMPLNC ANL 2","45088.00","44420.00","0.00","668.00"]},
+{"id":"15","cell":["15","2018","Santa Cruz","VIRIDIANA","VILLAGOMEZ","CUSTODIAN SR","45088.00","45088.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Merced","CHRISTINA","MENESES","ADMIN OFCR 2","45087.00","45087.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","KRISHANTHA","UKWATTA ARACHCHIGE","COOK AST","45086.00","38332.00","6724.00","30.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ZYNNIA","CABRERA","MED AST 3","45086.00","42413.00","1550.00","1123.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","MONET","BULCHAND","COOK PRN","45084.00","42294.00","1926.00","864.00"]},
+{"id":"20","cell":["20","2018","Berkeley","CHRISTOPHER","LEE","COACH AST 3","45084.00","41584.00","0.00","3500.00"]}]
+}

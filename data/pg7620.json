@@ -1,0 +1,26 @@
+{
+"page" : "7620",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","MONIQUE","WRIGHT","BLANK AST 2","30483.00","30483.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","30483.00","30483.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","*****","*****","GSR-FULL FEE REM","30481.00","30481.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","30481.00","21997.00","0.00","8484.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","BLANCA","CALDERON","MED CTR CUSTODIAN SR","30481.00","27821.00","0.00","2660.00"]},
+{"id":"6","cell":["6","2018","Berkeley","XINTIAN","FENG","POSTDOC-EMPLOYEE","30480.00","30480.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","30480.00","30094.00","0.00","386.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","30480.00","30094.00","0.00","386.00"]},
+{"id":"9","cell":["9","2018","Davis","SHAMIRA","SRIDHARAN","RSCH GNT PRG OFCR 4","30479.00","30479.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","PAUL","GRITSCH","BLANK AST 2","30479.00","28375.00","537.00","1567.00"]},
+{"id":"11","cell":["11","2018","UCOP","ATHELYNNE","ROBINSON","BLANK AST 2","30477.00","29412.00","0.00","1065.00"]},
+{"id":"12","cell":["12","2018","San Diego","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","30476.00","25976.00","0.00","4500.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","*****","*****","INTRM POSTDOC SCHOLAR-EMPLOYEE","30476.00","30476.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","NINH L.","KHUU","LAB AST 3","30475.00","17526.00","7959.00","4990.00"]},
+{"id":"15","cell":["15","2018","San Diego","OZGUR","OZCELIK","ASSOC RES-FY-B/E/E","30475.00","30475.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","ZEHONG","TAN","CUSTODIAN SR","30474.00","27050.00","3275.00","149.00"]},
+{"id":"17","cell":["17","2018","San Francisco","EMILY JADE","NURMINEN","CLIN RSCH ANL 4","30473.00","30473.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","*****","*****","TEACHG FELLOW-GSHIP","30473.00","23471.00","0.00","7002.00"]},
+{"id":"19","cell":["19","2018","Berkeley","GREIL","MARCUS","ADJ PROF-AY-1/9","30472.00","30472.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","ASTRID L","MONTUCLARD","SURVEY WORKER SR","30471.00","28137.00","2334.00","0.00"]}]
+}

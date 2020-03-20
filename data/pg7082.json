@@ -1,0 +1,26 @@
+{
+"page" : "7082",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Riverside","SEN","MIAO","JR SPECIALIST","36659.00","36586.00","73.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","BRIDGET FLYN","BRECKENRIDGE","HOSP UNIT SVC CRD 3","36658.00","35638.00","20.00","1000.00"]},
+{"id":"3","cell":["3","2018","San Francisco","ELIZABETH L","MCAULIFFE","CLIN NURSE 2","36657.00","29395.00","0.00","7262.00"]},
+{"id":"4","cell":["4","2018","San Francisco","TIFFANY PLESHETT","JONES","PRACTICE CRD 1","36657.00","35841.00","0.00","816.00"]},
+{"id":"5","cell":["5","2018","Irvine","CHERIE","FOWLER","CMTY HEALTH PRG MGR","36656.00","36656.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","JENNIFER REYES","COLLADO","ADMITTING WORKER SR","36655.00","34271.00","1108.00","1276.00"]},
+{"id":"7","cell":["7","2018","Davis","MARGARITA R","ALVORD","CMTY EDUC SPEC 2","36654.00","36654.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","*****","*****","SRA 1","36654.00","36499.00","155.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","ALEXANDER G","HAW","EMERGENCY TRAUMA TCHN SR","36653.00","27498.00","2629.00","6526.00"]},
+{"id":"10","cell":["10","2018","Berkeley","JUAN","CERVANTES","COOK","36652.00","35733.00","48.00","871.00"]},
+{"id":"11","cell":["11","2018","Santa Cruz","MALIK","DOUGLAS","ACAD ACHIEVEMENT CNSLR 3","36651.00","34510.00","0.00","2141.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","TYLER","MOORE","ATH PROFL 3 BYA","36650.00","33333.00","0.00","3317.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","JESSICA","ALVAREZ","PAT BILLER 3","36649.00","36093.00","36.00","520.00"]},
+{"id":"14","cell":["14","2018","San Francisco","SARA LINDSAY","TOOGOOD","SPEECH PATHOLOGIST PD","36648.00","36243.00","0.00","405.00"]},
+{"id":"15","cell":["15","2018","Davis","KEVIN R","LUCAS","BUS TCHL SUPP ANL 2","36648.00","36293.00","0.00","355.00"]},
+{"id":"16","cell":["16","2018","San Diego","BURCAK","OTLU SARITAS","POSTDOC-EMPLOYEE","36648.00","36648.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","36647.00","29722.00","0.00","6925.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","RIGOBERTO","GARCIA","CMTY HEALTH PRG REPR","36647.00","35081.00","1326.00","240.00"]},
+{"id":"19","cell":["19","2018","San Diego","CRISNA","OROPEZA","HOSP BLANK AST 3","36647.00","36647.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","LIONEL","OUONKAP","SRA 1","36646.00","31189.00","3257.00","2200.00"]}]
+}

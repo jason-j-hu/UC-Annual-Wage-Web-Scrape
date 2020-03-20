@@ -1,0 +1,26 @@
+{
+"page" : "6315",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","SHARON L","JACKSON","BLANK AST 2","45365.00","45365.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","LINDSEY D","GILLESPIE","BLANK AST 2","45365.00","45365.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","ERIC","THOMPSON","BLANK AST 2","45365.00","45365.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","SILVIA","QUINTANA","BLANK AST 2","45365.00","45365.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","AMBER BAUTISTA","TABAGO","NURSE AID SR","45365.00","38203.00","959.00","6203.00"]},
+{"id":"6","cell":["6","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","45364.00","45364.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","SANDRA","RAMIREZ","FOOD SVC WORKER","45363.00","42529.00","2834.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","CYNTHIA","ALVAREZ","ACCESS REPR SR","45362.00","44639.00","63.00","660.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","AMIR","ALEXANDER","ASSOC ADJ PROF-AY","45362.00","45362.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","CINDY JOANNA","PEREZ","BUS TCHL SUPP ANL 2","45360.00","45294.00","66.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","TIMOTHY","HUNT","LAB AST 3","45359.00","44672.00","687.00","0.00"]},
+{"id":"12","cell":["12","2018","Merced","VIRGINIA","VIEIRA","BLANK AST 3","45359.00","45359.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","KENJI","MURATA","ASSOC PROJ SCIENTIST-FY","45358.00","45358.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","KAREN GISEL","MONTES GAMBOA","HOSP BLANK AST 3","45358.00","43201.00","586.00","1571.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","MIKE","GOMEZ","AUTO TCHN AST","45358.00","43997.00","0.00","1361.00"]},
+{"id":"16","cell":["16","2018","San Francisco","KATHRYN ELIZABET","KATUZNY","ANL 1","45356.00","45356.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","ELMIRA","ABREGO","ADMIN CARE CLIN PARTNER","45356.00","39822.00","3818.00","1716.00"]},
+{"id":"18","cell":["18","2018","San Diego","STEPHANIE BERGER","MCKENNA","PHYS THER 1 NEX","45356.00","45038.00","298.00","20.00"]},
+{"id":"19","cell":["19","2018","Berkeley","MICHAEL","SORENSEN","INFO SYS ANL 3","45356.00","36530.00","0.00","8826.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","ROBERT","ZEYSSIG","STF PHARMACIST 1 NEX","45355.00","43892.00","1463.00","0.00"]}]
+}

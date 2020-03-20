@@ -1,0 +1,26 @@
+{
+"page" : "8030",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","*****","*****","RESID PHYS I/REP","26477.00","26273.00","0.00","204.00"]},
+{"id":"2","cell":["2","2018","Berkeley","DARRYL","PAXSON","RECR PRG LEADER 2 BYA","26477.00","25458.00","0.00","1019.00"]},
+{"id":"3","cell":["3","2018","Riverside","*****","*****","GSR-PARTIAL FEE REM","26476.00","26376.00","0.00","100.00"]},
+{"id":"4","cell":["4","2018","Davis","*****","*****","TEACHG ASST-GSHIP","26475.00","22620.00","0.00","3855.00"]},
+{"id":"5","cell":["5","2018","Berkeley","*****","*****","GSR-PARTIAL FEE REM","26474.00","26474.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","CHAHRIAR","ASSAD","TEACHER-UNEX-CONTRACT YR","26474.00","0.00","0.00","26474.00"]},
+{"id":"7","cell":["7","2018","San Diego","WILLIAM HENRY","RIX","LECT-AY","26474.00","26474.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","ANASTACIA","KASER","EXEC AST 3","26474.00","15214.00","0.00","11260.00"]},
+{"id":"9","cell":["9","2018","Davis","*****","*****","GSR-FULL FEE REM","26473.00","26473.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","26473.00","26373.00","0.00","100.00"]},
+{"id":"11","cell":["11","2018","Santa Barbara","DANIELLE","SPAHN","RSCH ADM 3","26473.00","26473.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","26472.00","26472.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Irvine","JULIUS","DREQUITO","FOOD SVC WORKER","26471.00","26471.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Santa Cruz","RICHELLE ANTOINE","NOROYAN","GOVT REL SPEC 3","26469.00","26469.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","26469.00","26469.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","KATHERINE ANNE","HAMEL","SRA 2","26468.00","25002.00","0.00","1466.00"]},
+{"id":"17","cell":["17","2018","Irvine","GREGORY","HARRISON","VICE CHAN ASC","26468.00","20253.00","0.00","6215.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","*****","*****","STDT 1","26468.00","21436.00","0.00","5032.00"]},
+{"id":"19","cell":["19","2018","San Francisco","NACIACIEN ALFAJA","BAMBILLA","BLANK AST 3","26467.00","26467.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","MARIE LOUISE","GRAHAM","ADMITTING WORKER PRN","26467.00","26053.00","0.00","414.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "1184",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","MICHAEL","NGUYEN","ELEVATOR MECH","145770.00","106789.00","21898.00","17083.00"]},
+{"id":"2","cell":["2","2018","San Francisco","KERRY","CHAO","BUS TCHL SUPP MGR 1","145766.00","133614.00","0.00","12152.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","TANIA","ISRAEL","PROF-AY","145766.00","121200.00","0.00","24566.00"]},
+{"id":"4","cell":["4","2018","San Francisco","EDWIN FRANCIS","ETORMA","CLIN NURSE 2","145765.00","122356.00","0.00","23409.00"]},
+{"id":"5","cell":["5","2018","Irvine","JILL A","BUNNEY","NURSE PRACT 3","145762.00","145762.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JOCELYN","TABATA","DIR","145762.00","135554.00","0.00","10208.00"]},
+{"id":"7","cell":["7","2018","Riverside","GREGORY","LYNCH","POLICE OFCR","145761.00","96351.00","34114.00","15296.00"]},
+{"id":"8","cell":["8","2018","Davis","JONATHON F","YOPPINI","CLIN NURSE 3","145759.00","117235.00","15667.00","12857.00"]},
+{"id":"9","cell":["9","2018","San Francisco","JAMES PATRICK DY","REDITA","CLIN LAB SCI","145758.00","106601.00","25339.00","13818.00"]},
+{"id":"10","cell":["10","2018","Davis","HEIDI","JONES","CLIN NURSE 2","145756.00","121270.00","11021.00","13465.00"]},
+{"id":"11","cell":["11","2018","San Francisco","LEANNE M","MARKLE","CLIN APPLICATIONS PROFL 4","145754.00","139074.00","0.00","6680.00"]},
+{"id":"12","cell":["12","2018","Berkeley","THUAN","NGUYEN","STEAMFITTER","145753.00","112794.00","5972.00","26987.00"]},
+{"id":"13","cell":["13","2018","San Francisco","AZITA","NABAVI","CLIN NURSE 3","145749.00","144604.00","0.00","1145.00"]},
+{"id":"14","cell":["14","2018","Davis","MAJOR A","TILOS","CLIN NURSE 2","145745.00","127221.00","3453.00","15071.00"]},
+{"id":"15","cell":["15","2018","San Diego","BARBARA JEAN","ULDALL","DECISION SUPP SPEC 4","145742.00","144742.00","0.00","1000.00"]},
+{"id":"16","cell":["16","2018","San Francisco","PATRICK JOSE","MONCADA","POLICE OFCR","145741.00","100306.00","33584.00","11851.00"]},
+{"id":"17","cell":["17","2018","San Francisco","JAY","CONRAD","ASST ADJ PROF-HCOMP","145741.00","95543.00","0.00","50198.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ERNESTO","MARASIGAN","CLIN LAB SCI","145736.00","117673.00","4109.00","23954.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","TRAVIS","CROSS","PROF-AY","145734.00","111625.00","0.00","34109.00"]},
+{"id":"20","cell":["20","2018","San Francisco","IRENE D","MERRY","PROJECT POLICY ANL 5","145732.00","136688.00","0.00","9044.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "2521",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ERIC","SCERRI","LECT-AY-CONTINUING","97592.00","97592.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","UCOP","SIVANESH","MANOHARAN","APPLICATIONS PROGR 3","97589.00","97589.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Irvine","JILL","TSENG","HS ASST CLIN PROF-HCOMP","97588.00","37886.00","0.00","59702.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","FRANCIS","TIEMPO","CLIN NURSE 2","97586.00","83835.00","89.00","13662.00"]},
+{"id":"5","cell":["5","2018","Davis","EDWARD","DANIELS","RSCH AND DEV ENGR 3","97586.00","96711.00","0.00","875.00"]},
+{"id":"6","cell":["6","2018","Berkeley","LARONDA","CHAMBERS","ADMIN OFCR 4","97586.00","96294.00","0.00","1292.00"]},
+{"id":"7","cell":["7","2018","Davis","AMY MARIE","HOLZMAN","AUDIT PROFL 4","97585.00","97385.00","0.00","200.00"]},
+{"id":"8","cell":["8","2018","San Francisco","SIMMA ROSNER","GENZLINGER","CLIN NURSE 2","97584.00","95998.00","0.00","1586.00"]},
+{"id":"9","cell":["9","2018","Berkeley","RAMONA","NADDAFF","ASSOC PROF-AY","97583.00","97583.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","BROOKSLEY A","BIGART","ADMIN OFCR 3","97583.00","97583.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","CHELSEA","LINDAHL","NURSE PD","97580.00","92505.00","4124.00","951.00"]},
+{"id":"12","cell":["12","2018","San Francisco","TARA","WONG","RSCH ADM 3","97579.00","95366.00","0.00","2213.00"]},
+{"id":"13","cell":["13","2018","Irvine","ERIN A","SIMON","CLIN NURSE 2","97577.00","84944.00","5689.00","6944.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","JULIE","RAHMING","ACCOUNTANT 3","97576.00","93232.00","0.00","4344.00"]},
+{"id":"15","cell":["15","2018","San Diego","JIANJUN","LI","APPLICATIONS PROGR 3","97574.00","93574.00","0.00","4000.00"]},
+{"id":"16","cell":["16","2018","Berkeley","DAVID","ATWOOD","TRAINER 4","97574.00","94022.00","0.00","3552.00"]},
+{"id":"17","cell":["17","2018","Davis","ENRIELYNNE ASUNC","AITKEN","CLIN NURSE 2","97571.00","92381.00","1419.00","3771.00"]},
+{"id":"18","cell":["18","2018","Santa Cruz","TRISHA ANN","KLEIN","K to 14 ACAD PREP SPEC 5","97571.00","97571.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","STEPHEN C.","DIGGS","DATA SYS ANL 3","97571.00","97571.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","EDWARD A","BURNS","CLIN NURSE 2","97567.00","84331.00","5188.00","8048.00"]}]
+}

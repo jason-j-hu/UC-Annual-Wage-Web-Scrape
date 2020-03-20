@@ -1,0 +1,26 @@
+{
+"page" : "5163",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","ITAY","BAREL","POSTDOC-EMPLOYEE","55857.00","55857.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","JAMES","MCCARTY","POSTDOC-EMPLOYEE","55857.00","55857.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Riverside","MICHAEL","BUCKLIN","LECT-AY-CONTINUING","55857.00","49338.00","0.00","6519.00"]},
+{"id":"4","cell":["4","2018","San Diego","PHILIPP RUDI","WECKWERTH","POSTDOC-EMPLOYEE","55857.00","55857.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","STACYE","CARMIOL","HOSP BLANK AST 3","55855.00","52433.00","2410.00","1012.00"]},
+{"id":"6","cell":["6","2018","San Diego","ALYSSA MAE","CUNANAN","BENEFITS ANL 2","55855.00","54855.00","0.00","1000.00"]},
+{"id":"7","cell":["7","2018","San Francisco","KRISTEN C","TSAN","PRACTICE CRD 3","55854.00","54479.00","235.00","1140.00"]},
+{"id":"8","cell":["8","2018","San Diego","THOMAS KINGSLEY","BROWN","ACAD ACHIEVEMENT CNSLR 2","55854.00","55854.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","LARRY","HUGHES","CUSTODIAN LD","55850.00","51198.00","1835.00","2817.00"]},
+{"id":"10","cell":["10","2018","Irvine","VALERIE A.","GOMEZ","STDT AFFAIRS OFCR 3 EX","55850.00","55850.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","BRUCE","HEYMAN","AUTO EQUIP OPR PRN","55848.00","55205.00","643.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","CATHERINE","PHAN","ADMIN ANL","55848.00","52293.00","555.00","3000.00"]},
+{"id":"13","cell":["13","2018","San Diego","DEREK MICHAEL","GOOD","BUS TCHL SUPP ANL 3","55848.00","54848.00","0.00","1000.00"]},
+{"id":"14","cell":["14","2018","Berkeley","JANINE","NESSET TOMINAGA","BLANK AST 3","55848.00","55848.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","MEGAN E","KENNEDY","ADMISSIONS RECRMT SPEC 3","55847.00","55847.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","ROSA","TEN BOQUERA","ASC PHYSCN","55844.00","13329.00","0.00","42515.00"]},
+{"id":"17","cell":["17","2018","Davis","LOREN P","JENKINS","MAIL SVC SUPV 1","55843.00","55843.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","JUDE","OGOKE","MED CTR SCRTY OFCR","55843.00","40108.00","12419.00","3316.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","REENA","KHULLAR","LECT-FY","55843.00","54394.00","0.00","1449.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","LUALHATI","WOODSON","PAT BILLER 3","55842.00","55342.00","0.00","500.00"]}]
+}

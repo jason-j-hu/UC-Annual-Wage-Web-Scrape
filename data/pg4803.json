@@ -1,0 +1,26 @@
+{
+"page" : "4803",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","MARTHA","SOLORZANO","PHLEBOTOMIST CERT TCHN 2","59298.00","55216.00","294.00","3788.00"]},
+{"id":"2","cell":["2","2018","UCOP","JOSEPH","TOBIN","MARKETING SPEC 2","59298.00","59298.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","KAITLYN","MCHALE","ADMIN ANL SUPV NEX","59298.00","56879.00","419.00","2000.00"]},
+{"id":"4","cell":["4","2018","Berkeley","DANNY","PARAJON","PARKING REPR SR","59298.00","53100.00","977.00","5221.00"]},
+{"id":"5","cell":["5","2018","Davis","WAYNE","SHEPPARD","MED CTR CUSTODIAN SR","59297.00","45068.00","10432.00","3797.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","DOUGLAS","DANIELS","PROGR ANL 2","59296.00","59296.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","ALEX","RICO","BUYER 2","59296.00","59296.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","ELIZBETH","ARCEO","PRG REPR 3","59295.00","59295.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","JULIO","LOPEZ","HOSP BLANK AST 3 SUPV","59295.00","52223.00","5333.00","1739.00"]},
+{"id":"10","cell":["10","2018","San Francisco","ZIYI","KA","PRACTICE CRD 3","59293.00","57659.00","733.00","901.00"]},
+{"id":"11","cell":["11","2018","Santa Cruz","KYLE CHRISTOPHER","SOLIZ","EHS SPEC 3","59292.00","58542.00","0.00","750.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","RUTH","HWANG","ACCOUNTANT 3","59292.00","59292.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","ALICE","WILSON","BLANK AST 3","59291.00","52201.00","5891.00","1199.00"]},
+{"id":"14","cell":["14","2018","San Francisco","BALINT","CSORGO","ASSOC SPECIALIST","59290.00","59290.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","59290.00","57790.00","0.00","1500.00"]},
+{"id":"16","cell":["16","2018","Berkeley","CHARLOTTE","JONES","EVENTS SPEC 2","59288.00","59288.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","DAPHNE A","STUART","CLIN SOCIAL WORKER 3","59287.00","58660.00","0.00","627.00"]},
+{"id":"18","cell":["18","2018","Davis","JULIE","MAHARAJ","BLANK AST 3","59287.00","59213.00","74.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","FRANK","AZZARITI","PRG REPR SUPV","59286.00","50737.00","0.00","8549.00"]},
+{"id":"20","cell":["20","2018","Davis","TEGAN M","MICELI","MED AST 2","59286.00","56435.00","2851.00","0.00"]}]
+}

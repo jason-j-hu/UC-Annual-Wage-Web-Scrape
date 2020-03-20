@@ -1,0 +1,26 @@
+{
+"page" : "8399",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","LEILA MARIE","WHITLEY","LECT-AY","22808.00","22808.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Irvine","SEAN DANIEL","FIRTH","LAB AST 1","22807.00","22712.00","95.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Cruz","*****","*****","TEACHG ASST-GSHIP","22807.00","21119.00","0.00","1688.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","NANCE","ROSEN","TEACHER-UNEX-CONTRACT YR","22807.00","0.00","0.00","22807.00"]},
+{"id":"5","cell":["5","2018","San Diego","NATALIE SHARON","FAVORITE","RSCH ADM 2","22807.00","18661.00","0.00","4146.00"]},
+{"id":"6","cell":["6","2018","Berkeley","DONALD","ORLANDO","RSCH AND DEV ENGR 3","22807.00","22807.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","*****","*****","GSR-NO REM","22806.00","22806.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","STEPHEN","CHEUNG","APPLICATIONS PROGR 1","22806.00","17296.00","0.00","5510.00"]},
+{"id":"9","cell":["9","2018","Irvine","EDISON","CHEN","JR SPECIALIST NEX","22806.00","20884.00","224.00","1698.00"]},
+{"id":"10","cell":["10","2018","Davis","EMILY J","CRIVELLO","CLIN RSCH CRD AST","22805.00","22666.00","139.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","*****","*****","TEACHG ASST-GSHIP","22803.00","22703.00","0.00","100.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","22803.00","22703.00","0.00","100.00"]},
+{"id":"13","cell":["13","2018","Irvine","*****","*****","GSR-TUIT & FEE REM","22802.00","22802.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","CHRIS","ZAROW","RSCH DATA ANL 2","22800.00","22800.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","*****","*****","GSR-FULL FEE REM","22799.00","17167.00","0.00","5632.00"]},
+{"id":"16","cell":["16","2018","San Francisco","LILI MACARIA CHI","RAMOS","CLIN RSCH CRD","22795.00","22795.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","LORENZO","ZUNIGA","STDT ACAD ADVISOR 2","22793.00","22793.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","SIANG CHEN","WU","POSTDOC-EMPLOYEE","22792.00","22792.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","SARA","SADRI","POSTDOC-EMPLOYEE","22792.00","22792.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Riverside","*****","*****","GSR-PARTIAL FEE REM","22792.00","22792.00","0.00","0.00"]}]
+}

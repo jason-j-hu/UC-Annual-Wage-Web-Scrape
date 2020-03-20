@@ -1,0 +1,26 @@
+{
+"page" : "3006",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","ANDREW","WINTER","SYS ADM 3","85899.00","85899.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","MICHELLE","SANDERS","CLIN NURSE 2","85898.00","77112.00","2480.00","6306.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","ALISON","SHAW","ADJ INSTR-HCOMP","85895.00","79686.00","0.00","6209.00"]},
+{"id":"4","cell":["4","2018","Irvine","NANCY A","KELLY","FIN ANL PRN 1","85894.00","85894.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","JEFFREY SCOTT","ROGERS","SURGICAL TCHN PRN","85893.00","85546.00","16.00","331.00"]},
+{"id":"6","cell":["6","2018","San Diego","DEBORAH K","BARBER","FINANCIAL ANL 3","85892.00","77658.00","0.00","8234.00"]},
+{"id":"7","cell":["7","2018","Merced","MARIA","ZOGHBI","ASST PROF-AY","85892.00","85892.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","YUN","SHEN","PROGR ANL 3","85891.00","81711.00","0.00","4180.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","MARSHA","FLAMER","ADMIN ANL","85891.00","79217.00","3533.00","3141.00"]},
+{"id":"10","cell":["10","2018","San Diego","EDMOND Y.","CHANG","LECT-AY-CONTINUING","85890.00","77197.00","0.00","8693.00"]},
+{"id":"11","cell":["11","2018","Berkeley","DON-ANTHONY","CAPONE","CNSLNG PSYCHOLOGIST 3 HX","85889.00","83349.00","0.00","2540.00"]},
+{"id":"12","cell":["12","2018","Berkeley","ROMMEL","MAPAYE","FINANCIAL ANL 3","85889.00","85889.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Merced","YASMEEN","JEWEL","PROCUREMENT ANL 4","85888.00","85888.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","LI","CHUANG","PROGR ANL 3","85887.00","85887.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Irvine","PRESTON S","ORWIG","PROGR ANL 3 SUPV","85887.00","85887.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","MARTHA T","FERRIER","CLIN NURSE 2","85887.00","81645.00","909.00","3333.00"]},
+{"id":"17","cell":["17","2018","Irvine","MEHRAN","BOZORGMEHRI","PROGR ANL 3 SUPV","85886.00","85886.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","KAYLA","MITCHELL","PROJECT POLICY ANL 3","85885.00","82701.00","0.00","3184.00"]},
+{"id":"19","cell":["19","2018","San Francisco","*****","*****","HS CLIN INSTR-HCOMP","85884.00","61607.00","0.00","24277.00"]},
+{"id":"20","cell":["20","2018","San Diego","CAROLYN L","SANDOVAL","ACADEMIC COORD III-FY","85883.00","80883.00","0.00","5000.00"]}]
+}

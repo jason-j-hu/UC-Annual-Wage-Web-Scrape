@@ -1,0 +1,26 @@
+{
+"page" : "2482",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","AMIT","AHUJA","ASSOC PROF-AY","98675.00","98675.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","GARRY","MAC PHERSON","VC BUS ADMSTN","98675.00","98675.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Irvine","ANNLIA PAGANINI","HILL","PROJ SCIENTIST-FY","98673.00","98673.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","MONICA","GARCIA","ADMIN OFCR 3","98673.00","95673.00","0.00","3000.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","JEREL","CALAGUAS","CLIN NURSE 2","98669.00","84550.00","550.00","13569.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","ARVIN","ROQUE-VERDEFLOR","INTERVENTIONAL RADLG TCHNO","98669.00","96362.00","1938.00","369.00"]},
+{"id":"7","cell":["7","2018","San Diego","KYONG DONG","PARK","PROF-AY","98667.00","98667.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Riverside","CONSTANCE","NUGENT","DIVISIONAL DEAN","98666.00","92833.00","0.00","5833.00"]},
+{"id":"9","cell":["9","2018","San Francisco","GERALDINE MANANS","WONG","RESP CARE SUPV 2","98664.00","77844.00","8735.00","12085.00"]},
+{"id":"10","cell":["10","2018","Berkeley","JENNIFER","FRENCH","FINANCIAL AID SUPV 2","98662.00","95517.00","0.00","3145.00"]},
+{"id":"11","cell":["11","2018","Irvine","AMADO OROZCO","ERGINA","CLIN LAB SCI","98659.00","94793.00","2801.00","1065.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","YESSENIA","SARMIENTO","ADM CRD OFCR","98659.00","98659.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","MARK BRADLEY","ADAMS","PHYS PLT MECH SR","98658.00","89337.00","4111.00","5210.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","MINOLIE","GORDON","ADMIN ANL SR","98658.00","98658.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Riverside","JONG","PARK","ASSOC PROF-AY","98658.00","98658.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Riverside","WEIHSIN","GUI","ASSOC PROF-AY","98658.00","98658.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","YANA","CHERNYAK-FILKOV","TCHL PROJECT MGT PROFL 3","98657.00","97782.00","0.00","875.00"]},
+{"id":"18","cell":["18","2018","Berkeley","CHRISTOPHER","HSU","APPLICATIONS PROGR 4","98653.00","98653.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","MIHAI","CURCA","COMPUTING RESC MGR 2","98652.00","98652.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Riverside","LEONARD","TAYLOR","STDT ACAD MGR 1","98652.00","98652.00","0.00","0.00"]}]
+}

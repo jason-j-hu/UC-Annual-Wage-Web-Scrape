@@ -1,0 +1,26 @@
+{
+"page" : "6617",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","PEJMAN","BAKHTIARY","HS CLIN INSTR-HCOMP","42126.00","36362.00","0.00","5764.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","WEN-SHIN","LEE","HS CLIN INSTR-HCOMP","42126.00","36362.00","0.00","5764.00"]},
+{"id":"3","cell":["3","2018","San Diego","*****","*****","APPLICATIONS PROGR 1","42126.00","42063.00","63.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","SIAN A","BEHRENDT-MCLERO","SRA 2 NEX","42122.00","40658.00","0.00","1464.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","RODOLFO","RAMOS","FOOD SVC WORKER","42122.00","41222.00","699.00","201.00"]},
+{"id":"6","cell":["6","2018","San Francisco","MORVARID","MEHDIZADEH","SRA 1","42121.00","42111.00","10.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","ADRIANA","CACHO","LAB AST 2","42120.00","42120.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Santa Cruz","RAVISHANKAR N","CHITYALA","TEACHER-UNEX-CONTRACT YR","42120.00","0.00","0.00","42120.00"]},
+{"id":"9","cell":["9","2018","Riverside","JARED","CORBIN","LABORER","42120.00","40581.00","1521.00","18.00"]},
+{"id":"10","cell":["10","2018","San Diego","MACKENZIE MARIE","BRYANT","LAB AST 2","42120.00","42120.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","ALMA LILIA","GARCIA","LAB AST 2","42120.00","42120.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","GLORIA","SANCHEZ","LAB AST 2","42120.00","42120.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","MICHAEL","JUN","LAB AST 2","42120.00","42120.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","LILIA","GARCIA","LAB AST 2","42120.00","42120.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","*****","*****","GSR-TUIT & FEE REM","42119.00","42119.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","ERICA","MARTINEZ","PAT NAVGTR NON-CLIN 2","42119.00","41370.00","8.00","741.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","MAXX","TEPPER","DEV ENGR JR","42119.00","42119.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","IAN PETER","WILLIAMS","POSTDOC-EMPLOYEE","42119.00","42119.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","HIROMI","KUMAMARU","POSTDOC-EMPLOYEE","42119.00","42119.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","SANDRA L","ACOSTA","BLANK AST 2","42117.00","42117.00","0.00","0.00"]}]
+}

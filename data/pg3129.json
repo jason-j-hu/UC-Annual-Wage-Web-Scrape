@@ -1,0 +1,26 @@
+{
+"page" : "3129",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","BENJAMIN","KATZ","DEV ENGR ASC","83250.00","83250.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Berkeley","NANCY","SMITH","RSCH ADM 4","83249.00","82749.00","0.00","500.00"]},
+{"id":"3","cell":["3","2018","San Diego","PINAR","YOLDAS","ASST PROF-AY","83247.00","77792.00","0.00","5455.00"]},
+{"id":"4","cell":["4","2018","Santa Barbara","CARLOS","MARQUEZ","SKLD CRAFTS AND TRADES SUPV 1","83244.00","83244.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","MARTIN CHARLES","KANDES","CMPTL AND DATA SCI RSCH SPEC 3","83243.00","79243.00","0.00","4000.00"]},
+{"id":"6","cell":["6","2018","San Diego","ROBERTO","ROMITA","CLIN INFORMATICS SPEC 3","83243.00","82243.00","0.00","1000.00"]},
+{"id":"7","cell":["7","2018","Irvine","STEPHANIE","DAY","ASSOC PROJ SCIENTIST-FY","83242.00","83242.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","NADIR","SARWARY","PHARMACY TCHN 3","83241.00","72490.00","10596.00","155.00"]},
+{"id":"9","cell":["9","2018","UCOP","ZAKARY","LONG","DIGITAL COMM SPEC 3","83240.00","83240.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","KASEY W","MANNA","PAT RCDS ABSTRACTOR 3","83235.00","82474.00","761.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","JEDD ARI","FISCH","INTERCOL ATH COACH AST EX","83234.00","41667.00","0.00","41567.00"]},
+{"id":"12","cell":["12","2018","Davis","FADZAYI E","MASHIRI","ASSOC COOP EXT ADVISOR","83232.00","78123.00","0.00","5109.00"]},
+{"id":"13","cell":["13","2018","San Francisco","MATTHEW EDWARD","LOEHRER","PROJECT POLICY ANL 3","83231.00","83231.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","*****","*****","ASC PHYSCN","83231.00","67898.00","0.00","15333.00"]},
+{"id":"15","cell":["15","2018","Davis","MONICA","BRITTON","BIOINFORMATICS PROGR 4","83229.00","83229.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","GERT","WOHLGEMUTH","BIOINFORMATICS PROGR 4","83229.00","83229.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","UCOP","MATTHEW","MCKINLEY","APPLICATIONS PROGR 2","83227.00","83227.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","ANJALI","NATH","ASST PROF-AY","83226.00","83226.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","MICHAEL","DAY","RSCH AND DEV ENGR 3","83225.00","83225.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","PAUL","TOBIAS","INFO SYS ANL 3","83223.00","83223.00","0.00","0.00"]}]
+}

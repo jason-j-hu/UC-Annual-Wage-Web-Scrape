@@ -1,0 +1,26 @@
+{
+"page" : "2810",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","RICARDO","QUINTERO","ADV OFCR 3","90429.00","90429.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","KAITLYN","BURROLA","CLIN NURSE 2","90427.00","83426.00","541.00","6460.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","CARRIE","SPECK","CLIN NURSE 2","90427.00","87235.00","2919.00","273.00"]},
+{"id":"4","cell":["4","2018","Berkeley","BAHAR","NAVAB","ENTERPRISE RISK MGR 1","90426.00","90078.00","0.00","348.00"]},
+{"id":"5","cell":["5","2018","Irvine","HONGTAO","CHEN","ASST PROJ SCIENTIST-FY-B/E/E","90425.00","90425.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JANE","WILLENS","CLIN SOCIAL WORKER CHF ASC","90424.00","90424.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","YU","BAI","MEDIA COMM SPEC 3","90422.00","89422.00","0.00","1000.00"]},
+{"id":"8","cell":["8","2018","Berkeley","ELEANOR","LEE","FINANCIAL ANL 3","90420.00","90420.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","DEBRA LEE","KING","TCHL PROJECT MGT PROFL 3","90419.00","85919.00","0.00","4500.00"]},
+{"id":"10","cell":["10","2018","San Diego","TERRY LEE","MACHERZAK","RADLG TCHNO SR","90419.00","88819.00","329.00","1271.00"]},
+{"id":"11","cell":["11","2018","San Francisco","JENNIFER ANN","URBAIN","EXEC AST 3","90417.00","90417.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","MICHAEL H","LE","HS ASST CLIN PROF-HCOMP","90417.00","85417.00","0.00","5000.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","KATHERINE HUNTER","MECKEL","ASST PROF-AY-B/E/E","90417.00","90417.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","ADAM","NILSEN","PUBL EDUC SPEC 4","90417.00","90417.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","KHOI NGOC","PHAM","CLIN LAB SCI SPEC","90416.00","80554.00","5524.00","4338.00"]},
+{"id":"16","cell":["16","2018","Berkeley","MICHAEL","REICH","RECALL FACULTY","90415.00","90415.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","LLOYD H","TERAGAWA","PHYS PLT MECH","90414.00","90274.00","140.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","*****","*****","PUBL EDUC SPEC 2","90414.00","62455.00","0.00","27959.00"]},
+{"id":"19","cell":["19","2018","San Francisco","MEGAN A","WENGER","RSCH DATA ANL 3","90413.00","90413.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","*****","*****","HS CLIN INSTR-HCOMP","90413.00","59465.00","0.00","30948.00"]}]
+}

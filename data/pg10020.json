@@ -1,0 +1,26 @@
+{
+"page" : "10020",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","*****","*****","STDT 4 WKSTY","9764.00","9633.00","131.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","SHUCHANG","KANG","INTERN-CLIN PSYCH-GENL CAMP","9764.00","9764.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","*****","*****","STDT AFFAIRS OFCR 1 PD","9764.00","2417.00","0.00","7347.00"]},
+{"id":"4","cell":["4","2018","Santa Barbara","ISABELA","FRANCA MAGALHAES","INTERN-CLIN PSYCH-GENL CAMP","9764.00","9764.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","KIMIA","POOSTI","INTERN-CLIN PSYCH-GENL CAMP","9764.00","9764.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","JOAQUIN","REYNA","LAB AST 1","9764.00","9212.00","233.00","319.00"]},
+{"id":"7","cell":["7","2018","San Diego","CHRISTIAN ROBERT","CASTILLO","MAIL PROCESSOR","9763.00","9605.00","158.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","MEI\"A","HAYES","TRUCK DRIVER","9763.00","9359.00","62.00","342.00"]},
+{"id":"9","cell":["9","2018","Irvine","ISABEL","YRIBE","MED CTR CUSTODIAN SR","9762.00","3210.00","562.00","5990.00"]},
+{"id":"10","cell":["10","2018","Davis","SHAU POH","CHONG","POSTDOC-EMPLOYEE NEX","9761.00","9761.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Santa Cruz","MICHAEL G","JACOX","ASST PROJ SCIENTIST-FY","9761.00","0.00","0.00","9761.00"]},
+{"id":"12","cell":["12","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","9761.00","9661.00","0.00","100.00"]},
+{"id":"13","cell":["13","2018","San Francisco","MATHIEU ANDRE PI","DAYNAC","POSTDOC-EMPLOYEE","9760.00","9760.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","THOMAS L","ROST","RECALL FACULTY","9760.00","9760.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","THOMAS","CRISMAN","POSTDOC-EMPLOYEE","9760.00","9760.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","CHENYAO","NIE","ASST PROJ SCIENTIST-FY","9760.00","9760.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Riverside","*****","*****","STDT 2","9760.00","9127.00","0.00","633.00"]},
+{"id":"18","cell":["18","2018","San Diego","YOAN","EYNAUD","POSTDOC-EMPLOYEE","9760.00","9760.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","LUKE","CHONG","POSTDOC-EMPLOYEE","9760.00","9760.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","*****","*****","STDT EVENTS","9759.00","9759.00","0.00","0.00"]}]
+}

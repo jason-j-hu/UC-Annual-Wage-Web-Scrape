@@ -1,0 +1,26 @@
+{
+"page" : "2240",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","PAUL JOSEPH","GELDBACH","PLNG SPEC 4","105183.00","104290.00","0.00","893.00"]},
+{"id":"2","cell":["2","2018","UCOP","PARTHA","CHAKRABORTY","APPLICATIONS PROGR 3","105183.00","105183.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","WILLIAM","DAVENPORT","RSCH AND DEV ENGR 2","105182.00","105182.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","DONNA MARLENE","STERN","PUBL EDUC SUPV 2","105181.00","77548.00","0.00","27633.00"]},
+{"id":"5","cell":["5","2018","San Francisco","SUSAN R","DOWNS","ASC PHYSCN DIPLOMATE","105180.00","46551.00","0.00","58629.00"]},
+{"id":"6","cell":["6","2018","Irvine","LORI E","GREENE","DIR","105180.00","105180.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","MALALAI","SAMADI","COMM AND NETWORK TCHL SUPV 2","105177.00","104677.00","0.00","500.00"]},
+{"id":"8","cell":["8","2018","San Francisco","MARGARET CANNON","ROOT","NURSE PRACT 2","105176.00","98453.00","1090.00","5633.00"]},
+{"id":"9","cell":["9","2018","Irvine","MICHAEL","PROCK","HVAC MECH","105176.00","74176.00","31000.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","HILARY","GODWIN","PROF-AY","105175.00","94784.00","0.00","10391.00"]},
+{"id":"11","cell":["11","2018","Santa Cruz","GRANT L","MCGUIRE","ASSOC PROF-AY","105175.00","104675.00","0.00","500.00"]},
+{"id":"12","cell":["12","2018","Berkeley","AMY ROSE","DEAL","ASSOC PROF-AY","105175.00","105175.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","ANNA","GAWLINSKI","ADJ PROF-FY","105170.00","105170.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","SHIELA E","GORE","RADLG TCHNO SR","105170.00","99644.00","1226.00","4300.00"]},
+{"id":"15","cell":["15","2018","Berkeley","MARLENA","TELVICK","ALUMNI EXTERNAL REL SPEC 4","105170.00","105170.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","QICHI","HE","HOSP RAD PHYSICIST NEX","105168.00","101841.00","2664.00","663.00"]},
+{"id":"17","cell":["17","2018","Davis","MARTHA SUSANA","RUIZ-GARCIA","SYS INTEGRATION ENGR 3","105166.00","104291.00","0.00","875.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","WES","HOLLAND","COMPUTING RESC MGR 2","105161.00","105161.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","MELINDA CHRISTIN","FELTON","NUC MED TCHNO SR","105161.00","100516.00","3380.00","1265.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","GEORGE","SWEARINGEN","ADV OFCR 3","105161.00","104761.00","0.00","400.00"]}]
+}

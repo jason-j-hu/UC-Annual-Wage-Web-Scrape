@@ -1,0 +1,26 @@
+{
+"page" : "3794",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","IDIL","HERSI","HS CLIN INSTR-HCOMP","71283.00","35175.00","0.00","36108.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","INGRID","BERMEO","ADMIN ANL","71282.00","69882.00","1400.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","MICHAEL","TERRONEZ","ADMIN ANL","71282.00","68282.00","0.00","3000.00"]},
+{"id":"4","cell":["4","2018","San Diego","KINUKO","KANDA","RSCH ADM 3","71277.00","69877.00","0.00","1400.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","MINUAN","MACK","VOC NURSE SR","71276.00","67817.00","2272.00","1187.00"]},
+{"id":"6","cell":["6","2018","Davis","GRANT NOLAN","ACOSTA","STDT ACAD SPEC 3","71274.00","71274.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","SARAH E","FAYE","LECT-AY","71274.00","57800.00","0.00","13474.00"]},
+{"id":"8","cell":["8","2018","Davis","LORA L","SCHROEDER","COMM AND NETWORK TCHL ANL 3","71273.00","71273.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","71272.00","58438.00","0.00","12834.00"]},
+{"id":"10","cell":["10","2018","San Francisco","ANDREW","MA","FUNDRAISER 2 NEX","71272.00","66272.00","0.00","5000.00"]},
+{"id":"11","cell":["11","2018","Berkeley","IRIS","ACOSTA","STDT SVC ADVISOR 3","71270.00","71270.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","JULIE M","KENNEDY","ADMIN ANL","71269.00","71269.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","KIMBERLY","BRACKETT","SURGICAL TCHN","71268.00","63993.00","3050.00","4225.00"]},
+{"id":"14","cell":["14","2018","San Francisco","LENA MIN SHENG","YANG","HOSP LAB TCHN 2","71268.00","65248.00","538.00","5482.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","R","GLOVER","PUBL ADMSTN ANL SR","71265.00","67908.00","0.00","3357.00"]},
+{"id":"16","cell":["16","2018","San Francisco","JENNIFER LYNNE","MORRIS","ADMIN OFCR 2","71264.00","71264.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Irvine","LAURA","KLEIN TOPAN","LECT-AY-CONTINUING","71264.00","61048.00","0.00","10216.00"]},
+{"id":"18","cell":["18","2018","Irvine","CYNTHIA L","SUNG","ORTHOPTIST","71264.00","69758.00","486.00","1020.00"]},
+{"id":"19","cell":["19","2018","Riverside","DUBRON","RABB","FUNDRAISER 3","71263.00","71263.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","HENRY","FLORES","ENGR AST","71262.00","70326.00","186.00","750.00"]}]
+}

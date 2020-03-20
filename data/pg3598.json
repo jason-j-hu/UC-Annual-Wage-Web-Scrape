@@ -1,0 +1,26 @@
+{
+"page" : "3598",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","ANDREW","PANNELL","TRANSIT SVC SUPV 1","74338.00","73338.00","0.00","1000.00"]},
+{"id":"2","cell":["2","2018","San Francisco","ORALIA THERESA","SCHATZMAN","PROJECT POLICY ANL 2","74336.00","73336.00","0.00","1000.00"]},
+{"id":"3","cell":["3","2018","Davis","SARAH","YARNELL-HAYES","ASSOC PROJ SCIENTIST-FY","74333.00","74333.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","CASEY","LAW","ASST PROJ SCIENTIST-FY","74333.00","74333.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","SARA ALIECE","BRAVO","CLIN RSCH CRD SR NEX","74328.00","69412.00","4916.00","0.00"]},
+{"id":"6","cell":["6","2018","Santa Cruz","ROSAMARIA ANJELI","GARCIA","ETHICS AND CMPLNC PROFL 3","74328.00","73978.00","0.00","350.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","MICHAEL","RIVERA","FAC MECH","74327.00","53735.00","17485.00","3107.00"]},
+{"id":"8","cell":["8","2018","Irvine","VIPADA","DELEON","PROGR ANL 3","74325.00","74325.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Berkeley","MARK","TAKARO","LIBRARY PROFL 4","74325.00","74325.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","JOHN G","LYON","ADMISSIONS RECRMT SPEC 3","74324.00","74324.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Riverside","CLAUDIO","ESCOBEDO","BUS TCHL SUPP ANL 3","74324.00","74074.00","0.00","250.00"]},
+{"id":"12","cell":["12","2018","San Diego","VENESSA MONIQUE","WITH","HOSP BLANK AST 4","74323.00","58010.00","9568.00","6745.00"]},
+{"id":"13","cell":["13","2018","Riverside","JOSEPH","DYER","MAINT B","74322.00","70227.00","3193.00","902.00"]},
+{"id":"14","cell":["14","2018","UCOP","SO-MEI","HOM","ADMIN OFCR 2","74322.00","71003.00","0.00","3319.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","DIANE","GREENE","MGT SVC OFCR 1","74321.00","71195.00","0.00","3126.00"]},
+{"id":"16","cell":["16","2018","Riverside","FERNANDO","CORTEZ","INFO SYS ANL 2","74321.00","73411.00","660.00","250.00"]},
+{"id":"17","cell":["17","2018","San Diego","DIEU-HIEN THI","NGUYEN","RSCH ADM 3","74321.00","72321.00","0.00","2000.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","IVONNE","RODRIQUEZ","STERILE PROCESSING TCHN 2","74321.00","49308.00","15129.00","9884.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","DOUGLAS","MASSEY","PROGR ANL 3 SUPV","74320.00","74047.00","273.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","ALLISON","DOLPHIN","CLIN NURSE 2","74320.00","68697.00","209.00","5414.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "5762",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","TALEEN LEE","LEDESMA","BLANK AST 3","50524.00","50524.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","VENANCIA HILARIO","SMITH","MED CTR CUSTODIAN","50524.00","39649.00","9792.00","1083.00"]},
+{"id":"3","cell":["3","2018","Irvine","SARKIS","BABIKIAN","POSTDOC-EMPLOYEE","50523.00","50523.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","SHIRIN","BASSIRIAN","SRA 2 NEX","50522.00","50522.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Riverside","DAVID","HALANEY","RSCH AND DEV ENGR 1","50522.00","49030.00","0.00","1492.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JESSE","PANTOJA","ADMIN SPEC","50521.00","48347.00","1674.00","500.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","ANGELINA","BARGERON","STDT AFFAIRS OFCR 2","50521.00","50009.00","512.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","PHYLLIS","BLACKWELL","BLANK AST 3","50520.00","48253.00","0.00","2267.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","MAURUS","DUMALAOG","PRG REPR 3","50520.00","49520.00","0.00","1000.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","DREONNA","JOHNSON","PRG REPR 3","50520.00","49520.00","0.00","1000.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","EVELYN","TRAN","PRG REPR 3","50520.00","49520.00","0.00","1000.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","VANESSA","MACADAMIA","PRG REPR 3","50520.00","49520.00","0.00","1000.00"]},
+{"id":"13","cell":["13","2018","ASUCLA","EDWIN","FRANCO","ANL 2","50519.00","49571.00","0.00","948.00"]},
+{"id":"14","cell":["14","2018","Riverside","QUN","TANG","ASST SPECIALIST","50519.00","45614.00","0.00","4905.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","BRIANNA","MURPHY","BLANK AST 3","50518.00","49518.00","0.00","1000.00"]},
+{"id":"16","cell":["16","2018","San Diego","MARTHA ALEXANDRA","TAPIA","HOSP BLANK AST 3","50518.00","48584.00","1184.00","750.00"]},
+{"id":"17","cell":["17","2018","Berkeley","JAYEON","BAEK","POSTDOC-EMPLOYEE","50518.00","50518.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ELCAR","GIL","LIBRARY AST 4","50517.00","45687.00","0.00","4830.00"]},
+{"id":"19","cell":["19","2018","Santa Cruz","TERRI QUINT","ROCK","ACAD HR ANL 2","50517.00","49126.00","1091.00","300.00"]},
+{"id":"20","cell":["20","2018","Davis","GREGORY S","WLASIUK","PUBL EDUC SPEC 3","50517.00","50517.00","0.00","0.00"]}]
+}

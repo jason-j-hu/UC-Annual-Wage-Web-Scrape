@@ -1,0 +1,26 @@
+{
+"page" : "4304",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","KATELYN","SADLER","ADMIN SUPV 1","64555.00","62864.00","0.00","1691.00"]},
+{"id":"2","cell":["2","2018","Irvine","JOSEPH AGUILARA","VACA II","HOSP LAB TCHN 2","64554.00","50299.00","8857.00","5398.00"]},
+{"id":"3","cell":["3","2018","Santa Cruz","STEPHANIE","BRODIE","ASST PROJ SCIENTIST-FY","64554.00","64554.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","FLOR M","MADRID","MED CTR FOOD SVC WORKER SR","64553.00","63641.00","252.00","660.00"]},
+{"id":"5","cell":["5","2018","San Francisco","SARA L.","BHAT","NURSE PD","64553.00","59291.00","0.00","5262.00"]},
+{"id":"6","cell":["6","2018","Davis","GARRETT C","GARBER","PROJECT POLICY ANL 3","64553.00","63678.00","0.00","875.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","TRACY","WILLIAMS","VOC NURSE SR","64553.00","63925.00","264.00","364.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","NICOLE","DOMINGUEZ","FINANCIAL AID OFCR 3","64553.00","64026.00","0.00","527.00"]},
+{"id":"9","cell":["9","2018","San Francisco","SARAH CATHERINE","CLAY","HOSP LAB TCHN 1","64551.00","64551.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","YOLANDA M","POTSELUEFF","VOC NURSE SR","64551.00","63632.00","256.00","663.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","KATHY HENG-HUI","CHANG","ADMIN ANL SR","64551.00","64551.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","LUIS","MEZA","ADMIN SPEC","64550.00","64182.00","368.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","BENJAMIN T","LUMM","EHS SPEC 2 NEX","64550.00","61394.00","0.00","3156.00"]},
+{"id":"14","cell":["14","2018","Berkeley","AMM","QUAMRUZZAMAN","LECT-AY","64549.00","58223.00","0.00","6326.00"]},
+{"id":"15","cell":["15","2018","Santa Barbara","TANIA","DUNSON","ADMIN OFCR 3","64548.00","64548.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","JUSTIN","MULLENS","NURSE PD","64547.00","53456.00","1514.00","9577.00"]},
+{"id":"17","cell":["17","2018","San Diego","ELENA GARCIA","O\"BRIEN","AMBUL CARE ADMSTN SUPV 1","64547.00","63797.00","0.00","750.00"]},
+{"id":"18","cell":["18","2018","San Diego","CHARLES WAYNE","PORTER","APPLICATIONS PROGR 2","64547.00","59547.00","0.00","5000.00"]},
+{"id":"19","cell":["19","2018","Santa Cruz","TRAVIS CARROLL","WIGGANS","PROJECT POLICY ANL 3","64546.00","64246.00","0.00","300.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","JUAN","MAYORGA","ASSOC SPECIALIST","64546.00","64546.00","0.00","0.00"]}]
+}

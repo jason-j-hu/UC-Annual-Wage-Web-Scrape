@@ -1,0 +1,26 @@
+{
+"page" : "6702",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","JOSE","ROMERO-MATIAS","FOOD SVC WORKER","41164.00","40670.00","494.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","MEAGAN","MAYO","BLANK AST 3 PD","41163.00","41012.00","143.00","8.00"]},
+{"id":"3","cell":["3","2018","Santa Cruz","SASKIAS Y","CASANOVA","ASST PROF-AY","41162.00","36625.00","0.00","4537.00"]},
+{"id":"4","cell":["4","2018","San Diego","IVAN","PINEDA","MED CTR FOOD SVC WORKER SR","41161.00","36190.00","2660.00","2311.00"]},
+{"id":"5","cell":["5","2018","San Francisco","JOHN CHRISTOPHER","CUNANAN","SRA 1","41160.00","41160.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","NORMA","MENDOZA","ASST SPECIALIST","41160.00","41160.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","ALLEN","JANKEEL","ASST SPECIALIST","41160.00","41160.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","JOHN ALLEN","STONER","GROUNDSKEEPER","41160.00","41160.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","DONALD EUN","LEE","ASST SPECIALIST","41160.00","41160.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","MARIA","SANCHEZ","FOOD SVC WORKER","41159.00","39866.00","1293.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","NICOLE SUZANNE","SMITH","NURSE PD","41158.00","38206.00","0.00","2952.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","LU","YIN","ASSOC SPECIALIST","41158.00","38444.00","0.00","2714.00"]},
+{"id":"13","cell":["13","2018","Berkeley","JINGQI","CHEN","POSTDOC-EMPLOYEE","41158.00","41158.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Santa Cruz","LAURA J","MCSHANE","STDT ACAD ADVISOR 2","41157.00","39157.00","0.00","2000.00"]},
+{"id":"15","cell":["15","2018","Davis","TAE HYUNG","LEE","ASST PROJ SCIENTIST-FY","41157.00","32650.00","0.00","8507.00"]},
+{"id":"16","cell":["16","2018","Irvine","CHRISTIAN","GONZALEZ TORRES","HOSP AST SR","41156.00","36597.00","1434.00","3125.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","SEAN","CAREY","LAB AST 3","41156.00","41156.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","SEAN VICTOR","TRINIDAD","NURSE AID SR","41154.00","38429.00","0.00","2725.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","FRANCISCO","RAMIREZ","PARKING REPR SR","41153.00","37145.00","2703.00","1305.00"]},
+{"id":"20","cell":["20","2018","Davis","YVETTE C","GARCIA","BLANK AST 2","41153.00","41043.00","110.00","0.00"]}]
+}

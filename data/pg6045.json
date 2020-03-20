@@ -1,0 +1,26 @@
+{
+"page" : "6045",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","NICOLE","KAIHARA","BLANK AST 3","48081.00","47340.00","741.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","LOVELY L.","ESMAS","STERILE PROCESSING TCHN 2","48081.00","42556.00","2081.00","3444.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","DOUGLAS","ALVARENGA","STORES SUPV","48081.00","47178.00","903.00","0.00"]},
+{"id":"4","cell":["4","2018","UCOP","VICTOR","ROJAS","BLANK AST 3","48081.00","47194.00","887.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","VANESSA ANN","LEA","PUBL EDUC SPEC 2","48081.00","47931.00","0.00","150.00"]},
+{"id":"6","cell":["6","2018","Irvine","NICOLE SUMMER","BARTHULY","PAT BILLER 1","48078.00","46880.00","171.00","1027.00"]},
+{"id":"7","cell":["7","2018","Davis","KATHLEEN L","SHORT","MED AST 1","48078.00","47506.00","572.00","0.00"]},
+{"id":"8","cell":["8","2018","Riverside","JIE","WANG","POSTDOC-EMPLOYEE","48078.00","48078.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Santa Barbara","KATHRYN","MEYER","ACADEMIC COORD I-FY","48077.00","48077.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Irvine","VICTOR A","OCAMPO","BLANK AST 3","48075.00","47235.00","0.00","840.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","CAROL","MAULDIN","BLANK AST 3","48075.00","48075.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","ALICE T","DIAZ","MED CTR CUSTODIAN SR","48075.00","39766.00","4948.00","3361.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","GUOJING","LIU","POSTDOC-EMPLOYEE","48075.00","48075.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","UCOP","JULIENNE","PALBUSA","INSTITUTIONAL RSCH ANL 4","48075.00","48075.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","VINCENT","IANNIELLO","BLANK AST 3","48074.00","47698.00","376.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","NICOLE","SAUCEDO","BLANK AST 3","48074.00","47574.00","0.00","500.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","BYRAM H","OZER","HS CLIN INSTR-HCOMP","48074.00","35174.00","0.00","12900.00"]},
+{"id":"18","cell":["18","2018","Riverside","CHRISTY","BROWN ANDERSON","LIBRARY AST 3","48074.00","47474.00","0.00","600.00"]},
+{"id":"19","cell":["19","2018","San Diego","TAWNY DENICE","QUINONES","NURSE PD","48073.00","43109.00","1314.00","3650.00"]},
+{"id":"20","cell":["20","2018","Berkeley","ARMANDO","MARTINEZ","SRA 2","48072.00","48072.00","0.00","0.00"]}]
+}

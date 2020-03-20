@@ -1,0 +1,26 @@
+{
+"page" : "6492",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","MARRI CIELO","ATIENZA","LIBRARY AST 3","43485.00","43485.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","MARY F","CYSEWSKI","MED OFC SVC CRD 2","43484.00","43377.00","107.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","RYAN","CHANDLER","LAB AST 3","43484.00","43484.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","JENNIFER","HOLLAND","ADMIN OFCR 2","43484.00","42984.00","0.00","500.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","ADAM","PEREZ","CUSTODIAN SR","43482.00","42101.00","0.00","1381.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","*****","*****","STDT LIFE DEV SPEC 2","43481.00","43061.00","320.00","100.00"]},
+{"id":"7","cell":["7","2018","San Diego","PEIDONG","HAN","ASST PROJ SCIENTIST-FY","43481.00","32667.00","0.00","10814.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","MILAGROS","ROMAY","POSTDOC-EMPLOYEE","43477.00","31423.00","0.00","12054.00"]},
+{"id":"9","cell":["9","2018","Irvine","JOSEFINA","SANCHEZ","MED CTR CUSTODIAN SR","43476.00","39590.00","3466.00","420.00"]},
+{"id":"10","cell":["10","2018","San Diego","GARY R.","DESPAIN","TEACHER-UNEX-CONTRACT YR","43476.00","0.00","0.00","43476.00"]},
+{"id":"11","cell":["11","2018","San Francisco","BING","YANG","POSTDOC-EMPLOYEE","43475.00","43475.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","MIKAELA","CAVIZO-BRIGGS","BLANK AST 2","43475.00","42975.00","0.00","500.00"]},
+{"id":"13","cell":["13","2018","San Francisco","JORDAN EMILY","BURKE","POSTDOC-EMPLOYEE","43474.00","43474.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","PRISCILA U","PASUGNOD","MED CTR CUSTODIAN","43474.00","39136.00","1894.00","2444.00"]},
+{"id":"15","cell":["15","2018","Berkeley","IVET","RAMIREZ ORTIZ","SCRTY GUARD SR","43474.00","38479.00","4920.00","75.00"]},
+{"id":"16","cell":["16","2018","Irvine","SHELLEY","MARISCAL","PSYCHIATRIC TCHN SR","43473.00","36817.00","6147.00","509.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","CLAUDIA GABRIELA","CHASE","ULTRASOUND TCHNO","43473.00","35672.00","1442.00","6359.00"]},
+{"id":"18","cell":["18","2018","San Diego","ELENA","HAM","SCENE TCHN SR","43473.00","43321.00","152.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","GRANT A.","LACKEY","RADLG TCHNO PD","43472.00","42240.00","160.00","1072.00"]},
+{"id":"20","cell":["20","2018","San Francisco","ELLA-MARIE K","PYLE","SRA 1","43472.00","43472.00","0.00","0.00"]}]
+}

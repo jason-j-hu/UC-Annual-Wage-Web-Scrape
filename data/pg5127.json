@@ -1,0 +1,26 @@
+{
+"page" : "5127",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","MENGBIN","CHEN","POSTDOC-EMPLOYEE","56175.00","56175.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","DARIN P","IMLAY","BLANK AST 1","56175.00","42789.00","3569.00","9817.00"]},
+{"id":"3","cell":["3","2018","Berkeley","CAROLINE","KING","HEALTH EDUCATOR 2","56174.00","55257.00","0.00","917.00"]},
+{"id":"4","cell":["4","2018","San Francisco","NATASHA H","SALEEM","HEALTH PROFNS EDUC SPEC 2","56174.00","56174.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","MARVIN YUAN","HO","ADMIN OFCR 2","56174.00","53598.00","111.00","2465.00"]},
+{"id":"6","cell":["6","2018","San Diego","ROSARIO","SALAS","FOOD SVC SUPV 1","56174.00","56174.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","ESTER","TAMBO","ADMIN CARE PARTNER","56173.00","45173.00","2959.00","8041.00"]},
+{"id":"8","cell":["8","2018","San Diego","MARCELLUS H","SIKKING","RSCH ADM 3","56173.00","55573.00","0.00","600.00"]},
+{"id":"9","cell":["9","2018","Santa Barbara","ARTUR","MAILYAN","POSTDOC-EMPLOYEE","56172.00","56172.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","ANDREAS FELIX","BUNGERT","COMPUTER RESC SPEC 2","56172.00","56172.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","LEYLA R","CABUGOS","ASST LIBRARIAN-POTNTL CAREER","56170.00","56170.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","RYAN E","JOHNSON","ASST LIBRARIAN-POTNTL CAREER","56170.00","56170.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Merced","ELIZABETH","VALLEN","ASST LIBRARIAN-POTNTL CAREER","56170.00","56170.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","NUSRAT M","SYMONS","MUSEUM EDUCATOR 3","56170.00","55670.00","0.00","500.00"]},
+{"id":"15","cell":["15","2018","Davis","ROSS KENNETH","ALLEN","SRA 3","56169.00","56010.00","159.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","ANTONIA","OSUNA-GARCIA","ASST LIBRARIAN-POTNTL CAREER","56169.00","56169.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","JIMMY","LY","POSTDOC-EMPLOYEE","56168.00","56168.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","MEGAN","ANSDELL","POSTDOC-EMPLOYEE","56167.00","56167.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","CHANTELLE","EASTMAN","ADMIN SPEC","56166.00","54537.00","644.00","985.00"]},
+{"id":"20","cell":["20","2018","Santa Cruz","JENNIFER GAIL","WEBSTER","ADMIN OFCR 3","56166.00","56166.00","0.00","0.00"]}]
+}

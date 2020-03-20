@@ -1,0 +1,26 @@
+{
+"page" : "2585",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","SUSAN","TESFAEGZI","CLIN NURSE 2","95938.00","93775.00","334.00","1829.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","BENITA","ZAKARIAN","CLIN NURSE 2","95938.00","86984.00","699.00","8255.00"]},
+{"id":"3","cell":["3","2018","San Diego","JULIE SARA","BURELLE","ASST PROF-AY","95936.00","77358.00","0.00","18578.00"]},
+{"id":"4","cell":["4","2018","Irvine","MARIA CRISTINA I","MEJIA","CLIN LAB SCI","95935.00","92951.00","1811.00","1173.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","NAGA VAMSI","GANTI","ASST PROF-AY","95935.00","74825.00","0.00","21110.00"]},
+{"id":"6","cell":["6","2018","San Francisco","DEBORAH J","NEGRI","CLIN LAB MGR 1","95929.00","72783.00","0.00","23146.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","DANA","HUNNES","DIETITIAN SR SUPV","95928.00","91667.00","0.00","4261.00"]},
+{"id":"8","cell":["8","2018","San Francisco","GINA M","GAISER","INSTRUCTIONAL DESIGNER 3","95926.00","95926.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","FRANKLIN W.","SMITH","TCHL PROJECT MGT PROFL 3","95926.00","95926.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","MICHELE","RABKIN","ADMIN OFCR 4","95924.00","95924.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","KATHERINE ELLEN","CRABTREE","CLIN NURSE 2","95923.00","90911.00","1252.00","3760.00"]},
+{"id":"12","cell":["12","2018","Berkeley","LISA","CALDEN","REGISTRAR COLL MGR 1","95916.00","95916.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","YOKE P","DELLENBACK","RSCH ADM 4","95914.00","95914.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","ANDREW","COTTRELL","CLIN LAB SCI","95904.00","88969.00","618.00","6317.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","NISHITA","PARIKH","PROGR ANL 3","95902.00","95902.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","DARREN S","ENDO","DIR ASC","95901.00","91669.00","0.00","4232.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","DIANA","KING","LIBRARIAN-CAREER STATUS","95899.00","95899.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","SHARON","BENAMOU","LIBRARIAN-CAREER STATUS","95899.00","95899.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","HEATHER","BRISTON","LIBRARIAN-CAREER STATUS","95899.00","95899.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","ANDREA","DUDA","LIBRARIAN-CAREER STATUS","95899.00","95899.00","0.00","0.00"]}]
+}

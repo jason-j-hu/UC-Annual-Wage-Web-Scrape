@@ -1,0 +1,26 @@
+{
+"page" : "2013",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","HITOMI","ASAHARA","LAB RSCH SUPV 2","112126.00","111626.00","0.00","500.00"]},
+{"id":"2","cell":["2","2018","San Francisco","GINNI","SAHNI","FINANCIAL ANL MGR 1","112125.00","112125.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","SANH","HO","PROGR ANL 4","112124.00","107133.00","0.00","4991.00"]},
+{"id":"4","cell":["4","2018","UCOP","SEAN","VILLA-CARLOS","BUS TCHL SUPP SUPV 2","112124.00","112124.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","MERCEDES RAMOS","BAUTISTA","CLIN LAB SCI SPEC","112118.00","100521.00","10049.00","1548.00"]},
+{"id":"6","cell":["6","2018","Davis","KIMBERLY A","WONG","PHYS THER 2 NEX","112115.00","109961.00","2010.00","144.00"]},
+{"id":"7","cell":["7","2018","Davis","MAHABAT A","TRUTE","CLIN NURSE 2","112112.00","98070.00","3263.00","10779.00"]},
+{"id":"8","cell":["8","2018","San Diego","RYAN GONZALES","ALVIAR","CLIN NURSE 2","112111.00","108484.00","680.00","2947.00"]},
+{"id":"9","cell":["9","2018","San Francisco","MONIKA K","PATEL","HS ASST CLIN PROF-HCOMP","112109.00","95674.00","0.00","16435.00"]},
+{"id":"10","cell":["10","2018","San Francisco","ANA MARIE","MARTIN","PAT BILL AND COLL SUPV 2","112107.00","107755.00","0.00","4352.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MELANIE ANN","CRISOLOGO","CLIN NURSE 3","112104.00","99589.00","3039.00","9476.00"]},
+{"id":"12","cell":["12","2018","Irvine","KAREN A.","MILLER","MGR","112103.00","112103.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","MEGAN GERRITSEN","MCCLAIN","NURSE PRACT 2","112102.00","110440.00","0.00","1662.00"]},
+{"id":"14","cell":["14","2018","San Francisco","ASMARA VENCES","GEBRE","HS ASST CLIN PROF-HCOMP","112102.00","80248.00","0.00","31854.00"]},
+{"id":"15","cell":["15","2018","Berkeley","BRICIO","YURIAR","STEAMFITTER","112096.00","90725.00","11414.00","9957.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","EINAT","MAZOR","ECHOCARDIOGRAPHIC TCHN","112092.00","101107.00","8583.00","2402.00"]},
+{"id":"17","cell":["17","2018","Riverside","JOSEPH","CUMMINS","ASST PROF-AY-B/E/E","112092.00","112092.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","MAARTEN","MOLEMAKER","RES-FY","112092.00","112092.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","SUSAN MARGARET","VARITES","DECISION SUPP SPEC 4","112091.00","111091.00","0.00","1000.00"]},
+{"id":"20","cell":["20","2018","Irvine","ANGELA F.","LUKOWSKI","ASSOC PROF-AY","112089.00","91667.00","0.00","20422.00"]}]
+}

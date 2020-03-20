@@ -1,0 +1,26 @@
+{
+"page" : "2193",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","KEVIN","ARCHIBALD","PROGR ANL 4","106539.00","103539.00","0.00","3000.00"]},
+{"id":"2","cell":["2","2018","San Francisco","STEPHEN","WONG","CLIN LAB SCI","106537.00","103740.00","897.00","1900.00"]},
+{"id":"3","cell":["3","2018","San Francisco","KARIN M","FLEMING","COMM SPEC 3","106534.00","99765.00","0.00","6769.00"]},
+{"id":"4","cell":["4","2018","Berkeley","DANIEL","HOISIE","FINANCIAL ANL 4","106534.00","106534.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","LOISA MARIE","VITUG","CLIN NURSE 2","106532.00","93106.00","2506.00","10920.00"]},
+{"id":"6","cell":["6","2018","San Diego","RYAN LEE","PHILLIPS","RESP CARE SUPV 2","106524.00","103593.00","491.00","2440.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","ILEANA","SILVA-BARRERA","CLIN NURSE 3","106521.00","99044.00","3461.00","4016.00"]},
+{"id":"8","cell":["8","2018","San Francisco","JOHN","GERLACH","DATA SYS ANL 4","106520.00","72722.00","0.00","33798.00"]},
+{"id":"9","cell":["9","2018","San Diego","BENJAMIN MATTHEW","GUSS","CLIN NURSE 2","106519.00","98069.00","5074.00","3376.00"]},
+{"id":"10","cell":["10","2018","San Francisco","JACLYN MEREDITH","BARNES","PHYS THER 1 PD","106518.00","102785.00","688.00","3045.00"]},
+{"id":"11","cell":["11","2018","Berkeley","SUSAN","WOODWARD","FUNDRAISER 4","106518.00","96926.00","0.00","9592.00"]},
+{"id":"12","cell":["12","2018","Davis","MARIANNE","BIRD","COOP EXT ADVISOR","106517.00","106317.00","0.00","200.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","EDISON","YUTUC","CASE MGR EX","106516.00","106516.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","AUDA MARINA","OKUTANI","LVN SUPV 1","106511.00","95363.00","8473.00","2675.00"]},
+{"id":"15","cell":["15","2018","Irvine","EUGENE V","CUCCARESE","RADLG TCHNO PRN","106509.00","92491.00","3310.00","10708.00"]},
+{"id":"16","cell":["16","2018","Davis","KIMBERLY J","FURBEE","PAT RCDS ABSTRACTOR 4","106508.00","103551.00","2943.00","14.00"]},
+{"id":"17","cell":["17","2018","San Diego","DAFRONJISE LANC","ELLINGTON","SKLD CRAFTS AND TRADES SUPV 2","106508.00","92705.00","9029.00","4774.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","JOHANNA","GORDON","CLIN NURSE 2","106506.00","101275.00","559.00","4672.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","TARA","CALDERON","PHYS THER 3 SUPV","106504.00","101772.00","120.00","4612.00"]},
+{"id":"20","cell":["20","2018","Santa Cruz","THEODORE J","DIAMANTOPOULOS","ADMIN MGR 1","106504.00","106079.00","0.00","425.00"]}]
+}

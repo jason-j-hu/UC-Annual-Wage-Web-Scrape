@@ -1,0 +1,26 @@
+{
+"page" : "5243",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","ERIKA ALEXIS","LOPEZ","HOSP BLANK AST 3","55123.00","54363.00","10.00","750.00"]},
+{"id":"2","cell":["2","2018","Irvine","CLARA E","QUIJANO","ADMIN SPEC","55122.00","54622.00","0.00","500.00"]},
+{"id":"3","cell":["3","2018","Irvine","HIDEMI S","RIGGS","LECT-AY","55122.00","46811.00","0.00","8311.00"]},
+{"id":"4","cell":["4","2018","Davis","MICHAEL D","FERRANTE","HOSP BLANK AST 3","55121.00","48428.00","1426.00","5267.00"]},
+{"id":"5","cell":["5","2018","Davis","CESAR","CASTANEDA MORAL","MED CTR COOK","55121.00","47678.00","7055.00","388.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JENNY","ROBLES","CTRL SVC TCHN 2","55121.00","45635.00","7743.00","1743.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","MYRON","MURAKAMI","ADMIN SPEC","55120.00","55120.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","ALEXANDER A","ARCE","PAT BILLER 3","55119.00","54768.00","351.00","0.00"]},
+{"id":"9","cell":["9","2018","Santa Barbara","ROBERT","MONTELONGO","BUS TCHL SUPP ANL 2","55119.00","54008.00","1111.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","ASTRID JENG CHYN","HSU","SRA 1","55119.00","43139.00","11980.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","SARAH E","VOGT","CLIN RSCH CRD","55118.00","54846.00","272.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","ALESSANDRA E","ZARA","BLANK AST 3","55118.00","48291.00","5799.00","1028.00"]},
+{"id":"13","cell":["13","2018","San Diego","DAVID MARVIN","SVOBODA","AUTO EQUIP OPR SR","55117.00","49490.00","5627.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","DENISE","PLAYDLE","SRA 3","55116.00","55116.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","GREGORY D","LEGGETT","MED CTR CUSTODIAN SR","55116.00","53947.00","268.00","901.00"]},
+{"id":"16","cell":["16","2018","San Francisco","AMY B","FRIEDLI","EMPLOYEE REL REPR 4","55116.00","55116.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","DIANA L","YOUNG","SRA 3","55116.00","55116.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","MIN","QIN","SRA 3","55116.00","55116.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","HONG","JIANG","SRA 3","55116.00","55116.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","KAZUNARI","NOZUE","SRA 3","55116.00","55116.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "1693",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","VICTOR GIL","CINCO","CLIN NURSE 2","123182.00","107762.00","1923.00","13497.00"]},
+{"id":"2","cell":["2","2018","San Diego","SANDELLE V","ONGTECO","CLIN NURSE 2","123179.00","115721.00","2818.00","4640.00"]},
+{"id":"3","cell":["3","2018","San Diego","VALERIE LYNNE","WATERS","NURSE PRACT 2","123178.00","111347.00","7825.00","4006.00"]},
+{"id":"4","cell":["4","2018","Berkeley","TIMOTHY","QUINN","AEROSPACE ENGR 3","123171.00","123171.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","BRITTANY ALFONSO","PEREZ","CLIN NURSE 2","123171.00","108320.00","5115.00","9736.00"]},
+{"id":"6","cell":["6","2018","Riverside","FRANK","VAHID","PROF-AY-B/E/E","123168.00","107263.00","0.00","15905.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","EMMANUEL","MACHADO","CLIN NURSE 2","123166.00","110584.00","8409.00","4173.00"]},
+{"id":"8","cell":["8","2018","Davis","MARGARITA J","BEDOW","TCHL PROJECT MGT PROFL 4","123165.00","119918.00","0.00","3247.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","MICHELLE L","EMI","HS ASST CLIN PROF-HCOMP","123165.00","46822.00","0.00","76343.00"]},
+{"id":"10","cell":["10","2018","San Diego","KIM","OVERTON","CLIN NURSE 2","123157.00","108880.00","9883.00","4394.00"]},
+{"id":"11","cell":["11","2018","San Francisco","ELIZABETH N.","ALONSO","REG RESP THER 1","123155.00","96777.00","11235.00","15143.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","JOSE","BARAJAS NAPOLES","MGR","123155.00","118155.00","0.00","5000.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","LYNNE","PRITCHARD","ADMIN MGR 1","123154.00","123154.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Santa Cruz","SABRINA G","SHAVER","EMPLOYEE REL MGR 1","123144.00","117314.00","0.00","5830.00"]},
+{"id":"15","cell":["15","2018","Berkeley","SOOHYUN","CHON","FINANCIAL ANL 4","123143.00","123143.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","DEREK","COATES","EXEC ADVISOR 4","123140.00","120640.00","0.00","2500.00"]},
+{"id":"17","cell":["17","2018","San Francisco","LANA V","TOMITCH","RSCH ADM 5","123138.00","109269.00","0.00","13869.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","ANDREA","ESTRADA","COMM MGR 1","123137.00","123137.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","TINA M","MORRISON","NURSE PD","123135.00","111792.00","2063.00","9280.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","JEREMY","HAN","CLIN NURSE 2","123135.00","103555.00","2982.00","16598.00"]}]
+}

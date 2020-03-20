@@ -1,0 +1,26 @@
+{
+"page" : "2060",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","KARI HEBERT","ELLSWORTH","CLIN NURSE 2","110653.00","102304.00","1502.00","6847.00"]},
+{"id":"2","cell":["2","2018","Berkeley","KRISTIN","THEIS-ALVAREZ","ADMISSIONS RECRMT MGR 1","110649.00","110649.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","JOHN","HAJDA","ACADEMIC COORD II-FY","110647.00","110647.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","ASHLEY P","FENBERT","NURSE PD","110646.00","105714.00","560.00","4372.00"]},
+{"id":"5","cell":["5","2018","San Francisco","DYLAN ANDREW","LOVETT","NURSE PD","110645.00","90807.00","1384.00","18454.00"]},
+{"id":"6","cell":["6","2018","San Diego","PALLAVI","MYNAMPATI","CLIN APPLICATIONS PROFL 3","110643.00","109643.00","0.00","1000.00"]},
+{"id":"7","cell":["7","2018","San Diego","LAURIE A.","REBELO","CLIN APPLICATIONS PROFL 4","110643.00","109643.00","0.00","1000.00"]},
+{"id":"8","cell":["8","2018","San Diego","DANIELA","ABRAMOVITZ","RSCH DATA ANL 4","110641.00","105641.00","0.00","5000.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","HELEN","MAGID","ADV OFCR 3","110639.00","110639.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","JAMES","APSAY","REG RESP THER 1","110638.00","102480.00","6713.00","1445.00"]},
+{"id":"11","cell":["11","2018","Davis","ZACHARY E","TAYLOR","CLIN NURSE 2","110636.00","104422.00","2556.00","3658.00"]},
+{"id":"12","cell":["12","2018","San Diego","JAYCEE GUEVARA","CUSTODIO","RESP CARE SPEC 4","110634.00","104958.00","3986.00","1690.00"]},
+{"id":"13","cell":["13","2018","San Diego","AMBER REYNOLDS","FEHLING","HR GENERALIST 3","110634.00","105134.00","0.00","5500.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","BENJAMIN","BRECHER","PROF-AY","110633.00","110633.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Merced","WILLIAM","WILCOX","INFO SYS MGR 1","110632.00","110632.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","DAYNA","TERRAZAS","CLIN NURSE 3","110631.00","106142.00","1542.00","2947.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","LEE","MUDRICK","ENTERPRISE RISK MGT ANL 4","110630.00","106130.00","0.00","4500.00"]},
+{"id":"18","cell":["18","2018","San Francisco","YING-LI","CHEN","IP OFCR 2","110626.00","110626.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","HUBERTO I","ASUNCION","BUS INTEL SPEC 3","110626.00","104938.00","0.00","5688.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","HEATHER","YOUNG","CLIN NURSE 2","110624.00","100418.00","191.00","10015.00"]}]
+}

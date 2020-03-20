@@ -1,0 +1,26 @@
+{
+"page" : "7405",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","32843.00","32843.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Irvine","KIMBERLY","CASTILLO","MED AST","32843.00","31427.00","1416.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","*****","*****","POSTDOC-EMPLOYEE","32843.00","32843.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Santa Barbara","KEVIN JEE","KIM","POSTDOC-EMPLOYEE","32843.00","32843.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Riverside","XIANG","ZHAO","LECT IN SUMMER SESSION","32843.00","28190.00","0.00","4653.00"]},
+{"id":"6","cell":["6","2018","San Diego","MELAWHY LUCETTE","GARCIA","POSTDOC-EMPLOYEE","32843.00","32843.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","SUPEENA","ADLER","ASST ADJ PROF-AY","32842.00","32542.00","0.00","300.00"]},
+{"id":"8","cell":["8","2018","San Diego","ROSELYN AGULTO","MAGLANOC","CLIN NURSE 2","32841.00","27187.00","2457.00","3197.00"]},
+{"id":"9","cell":["9","2018","Irvine","*****","*****","TEACHG ASST-GSHIP","32839.00","32739.00","0.00","100.00"]},
+{"id":"10","cell":["10","2018","Irvine","*****","*****","TEACHG ASST-GSHIP","32839.00","32739.00","0.00","100.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","DAVID","PAGE","CMTY HEALTH PRG REPR SR PD","32837.00","32837.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","DAYSHANTE","O\"NEAL","BLANK AST 3","32835.00","32798.00","37.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","*****","*****","GSR-FULL FEE REM","32835.00","32835.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","LILA PUANANI","WILEY-BOOKER","CUSTODIAN SR","32833.00","30557.00","204.00","2072.00"]},
+{"id":"15","cell":["15","2018","Davis","MELISSA M","ROGERS","PUBL SFTY DISPATCHER","32832.00","29506.00","1064.00","2262.00"]},
+{"id":"16","cell":["16","2018","Santa Cruz","JIUNN C","FONG","ASST PROJ SCIENTIST-FY","32832.00","26899.00","0.00","5933.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","EDEN AQUINO","RIVERA","VOC NURSE SR","32831.00","31038.00","626.00","1167.00"]},
+{"id":"18","cell":["18","2018","San Diego","KEVIN","RIVERA","MED CTR FOOD SVC WORKER","32831.00","31289.00","721.00","821.00"]},
+{"id":"19","cell":["19","2018","Davis","JEREMIAH J","MAHER","AUDIT PROFL 5","32830.00","32830.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","MARISSA A","PEREZ","PUBL EDUC SPEC 1","32830.00","32830.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "6255",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","ROBERTO","NAVARRETE","CUSTODIAN","46002.00","37037.00","7332.00","1633.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","DEREK","HEAFNER","CLIN NURSE 2","46001.00","45936.00","65.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Cruz","STEPHANIE ROBYN","COVEY","ADMIN OFCR 2","46000.00","44156.00","0.00","1844.00"]},
+{"id":"4","cell":["4","2018","San Diego","MARK DOUGLAS","NORTON","TEACHER-UNEX-CONTRACT YR","46000.00","0.00","0.00","46000.00"]},
+{"id":"5","cell":["5","2018","San Diego","PATRICK JAMES","SAKOWSKI","CLIN RSCH CRD AST","46000.00","46000.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","ALLAN","JEAN-LOUIS","MED CTR CUSTODIAN SR","45999.00","39387.00","3558.00","3054.00"]},
+{"id":"7","cell":["7","2018","San Diego","MIHO UMEZAWA","LIGARE","ACAD PRG MGT OFCR 3","45999.00","45999.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","LAURIE","PEARCE","LECT-AY-CONTINUING","45999.00","44999.00","0.00","1000.00"]},
+{"id":"9","cell":["9","2018","San Diego","STEPHANIE MICHEL","GRIFFITH","PUBL EDUC SPEC 2","45998.00","45448.00","0.00","550.00"]},
+{"id":"10","cell":["10","2018","Irvine","MARSHA ANN","HOLLAND","STDT AFFAIRS OFCR 3 EX","45996.00","38388.00","0.00","7608.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","LARRY","STOKES","PAT COMM REPR","45995.00","45986.00","9.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","ARTURO,JR.","ARREOLA GOMEZ","ADMITTING WORKER PRN","45993.00","44649.00","324.00","1020.00"]},
+{"id":"13","cell":["13","2018","Davis","EMMANUEL","ARKOH","STERILE PROCESSING TCHN 1","45992.00","45000.00","833.00","159.00"]},
+{"id":"14","cell":["14","2018","Irvine","ADRIANA","LAMB","MED CTR STOREKEEPER","45991.00","37761.00","6074.00","2156.00"]},
+{"id":"15","cell":["15","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","45990.00","45990.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","WILLIAM","NICOLAIDES","GROUNDSKEEPER LD","45990.00","41951.00","2608.00","1431.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","EDWARD","SANCHEZ","AUTO TCHN AST","45989.00","44521.00","519.00","949.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","NESTOR","MUNOZ","COOK","45989.00","45858.00","131.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","KEVIN P","DALMACIO","MED CTR FOOD SVC WORKER PRN","45989.00","44702.00","907.00","380.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","MERCEDES","CASTILLO","MED CTR CUSTODIAN SR","45989.00","43883.00","1550.00","556.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "3932",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","JORGE","BARRIO","RECALL HCOMP","69322.00","0.00","0.00","69322.00"]},
+{"id":"2","cell":["2","2018","Riverside","CHRISTINE","JO","EVENTS SPEC 4","69322.00","68722.00","0.00","600.00"]},
+{"id":"3","cell":["3","2018","San Diego","LETICIA OLMOS","MENDOZA","PAT BILLER 3","69322.00","69290.00","32.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","DUSTIN TRINIDAD","BATULAYAN","HOSP LAB TCHN 1","69321.00","64676.00","2969.00","1676.00"]},
+{"id":"5","cell":["5","2018","San Francisco","KAREN","DEL ROSARIO","PRACTICE CRD 3","69319.00","68613.00","46.00","660.00"]},
+{"id":"6","cell":["6","2018","Davis","RUOYI","WU","RSCH ADM 3","69319.00","69319.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","ANDREA","DEFELICE","CLIN NURSE 2","69319.00","66173.00","18.00","3128.00"]},
+{"id":"8","cell":["8","2018","Berkeley","TAJIRA","MCCOY","ADMISSIONS RECRMT SUPV 2","69318.00","66818.00","0.00","2500.00"]},
+{"id":"9","cell":["9","2018","San Francisco","MARTIN A","ORTIZ","STERILE PROCESSING TCHN 2","69316.00","62058.00","1319.00","5939.00"]},
+{"id":"10","cell":["10","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","69316.00","61466.00","0.00","7850.00"]},
+{"id":"11","cell":["11","2018","San Diego","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","69315.00","65665.00","0.00","3650.00"]},
+{"id":"12","cell":["12","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","69315.00","65665.00","0.00","3650.00"]},
+{"id":"13","cell":["13","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","69315.00","65665.00","0.00","3650.00"]},
+{"id":"14","cell":["14","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","69315.00","65665.00","0.00","3650.00"]},
+{"id":"15","cell":["15","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","69315.00","65665.00","0.00","3650.00"]},
+{"id":"16","cell":["16","2018","San Diego","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","69315.00","65665.00","0.00","3650.00"]},
+{"id":"17","cell":["17","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","69315.00","65665.00","0.00","3650.00"]},
+{"id":"18","cell":["18","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","69315.00","65665.00","0.00","3650.00"]},
+{"id":"19","cell":["19","2018","San Francisco","CHRISTINA TONIA","TRAVLOS","PROJECT POLICY ANL 2","69314.00","68314.00","0.00","1000.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","AMANDA","MAFFETT","ADMIN OFCR 3","69314.00","69314.00","0.00","0.00"]}]
+}

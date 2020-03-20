@@ -1,0 +1,26 @@
+{
+"page" : "5880",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","MICHELLE","SIDWELL","PUBL ADMSTN ANL SR","49526.00","47526.00","0.00","2000.00"]},
+{"id":"2","cell":["2","2018","Davis","YU HUI","BROWN","BLANK AST 3","49526.00","49386.00","94.00","46.00"]},
+{"id":"3","cell":["3","2018","San Francisco","ANNE B","REINERT","NURSE PRACT PD","49525.00","49240.00","0.00","285.00"]},
+{"id":"4","cell":["4","2018","Berkeley","DONGJOO","YOU","POSTDOC-EMPLOYEE","49524.00","49524.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","ZHIQIANG","HU","POSTDOC-EMPLOYEE","49524.00","49524.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","JULIA M","TAITAGUE","ADMIN SPEC","49524.00","49024.00","0.00","500.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","ARIEL","PEREZ","BLANK AST 2","49524.00","48295.00","137.00","1092.00"]},
+{"id":"8","cell":["8","2018","Riverside","MARTA","PUDZIANOWSKA","POSTDOC-EMPLOYEE","49524.00","49524.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","CARLA Y","MOREIRA","ADMITTING WORKER SR","49523.00","47067.00","1815.00","641.00"]},
+{"id":"10","cell":["10","2018","Davis","AYUB","MOHAMMED","AUTO EQUIP OPR PRN","49523.00","47877.00","1605.00","41.00"]},
+{"id":"11","cell":["11","2018","Davis","REBECCA L","ROE","RADLG AST 1","49523.00","49187.00","336.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","RITA P","LOUDERMILK","SRA 2 NEX","49522.00","46034.00","3477.00","11.00"]},
+{"id":"13","cell":["13","2018","Davis","JOSEPH G","BALDWIN","MED CTR COOK","49522.00","44329.00","4864.00","329.00"]},
+{"id":"14","cell":["14","2018","San Diego","HEIDI","SANDOVAL-RIOS","HOSP BLANK AST 3","49522.00","48772.00","0.00","750.00"]},
+{"id":"15","cell":["15","2018","Davis","*****","*****","GSR-FULL FEE REM","49521.00","49521.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","MARIA","AGUIRRE AGUIRRE","HOSP BLANK AST 3","49520.00","49355.00","132.00","33.00"]},
+{"id":"17","cell":["17","2018","Riverside","LE\"ANN","BAXTER","BLANK AST 2","49520.00","49448.00","66.00","6.00"]},
+{"id":"18","cell":["18","2018","Davis","JOHN J","MORALES","MED CTR FOOD SVC WORKER PRN","49519.00","41863.00","5737.00","1919.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","KARLA","HERNANDEZ","HOSP BLANK AST 3","49519.00","48641.00","621.00","257.00"]},
+{"id":"20","cell":["20","2018","San Diego","JONATHAN EVAN","TYTELL","SRA 3","49519.00","46548.00","0.00","2971.00"]}]
+}

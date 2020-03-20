@@ -1,0 +1,26 @@
+{
+"page" : "4611",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","DIANA","RAMIREZ","BLANK AST 3","61196.00","61196.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","SUSAN","TENENBAUM","BLANK AST 3","61196.00","61196.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","RAVINESH","LAKHAN","MED CTR ENVIR SVC WORKER 1","61195.00","47354.00","9963.00","3878.00"]},
+{"id":"4","cell":["4","2018","San Francisco","SUKAYNAH A","KHETANI","CLIN RSCH CRD","61194.00","59681.00","0.00","1513.00"]},
+{"id":"5","cell":["5","2018","Riverside","KATIE","SMITH","STDT ACAD ADVISOR 3","61194.00","59694.00","0.00","1500.00"]},
+{"id":"6","cell":["6","2018","Irvine","MAUREEN ANN","CARR","NURSE PRACT 3","61193.00","56359.00","4777.00","57.00"]},
+{"id":"7","cell":["7","2018","San Francisco","JAYPEE Z","MENDOZA","PAT CARE AST","61192.00","49034.00","3459.00","8699.00"]},
+{"id":"8","cell":["8","2018","San Francisco","EWA JULIA","ULATOWSKA","PRACTICE CRD 3","61192.00","60532.00","0.00","660.00"]},
+{"id":"9","cell":["9","2018","San Francisco","*****","*****","LIFEGUARD","61191.00","52082.00","7742.00","1367.00"]},
+{"id":"10","cell":["10","2018","San Francisco","IGNACIO","MEDINA","MED CTR FOOD SVC WORKER SR","61191.00","60270.00","261.00","660.00"]},
+{"id":"11","cell":["11","2018","San Diego","EDGARDO","ABREGO","PUBLICATIONS PROD SPEC 3","61191.00","60641.00","0.00","550.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","JUAN","GOMEZ","STERILE PROCESSING TCHN 2","61190.00","40047.00","16302.00","4841.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","FELICIA","PRICE","CART CAPTIONIST","61190.00","61190.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","JOHN C","ARCEO","PAT CARE DIALYSIS TCHN 1","61190.00","53706.00","1489.00","5995.00"]},
+{"id":"15","cell":["15","2018","Berkeley","MICHAEL","CERVANTES","BLANK AST 3","61190.00","59863.00","1327.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","EDWARD J","MONTIEL","POSTDOC-EMPLOYEE","61188.00","61188.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","ELRIKA","ARITONANG","HOSP BLANK AST 1","61188.00","44377.00","11922.00","4889.00"]},
+{"id":"18","cell":["18","2018","Davis","SACKSITH","EKKAPHANH","STDT SVC ADVISOR 2","61187.00","60187.00","0.00","1000.00"]},
+{"id":"19","cell":["19","2018","San Francisco","HUGO ALBERTO","SOSA","BLANK AST 3","61186.00","61186.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","DANIELLE R","LIPPERT","RSCH DATA ANL 3","61186.00","60713.00","0.00","473.00"]}]
+}

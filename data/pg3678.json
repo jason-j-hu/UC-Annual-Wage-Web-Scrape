@@ -1,0 +1,26 @@
+{
+"page" : "3678",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","SYLVIA O","CERVANTES","BLANK AST 3","73005.00","58546.00","14459.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","FRANK A.,JR","DE LANO","SRA 4","73005.00","30632.00","0.00","42373.00"]},
+{"id":"3","cell":["3","2018","Berkeley","CARESSA","MULDER","FINANCIAL ANL 3","73004.00","72504.00","0.00","500.00"]},
+{"id":"4","cell":["4","2018","UCOP","TRAVIS","MOYER","BENEFITS ANL 3","73003.00","73003.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","RANDALL D.","CHRISTIAN","THIRD OFCR BOAT OPR 2","73003.00","47638.00","25365.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","DALIAH N","WILLIAMS","ADMISSIONS RECRMT SPEC 2","73002.00","68400.00","4602.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","DANIEL","SIMPSON","LECT-AY","73002.00","70502.00","0.00","2500.00"]},
+{"id":"8","cell":["8","2018","Berkeley","SHERYLANNE","MEISNER","CAREER SVC SPEC 4","73001.00","73001.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","ERIC R","GIFFORD","FUNDRAISER 3","73001.00","73001.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","HANNAH","HOWE","ADV OFCR 1","73001.00","73001.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","LISA","GARIBAY","PRG PROMOTION MGR 1","73001.00","73001.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","JAY","PEART","ATH PROFL 3 BYA","73001.00","73001.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","SHANNON","MARA","NURSE PD","72999.00","68656.00","1622.00","2721.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","ARIF","AMLANI","PUBL ADMSTN ANL PRN","72999.00","72999.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","YASASHA","RIDEL","STDT SVC ADVISOR 3","72998.00","67998.00","0.00","5000.00"]},
+{"id":"16","cell":["16","2018","Davis","INDER PRIT","KAUR","PHLEBOTOMIST CERT TCHN 2","72997.00","64986.00","6946.00","1065.00"]},
+{"id":"17","cell":["17","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","72994.00","60644.00","0.00","12350.00"]},
+{"id":"18","cell":["18","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","72994.00","60644.00","0.00","12350.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","72993.00","66743.00","0.00","6250.00"]},
+{"id":"20","cell":["20","2018","Davis","ROBERT D.","BELL","DEAF TRANSLATOR INTERPRETER","72993.00","72993.00","0.00","0.00"]}]
+}

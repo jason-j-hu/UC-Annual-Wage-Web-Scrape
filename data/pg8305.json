@@ -1,0 +1,26 @@
+{
+"page" : "8305",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","*****","*****","GSR-NO REM","23845.00","23745.00","0.00","100.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","VERICIA CHERESE","STEVENSON","VOC NURSE SR","23844.00","22854.00","108.00","882.00"]},
+{"id":"3","cell":["3","2018","Berkeley","*****","*****","GSR-FULL FEE REM","23844.00","23844.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","HIROKI","NAKAOKA","POSTDOC-EMPLOYEE","23843.00","23843.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","PATRICIA A","AGUIRRE","FOOD SVC WORKER SR","23843.00","23625.00","218.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","*****","*****","GSR-FULL FEE REM","23843.00","23843.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","PAULA WENDY","RICE-SHERMAN","CMTY HEALTH PRG REPR SR","23843.00","21323.00","0.00","2520.00"]},
+{"id":"8","cell":["8","2018","San Diego","ERMELINDA MENDOZ","MELO","BLANK AST 2","23843.00","4160.00","1276.00","18407.00"]},
+{"id":"9","cell":["9","2018","Davis","MOUSAMI D","SANCHEZ","NURSE PD","23842.00","23632.00","210.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","MARGARET","MELONI","TEACHER-UNEX-CONTRACT YR","23841.00","0.00","0.00","23841.00"]},
+{"id":"11","cell":["11","2018","Merced","*****","*****","TEACHG ASST-GSHIP","23841.00","23741.00","0.00","100.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","DENEISHA","COLE","FOOD SVC WORKER","23840.00","19152.00","4182.00","506.00"]},
+{"id":"13","cell":["13","2018","Irvine","*****","*****","GSR-NO REM","23839.00","23139.00","0.00","700.00"]},
+{"id":"14","cell":["14","2018","San Francisco","ANILA MAURALEEDH","PILLAI","PROJECT POLICY ANL 2","23837.00","23837.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","LAUREL K","BERNSTEIN","NURSE PRACT 1","23837.00","23837.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","ANGELA GEANNE BR","LOTT","CLIN SPEC EX","23837.00","22204.00","0.00","1633.00"]},
+{"id":"17","cell":["17","2018","Santa Cruz","*****","*****","TEACHG ASST-GSHIP","23837.00","23737.00","0.00","100.00"]},
+{"id":"18","cell":["18","2018","San Francisco","ERIKA","GLAUBITZ","CLIN RSCH CRD","23835.00","23835.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","*****","*****","TEACHG FELLOW-GSHIP","23834.00","18834.00","0.00","5000.00"]},
+{"id":"20","cell":["20","2018","Berkeley","*****","*****","GSR-TUIT & FEE REM","23833.00","23833.00","0.00","0.00"]}]
+}

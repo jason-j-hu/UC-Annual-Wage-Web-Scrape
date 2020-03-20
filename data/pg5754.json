@@ -1,0 +1,26 @@
+{
+"page" : "5754",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","SOU-YING","LEE","SRA 2 NEX","50586.00","50586.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","TIFFANY","HOLMES","PAT BILLER 3","50586.00","48780.00","1055.00","751.00"]},
+{"id":"3","cell":["3","2018","San Diego","MICHAEL A.","LOTEYRO","COMPUTER RESC SPEC 1","50586.00","50586.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","ANDREA CARMELA","LICATA","STDT AFFAIRS OFCR 3 EX","50585.00","50381.00","204.00","0.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","SAMANTHA S","SMART","STDT LIFE DEV SPEC 4","50585.00","49693.00","0.00","892.00"]},
+{"id":"6","cell":["6","2018","San Francisco","NICOLE RENEE","GOLDBERG","BLANK AST 2","50584.00","50584.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","ROBERT JAMES,JR","HAMILTON","AUTO EQUIP OPR PRN","50584.00","43849.00","5174.00","1561.00"]},
+{"id":"8","cell":["8","2018","San Diego","HELEN ROSE","BEAUPRE","BLANK AST 3","50583.00","50583.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","MUANG","SAEPHARN","BENEFITS ANL 2","50580.00","50521.00","59.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","KARENA A","CHICAS","EMERGENCY TRAUMA TCHN SR","50580.00","43050.00","2319.00","5211.00"]},
+{"id":"11","cell":["11","2018","Davis","FARAH","MOVASSAGH","MAIL PROCESSOR SR","50579.00","50542.00","37.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","HILDA","TORRES-REGALADO","BLANK AST 3","50577.00","49915.00","662.00","0.00"]},
+{"id":"13","cell":["13","2018","Riverside","CHIANA","GHANT","STDT ACAD ADVISOR 3","50577.00","50577.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","CHARLES M","REID","APPLICATIONS PROGR 1","50576.00","50432.00","144.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","MONICA","TANG","BLANK AST 3","50575.00","48129.00","522.00","1924.00"]},
+{"id":"16","cell":["16","2018","Irvine","SUZANN","WILLIAM-AHLUWAL","OCCUPATIONAL THER 2 PD","50575.00","50460.00","115.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","CHRISTINA E","DYE","HR GENERALIST 3","50575.00","50575.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","JULIO ALFREDO","CRUZ","HOSP AST SR","50574.00","40949.00","8564.00","1061.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","ALAN","LEW","PHYS THER AST 2","50574.00","50258.00","36.00","280.00"]},
+{"id":"20","cell":["20","2018","San Francisco","SHELLY MAE M","PARUNGAO","PAT CARE AST","50573.00","45620.00","3107.00","1846.00"]}]
+}

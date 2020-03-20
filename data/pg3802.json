@@ -1,0 +1,26 @@
+{
+"page" : "3802",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","THOMAS M","SCANLAN","PAINTER","71174.00","66933.00","468.00","3773.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","KATHERINE","SAN MATEO","MGT SVC OFCR 2","71174.00","66932.00","0.00","4242.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","SHAN","BOGGS","STDT AFFAIRS OFCR 2","71174.00","66131.00","2543.00","2500.00"]},
+{"id":"4","cell":["4","2018","San Francisco","JOSEPHINE VALDES","SYLVESTER","REG RESP THER 1","71173.00","70327.00","28.00","818.00"]},
+{"id":"5","cell":["5","2018","Irvine","APRIL GISELLE","BAGAPORO","ADMIN ANL SR","71171.00","71171.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JESSE","CARRASCO","STDT AFFAIRS OFCR 4","71171.00","69086.00","0.00","2085.00"]},
+{"id":"7","cell":["7","2018","Irvine","ILEANA M","JACOBO","ADMIN ANL AST","71170.00","69550.00","1620.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","LISANNE","GEE","GEN ACCOUNTANT 2","71170.00","71170.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","SCOTT L","WEDDING","PHYS PLT MECH","71168.00","65811.00","5357.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","LAM","KENG","FINANCIAL SVC ANL 3","71168.00","71168.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","COLUMBA","CORPUS","ADMIN OFCR 2","71168.00","67203.00","1965.00","2000.00"]},
+{"id":"12","cell":["12","2018","San Francisco","SU JIN","LEE","ASST RES-FY","71167.00","71167.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","JIMMY KUANG-HSIE","HU","ASST RES-FY","71167.00","71167.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","MATTHEW T","KNUESEL","ASST RES-FY","71167.00","71167.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","PRANEETI","PATHIPATI","ASST RES-FY","71167.00","71167.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","MAUSAM","KALITA","ASST RES-FY","71167.00","71167.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","CESAR A","CIENFUEGOS","EXEC CHEF 4","71167.00","71167.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","JOONHEE","LEE","ASST RES-FY","71167.00","71167.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Irvine","FAROUK","NOUIZI","ASST RES-FY","71167.00","71167.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","OMRAN AHMED","ABUABOUD","ASST RES-FY","71167.00","71167.00","0.00","0.00"]}]
+}

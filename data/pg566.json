@@ -1,0 +1,26 @@
+{
+"page" : "566",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","JASON","JAVAHERIFAR","PHARMACIST SR SUPV","197165.00","192665.00","0.00","4500.00"]},
+{"id":"2","cell":["2","2018","Davis","JULIE C","PETRAY","AMBUL CARE PAT MGR 2","197163.00","173037.00","0.00","24126.00"]},
+{"id":"3","cell":["3","2018","San Diego","JULES S.","JAFFE","RES-FY","197150.00","197150.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","MYRL C.","HENDERSHOTT","PROF-FY","197150.00","197150.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","J. BLAKE","TEMPLE","PROF-AY","197147.00","197147.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","SUSAN","SCOTT","MGR","197127.00","186946.00","0.00","10181.00"]},
+{"id":"7","cell":["7","2018","Davis","CLARE E","YELLOWLEY-GENET","PROF-SFT-VM","197117.00","197117.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","MARITZA M","LOPEZ","CLIN NURSE 4","197107.00","194767.00","0.00","2340.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","CYNTHIA","SMILEY","ADMIN NURSE 1","197104.00","154677.00","33171.00","9256.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","AAMIR","MUFTI","PROF-AY","197100.00","197100.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","BICH THUY T","PHAM","DIR","197091.00","171277.00","0.00","25814.00"]},
+{"id":"12","cell":["12","2018","Riverside","MARC","DEBAY","HS ASSOC CLIN PROF-HCOMP","197084.00","130567.00","0.00","66517.00"]},
+{"id":"13","cell":["13","2018","San Francisco","NAOMI","JAY","NURSE PRACT 3","197079.00","196629.00","0.00","450.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","KAROLINA","FAYSMAN","NURSE PRACT 3","197077.00","188911.00","6984.00","1182.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","ROBERT","GUNSALUS","PROF-HCOMP","197077.00","140527.00","0.00","56550.00"]},
+{"id":"16","cell":["16","2018","San Diego","TAHIR I.","BHATTI","AST PHYSCN","197073.00","115009.00","0.00","82064.00"]},
+{"id":"17","cell":["17","2018","Santa Cruz","STEFANO","PROFUMO","PROF-AY","197058.00","166558.00","0.00","30500.00"]},
+{"id":"18","cell":["18","2018","Davis","DAVID R","GANDARA","RECALL FACULTY","197057.00","185030.00","0.00","12027.00"]},
+{"id":"19","cell":["19","2018","San Francisco","MICHAEL L.","WHITE","NUC MED SUPV 2","197048.00","160454.00","32311.00","4283.00"]},
+{"id":"20","cell":["20","2018","San Francisco","ANA MARIA","GRIJALVO PEREZ","HS ASST CLIN PROF-HCOMP","197017.00","88871.00","0.00","108146.00"]}]
+}

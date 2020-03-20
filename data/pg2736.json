@@ -1,0 +1,26 @@
+{
+"page" : "2736",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","CHARLAINE M","HAMILTON","PROJECT POLICY ANL 4","92151.00","90276.00","0.00","1875.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","DONG","SHIN","SRA 4 SUPV","92149.00","92149.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","BARBARA","COOKE","ADMIN ANL SR","92149.00","88647.00","0.00","3502.00"]},
+{"id":"4","cell":["4","2018","Merced","YUE","LEI","LECT SOE-AY","92149.00","85030.00","0.00","7119.00"]},
+{"id":"5","cell":["5","2018","San Francisco","CARLI R","KACHEL","CLIN NURSE 2","92148.00","86123.00","3118.00","2907.00"]},
+{"id":"6","cell":["6","2018","Santa Cruz","STEPHANIE JANE","MOTT","DATA SYS ANL 3","92147.00","90647.00","0.00","1500.00"]},
+{"id":"7","cell":["7","2018","San Diego","AMY LYN","HOWE","CLIN SOCIAL WORKER 2","92146.00","90793.00","353.00","1000.00"]},
+{"id":"8","cell":["8","2018","Irvine","ANA LAUFERSKY","MUNIZ","ASST PROF-AY","92144.00","82533.00","0.00","9611.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","MICHAEL","SHIMOGAWA","CLIN NURSE 2","92144.00","88705.00","508.00","2931.00"]},
+{"id":"10","cell":["10","2018","Berkeley","DOUGLAS","SCUDDER","LAB MECHN PRN","92144.00","92099.00","45.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","BRENDA","PEREZ MARTINEZ","RSCH ADM 4","92144.00","88644.00","0.00","3500.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","FAN","YANG","PROGR ANL 3","92143.00","92143.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","CHRISTINA S","FALCONE","CONTRACTS AND GRANTS SUPV 1","92141.00","87141.00","0.00","5000.00"]},
+{"id":"14","cell":["14","2018","Davis","IGOR","LACAN","COOP EXT ADVISOR","92139.00","88733.00","0.00","3406.00"]},
+{"id":"15","cell":["15","2018","Irvine","RUSSELL N.","STITZLEIN","HS ASST CLIN PROF-HCOMP","92138.00","46619.00","0.00","45519.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","AUDREY","SAMPSON","PROGR ANL 2","92138.00","88743.00","1220.00","2175.00"]},
+{"id":"17","cell":["17","2018","Davis","HEATHER C","JOHNSON","FINANCIAL ANL SUPV 2","92137.00","91537.00","0.00","600.00"]},
+{"id":"18","cell":["18","2018","Davis","JANETTE","MANUEL","BENEFITS ANL 3","92137.00","88043.00","0.00","4094.00"]},
+{"id":"19","cell":["19","2018","San Diego","WAI KING","KWAN","CLIN LAB SCI SPEC","92137.00","89720.00","1404.00","1013.00"]},
+{"id":"20","cell":["20","2018","San Francisco","SARAH MARIE","GERATY","AMBUL CARE ADMSTN MGR 1","92136.00","57423.00","598.00","34115.00"]}]
+}

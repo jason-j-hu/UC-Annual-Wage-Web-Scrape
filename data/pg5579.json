@@ -1,0 +1,26 @@
+{
+"page" : "5579",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","YONGFENG","ZHOU","POSTDOC-EMPLOYEE","52039.00","52039.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ABEL","DURAN","BLANK AST 3","52038.00","49915.00","1229.00","894.00"]},
+{"id":"3","cell":["3","2018","Berkeley","WAYNE","SHAO","BLANK AST 3","52038.00","52038.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","JUDY","VONG","PRACTICE CRD 2","52037.00","50052.00","1351.00","634.00"]},
+{"id":"5","cell":["5","2018","Davis","ROBIN J","PAULE","PAT BILLER 3","52037.00","52037.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","XIE","ZHANG","POSTDOC-EMPLOYEE","52037.00","52037.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","KAREN","RIGGS-SABERTON","FINANCIAL SVC ANL 1","52037.00","50037.00","0.00","2000.00"]},
+{"id":"8","cell":["8","2018","Irvine","BIN","LIN","ASST PROJ SCIENTIST-FY","52036.00","52036.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","PAUL DAVID,JR","WILLIAMS","BUS TCHL SUPP ANL 2","52036.00","51246.00","790.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","MIRIAM","ZUAZO","CMTY EDUC SPEC 2","52036.00","50536.00","0.00","1500.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MIA","REID","CLIN NURSE 2","52035.00","40885.00","4848.00","6302.00"]},
+{"id":"12","cell":["12","2018","San Francisco","KEVIN ARM","SIGUACHI BONILL","MED CTR CUSTODIAN SR PD","52034.00","48935.00","1664.00","1435.00"]},
+{"id":"13","cell":["13","2018","Davis","GEORGE E","WHITMAN","SRA 2","52032.00","52032.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","ELLEN","TUMIMBANG","SRA 2","52032.00","52032.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Santa Barbara","ADISHTHI","GURAV","SRA 2","52032.00","52032.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","MARYBETH","TYLER","SRA 2","52032.00","52032.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","ANNE MARIE ANGEL","QUINTO","SRA 2","52032.00","52032.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","CAROLINA STAR","CARPENTER","SRA 2","52032.00","52032.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","DELYS C","BROOKS","SRA 2","52032.00","52032.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","SORANA","CALDWELL","SRA 2","52032.00","52032.00","0.00","0.00"]}]
+}

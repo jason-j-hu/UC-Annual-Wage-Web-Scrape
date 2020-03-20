@@ -1,0 +1,26 @@
+{
+"page" : "7126",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","CHI","ZHANG","POSTDOC-EMPLOYEE","36162.00","36162.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","ROMANA","GERNER","POSTDOC-EMPLOYEE","36162.00","36162.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","BETSABE","ROMAN GONZALEZ","POSTDOC-EMPLOYEE","36162.00","36162.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","HADISEH","NASARI","POSTDOC-EMPLOYEE","36162.00","36162.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","MATTHIAS G","TRUNK","POSTDOC-EMPLOYEE","36162.00","36162.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","CRISTIAN","GAVRUS","POSTDOC-EMPLOYEE","36162.00","36162.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","JESSICA","CHEUNG","JR SPECIALIST","36161.00","36033.00","128.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","MAGDALYN FAITH","BOLTON","HOSP AST 3 PD","36161.00","35386.00","775.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","RAINIEL","RAGUAL","CUSTODIAN SR","36160.00","34224.00","543.00","1393.00"]},
+{"id":"10","cell":["10","2018","Santa Cruz","AMANDA NICOLE","PROFITT","ADMISSIONS RECRMT SPEC 1","36160.00","35341.00","58.00","761.00"]},
+{"id":"11","cell":["11","2018","San Francisco","LUC","FECTEAU","HS ASST CLIN PROF-HCOMP","36159.00","31532.00","0.00","4627.00"]},
+{"id":"12","cell":["12","2018","Santa Barbara","DEBORAH","KLEIN","BLANK AST 3","36159.00","33976.00","2183.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","*****","*****","GSR-FULL FEE REM","36159.00","36159.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","RUBEN","CANTORAN","CUSTODIAN SR","36158.00","34659.00","302.00","1197.00"]},
+{"id":"15","cell":["15","2018","San Diego","*****","*****","GSR-TUIT & FEE REM-UCSD-GRP E","36158.00","36158.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","*****","*****","GSR-TUIT & FEE REM-UCSD-GRP B","36158.00","36158.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","MARTIN A","TORRES CAMPOS","CUSTODIAN SR","36158.00","34764.00","0.00","1394.00"]},
+{"id":"18","cell":["18","2018","San Diego","TAYLOR KYLE","NELSON","BLANK AST 3","36157.00","34157.00","0.00","2000.00"]},
+{"id":"19","cell":["19","2018","San Francisco","MARIA","TAYAG","CLIN NURSE 2","36156.00","36124.00","0.00","32.00"]},
+{"id":"20","cell":["20","2018","Berkeley","EMILY","PILLOTON","LECT-AY","36156.00","36156.00","0.00","0.00"]}]
+}

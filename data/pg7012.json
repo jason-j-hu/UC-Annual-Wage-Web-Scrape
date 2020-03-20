@@ -1,0 +1,26 @@
+{
+"page" : "7012",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","CARMELLE","ELLISON","CLIN LIC SOCIAL WORKER","37505.00","29320.00","2657.00","5528.00"]},
+{"id":"2","cell":["2","2018","San Diego","CARLOS","HERNANDEZ CERRI","LINEN SVC WORKER","37503.00","34225.00","594.00","2684.00"]},
+{"id":"3","cell":["3","2018","Davis","SYDNEY","ENGELHARDT","SOCIAL WORKER 1","37502.00","34673.00","989.00","1840.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","YONI","ANDERSON","PRG REPR 1","37502.00","36058.00","944.00","500.00"]},
+{"id":"5","cell":["5","2018","Berkeley","*****","*****","GSR-FULL FEE REM","37502.00","37502.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","BRANDAN","SCHULTZ","JR SPECIALIST","37500.00","37185.00","315.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","37500.00","31897.00","0.00","5603.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","THOMAS","KREMEN","HS CLIN INSTR-HCOMP","37500.00","37500.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","*****","*****","HS CLIN INSTR-HCOMP","37500.00","28225.00","0.00","9275.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","RUSHI","PARIKH","HS CLIN INSTR-HCOMP","37500.00","28225.00","0.00","9275.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","ANH","LE","ASC PHYSCN DIPLOMATE","37500.00","24833.00","0.00","12667.00"]},
+{"id":"12","cell":["12","2018","San Diego","SRIHARI CIDAMBI","SAMPATH","ASC PHYSCN DIPLOMATE","37500.00","0.00","0.00","37500.00"]},
+{"id":"13","cell":["13","2018","Davis","ANTONIO G","VILLEGAS","CUSTODIAN","37499.00","36123.00","0.00","1376.00"]},
+{"id":"14","cell":["14","2018","Davis","SEOYOUNG","GAM","JR SPECIALIST","37499.00","37485.00","14.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","JEFFREY","MILLER","RECALL FACULTY","37499.00","37499.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Cruz","ISMAEL","LOPEZ","COOK","37499.00","36325.00","1174.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","JOHN CHRISTIAN","MUNSON","RSCH AND DEV ENGR 4","37499.00","37499.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","*****","*****","GSR-TUIT & FEE REM-UCSD-GRP E","37496.00","37496.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","JENNESSEE MAYE","LUSTINA","LAB AST 2","37495.00","37107.00","388.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","HARINI","KOMPELLA","BLANK AST 3","37495.00","37495.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "5038",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","BARBARA","NAGLE","RECALL NON-FACULTY ACAD","57010.00","57010.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","LISSA LOUISE","RODRIGUEZ","HOSP BLANK AST 3","57009.00","55512.00","493.00","1004.00"]},
+{"id":"3","cell":["3","2018","Davis","JUNLI","ZHANG","ASST PROJ SCIENTIST-FY","57008.00","57008.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","PHILIPUS J","VAN HEST","SCENE TCHN PRN","57007.00","55951.00","1056.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","ROGER","SECO GUIX","ASST PROJ SCIENTIST-FY","57005.00","48183.00","0.00","8822.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","VIKRAM","WABALE","PROGR ANL 2","57005.00","57005.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","GINA M","DURANTE","INDUSTRY ALLNS SPEC 3","57005.00","57005.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","MASSIEL LUIZAGA","SEEGER","BLANK AST 3","57004.00","55377.00","603.00","1024.00"]},
+{"id":"9","cell":["9","2018","Davis","CELINA","CANO","ADMIN OFCR 2","57004.00","57004.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","EILEEN","FLORES","HOSP BLANK AST 3","57004.00","54440.00","2091.00","473.00"]},
+{"id":"11","cell":["11","2018","Davis","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","57004.00","44804.00","0.00","12200.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","MATTHEW DANIEL","HABERLAND","ASST RES-FY-B/E/E","57002.00","48818.00","0.00","8184.00"]},
+{"id":"13","cell":["13","2018","Davis","SUNIL K","SINGH","MED CTR SCRTY OFCR","57002.00","43012.00","11289.00","2701.00"]},
+{"id":"14","cell":["14","2018","San Francisco","BHUPINDER K","NAHAL","CLIN RSCH CRD","57001.00","57001.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","LINDSEY A","FLETES","BLANK AST 3","57001.00","55445.00","1556.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","PATRICIA","MAKELA","EEO REPR 3","57001.00","56990.00","11.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","ELIZABETH ANN","STELOW","VETERINARIAN 2","57000.00","57000.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","ALLYANNA M","PITTMAN","ADVOCATE 3","57000.00","57000.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","SARAH","MESHKAT","SPEC","57000.00","57000.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","LLOYD H","SMITH","RECALL FACULTY","57000.00","57000.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "3255",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","CELSO","PAGKATIPUNAN","HOSP LAB TCHN 4 SUPV EX","80633.00","76835.00","0.00","3798.00"]},
+{"id":"2","cell":["2","2018","San Diego","MARIANA RAZO","WARDWELL","ASSOC PROF-AY","80633.00","80633.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","80632.00","63882.00","0.00","16750.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","RICHARD","HOLLEY","ADMIN ANL","80632.00","79668.00","964.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","PETER J","MOTEKAITIS","LECT-AY-CONTINUING","80631.00","80631.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","ARIEL JUSTINE","BOWMAN","ASC PHYSCN","80631.00","43844.00","0.00","36787.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","LESLIE","VALLADARES","CLIN NURSE 2","80630.00","68394.00","541.00","11695.00"]},
+{"id":"8","cell":["8","2018","San Diego","REBECCA L.","HAMES","ALUMNI EXTERNAL REL SPEC 3","80630.00","79105.00","0.00","1525.00"]},
+{"id":"9","cell":["9","2018","San Diego","CARMENCITA GUIAM","GRUTA","CLIN NURSE 2","80628.00","67115.00","1499.00","12014.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","SALIMA","POPAT","ADMIN ANL SR","80626.00","79626.00","0.00","1000.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","NATASHA","PLENGSANGTIP","ACCOUNTANT 3","80626.00","79626.00","0.00","1000.00"]},
+{"id":"12","cell":["12","2018","San Francisco","ALEXANDER A","THEOLOGIS","ASST PROF IN RES-HCOMP","80625.00","22518.00","0.00","58107.00"]},
+{"id":"13","cell":["13","2018","Davis","*****","*****","BLANK AST 4","80625.00","66165.00","7541.00","6919.00"]},
+{"id":"14","cell":["14","2018","Irvine","NINA M","OBIEDO","ADMIN ANL PRN SUPV","80622.00","80622.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","LUIS FERDINAND","PAPA","MGT SVC OFCR 2","80622.00","80622.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Riverside","CHRISTOPHER","GRYNIUK","MAINT B LD","80619.00","79206.00","1399.00","14.00"]},
+{"id":"17","cell":["17","2018","San Francisco","SANDRIA J.","WONG","HEALTH PROFNS EDUC SPEC 3","80618.00","80618.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","JAMIE ELIZABETH","HUNT","NURSE PD","80618.00","69540.00","1539.00","9539.00"]},
+{"id":"19","cell":["19","2018","Merced","KAREN","BONILLA","ADMIN OFCR 3","80618.00","70723.00","0.00","9895.00"]},
+{"id":"20","cell":["20","2018","Berkeley","DIANE","PEREZ","FINANCIAL SVC ANL 3","80615.00","80115.00","0.00","500.00"]}]
+}

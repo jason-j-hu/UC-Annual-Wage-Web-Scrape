@@ -1,0 +1,26 @@
+{
+"page" : "9269",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","PHUM","TACHACHARTVANIC","POSTDOC-EMPLOYEE","14970.00","14970.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","XUECHUN","FENG","POSTDOC-EMPLOYEE","14970.00","14970.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","SIYI","GU","POSTDOC-EMPLOYEE","14970.00","14970.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","KYOHEI","FUJITA","POSTDOC-EMPLOYEE","14970.00","14970.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","*****","*****","READER-NON GSHIP","14969.00","14969.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","14969.00","14869.00","0.00","100.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","BARBA","LOBO VELLASCO C","FOOD SVC WORKER SR PD","14967.00","14837.00","285.00","-155.00"]},
+{"id":"8","cell":["8","2018","San Francisco","CLAIRE P","MURPHY","HOSP BLANK AST 3","14966.00","14062.00","0.00","904.00"]},
+{"id":"9","cell":["9","2018","San Diego","LINDA P.","VELIZ","TRAINER 4","14966.00","13345.00","0.00","1621.00"]},
+{"id":"10","cell":["10","2018","Davis","KATRINA R","HARDEN","FOOD SVC WORKER PD","14965.00","13703.00","1102.00","160.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MINJI","KIM","CLIN NURSE 3","14965.00","13931.00","206.00","828.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","*****","*****","TEACHG ASST-GSHIP","14964.00","14964.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","14964.00","14964.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","QIMING","YANG","JR SPECIALIST","14962.00","14962.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","RYAN DAVID","GILBERT","JR SPECIALIST","14962.00","14962.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","HTET HTWE","HTWE","JR SPECIALIST","14962.00","14962.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Irvine","KIANNA M.D.","NGUYEN","JR SPECIALIST","14962.00","14962.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","*****","*****","TEACHG ASST-GSHIP","14962.00","14862.00","0.00","100.00"]},
+{"id":"19","cell":["19","2018","Davis","GONZALO","RABASA","JR SPECIALIST","14962.00","14962.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","*****","*****","GSR-FULL FEE REM","14962.00","14962.00","0.00","0.00"]}]
+}

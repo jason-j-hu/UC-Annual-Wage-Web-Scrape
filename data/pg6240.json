@@ -1,0 +1,26 @@
+{
+"page" : "6240",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Cruz","MARIELA PATRICIA","TOBON","BLANK AST 3","46144.00","46144.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","GERMAN R","TOLEDO","STERILE PROCESSING TCHN 2","46143.00","44029.00","1658.00","456.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","DANIEL","MARTINEZ","PAT COMM REPR","46142.00","46027.00","115.00","0.00"]},
+{"id":"4","cell":["4","2018","Santa Barbara","ROBYN","FOOTE","BLANK AST 3","46142.00","46142.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Merced","SEEBA","BHATIA","BUS SYS ANL 3","46142.00","46142.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","MAZIAR","GHAZINEJAD","LECT PSOE-AY","46142.00","43092.00","0.00","3050.00"]},
+{"id":"7","cell":["7","2018","Irvine","PATRICIA","BECERRA","MED AST","46141.00","45095.00","26.00","1020.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","SHIMIKIA","WILLIAMS","PAT BILLER 3","46140.00","45640.00","0.00","500.00"]},
+{"id":"9","cell":["9","2018","Davis","*****","*****","POSTDOC-EMPLOYEE","46139.00","46139.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","KIMBERLY Y","BERARDI","STDT SVC ADVISOR 2","46139.00","46139.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","NURUDEEN","ALAO","LECT-AY-CONTINUING","46138.00","46138.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ASHLEY","PEYTON","PAT COMM REPR","46138.00","46038.00","100.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","ZIYAD M","IEMEIR","COOK","46138.00","40288.00","5089.00","761.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","ANGELA","WALLACE","BLANK AST 3","46138.00","46138.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","MICHAEL","STOKES","CUSTODIAN SR","46137.00","44744.00","0.00","1393.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","LAURIANA","GOMES","CUSTODIAN SR","46137.00","44744.00","0.00","1393.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","GERALD","MCCLAREN","CUSTODIAN SR","46137.00","44744.00","0.00","1393.00"]},
+{"id":"18","cell":["18","2018","San Francisco","LESLIE A","DUBBIN","ASST ADJ PROF-HCOMP","46136.00","46136.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Irvine","LUCY","BLICKHAHN","ADMITTING WORKER","46136.00","46136.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","BRYAN","COX","MED CTR CUSTODIAN SR PD","46136.00","40920.00","1311.00","3905.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "1830",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","HISAE","SUEKANE","PROGR ANL 4","118344.00","117580.00","0.00","764.00"]},
+{"id":"2","cell":["2","2018","Berkeley","IVONNE","DEL VALLE","ASSOC PROF-AY","118342.00","118342.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","MARIA CRISTINA","GERONILLA","CLIN LAB SCI SPEC","118336.00","97094.00","19586.00","1656.00"]},
+{"id":"4","cell":["4","2018","Irvine","ANDROMACHE","KARANIKA","ASSOC PROF-AY","118334.00","101392.00","0.00","16942.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","TARA","DAVIDOFF-KAMIN","ADM CRD OFCR","118334.00","118334.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","LUIS","SANDOVAL","CLIN NURSE 2","118334.00","104963.00","8149.00","5222.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","TARA","BROWNER","PROF-AY","118333.00","118333.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","MICHAEL","CLEARWATER","SKLD CRAFTS AND TRADES MGR 1","118331.00","118331.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","JAMES E","BARTLETT","SKLD CRAFTS AND TRADES MGR 1","118331.00","118331.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","MICHAEL T","BURKE","CLIN NURSE 2","118331.00","104014.00","3754.00","10563.00"]},
+{"id":"11","cell":["11","2018","San Diego","JUDY MABUTAS","HUCUL","CLIN NURSE 2","118330.00","102539.00","4635.00","11156.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","MICHAEL","BAUTISTA","HEALTH INFO CODER 4","118324.00","111880.00","4227.00","2217.00"]},
+{"id":"13","cell":["13","2018","San Francisco","KELLY M","KANBAYASHI","REG RESP THER 1","118323.00","105567.00","1297.00","11459.00"]},
+{"id":"14","cell":["14","2018","Irvine","KATHLEEN R","JOHNSON","ASSOC PROF-AY","118322.00","106000.00","0.00","12322.00"]},
+{"id":"15","cell":["15","2018","San Diego","JANET L.","MATSUMOTO","RSCH ADM 4","118321.00","113821.00","0.00","4500.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","ZHU","KU","PROGR ANL 4","118321.00","112758.00","0.00","5563.00"]},
+{"id":"17","cell":["17","2018","San Francisco","LAURA J","WITHELDER","ULTRASOUND TCHNO","118319.00","114032.00","2735.00","1552.00"]},
+{"id":"18","cell":["18","2018","Berkeley","TRANG","TRAN","APPLICATIONS PROGR 4","118318.00","118318.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","EVERETT","LIPMAN","ASSOC PROF-AY","118317.00","109358.00","0.00","8959.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","JOSEPH","MCFADDEN","ASSOC PROF-AY","118317.00","117317.00","0.00","1000.00"]}]
+}

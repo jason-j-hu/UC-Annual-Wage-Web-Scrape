@@ -1,0 +1,26 @@
+{
+"page" : "6154",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","KATIE","VARVARIGOS","RESC NURSE PD","47031.00","46441.00","41.00","549.00"]},
+{"id":"2","cell":["2","2018","San Francisco","LINDA M.","RAY","NURSE PRACT 2","47030.00","47030.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","KRISTINA","BASTEDO","BLANK AST 3","47029.00","47029.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Santa Barbara","AMANDA","GARCIA","BLANK AST 3","47029.00","47020.00","9.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","EVA","SCHEPELER","LECT-AY-CONTINUING","47029.00","47029.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Riverside","JEFFERY","MATUTE","BLANK AST 3","47029.00","46082.00","347.00","600.00"]},
+{"id":"7","cell":["7","2018","Riverside","THOMAS","CUNNINGHAM","RECR PRG LEADER 2 BYA","47029.00","47029.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","GLADYS","GALLAGA","VOC NURSE SR","47028.00","44674.00","887.00","1467.00"]},
+{"id":"9","cell":["9","2018","San Francisco","JEWEL STRATTON,JR","BARTON","EXEC ADVISOR 4","47026.00","44676.00","0.00","2350.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","LUCY","GODINEZ","MED CTR FOOD SVC WORKER PRN","47026.00","38964.00","4896.00","3166.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","DAVID","MORALES","PAT COMM REPR","47025.00","45981.00","1044.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","KAMIL","WALJI","ALUMNI EXTERNAL REL SPEC 3","47024.00","47024.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","EMMA","PARKER","PUBLICATIONS PROD SPEC 2","47024.00","47024.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","AUNDREA M.","TURNER","BLANK AST 2","47023.00","46802.00","221.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","VANESSA","MEDINA","BLANK AST 2","47022.00","46137.00","710.00","175.00"]},
+{"id":"16","cell":["16","2018","San Diego","JOSHUA ALLEN","ROSE","BLDG MAINT WORKER SR","47021.00","46930.00","91.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","ARMANDO","PUENTE","SRA 2 NEX","47020.00","46945.00","0.00","75.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","NAMAN","PATEL","SRA 2 NEX","47020.00","46945.00","0.00","75.00"]},
+{"id":"19","cell":["19","2018","San Diego","HEIDI I","HEINTZ","COACH AST 3","47020.00","37020.00","0.00","10000.00"]},
+{"id":"20","cell":["20","2018","San Diego","VEDELINE M","TORREON","CLIN RSCH CRD AST","47020.00","47020.00","0.00","0.00"]}]
+}

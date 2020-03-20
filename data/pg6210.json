@@ -1,0 +1,26 @@
+{
+"page" : "6210",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","HANS-MARTIN","LIEBING","LECT-AY","46458.00","32181.00","0.00","14277.00"]},
+{"id":"2","cell":["2","2018","Davis","VASHNA V","PRASAD","MED OFC SVC CRD 2","46457.00","46282.00","175.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","JULES","COOCH","PRG REPR 2","46456.00","46456.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","ERIN ELIZABETH","MOREY","STDT SVC ADVISOR 2","46456.00","45927.00","0.00","529.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","JOSE","OSEGUERA","PRG REPR 2","46455.00","46097.00","358.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","KWANMANUS","SUVANAMAS","PUBL ADMSTN ANL SR SUPV","46455.00","46455.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","NATHAN","ATKINSON","LECT-AY","46454.00","46454.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","MARLENA","FEJZO","ASSOC RES-FY","46454.00","46454.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","GABRIEL","GIL","HEALTH TCHN 2","46454.00","46454.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","KRISTIN","LILJESTROM","STDT SVC ADVISOR 2","46454.00","45454.00","0.00","1000.00"]},
+{"id":"11","cell":["11","2018","San Francisco","JANET CRISTOBAL","GUZMAN","PRACTICE CRD 2","46452.00","45675.00","12.00","765.00"]},
+{"id":"12","cell":["12","2018","Davis","STEPHANIE A","CHAVEZ","BLANK AST 3","46452.00","46452.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","JOSE","PARRA","MED CTR CUSTODIAN SR","46452.00","38476.00","4609.00","3367.00"]},
+{"id":"14","cell":["14","2018","Berkeley","SAMIKA","KUMAR","SRA 2","46451.00","46451.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","CLAUDIA","LOZANO","PAT COMM REPR","46451.00","46380.00","71.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","ARTEMIO P,JR","RICARTE","FOOD SVC SUPV 1","46451.00","46451.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","HILDA","GONZALEZ","CUSTODIAN SR","46450.00","43880.00","0.00","2570.00"]},
+{"id":"18","cell":["18","2018","Davis","MITHILESH K","KUMAR","MED CTR FOOD SVC WORKER PRN","46450.00","44077.00","2072.00","301.00"]},
+{"id":"19","cell":["19","2018","Santa Cruz","ALEXANDER A","GRILLO","RECALL NON-FACULTY ACAD","46450.00","46450.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","GREGORY","DELORY","RES-FY","46450.00","43817.00","0.00","2633.00"]}]
+}

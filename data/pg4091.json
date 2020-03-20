@@ -1,0 +1,26 @@
+{
+"page" : "4091",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","FERN","LIGHTFOOT","FOOD SVC MGR 1","67163.00","67163.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","JAMES H","GODFREY III","CLIN NURSE 2","67162.00","65859.00","0.00","1303.00"]},
+{"id":"3","cell":["3","2018","Irvine","ROBERT","GALLEGOS","PAINTER","67162.00","65346.00","796.00","1020.00"]},
+{"id":"4","cell":["4","2018","UCOP","ANGELA","CHUCK","SYSWIDE BUDGET ANL 3","67162.00","67162.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","TERESA JOYCE","WEIST","RSCH ADM 3","67162.00","44683.00","63.00","22416.00"]},
+{"id":"6","cell":["6","2018","Davis","LAURA E","YOUNG","STDT SVC ADVISOR 3","67161.00","67161.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","HILDA","VALLE","VOC NURSE SR","67161.00","66843.00","216.00","102.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","KATHERINE","SMITH","VIS ASST RES","67160.00","67160.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","JUAN","DE LA TORRE","ADMIN ANL","67160.00","63776.00","0.00","3384.00"]},
+{"id":"10","cell":["10","2018","San Francisco","JEMA","TURK","RSCH DATA ANL 3","67159.00","66159.00","0.00","1000.00"]},
+{"id":"11","cell":["11","2018","Berkeley","COLIN","TRIPLETT","ASST RES-FY","67158.00","67158.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Merced","BRANDI","MASASSO","AUDIT PROFL 3","67158.00","67158.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Irvine","RACHEL A","HARVEY","ADMIN ANL SR","67157.00","65407.00","0.00","1750.00"]},
+{"id":"14","cell":["14","2018","San Francisco","*****","*****","CHIEF RESID PHYS-NON REP","67156.00","43663.00","0.00","23493.00"]},
+{"id":"15","cell":["15","2018","Davis","YOOSOOK","LEE","ASSOC RES-FY","67155.00","67155.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","67154.00","54790.00","0.00","12364.00"]},
+{"id":"17","cell":["17","2018","Irvine","CHRISTOPHE","DAWSON-CHARLES","HOSP LAB TCHN 4","67153.00","65431.00","702.00","1020.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","JEFFREY","CRAWFORD","PROGR ANL 4","67152.00","67152.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","JENNIFER","BRADFORD","ACAD ACHIEVEMENT CNSLR 3","67152.00","67152.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","MARY","LOFAMIA","ADMITTING WORKER SR","67149.00","54306.00","7375.00","5468.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "3712",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","ASHOK","PAHWA","TEACHER-UNEX-CONTRACT YR","72538.00","0.00","0.00","72538.00"]},
+{"id":"2","cell":["2","2018","San Diego","MARIA I","NUNEZ","CLIN RSCH CRD","72536.00","70913.00","1623.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","KENGSHI T.","YANG","SYS ADM 2","72533.00","72533.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Santa Barbara","LESLIE","HAMMER","LECT-AY-CONTINUING","72533.00","72533.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","LINDA","GROSS","APPLICATIONS PROGR 4","72532.00","72532.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","ALEXANDER D","LEE","BUS TCHL SUPP ANL 3","72531.00","71505.00","0.00","1026.00"]},
+{"id":"7","cell":["7","2018","San Francisco","JAMIE","SALAS","CLIN SOCIAL WORKER 2","72530.00","72530.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","DIANE C","MITCHELL","RSCH DATA ANL 3","72529.00","56863.00","0.00","15666.00"]},
+{"id":"9","cell":["9","2018","Irvine","ANNA R.","ALEDIA","CLIN RSCH CRD SR EX","72528.00","72528.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","RHONA R","HERNANDEZ","RSCH ADM 3","72528.00","69119.00","0.00","3409.00"]},
+{"id":"11","cell":["11","2018","Davis","EDDIE","CONTRERAS","PHARMACY TCHN 3","72526.00","72481.00","0.00","45.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","HEATHER","MEKKINOSSON","FOOD SVC MGR SR","72525.00","73125.00","0.00","-600.00"]},
+{"id":"13","cell":["13","2018","Irvine","FRANCA","HAMBER","LECT-AY-CONTINUING","72524.00","72524.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","FELICIA","PEACOCK","ADMIN ANL","72524.00","71024.00","0.00","1500.00"]},
+{"id":"15","cell":["15","2018","Davis","MELISSA A","IVANUSICH","DATA SYS ANL 1","72523.00","72150.00","373.00","0.00"]},
+{"id":"16","cell":["16","2018","UCOP","CRAIG","THOMPSON","INFO SYS ANL 2","72523.00","72523.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","LYNDA","NICHOLS","PUBL CRD PRN","72522.00","72522.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","NIKITA C.","ROCHELLE","ADMIN OFCR 3","72521.00","71021.00","0.00","1500.00"]},
+{"id":"19","cell":["19","2018","San Francisco","KHARY RASHAD","DVORAK-EWELL","VOC REHAB SUPV 2","72518.00","72518.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","THONGCHANH","NAKHAM","VOC NURSE SR","72518.00","72162.00","356.00","0.00"]}]
+}

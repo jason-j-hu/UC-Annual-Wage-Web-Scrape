@@ -1,0 +1,26 @@
+{
+"page" : "6605",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","EVERGENE","HOOPER","FOOD SVC WORKER LD","42283.00","39863.00","2016.00","404.00"]},
+{"id":"2","cell":["2","2018","San Francisco","PO-YI JONATHAN","LI","ASST SPECIALIST","42281.00","42190.00","91.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","YENY","MATA DIAZ","MED CTR FOOD SVC WORKER PRN","42281.00","38816.00","1542.00","1923.00"]},
+{"id":"4","cell":["4","2018","Santa Barbara","JUAN","SOTO","COOK SR","42281.00","42158.00","123.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","JACQUELINE","BRISENO","PRACTICE CRD 2","42280.00","42142.00","138.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","ROBERT G.","MERRYMAN","APPLICATIONS PROGR 5","42280.00","42280.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","MICHEL","LEIVA","BLANK AST 2","42278.00","41889.00","189.00","200.00"]},
+{"id":"8","cell":["8","2018","Merced","LAUREN","BRACKETT","STDT ACAD ADVISOR 2","42278.00","41193.00","1085.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","NANCI I","FAULCONER","MED OFC SVC CRD 3","42277.00","42226.00","51.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","LUCIA","MAGIS WEINBERG","POSTDOC-EMPLOYEE","42276.00","42276.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","YUHONG","CAO","POSTDOC-EMPLOYEE","42276.00","42276.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","JORDYN","WALLENBORN","POSTDOC-EMPLOYEE","42276.00","42276.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","JAXIVE","MURGUIA","BLANK AST 3","42276.00","41649.00","0.00","627.00"]},
+{"id":"14","cell":["14","2018","Irvine","LU","AN","POSTDOC-EMPLOYEE","42276.00","42276.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","ANNA","MEIER","SURVEY RESEARCHER 2","42276.00","42276.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","FRANCISCA","MENDOZA","CUSTODIAN SR","42276.00","40899.00","0.00","1377.00"]},
+{"id":"17","cell":["17","2018","San Diego","JESSICA BAILEY W","CASSIN","POSTDOC-EMPLOYEE","42276.00","42276.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","GILAD","DOITSH","SPECIALIST","42273.00","42273.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","DIANA","OWENS","RESC NURSE PD","42272.00","38484.00","143.00","3645.00"]},
+{"id":"20","cell":["20","2018","San Diego","JULIE COLLINS","WALKER","PHYS THER 2 NEX","42272.00","40579.00","309.00","1384.00"]}]
+}

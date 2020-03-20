@@ -1,0 +1,26 @@
+{
+"page" : "4510",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","KATHLEEN MARIE","COLAO","CLIN RSCH CRD","62234.00","62234.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","MELISSA SIMONE","ZEROFSKY","CLIN RSCH CRD","62234.00","62234.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","*****","*****","NON-PHYS CLIN TRAIN","62234.00","58290.00","0.00","3944.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","GLORIA","CABRERA","ADMIN SPEC SUPV","62233.00","54300.00","5433.00","2500.00"]},
+{"id":"5","cell":["5","2018","Davis","KAREN K","FAITHORN","MED STF SVC SPEC 2","62232.00","62232.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","VICENTE","SANTOS","AUDITOR 2 EX","62231.00","60731.00","0.00","1500.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","MICHAEL","RATHJEN","ADMIN ANL","62231.00","62231.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","AMANDA","CHOW","PRACTICE CRD 3","62229.00","60297.00","786.00","1146.00"]},
+{"id":"9","cell":["9","2018","San Diego","JENNY R","BELKNAP","PAT BILLER 3","62227.00","58208.00","3008.00","1011.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ABRAHAM","ESCOBAR","FAC MECH","62226.00","56734.00","5492.00","0.00"]},
+{"id":"11","cell":["11","2018","Santa Barbara","ANDREW","PAISANO","ELECTR TCHN SR","62225.00","59398.00","2827.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","NOBUKO VERA","RILEY","ADMIN ANL","62224.00","57911.00","2314.00","1999.00"]},
+{"id":"13","cell":["13","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","62224.00","59173.00","0.00","3051.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","SHATONYA","CROWE","PHLEBOTOMIST CERT TCHN 2","62224.00","61234.00","365.00","625.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","KHALIDAH","MUHAMMAD","BLANK AST 3","62223.00","59812.00","2411.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","VIRGINIA R","VOLLET","EXEC AST 3","62223.00","54047.00","0.00","8176.00"]},
+{"id":"17","cell":["17","2018","San Diego","SHANA MARIE","BALDASSARI","PUBLICATIONS PROD SPEC 3","62222.00","61022.00","0.00","1200.00"]},
+{"id":"18","cell":["18","2018","Berkeley","RICHARD","ESTRADA - STONE","LIBRARY PROFL 4","62220.00","62220.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","KAREN","COUGHLAN","BLANK AST 3","62219.00","62219.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","62219.00","58917.00","0.00","3302.00"]}]
+}

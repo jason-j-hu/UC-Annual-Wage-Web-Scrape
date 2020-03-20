@@ -1,0 +1,26 @@
+{
+"page" : "5206",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","ANNA C","CRUZ","ADMIN OFCR 3","55437.00","55437.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","LINDSAY","PARMENTER","PHARMACY TCHN 2","55437.00","55283.00","154.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","LINDSAY V","MACOMBER","MED OFC SVC CRD 2","55437.00","54246.00","1186.00","5.00"]},
+{"id":"4","cell":["4","2018","San Francisco","ELVIRA B","TIZON","BLANK AST 1","55436.00","54091.00","205.00","1140.00"]},
+{"id":"5","cell":["5","2018","Riverside","DELMA","LEE","BLANK AST 3","55436.00","55421.00","0.00","15.00"]},
+{"id":"6","cell":["6","2018","San Diego","RAMIL MANALANSAN","DABU","BLDG MAINT WORKER SR","55436.00","48256.00","7180.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","BRIDGET","FLEMING","RSCH ADM 3","55435.00","54435.00","0.00","1000.00"]},
+{"id":"8","cell":["8","2018","San Francisco","MICHEL J","TASSETTO","ASSOC SPECIALIST","55434.00","55434.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","KELSEY A","RANKIN","ASSOC SPECIALIST","55434.00","55434.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","JIA S","HU","ASSOC SPECIALIST","55434.00","55434.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","MAYURI V","THETE","ASSOC SPECIALIST","55434.00","55434.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","YI","LIU","ASSOC SPECIALIST","55434.00","55434.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","MARYAM","VARETH","ASSOC SPECIALIST","55434.00","55434.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","ANTONIUS JEFFREY","VAN HAREN","ASSOC SPECIALIST","55434.00","55434.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","HYUN JUNG","LEE","ASSOC SPECIALIST","55434.00","55434.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","ELHAM","ASLANKOOHI","ASSOC SPECIALIST","55434.00","55434.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","CARLOS O","LIZAMA VALENZUE","ASSOC SPECIALIST","55434.00","55434.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","MEENAL","SINHA","ASSOC SPECIALIST","55434.00","55434.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","EDWARD","ELHAUGE","ASSOC SPECIALIST","55434.00","55434.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","HANJUAN","SHAO","ASSOC SPECIALIST","55434.00","55434.00","0.00","0.00"]}]
+}

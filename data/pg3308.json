@@ -1,0 +1,26 @@
+{
+"page" : "3308",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","GUSTAVO","BARISONE","ASST RES-FY","79592.00","79592.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","XIAOYAN","REN","ASST RES-FY","79592.00","79592.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","RYAN","HARRIGAN","ASST RES-FY","79592.00","79592.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","MASAKI","NISHIKAWA","ASST RES-FY","79592.00","79592.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","JIANQING","LI","ASST RES-FY","79592.00","79592.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","AMIR","GAMLIEL","ASST RES-FY","79592.00","79592.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Riverside","BAO LAM","HUYNH","ASST RES-FY","79592.00","79592.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","LEONARDO","NOGUEIRA","ASST RES-FY","79592.00","79592.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","NICHOLAS W","OESCH","ASST RES-FY","79592.00","79592.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","SOLENE","LEJOSNE","ASST RES-FY","79592.00","79592.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","JUDITH RACHEL","KLEIN","ASC PHYSCN DIPLOMATE","79590.00","41528.00","0.00","38062.00"]},
+{"id":"12","cell":["12","2018","Riverside","CAROLYN","SLOANE","ASST PROF-AY-B/E/E","79590.00","66223.00","0.00","13367.00"]},
+{"id":"13","cell":["13","2018","San Francisco","PETER T","OHARA","RECALL HCOMP","79589.00","74589.00","0.00","5000.00"]},
+{"id":"14","cell":["14","2018","San Diego","MICHAEL E","LOCKE","SYS OPR","79588.00","76204.00","2336.00","1048.00"]},
+{"id":"15","cell":["15","2018","San Diego","TIMOTHY ALAN","WILLING","HEAD COACH 5","79587.00","59061.00","0.00","20526.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","TAMMY","SANCHEZ","COMPUTING RESC MGR 1","79586.00","75906.00","0.00","3680.00"]},
+{"id":"17","cell":["17","2018","Riverside","HECTOR","LINARES","FINANCIAL SVC SUPV 2","79586.00","72723.00","0.00","6863.00"]},
+{"id":"18","cell":["18","2018","San Francisco","HING L","CHUNG","FINANCIAL ANL 3","79585.00","79585.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","MICHAEL L","CAYAGO","PAT CARE AST","79585.00","64837.00","5841.00","8907.00"]},
+{"id":"20","cell":["20","2018","Davis","SEAN M","GILBERT","ELEVATOR MECH","79585.00","75553.00","0.00","4032.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "2506",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","ALINA ANN","BURGI","CLIN NURSE 2","98024.00","98024.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","RAUL","MACCHIA","CLIN NURSE 2","98022.00","91217.00","1466.00","5339.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","CATHERINE","VAZQUEZ","ADMIN ANL SR","98021.00","85393.00","0.00","12628.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","BHARATH","RAMAKRISHNA","SPEC","98020.00","72291.00","0.00","25729.00"]},
+{"id":"5","cell":["5","2018","San Francisco","CHRISTINE MONICA","WALDRON","PAT REL PROFL 4","98019.00","93696.00","0.00","4323.00"]},
+{"id":"6","cell":["6","2018","Irvine","KATHERINE ANN","BAUTISTA","CLIN NURSE 2","98017.00","87684.00","6987.00","3346.00"]},
+{"id":"7","cell":["7","2018","Irvine","RONEEL N","PRASAD","CLIN NURSE 2","98016.00","86302.00","4764.00","6950.00"]},
+{"id":"8","cell":["8","2018","San Diego","CYNTHIA LEE","BURROWS","BUS SYS ANL 4","98016.00","94016.00","0.00","4000.00"]},
+{"id":"9","cell":["9","2018","San Diego","STACEY S.","MCDERMAID","HR GENERALIST 3","98016.00","97016.00","0.00","1000.00"]},
+{"id":"10","cell":["10","2018","Davis","ANITA G","GORE","EHS SPEC 4","98015.00","97456.00","0.00","559.00"]},
+{"id":"11","cell":["11","2018","San Francisco","RACHEL I.","WILLARD-GRACE","ASST ADJ PROF-HCOMP","98013.00","82215.00","0.00","15798.00"]},
+{"id":"12","cell":["12","2018","San Francisco","MELISSA M","AKERS","ACAD PRG MGT OFCR 4","98011.00","98011.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","MAY","NISHIYAMA","ADMIN ANL PRN 1","98011.00","91011.00","0.00","7000.00"]},
+{"id":"14","cell":["14","2018","San Francisco","GERALDINE BETH","GARBER","ADMIN SUPV 2","98009.00","93453.00","0.00","4556.00"]},
+{"id":"15","cell":["15","2018","San Francisco","DAMOUN","BOZORGZADARBAB","BEH HEALTH PSYCHIATRIC SUPV 2","98008.00","95208.00","0.00","2800.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","LINDSEY","WALTON","ADV OFCR 3","98008.00","93371.00","0.00","4637.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","FRANCESCA","SIGNORELLI","REG RESP THER 1","98006.00","85259.00","5469.00","7278.00"]},
+{"id":"18","cell":["18","2018","San Francisco","GISELLE ARDEN","KURYWCHAK","PHYS THER 2 EX","98003.00","95737.00","0.00","2266.00"]},
+{"id":"19","cell":["19","2018","Irvine","ELLEN","GONZALEZ","PHYS THER 2 NEX","97997.00","96592.00","385.00","1020.00"]},
+{"id":"20","cell":["20","2018","Santa Cruz","HEIDI","SITTON","SYS ADM 3","97996.00","97996.00","0.00","0.00"]}]
+}

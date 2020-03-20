@@ -1,0 +1,26 @@
+{
+"page" : "6057",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","DEREK","SMITH","STDT LIFE DEVT SUPV 1","47976.00","47476.00","0.00","500.00"]},
+{"id":"2","cell":["2","2018","Berkeley","BRIDGET","BUCEY","STDT LIFE DEVT SUPV 1","47976.00","47476.00","0.00","500.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","ROGER","FREEDMAN","LECT SOE-AY","47976.00","47976.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","47974.00","41724.00","0.00","6250.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","47974.00","41724.00","0.00","6250.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","47974.00","41724.00","0.00","6250.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","47974.00","41724.00","0.00","6250.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","47974.00","41724.00","0.00","6250.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","47974.00","41724.00","0.00","6250.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ELIZABETH","ASSEL","HOSP LAB TCHN 3","47973.00","47410.00","397.00","166.00"]},
+{"id":"11","cell":["11","2018","UCOP","KOLBY","KEO","ADMIN AST 3","47973.00","47973.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","SANDY D","HANNA","ADMIN OFCR 2","47973.00","47973.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","JULIO","RODRIGUEZ","MED CTR STOREKEEPER","47973.00","45108.00","2584.00","281.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","MICHELLE","VIERA","BLANK AST 3","47972.00","47702.00","270.00","0.00"]},
+{"id":"15","cell":["15","2018","Irvine","CYNTHIA","MARTINEZ","ADMITTING WORKER PRN","47971.00","46921.00","210.00","840.00"]},
+{"id":"16","cell":["16","2018","Davis","MARIA","ALFARO","CMTY EDUC SPEC 3","47971.00","46155.00","1780.00","36.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","FRANCISCO","CASTILLO","CUSTODIAN SR","47971.00","47312.00","659.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","JESUS","GRIMALDI","ADMIN CARE CLIN PARTNER","47970.00","42392.00","1858.00","3720.00"]},
+{"id":"19","cell":["19","2018","Berkeley","SAMANTHA","ZEPEDA","FUNDRAISER 2 NEX","47967.00","46125.00","842.00","1000.00"]},
+{"id":"20","cell":["20","2018","San Diego","EVELIA","ESCALANTE","MED AST 2","47967.00","47183.00","34.00","750.00"]}]
+}

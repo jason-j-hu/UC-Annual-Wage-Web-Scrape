@@ -1,0 +1,26 @@
+{
+"page" : "8012",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","NICOLE","LAUGHLIN","BLANK AST 2","26643.00","26338.00","305.00","0.00"]},
+{"id":"2","cell":["2","2018","Riverside","*****","*****","RESID PHYS I/NON REP","26643.00","26643.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","ZHI DA","CHEN","AUTO EQUIP OPR PRN","26642.00","26418.00","224.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","*****","*****","GSR-FULL FEE REM","26642.00","26642.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","PEDRO,JR.","MACIAS","BLANK AST 3","26641.00","26567.00","74.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","26641.00","26641.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","REGINA","PHORN","NURSE PD","26641.00","25877.00","764.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","BETSY","MITCHELL","SPECIALIST","26641.00","26641.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Berkeley","MEGHAN","KOCH","ASSOC SPECIALIST","26641.00","26160.00","0.00","481.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","FAIZAN MOHAMMAD","KHAWAJA","PHYS PLT SUPT","26640.00","25436.00","0.00","1204.00"]},
+{"id":"11","cell":["11","2018","Davis","*****","*****","GSR-FULL FEE REM","26640.00","26640.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Riverside","*****","*****","TEACHG ASST-GSHIP","26640.00","26540.00","0.00","100.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","26639.00","26639.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","NORMA BONITA","MODENA","MED CTR FOOD SVC WORKER LD","26638.00","20742.00","357.00","5539.00"]},
+{"id":"15","cell":["15","2018","San Francisco","NATASHA P","MADAMBA","CLIN NURSE 1","26637.00","24873.00","1464.00","300.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","*****","*****","PROGR ANL 2","26637.00","26605.00","32.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","ADAM J","DE SMITH","ASST RES-FY","26636.00","23078.00","0.00","3558.00"]},
+{"id":"18","cell":["18","2018","Berkeley","THOMAS","PEELE","LECT-AY-1/10","26636.00","18128.00","0.00","8508.00"]},
+{"id":"19","cell":["19","2018","San Francisco","DAVID K","WONG","LAB AST 1","26635.00","23970.00","0.00","2665.00"]},
+{"id":"20","cell":["20","2018","Davis","RICARDO","AMON","FIELD RESEARCHER 2","26635.00","26635.00","0.00","0.00"]}]
+}

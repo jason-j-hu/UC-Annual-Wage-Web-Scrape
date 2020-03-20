@@ -1,0 +1,26 @@
+{
+"page" : "520",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","KUNXIN","LUO","PROF-AY","204307.00","157125.00","0.00","47182.00"]},
+{"id":"2","cell":["2","2018","San Francisco","SUSAN M","LEHR","CLIN NURSE 3","204287.00","168911.00","0.00","35376.00"]},
+{"id":"3","cell":["3","2018","Davis","ANDRE","KNOESEN","PROF-AY-B/E/E","204278.00","204278.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","M","SHAYEGAN","PROF-AY","204257.00","149358.00","0.00","54899.00"]},
+{"id":"5","cell":["5","2018","Santa Cruz","MAUREEN LOUISE","SAVAGE","RSCH AND DEV ENGR MGR 1","204247.00","203247.00","0.00","1000.00"]},
+{"id":"6","cell":["6","2018","Riverside","NAEL","ABU-GHAZALEH","PROF-AY-B/E/E","204242.00","148975.00","0.00","55267.00"]},
+{"id":"7","cell":["7","2018","Santa Barbara","J","WAITE","PROF-AY","204233.00","204233.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","DOUGLAS A","KELT","PROF-FY","204232.00","186626.00","0.00","17606.00"]},
+{"id":"9","cell":["9","2018","Davis","DEBORAH A","GOLINO","SPECIALIST COOP EXT","204221.00","203341.00","0.00","880.00"]},
+{"id":"10","cell":["10","2018","Riverside","MICHAEL","ANDERT","POLICE SERGEANT SUPV 2","204198.00","126619.00","65871.00","11708.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","ANDREW","FULIGNI","PROF IN RES-HCOMP","204191.00","194852.00","0.00","9339.00"]},
+{"id":"12","cell":["12","2018","Merced","ANTHONY","WESTERLING","PROF-AY-B/E/E","204181.00","148533.00","0.00","55648.00"]},
+{"id":"13","cell":["13","2018","Davis","KIMBERLY A","BERES","ANESTHETIST NURSE SR EX","204168.00","204168.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","GERALD M","DIAZ","ASC PHYSCN","204167.00","140000.00","0.00","64167.00"]},
+{"id":"15","cell":["15","2018","Davis","SHELLEY J","CHOI","ASC PHYSCN","204167.00","134167.00","0.00","70000.00"]},
+{"id":"16","cell":["16","2018","Davis","MICHAEL TSUYOSHI","CHEW","ASC PHYSCN","204167.00","134167.00","0.00","70000.00"]},
+{"id":"17","cell":["17","2018","Davis","LUCY Z","SHI","ASC PHYSCN","204167.00","134167.00","0.00","70000.00"]},
+{"id":"18","cell":["18","2018","Davis","MAHA","SAMI","ASC PHYSCN","204167.00","134167.00","0.00","70000.00"]},
+{"id":"19","cell":["19","2018","Davis","LIA ANGELA A","AFRICA","ASC PHYSCN DIPLOMATE","204167.00","134167.00","0.00","70000.00"]},
+{"id":"20","cell":["20","2018","Davis","CLARA C","YANG","ASC PHYSCN","204167.00","140000.00","0.00","64167.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "1827",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Riverside","TRICIA","THRASHER","PLNG SPEC 4","118438.00","114438.00","0.00","4000.00"]},
+{"id":"2","cell":["2","2018","Davis","BRYAN J","BARRY","OCCUPATIONAL THER 2 NEX","118435.00","118173.00","126.00","136.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","STEPHEN","GURNICK","PROGR ANL 4 SUPV","118435.00","117935.00","0.00","500.00"]},
+{"id":"4","cell":["4","2018","San Diego","LLOYD TERRY","RIGGS","CONST INSP 4","118435.00","114715.00","0.00","3720.00"]},
+{"id":"5","cell":["5","2018","Davis","AMY","CHI","CLIN APPLICATIONS PROFL 4","118434.00","115278.00","0.00","3156.00"]},
+{"id":"6","cell":["6","2018","Davis","MAX ALAN","MORITZ","ASSOC SPECIALIST COOP EXT","118433.00","118433.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","EMILY","RODRIGUEZ","CLIN NURSE 3","118430.00","113509.00","1188.00","3733.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","DAVID","JAQUEZ","ADMIN ANL PRN SUPV","118429.00","113560.00","0.00","4869.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","ASHLEY","TRUEBLOOD","ADMIN ANL PRN 2","118429.00","113516.00","2459.00","2454.00"]},
+{"id":"10","cell":["10","2018","San Francisco","JOELLE CORRINE","STREIB","CLIN NURSE 2","118425.00","110716.00","4589.00","3120.00"]},
+{"id":"11","cell":["11","2018","San Francisco","BRIAN N","WARLING","BUS SYS ANL 4","118425.00","117425.00","0.00","1000.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ASA","BOGREN","CLIN NURSE 2","118423.00","109245.00","5840.00","3338.00"]},
+{"id":"13","cell":["13","2018","Berkeley","GEOFFREY","SAXE","PROF-AY","118423.00","118423.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","GEORGIANA IOANA","FILIP","CLIN NURSE 2","118420.00","114934.00","520.00","2966.00"]},
+{"id":"15","cell":["15","2018","UCOP","GEMA","FONSECA","ENTERPRISE RISK MGT ANL 4","118419.00","118419.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","KRISTIAN A","STEVENS","BIOINFORMATICS PROGR 5","118417.00","118417.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","ANDREA P","AMBROSE","FUNDRAISING MGR 1","118417.00","117309.00","0.00","1108.00"]},
+{"id":"18","cell":["18","2018","Santa Cruz","DAVID J","TURNER","TCHL PROJECT MGR 1","118416.00","117466.00","0.00","950.00"]},
+{"id":"19","cell":["19","2018","Davis","ALAN M","KLIMA","PROF-AY","118415.00","118415.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","LANCE","LAIRD","PLUMBER PIPEFITTER","118414.00","113365.00","773.00","4276.00"]}]
+}

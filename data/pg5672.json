@@ -1,0 +1,26 @@
+{
+"page" : "5672",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","NAECOLE A","WASHINGTON","HOSP UNIT SVC CRD 3","51275.00","49392.00","1314.00","569.00"]},
+{"id":"2","cell":["2","2018","San Diego","KIPLEY MICHELE","PERELES","CLIN RSCH CRD AST","51275.00","51275.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","MATTHEW T","SILVER","BLANK AST 3","51274.00","50632.00","309.00","333.00"]},
+{"id":"4","cell":["4","2018","Berkeley","REZA","MOHAMMADI GHAZI","POSTDOC-EMPLOYEE","51273.00","51273.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","HENG CHIN KEVIN","WEI","POSTDOC-EMPLOYEE","51272.00","51272.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","BRADY","CRESS","POSTDOC-EMPLOYEE","51272.00","51272.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","YINA","WANG","POSTDOC-EMPLOYEE","51272.00","51272.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","TERESA","MONKKONEN","POSTDOC-EMPLOYEE","51272.00","51272.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","SUCHETA","MUKHERJEE","POSTDOC-EMPLOYEE","51272.00","51272.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Irvine","PHILLIP","TRAN","POSTDOC-EMPLOYEE","51272.00","51272.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","LI","ZHANG","POSTDOC-EMPLOYEE","51272.00","51272.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","YAN","YAN","POSTDOC-EMPLOYEE","51272.00","51272.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","RAN","ZHANG","POSTDOC-EMPLOYEE","51272.00","51272.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","SUMAN K","MANNA","POSTDOC-EMPLOYEE","51272.00","51272.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","NADIA","SWANEPOEL","POSTDOC-EMPLOYEE","51272.00","51272.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","KEVIN","SIEBUHR","HOSP LAB TCHN 2","51272.00","48772.00","1276.00","1224.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","YUCHEN","WANG","POSTDOC-EMPLOYEE","51272.00","51272.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Cruz","ANA MARIA","CABELLO PEREZ","POSTDOC-EMPLOYEE","51272.00","51272.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","IVIA","CLOSSET","POSTDOC-EMPLOYEE","51272.00","51272.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","FERNANDA DE ALEX","SEBASTIAO","POSTDOC-EMPLOYEE","51272.00","51272.00","0.00","0.00"]}]
+}

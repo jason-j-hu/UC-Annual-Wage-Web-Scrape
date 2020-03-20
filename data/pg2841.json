@@ -1,0 +1,26 @@
+{
+"page" : "2841",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","MARK H","LADD","ELECTRN","89700.00","77862.00","8401.00","3437.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ROY","MARUBAYASHI","ADMIN ANL PRN 1","89698.00","89448.00","0.00","250.00"]},
+{"id":"3","cell":["3","2018","Berkeley","RYAN","RIVERS","RSCH AND DEV ENGR 3","89698.00","89698.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Santa Cruz","ALISON MELANIE","LINDBERG","SYS ADM 3","89695.00","85851.00","0.00","3844.00"]},
+{"id":"5","cell":["5","2018","Santa Cruz","STEVE RAY","O\"NEIL","ADMIN SUPV 1","89692.00","78369.00","0.00","11323.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JI YOUNG","KIM","ASST PROF-AY","89692.00","89692.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","PAULA","SICURELLO","HOSP LAB TCHN 4","89692.00","85748.00","2932.00","1012.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","MARGARET","PURNELL","DIR","89690.00","88190.00","0.00","1500.00"]},
+{"id":"9","cell":["9","2018","San Francisco","YVETTE ZANDRA","COULTER","HEALTH PROFNS EDUC SPEC 4","89687.00","88687.00","0.00","1000.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","JOSEPH","PLONSKY","PRODUCER DIR SR","89684.00","66872.00","22353.00","459.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MICHAEL","MILLER","ADMIN ANL SR","89684.00","88684.00","0.00","1000.00"]},
+{"id":"12","cell":["12","2018","San Francisco","DIANA CLAY","CARLISLE","REVENUE CYCLE HC ANL 2","89683.00","86292.00","1062.00","2329.00"]},
+{"id":"13","cell":["13","2018","Davis","HEIDI","VON GELDERN","RSCH ADM 4","89682.00","89182.00","0.00","500.00"]},
+{"id":"14","cell":["14","2018","San Francisco","CINDI","DREW","ORGANIZATIONAL CNSLT 5","89681.00","21124.00","0.00","68557.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","MINHUI","WANG","CYTO TCHNO","89681.00","89681.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","MIRIANNA","MANUITT","CLIN SOCIAL WORKER 3","89680.00","86240.00","0.00","3440.00"]},
+{"id":"17","cell":["17","2018","Davis","MARK L","GASKELL","COOP EXT ADVISOR","89678.00","83661.00","0.00","6017.00"]},
+{"id":"18","cell":["18","2018","UCOP","ESTELITA","BODEMAN","BENEFITS ANL 3","89675.00","89675.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Riverside","YVONNE","TESSIER","ADMIN SUPV 2","89675.00","88800.00","0.00","875.00"]},
+{"id":"20","cell":["20","2018","Berkeley","DAVID","LO","RSCH AND DEV ENGR 3","89674.00","89674.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "4285",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","BRENDA","HANN","PROGR ANL 2","64772.00","63792.00","400.00","580.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","SUZANNE","CLASSEN","CLIN SOCIAL WORKER 2","64771.00","62818.00","565.00","1388.00"]},
+{"id":"3","cell":["3","2018","Davis","JULIA R","BEEGLE","LAB RSCH SUPV 1","64770.00","62763.00","0.00","2007.00"]},
+{"id":"4","cell":["4","2018","Santa Cruz","TODD L","HILLAKER","LAB INSTRUCTION SUPV 1","64770.00","57070.00","0.00","7700.00"]},
+{"id":"5","cell":["5","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","64770.00","60745.00","0.00","4025.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JENNIFER ANN","O\"BRIEN","STDT AFFAIRS OFCR 3 EX","64770.00","59770.00","0.00","5000.00"]},
+{"id":"7","cell":["7","2018","Davis","LISA H","STEVENSON","ADMIN OFCR 2","64768.00","57890.00","5878.00","1000.00"]},
+{"id":"8","cell":["8","2018","Merced","JOHN","BULTENA","LECT-AY-CONTINUING","64767.00","58533.00","0.00","6234.00"]},
+{"id":"9","cell":["9","2018","San Diego","ELIAS EZRA","GHITMAN","RESP CARE PRACT TCHN","64767.00","63114.00","71.00","1582.00"]},
+{"id":"10","cell":["10","2018","San Francisco","GINGER TIFF","DELLA MAGGIORA","HOSP UNIT SVC CRD 3","64764.00","51254.00","4688.00","8822.00"]},
+{"id":"11","cell":["11","2018","Davis","ROBERT A,JR.","RAY","SKLD CRAFTS AND TRADES MGR 1","64762.00","61588.00","0.00","3174.00"]},
+{"id":"12","cell":["12","2018","Davis","SUSAN E","LUTMAN","BLANK AST 3","64760.00","64760.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","CHANTAY R","JONES","BLANK AST 3","64760.00","64760.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","PENNY S","CARTER","BLANK AST 3","64760.00","64760.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","PATRICIA L","RAMOS","BLANK AST 3","64760.00","64760.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","DEOKHWANG","KWON","POSTDOC-EMPLOYEE","64760.00","57260.00","0.00","7500.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","YOSHINAO","ARAI","NURSE PD","64759.00","55915.00","0.00","8844.00"]},
+{"id":"18","cell":["18","2018","Riverside","EMELYN","LUTZKER","HR GENERALIST 2","64759.00","64144.00","15.00","600.00"]},
+{"id":"19","cell":["19","2018","San Francisco","KATHERINE A.","BIGAY","CLIN APPLICATIONS PROFL 3","64755.00","64755.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","BRYAN JASON","JENNINGS","REVENUE CYCLE HC MGR 1","64752.00","64752.00","0.00","0.00"]}]
+}

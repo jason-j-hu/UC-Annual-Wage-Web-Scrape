@@ -1,0 +1,26 @@
+{
+"page" : "8289",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","EVELIEN","DE GREEF","JR SPECIALIST NEX","23978.00","21926.00","580.00","1472.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","*****","*****","TEACHG ASST-GSHIP","23978.00","23978.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","*****","*****","TEACHG ASST-GSHIP","23978.00","17927.00","0.00","6051.00"]},
+{"id":"4","cell":["4","2018","Berkeley","DANIEL","SARNA-WOJCICKI","POSTDOC-EMPLOYEE","23978.00","23903.00","75.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","*****","*****","GSR-NO REM","23978.00","23978.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","23977.00","23877.00","0.00","100.00"]},
+{"id":"7","cell":["7","2018","Berkeley","RONALD","ELSON","STDT HEALTH PHYSCN 5 PD","23977.00","23977.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","ZACHARY AMES","BONZELL","CLIN RSCH CRD","23976.00","23168.00","121.00","687.00"]},
+{"id":"9","cell":["9","2018","Berkeley","ANDRIY","SOLOVYOV","SPECIALIST","23976.00","7975.00","0.00","16001.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","CANDICE V.","DANIEL","ADMIN SPEC","23975.00","22728.00","0.00","1247.00"]},
+{"id":"11","cell":["11","2018","Irvine","HEATHER E","DICK","ADMIN SPEC","23974.00","23974.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Santa Barbara","JOAO HENRIQUE","FERNANDES AMARAL","ASST SPECIALIST","23974.00","23974.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","SARA M.","BAGWELL","ADMIN OFCR 2","23973.00","23973.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","MOISES MU","BUSTAMANTE POZO","JR SPECIALIST","23973.00","21725.00","0.00","2248.00"]},
+{"id":"15","cell":["15","2018","San Diego","ELVA ALEJ","GARATE CARRILLO","JR SPECIALIST","23971.00","21227.00","0.00","2744.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","*****","*****","LECT IN SUMMER SESSION","23970.00","18834.00","0.00","5136.00"]},
+{"id":"17","cell":["17","2018","San Diego","*****","*****","GSR-NO REM","23970.00","23970.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","JOSEPH A.","WAWRZYNIAK","POSTDOC-EMPLOYEE","23970.00","23970.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","ALLISON","SHARROW","POSTDOC-EMPLOYEE","23970.00","23970.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","JULIA","SALVACION","RSCH ADM 3","23969.00","23969.00","0.00","0.00"]}]
+}

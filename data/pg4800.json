@@ -1,0 +1,26 @@
+{
+"page" : "4800",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","WILLIAM D","WRIGHT","ASST PROJ SCIENTIST-FY","59330.00","59330.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","TERRENCE JAMES","MARCHIANDO","ENGR TCHN SUPV 2","59330.00","57659.00","0.00","1671.00"]},
+{"id":"3","cell":["3","2018","Irvine","KEVIN R.","LANE","PHYS PLT MECH SUPV NEX","59327.00","49084.00","5217.00","5026.00"]},
+{"id":"4","cell":["4","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","59327.00","55927.00","0.00","3400.00"]},
+{"id":"5","cell":["5","2018","San Francisco","JOSE ANGEL","BETETA BAUTISTA","MED CTR CUSTODIAN SR","59326.00","51019.00","7372.00","935.00"]},
+{"id":"6","cell":["6","2018","San Diego","MELISSA S","MA","VOC NURSE SR","59326.00","58576.00","0.00","750.00"]},
+{"id":"7","cell":["7","2018","San Diego","ANN P","KELLER","CLIN NURSE 3","59326.00","54851.00","1491.00","2984.00"]},
+{"id":"8","cell":["8","2018","Davis","NATHAN C","GULEBIAN","PHARMACY TCHN 2","59325.00","59022.00","273.00","30.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","DEBREGUENET","FIKRU","PHLEBOTOMIST CERT TCHN 2","59325.00","55672.00","245.00","3408.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","AMIKSHA","GANDHI","SRA 3","59325.00","59325.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","RICHARD","HUYNH","PUBL ADMSTN ANL SR","59325.00","59325.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","JASON J","NORTHEY","POSTDOC-EMPLOYEE","59323.00","59323.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","LEE C","CONGER","MED OFC SVC CRD 3","59323.00","59312.00","11.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","CHRISTOPHER LANG","ADAMS","COMM AND NETWORK TCHL ANL 3","59322.00","54512.00","0.00","4810.00"]},
+{"id":"15","cell":["15","2018","Santa Barbara","EMANUELE PAOLO","FARINA","ASST PROJ SCIENTIST-FY","59322.00","59322.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","ERIC","WILDER","CAREER SVC SPEC 3","59322.00","58922.00","0.00","400.00"]},
+{"id":"17","cell":["17","2018","San Diego","DIRK M","JOHNSON","DEV TCHN 4","59322.00","59322.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","IAN","BALDRIDGE","EHS TCHN PRN","59322.00","59322.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","KELSI L","EVANS","ASSOC LIBRARIAN-TEMP STATUS","59321.00","52836.00","0.00","6485.00"]},
+{"id":"20","cell":["20","2018","San Diego","AZUSENA","CHADWICK","PAT RCDS ABSTRACTOR 2","59320.00","58516.00","54.00","750.00"]}]
+}

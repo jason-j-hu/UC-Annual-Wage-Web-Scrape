@@ -1,0 +1,26 @@
+{
+"page" : "3902",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","ROGER PETER","MUELLER","LIBRARY PROFL 4","69784.00","69784.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","CYNTHIA","CASTILLO","PAT ACCESS SVC SUPV 1","69781.00","68230.00","551.00","1000.00"]},
+{"id":"3","cell":["3","2018","San Francisco","SCOTT D","BEYER","BLDG MAINT WORKER SR","69780.00","67347.00","1755.00","678.00"]},
+{"id":"4","cell":["4","2018","Irvine","SUSAN MARIE NGUY","DERAITA","HR ANL 4","69780.00","69030.00","0.00","750.00"]},
+{"id":"5","cell":["5","2018","Davis","EVYNN R","ROTH","BUS SYS ANL 2 NEX","69779.00","69779.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","STACY S.","JOO","CLIN RSCH CRD","69779.00","67330.00","2449.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","WAI FUN","WONG","STDT AFFAIRS OFCR 3 SUPV","69777.00","69777.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","MONICA M","RUIZ","CLIN RSCH CRD SR NEX","69776.00","69428.00","348.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","PENG","SUN","ASSOC PROJ SCIENTIST-FY","69775.00","69775.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Irvine","JO ANNE","TUCKER","ASSOC PROJ SCIENTIST-FY","69775.00","69775.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","WENWU","XIAO","ASSOC PROJ SCIENTIST-FY","69775.00","69775.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","PRABHAT","PURBEY","ASSOC PROJ SCIENTIST-FY","69775.00","69775.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","ANDREY","DAMIANOV","ASSOC PROJ SCIENTIST-FY","69775.00","69775.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","HELENA","ESCUIN ORDINAS","ASSOC PROJ SCIENTIST-FY","69775.00","69775.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","PRIYADARSINI","KUMAR","ASSOC PROJ SCIENTIST-FY","69775.00","69775.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","RAJENDRA KUMAR","SINGH","ASSOC PROJ SCIENTIST-FY","69775.00","69775.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","CLEBER AUGUSTO","TRUJILLO","ASSOC PROJ SCIENTIST-FY","69775.00","69775.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","EUN JUNG","HWANG","ASSOC PROJ SCIENTIST-FY","69775.00","69775.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","HELEN HUIWEN","ZHAO","ASSOC PROJ SCIENTIST-FY","69775.00","69775.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","JIANLIN","ZHANG","ASSOC PROJ SCIENTIST-FY","69775.00","69775.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "3014",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","ANISSA","JONES","RSCH ADM 3","85711.00","84711.00","0.00","1000.00"]},
+{"id":"2","cell":["2","2018","San Diego","ESPERANZA M","CRUZ","PAYROLL ANL 3","85710.00","84710.00","0.00","1000.00"]},
+{"id":"3","cell":["3","2018","Berkeley","JANET","SIE","FINANCIAL ANL 3","85708.00","85708.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","DAVID","AMARATHITHADA","ACAD PRG MGT OFCR 3","85708.00","85708.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","ELIZABETH MARIE","COLLINS","RESP CARE PRACT TCHN","85708.00","83370.00","794.00","1544.00"]},
+{"id":"6","cell":["6","2018","San Diego","JANAE MARIE","ESCOBAR","INTERVENTIONAL RADLG TCHNO","85706.00","74260.00","2970.00","8476.00"]},
+{"id":"7","cell":["7","2018","UCOP","ANDREA","SIMPSON","PARALEGAL 3","85704.00","85671.00","33.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","85703.00","63503.00","0.00","22200.00"]},
+{"id":"9","cell":["9","2018","Irvine","CAITLIN JEANNE","HEBERER","CLIN NURSE 2","85702.00","81736.00","1339.00","2627.00"]},
+{"id":"10","cell":["10","2018","San Francisco","SY E","REDDING","ASST RES-FY","85700.00","85700.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","SHARON M.","MENDONCA","BENEFITS ANL 2","85700.00","77258.00","390.00","8052.00"]},
+{"id":"12","cell":["12","2018","San Francisco","SELENE M I","WORKING","PHYSCN AST SR","85698.00","81100.00","596.00","4002.00"]},
+{"id":"13","cell":["13","2018","Davis","SKYE DAWN","STEWART","CLIN RSCH ANL 4","85697.00","85697.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","TINA L","PALOMINO","RSCH ADM 3","85694.00","85694.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","JESSIE SEONG-YEO","PARK","PSYCHOLOGIST 1","85692.00","85692.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","KATIE R","HOLLAND","ADMIN OFCR 3","85690.00","85690.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Irvine","JAMES G.","PLUEMER","PHYS THER 3 SUPV EX","85689.00","85689.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","CHARLES","SMITH","CARPENTER","85689.00","71512.00","14177.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","MONICA","MENENDEZ","FINANCIAL SVC ANL 4","85689.00","84089.00","0.00","1600.00"]},
+{"id":"20","cell":["20","2018","San Diego","HAMMON DALE","HUMPHRIES","LAB RSCH SUPV 2","85685.00","85685.00","0.00","0.00"]}]
+}

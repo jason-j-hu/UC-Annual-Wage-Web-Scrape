@@ -1,0 +1,26 @@
+{
+"page" : "9382",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","AMANDA","RAYMOND","PRG PROMOTION MGR 1","13988.00","13988.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","MARTIN B","HUDSON","LECT-AY-1/9","13987.00","13987.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","NANCY A","GORMAN","CONTINUING APPT-TEMP AUG","13987.00","13987.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","*****","*****","GSR-NO REM","13987.00","13987.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","YARITZA","GARCIA","MED CTR FOOD SVC WORKER","13987.00","13440.00","67.00","480.00"]},
+{"id":"6","cell":["6","2018","San Diego","LAWRENCE EDWARD","KLINE","ASC PHYSCN DIPLOMATE","13987.00","0.00","0.00","13987.00"]},
+{"id":"7","cell":["7","2018","Berkeley","JAMES","PIERCE","LECT-AY-1/10","13987.00","13987.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","NEER NILESH","PATEL","BLANK AST 3","13984.00","13038.00","269.00","677.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","JENNIFER","OCIN","BLANK AST 1 PD","13984.00","13984.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","*****","*****","STDT 3","13983.00","13968.00","0.00","15.00"]},
+{"id":"11","cell":["11","2018","Santa Cruz","MELISSA WHEELOCK","BETRONE","CMTY EDUC SPEC 3","13983.00","12539.00","0.00","1444.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","JAMIE C","ZAMORA","ADMIN ANL PRN 1","13982.00","13243.00","0.00","739.00"]},
+{"id":"13","cell":["13","2018","San Francisco","JAMES M","SONNER","RECALL FACULTY","13981.00","13981.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","*****","*****","STDT 3","13981.00","12771.00","971.00","239.00"]},
+{"id":"15","cell":["15","2018","San Diego","ALETHEA REAH","GO","COMM SPEC 3","13981.00","11780.00","0.00","2201.00"]},
+{"id":"16","cell":["16","2018","Irvine","*****","*****","STDT 4 WKSTY","13980.00","13942.00","0.00","38.00"]},
+{"id":"17","cell":["17","2018","Davis","LAUREN E","PARKER","POSTDOC-EMPLOYEE","13980.00","13980.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ASHMEETA PRAFUL","KAPADIA","PHYSCN SR","13980.00","13980.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","*****","*****","GSR-FULL FEE REM","13980.00","13980.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","JANET R","MAHRLE","TEACHER-UNEX-CONTRACT YR","13980.00","0.00","0.00","13980.00"]}]
+}

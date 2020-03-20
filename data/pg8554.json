@@ -1,0 +1,26 @@
+{
+"page" : "8554",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","*****","*****","TEACHG ASST-GSHIP","21289.00","19390.00","0.00","1899.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ANN","MCCOY","CLIN NURSE 2","21288.00","16557.00","2961.00","1770.00"]},
+{"id":"3","cell":["3","2018","Irvine","BARBARA ELI","SANCHEZ JAIME","MED CTR CUSTODIAN PD","21287.00","18853.00","2434.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","*****","*****","READER-GSHIP","21285.00","21185.00","0.00","100.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","KATHERINA","NGUYEN","BLANK AST 2","21284.00","21284.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","AMY","BARSOUM","CLIN NURSE 2","21284.00","20198.00","0.00","1086.00"]},
+{"id":"7","cell":["7","2018","Santa Barbara","MAIDA","INTERIANO","DENTAL HYGIENIST","21283.00","21140.00","143.00","0.00"]},
+{"id":"8","cell":["8","2018","Merced","*****","*****","GSR-PARTIAL FEE REM","21283.00","21283.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Berkeley","SOMPHONE","PHATHANA","CUSTODIAN","21282.00","20030.00","453.00","799.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ZACHARY","RIVERA","ADMIN SPEC","21280.00","21280.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","LASHAY","BOTTS","BLANK AST 2","21280.00","21280.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","*****","*****","TEACHG ASST-NON GSHIP","21279.00","13769.00","0.00","7510.00"]},
+{"id":"13","cell":["13","2018","Davis","EMANUEL ARTHUR","FRENKEL","RECALL TEACHING","21279.00","21279.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","*****","*****","TEACHG ASST-GSHIP","21279.00","20608.00","0.00","671.00"]},
+{"id":"15","cell":["15","2018","Riverside","AMY","LEE","TEACHER-UNEX-CONTRACT YR","21279.00","0.00","0.00","21279.00"]},
+{"id":"16","cell":["16","2018","Davis","ANTONY T","ZAGHLOUL","JR SPECIALIST","21278.00","17906.00","876.00","2496.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","*****","*****","TEACHG ASST-GSHIP","21278.00","21178.00","0.00","100.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","UGOCHUKWU","IBEWIRO","ADMIN CARE CLIN PARTNER PD","21278.00","18559.00","27.00","2692.00"]},
+{"id":"19","cell":["19","2018","San Diego","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","21278.00","16917.00","0.00","4361.00"]},
+{"id":"20","cell":["20","2018","Irvine","*****","*****","EDITOR","21277.00","21277.00","0.00","0.00"]}]
+}

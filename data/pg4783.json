@@ -1,0 +1,26 @@
+{
+"page" : "4783",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","DENNIS W","FIKE","APPLICATIONS PROGR 3","59508.00","59508.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","JAVIER","GALLEGO BARTOLOME","ASST PROJ SCIENTIST-FY","59507.00","59507.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","KATIE Y","CATON-TERRY","SURGICAL TCHN SR","59506.00","58560.00","869.00","77.00"]},
+{"id":"4","cell":["4","2018","San Francisco","ROCIO R","HERNANDEZ","PRACTICE CRD 2","59505.00","58126.00","239.00","1140.00"]},
+{"id":"5","cell":["5","2018","Santa Cruz","CLINTON JOHN","ANGUS","RECR PRG LEADER 4","59505.00","59505.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","GUSTAVO","WANDERER","HOSP LAB TCHN 2","59505.00","58674.00","831.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","LISA E","WHITAKER","STDT LIFE DEV SPEC 2","59504.00","57444.00","2060.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","CARL","PACHECO","FINANCIAL ANL 4","59504.00","59504.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","SARAH JANE","COSINO","HOSP BLANK AST 3","59503.00","57137.00","1219.00","1147.00"]},
+{"id":"10","cell":["10","2018","ASUCLA","CAROLINE","GIBBONS","ANL 2","59503.00","58438.00","0.00","1065.00"]},
+{"id":"11","cell":["11","2018","San Diego","GABRIEL","HIGGINBOTHAM","BUS INTEL SPEC 3","59503.00","57703.00","0.00","1800.00"]},
+{"id":"12","cell":["12","2018","Riverside","AMANDA","MASON","PUBL SFTY DISPATCHER LD","59502.00","54715.00","4737.00","50.00"]},
+{"id":"13","cell":["13","2018","San Francisco","JOSE ALFR","MARTINEZ-ZALDAN","AUTO EQUIP OPR PRN","59501.00","54823.00","4640.00","38.00"]},
+{"id":"14","cell":["14","2018","Irvine","JAIME S","GARCIA","STERILE PROCESSING TCHN 2","59501.00","51401.00","4009.00","4091.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","ADRIANNA","OROZCO","ADMIN ANL","59501.00","55271.00","700.00","3530.00"]},
+{"id":"16","cell":["16","2018","Berkeley","KEITH","HERNANDEZ","RECORDING TCHN","59501.00","59501.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","KRISTEN RAE","FINCH","ANL 2","59500.00","59500.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","HEATHER","URZUA","PROJECT POLICY ANL 3","59500.00","59500.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","LAUREN ANDRA","HART","PROJECT POLICY ANL 2","59500.00","56067.00","1187.00","2246.00"]},
+{"id":"20","cell":["20","2018","Santa Cruz","JENNIFER ANN","MAY","EMPLOYEE REL REPR 2","59499.00","58541.00","18.00","940.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "4761",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","BRADLEY M","SEKEDAT","LECT-AY","59693.00","59245.00","0.00","448.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","MARINA","SHEINBERG","AST TO DEAN DIR CHAIR 1","59692.00","51975.00","0.00","7717.00"]},
+{"id":"3","cell":["3","2018","Irvine","KIMBERLY NICOLE","YONAKI","BLANK AST 3","59691.00","52984.00","5853.00","854.00"]},
+{"id":"4","cell":["4","2018","San Diego","JESSICA L.","CHAPIN-GEIPEL","BLANK AST 3","59691.00","57966.00","0.00","1725.00"]},
+{"id":"5","cell":["5","2018","Berkeley","RACHEL","KALLETT","BLANK AST 3","59690.00","59259.00","431.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","EDWARD WAYNE","TOYEBO","MED CTR FOOD SVC WORKER SR","59690.00","53261.00","2568.00","3861.00"]},
+{"id":"7","cell":["7","2018","Berkeley","KATHRYN","PERRY","LECT-AY-CONTINUING","59690.00","49672.00","0.00","10018.00"]},
+{"id":"8","cell":["8","2018","Irvine","MARY NOBUKO","TAKEDA","HOSP AST SR","59687.00","42203.00","13671.00","3813.00"]},
+{"id":"9","cell":["9","2018","San Francisco","ANDREA GRACE C","BOCOBO","CLIN RSCH CRD","59685.00","59685.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","SUE","CHAN","HOSP BLANK AST 3","59685.00","57209.00","262.00","2214.00"]},
+{"id":"11","cell":["11","2018","San Francisco","JOSE A","PORTILLO","FUNDRAISER 2 NEX","59685.00","57909.00","1776.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","DENISHA L.","OTIS","CLIN RSCH CRD","59685.00","59685.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Irvine","CAMILO J","CELA CONDE","VIS RES","59684.00","46964.00","0.00","12720.00"]},
+{"id":"14","cell":["14","2018","Irvine","ANDREW PRESTON","BARTON","STERILE PROCESSING TCHN 2","59683.00","50081.00","8726.00","876.00"]},
+{"id":"15","cell":["15","2018","Davis","KEVIN MATTHEW","THEIS","TCHN PRN","59682.00","50877.00","8205.00","600.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","MARK","GILBERT","PUBL ADMSTN ANL","59681.00","56720.00","2961.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","KEVIN","SMITH","ACCOUNTANT 1","59680.00","59680.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","RAUL,JR.","DE LEON","BLANK AST 3","59679.00","58313.00","366.00","1000.00"]},
+{"id":"19","cell":["19","2018","San Diego","MARTHA LEIGH","ROSEGAY","PROCUREMENT ANL 3","59679.00","59079.00","0.00","600.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","MARY","BRASWELL","PRG PROMOTION MGR 2","59679.00","59679.00","0.00","0.00"]}]
+}

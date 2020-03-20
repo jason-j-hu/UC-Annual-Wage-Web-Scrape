@@ -1,0 +1,26 @@
+{
+"page" : "462",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ZACHARY","RUBIN","HS ASSOC CLIN PROF-HCOMP","215000.00","176453.00","0.00","38547.00"]},
+{"id":"2","cell":["2","2018","San Francisco","CATHARINE IRWIN","MERWIN","DESIGN AND CONST MGR 2","214984.00","184941.00","0.00","30043.00"]},
+{"id":"3","cell":["3","2018","Davis","FRANK R","SHARP","PROF IN RES-HCOMP","214978.00","214957.00","0.00","21.00"]},
+{"id":"4","cell":["4","2018","Berkeley","TERI","MCKEEVER","HEAD COACH 5","214978.00","200978.00","0.00","14000.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","MICHAEL I.","SNIDERMAN","HS ASST CLIN PROF-HCOMP","214938.00","91325.00","0.00","123613.00"]},
+{"id":"6","cell":["6","2018","San Francisco","TU","LUU","IT ARCHITECT 5","214923.00","200090.00","0.00","14833.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","MICHAEL","HACKETT","PROF-AY","214917.00","193017.00","0.00","21900.00"]},
+{"id":"8","cell":["8","2018","San Francisco","SHEREE P.","GARCIA","HEALTH INFO MGT MGR 2","214907.00","182005.00","0.00","32902.00"]},
+{"id":"9","cell":["9","2018","San Francisco","CHRISTOPHER","ACEBEDO","NURSE PRACT 2","214906.00","171395.00","42561.00","950.00"]},
+{"id":"10","cell":["10","2018","Irvine","AMY","BARACH","DIR ASC","214899.00","212565.00","0.00","2334.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","KYM","FAULL","PROF IN RES-HCOMP","214897.00","178244.00","0.00","36653.00"]},
+{"id":"12","cell":["12","2018","San Francisco","ELEZEBETH ANN","DA SILVA","CLIN APPLICATIONS MGR 1","214894.00","192347.00","0.00","22547.00"]},
+{"id":"13","cell":["13","2018","San Francisco","ADRIAN","SOLIVEN","CLIN NURSE 3","214885.00","165233.00","18425.00","31227.00"]},
+{"id":"14","cell":["14","2018","San Francisco","VICTORIA C","HSIAO","HS ASSOC CLIN PROF-HCOMP","214873.00","121760.00","0.00","93113.00"]},
+{"id":"15","cell":["15","2018","Davis","HEATHER","MCKNIGHT","HS ASSOC CLIN PROF-HCOMP","214866.00","139898.00","0.00","74968.00"]},
+{"id":"16","cell":["16","2018","Davis","ADAM","GIERMASZ","HS ASSOC CLIN PROF-HCOMP","214865.00","132873.00","0.00","81992.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","TONYA","ALLEN","ADM CRD OFCR","214846.00","191280.00","0.00","23566.00"]},
+{"id":"18","cell":["18","2018","Davis","ROBERT A","BELL","PROF-AY","214846.00","207068.00","0.00","7778.00"]},
+{"id":"19","cell":["19","2018","Riverside","ARIEL","DINAR","PROF-AY","214842.00","214842.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","MICHAEL","KAPOVICH","PROF-AY","214818.00","181894.00","0.00","32924.00"]}]
+}

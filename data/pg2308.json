@@ -1,0 +1,26 @@
+{
+"page" : "2308",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","REBECCA","FOSTER","PAYROLL SUPV 2","103357.00","98777.00","0.00","4580.00"]},
+{"id":"2","cell":["2","2018","San Francisco","MARK C","BERING","BUS TCHL SUPP ANL 3","103355.00","98732.00","0.00","4623.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","GIGLIOLA","BERNARDI","NURSE PRACT 2","103355.00","103355.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","CECILIA","CHOI","HISTO TCHNO 2","103355.00","103293.00","56.00","6.00"]},
+{"id":"5","cell":["5","2018","San Francisco","YIFEI","MA","RSCH DATA ANL 3","103354.00","103354.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","MARY","PEABODY","REVENUE CYCLE HC ANL 3","103352.00","94870.00","0.00","8482.00"]},
+{"id":"7","cell":["7","2018","Irvine","JASON TODD","MYERS","PROGR ANL 4","103350.00","103350.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","BROOKS","GROSS","PROJ SCIENTIST-FY","103350.00","103350.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","MYAT S","AYE","HOSP LAB TCHN 3","103346.00","101607.00","587.00","1152.00"]},
+{"id":"10","cell":["10","2018","Riverside","DEVIN","BINDER","PROF IN RES-FY","103346.00","103346.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","YUMIKO NAGAI","STAACK","CLIN NURSE 2","103345.00","98840.00","3494.00","1011.00"]},
+{"id":"12","cell":["12","2018","UCOP","SUSAN","WITT","RSCH GNT PRG OFCR 3 GF","103343.00","103343.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","DOUGLAS A.","HARVEY","EHS SPEC 3","103343.00","100785.00","0.00","2558.00"]},
+{"id":"14","cell":["14","2018","Irvine","KATIE CHAO","CHENG","SYS ADM 4","103342.00","100440.00","0.00","2902.00"]},
+{"id":"15","cell":["15","2018","San Diego","ALEXANDRA NICOLE","ADELMAN","CLIN NURSE 2","103336.00","89129.00","1280.00","12927.00"]},
+{"id":"16","cell":["16","2018","Davis","TYLER S","LETELLIER","REG RESP THER 1","103332.00","99761.00","2888.00","683.00"]},
+{"id":"17","cell":["17","2018","San Francisco","FATIMA ISATU","WHITE","ENTERPRISE RISK MGT ANL 4","103331.00","103331.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","BENEDICT","PALAIMA","FINANCIAL ANL 4","103328.00","103328.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","BERTRAM","AMON","CLIN NURSE 2","103327.00","98630.00","1980.00","2717.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","CHUKWUEMEKA","OKEZIE","RESC NURSE PD","103326.00","93138.00","1636.00","8552.00"]}]
+}

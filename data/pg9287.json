@@ -1,0 +1,26 @@
+{
+"page" : "9287",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","14796.00","14696.00","0.00","100.00"]},
+{"id":"2","cell":["2","2018","Irvine","KHALID","RAFIQUE","LECT-AY-1/9","14794.00","14794.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","JONATHAN","LASCH","LECT-AY-1/9","14794.00","14794.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","BENJAMIN","PETERSON","STOREKEEPER AST","14794.00","14769.00","25.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","*****","*****","GSR-FULL FEE REM","14793.00","14793.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Riverside","*****","*****","LAB AST 2","14793.00","14793.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","SHINGO","MIYAZAKI","POSTDOC-EMPLOYEE","14793.00","14793.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","TAK SUM","CHU","ASSOC PROJ SCIENTIST-FY","14792.00","14792.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","FREDERIC V.","HARTEMANN","ASSOC PROJ SCIENTIST-FY","14792.00","14792.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","DENISE","PEREZ","ADMIN CARE CLIN PARTNER PD","14792.00","14528.00","9.00","255.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","JOHN S","JU","ADMIN ANL","14792.00","14442.00","3.00","347.00"]},
+{"id":"12","cell":["12","2018","San Diego","*****","*****","STDT 3","14791.00","14669.00","122.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","MICHAEL DAVID","O\"REILLY","CLERK PD","14790.00","14297.00","423.00","70.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","LUIS","FIERRO","CUSTODIAN SR","14790.00","12401.00","1925.00","464.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","CZARINA","LINAO","BLANK AST 3","14790.00","12431.00","2523.00","-164.00"]},
+{"id":"16","cell":["16","2018","Berkeley","MARTHA","GRENHART","CAREER SVC SPEC 3","14790.00","12925.00","0.00","1865.00"]},
+{"id":"17","cell":["17","2018","Berkeley","KRISTINE","KWOK","FLD WK CONSULT-AY","14789.00","14789.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","FITSUM Y","TESFAY","HOSP LAB TCHN 1 PD","14788.00","14704.00","84.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","*****","*****","STDT 4","14788.00","13595.00","0.00","1193.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","STEVEN","GONZALEZ","PHARMACY TCHN 3","14788.00","12580.00","999.00","1209.00"]}]
+}

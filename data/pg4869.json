@@ -1,0 +1,26 @@
+{
+"page" : "4869",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","LINDA JANELLE","GREENLEAF","RADLG TCHNO SR","58657.00","54719.00","1451.00","2487.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","58657.00","39057.00","0.00","19600.00"]},
+{"id":"3","cell":["3","2018","San Francisco","JESSICA","LOKUMKIATTIKUL","ADMIN OFCR 2","58656.00","58656.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","BARBARA","SMITH","BLANK AST 3","58656.00","58656.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","VINTESHWAR","LAL","PAT BILLER 3","58656.00","58603.00","53.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","RENEE LOUISE","GRAMLICH","STDT SVC ADVISOR 3","58654.00","57904.00","0.00","750.00"]},
+{"id":"7","cell":["7","2018","Davis","KATHERINE J","PARPANA","STDT ACAD ADVISOR 3","58653.00","58653.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","KEILA","DIEHL","WRITER EDITOR 3","58653.00","58653.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","CARLOS A","GALLARDO","PARKING REPR LD","58652.00","57747.00","898.00","7.00"]},
+{"id":"10","cell":["10","2018","Irvine","CHAD A","CARAWAY","SRA 1","58651.00","42931.00","0.00","15720.00"]},
+{"id":"11","cell":["11","2018","Irvine","NELI I","IOTZOVA","STDT AFFAIRS OFCR 2","58651.00","58651.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Riverside","JEROME","THOMPSON","REGISTRAR SUPV 2","58651.00","58651.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","WENDY","ALAMILLO","PAT BILLER 3","58651.00","55439.00","2200.00","1012.00"]},
+{"id":"14","cell":["14","2018","Merced","MARISOL","ALONSO","LECT-AY","58651.00","52361.00","0.00","6290.00"]},
+{"id":"15","cell":["15","2018","Berkeley","KYUNGMOK","KWON","POSTDOC-EMPLOYEE","58650.00","58650.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","NEIL","PARIKH","HS ASST CLIN PROF-FY","58650.00","38959.00","0.00","19691.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","LISA","HUH","STDT AFFAIRS OFCR 3 SUPV","58650.00","58650.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","STACEY","ALVAREZ","ADMIN SPEC","58649.00","55659.00","264.00","2726.00"]},
+{"id":"19","cell":["19","2018","Riverside","DESMOND","HARVEY","STDT ACAD ADVISOR 2","58649.00","57749.00","0.00","900.00"]},
+{"id":"20","cell":["20","2018","San Diego","JOEL DANIEL","TOLSON","CAREER SVC SPEC 3","58649.00","58649.00","0.00","0.00"]}]
+}

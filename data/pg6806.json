@@ -1,0 +1,26 @@
+{
+"page" : "6806",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","FATIMA C","ALEGADO","PRACTICE CRD 3","39958.00","39660.00","298.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ZACHARY","MADSON","HS CLIN INSTR-HCOMP","39958.00","35171.00","0.00","4787.00"]},
+{"id":"3","cell":["3","2018","Santa Cruz","ROCKY","BARRERA","FINANCIAL AID OFCR 3","39957.00","31054.00","0.00","8903.00"]},
+{"id":"4","cell":["4","2018","Davis","MARIO","LOPEZ","MED CTR CUSTODIAN SR","39953.00","37505.00","47.00","2401.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","DIANA C","LOPEZ GARCIA","HOSP LAB TCHN 2","39952.00","37460.00","1036.00","1456.00"]},
+{"id":"6","cell":["6","2018","San Diego","JILLIAN","COLLINS","EVENTS SPEC 3","39952.00","39952.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","*****","*****","STDT ACTIVITIES APPT OFFICIAL","39950.00","0.00","0.00","39950.00"]},
+{"id":"8","cell":["8","2018","Davis","RENE","GASSMOELLER","ASST PROJ SCIENTIST-FY","39950.00","39950.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","JOSIE E","ORNELAS","ADMIN ANL","39950.00","37741.00","0.00","2209.00"]},
+{"id":"10","cell":["10","2018","San Diego","CHRISTINA AUD","STONEBRAKER","MED CTR COOK","39950.00","36901.00","2019.00","1030.00"]},
+{"id":"11","cell":["11","2018","Berkeley","JOHN","SMITH","APPLICATIONS PROGR 4","39948.00","39948.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Merced","RAUL","SANCHEZ","STOREKEEPER","39948.00","39268.00","509.00","171.00"]},
+{"id":"13","cell":["13","2018","Berkeley","*****","*****","INTRM POSTDOC SCHOLAR-EMPLOYEE","39948.00","39948.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","LAURA","PAN","FINANCIAL SVC ANL 3","39946.00","39946.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","ZAYDA","AREVALO","CHILD DEV CTR AST","39946.00","39665.00","281.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","CHRISTOPHER CONR","TULIO","CHILD DEV CTR AST","39944.00","39944.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","ANDREW PATRICK","GRAHAM","CLIN APPLICATIONS PROFL 3","39943.00","39943.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","HERBERT L","HATCHETT","HOSP BLANK AST 2","39941.00","32862.00","870.00","6209.00"]},
+{"id":"19","cell":["19","2018","San Diego","JESSICA ANNE","CHAUVIN","CLIN NURSE 2","39940.00","37454.00","1945.00","541.00"]},
+{"id":"20","cell":["20","2018","Berkeley","DUSTIN","KRAUS","COACH AST 3","39940.00","25440.00","0.00","14500.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "5131",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","PRAVEER P.","SHARMA","POSTDOC-EMPLOYEE","56140.00","56140.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","XUEZHU LI","HUFF","POSTDOC-EMPLOYEE","56140.00","56140.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","CARRIE","SPRATFORD","POSTDOC-EMPLOYEE","56140.00","56140.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","NEVILLE S","GILHOOLY","POSTDOC-EMPLOYEE","56140.00","56140.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","MARIA","VALENCIA","CUSTODIAN SR","56140.00","50018.00","4667.00","1455.00"]},
+{"id":"6","cell":["6","2018","Davis","ANGEL","CASTILLO","FAC SUPV 1","56140.00","56140.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","JIE","LI","POSTDOC-EMPLOYEE","56139.00","56139.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Merced","SANA","RAMZAN","BENEFITS ANL 2","56139.00","55389.00","0.00","750.00"]},
+{"id":"9","cell":["9","2018","Davis","SARAH R","HAYES","HEALTH TCHN 3","56137.00","54955.00","157.00","1025.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","HENRY","JIMENEZ","GROUNDSKEEPER LD","56137.00","53084.00","3053.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","JESSICA ANN","BRODIE","HOSP LAB TCHN 1","56137.00","54750.00","637.00","750.00"]},
+{"id":"12","cell":["12","2018","San Diego","JUDITH A.","DEAN","HOSP UNIT SVC CRD 3","56136.00","54812.00","318.00","1006.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","ELISA","FULLER","CLIN CARE PARTNER","56135.00","53615.00","950.00","1570.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","ADELA","GUERRA","MGT SVC OFCR 1","56134.00","56134.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","GENEVA ANN","FITZSIMMONS","CMTY EDUC SPEC 3","56134.00","55600.00","0.00","534.00"]},
+{"id":"16","cell":["16","2018","Berkeley","VICENTE","CORTES","RECR SUPV 1","56134.00","53845.00","0.00","2289.00"]},
+{"id":"17","cell":["17","2018","San Francisco","DASHANAYE","LUNDY-VELISANO","HOSP BLANK AST 3","56132.00","53950.00","583.00","1599.00"]},
+{"id":"18","cell":["18","2018","San Francisco","VICTOR JEEMENG","XIONG","PAT CARE TCHN PD","56132.00","48914.00","1607.00","5611.00"]},
+{"id":"19","cell":["19","2018","Davis","ANGELA MARIE","BELIVEAU","CLIN RSCH CRD","56132.00","49255.00","102.00","6775.00"]},
+{"id":"20","cell":["20","2018","San Diego","HUIQUAN","LI","POSTDOC-EMPLOYEE","56132.00","56132.00","0.00","0.00"]}]
+}

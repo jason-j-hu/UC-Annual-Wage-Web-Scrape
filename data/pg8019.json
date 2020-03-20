@@ -1,0 +1,26 @@
+{
+"page" : "8019",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","*****","*****","GSR-TUIT & FEE REM-UCSD-GRP F","26585.00","26585.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","*****","*****","STDT 1","26584.00","21502.00","4565.00","517.00"]},
+{"id":"3","cell":["3","2018","Davis","JOHN F.","BOLOGNI","SCENE TCHN SR","26583.00","25181.00","570.00","832.00"]},
+{"id":"4","cell":["4","2018","UCOP","LEILA","SIEVANEN","RSCH GNT PRG OFCR 4","26583.00","26583.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","ANDREW","MASUDA","MARKETING MGR 1","26583.00","26583.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","JULIA E","VANDERMEER","INSTRUCTIONAL DESIGNER 3","26582.00","22235.00","0.00","4347.00"]},
+{"id":"7","cell":["7","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","26582.00","23154.00","0.00","3428.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","26581.00","26481.00","0.00","100.00"]},
+{"id":"9","cell":["9","2018","San Francisco","ANA ISABEL","CASAL","HS ASST CLIN PROF-FY","26580.00","26580.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","LAURA","GOSA","SRA 1","26579.00","24024.00","0.00","2555.00"]},
+{"id":"11","cell":["11","2018","Davis","SAMANN J","ALAVI","ALUMNI EXTERNAL REL SPEC 3","26578.00","26578.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","SHENELLE","GUNATILAKE","ADMIN CARE CLIN PARTNER PD","26577.00","25718.00","281.00","578.00"]},
+{"id":"13","cell":["13","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","26576.00","26476.00","0.00","100.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","RICHARD E","BURNES","CONTINUING EDUCATOR II","26576.00","9720.00","0.00","16856.00"]},
+{"id":"15","cell":["15","2018","Davis","MARIE","HARVEY","NURSE PD","26575.00","24937.00","455.00","1183.00"]},
+{"id":"16","cell":["16","2018","Berkeley","*****","*****","ASSOC IN__-AY- 1/9 -NON-GSHIP","26574.00","19852.00","0.00","6722.00"]},
+{"id":"17","cell":["17","2018","Berkeley","EDUARDO","NARVAEZ","PARKING AST","26573.00","24493.00","2080.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","SARAH","GOLD MCBRIDE","LECT-AY","26573.00","26573.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","JENNIFER","FENG","ADMIN SPEC","26572.00","26572.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","*****","*****","GSR-FULL FEE REM","26572.00","26572.00","0.00","0.00"]}]
+}

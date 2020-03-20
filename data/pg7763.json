@@ -1,0 +1,26 @@
+{
+"page" : "7763",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","SHANMUGA SUNDAR","VELKUR","POSTDOC-EMPLOYEE","29017.00","29017.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","29016.00","29016.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","GLADYS","FLEITAS","MEDIA COMM SPEC 2","29016.00","29016.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","29015.00","21230.00","0.00","7785.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","CHRISTINE M","NAPPA","CLIN SPEC EX","29013.00","27287.00","0.00","1726.00"]},
+{"id":"6","cell":["6","2018","Davis","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","29013.00","23281.00","0.00","5732.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","29013.00","28913.00","0.00","100.00"]},
+{"id":"8","cell":["8","2018","Davis","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","29013.00","23281.00","0.00","5732.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","BRENDA","DIAZ CABALLEROS","CUSTODIAN SR","29013.00","28327.00","1167.00","-481.00"]},
+{"id":"10","cell":["10","2018","San Francisco","GENEVIEVE ESTREL","BATAC","BLANK AST 3","29010.00","29010.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","29010.00","28910.00","0.00","100.00"]},
+{"id":"12","cell":["12","2018","Berkeley","TERRENCE","SURLES","RECALL NON-FACULTY ACAD","29010.00","29010.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Cruz","*****","*****","TEACHG ASST-GSHIP","29009.00","23528.00","0.00","5481.00"]},
+{"id":"14","cell":["14","2018","San Francisco","MEGAN JANE","STANLEY","POSTDOC-EMPLOYEE","29008.00","29008.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","*****","*****","TEACHG ASST-GSHIP","29008.00","19487.00","0.00","9521.00"]},
+{"id":"16","cell":["16","2018","Davis","MUNZER","ABUFARAH","MED INTERPRETER PD","29008.00","17940.00","109.00","10959.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","CRISTINA","TADEO","MED AST 3","29008.00","27940.00","909.00","159.00"]},
+{"id":"18","cell":["18","2018","San Francisco","CATHERINE J.","STOLITZKA","QA RELEASE MGT ANL 1","29007.00","23390.00","660.00","4957.00"]},
+{"id":"19","cell":["19","2018","San Francisco","MICHELLE C","CABERO","PRACTICE CRD 2","29006.00","28949.00","57.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","FERNANDO","ECHEVERRIA","ADMIN OFCR 2","29005.00","25558.00","0.00","3447.00"]}]
+}

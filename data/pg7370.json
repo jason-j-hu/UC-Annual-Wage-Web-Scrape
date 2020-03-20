@@ -1,0 +1,26 @@
+{
+"page" : "7370",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ARTI","CHAWLA","PHYSCN SR","33156.00","28986.00","0.00","4170.00"]},
+{"id":"2","cell":["2","2018","Davis","KENDRA O","SMITH","IP OFCR 2","33154.00","33154.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","NATALIE","RODRIGUEZ","PAT TRANSPORT TCHN 2 PD","33153.00","30318.00","1678.00","1157.00"]},
+{"id":"4","cell":["4","2018","Berkeley","ROSS","BARNOWSKI","ASST RES-FY-B/E/E","33153.00","33153.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","ELLEN E","SPARGER","RECALL NON-FACULTY ACAD","33152.00","33152.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","ROGELIA","BETANCOURT","MED CTR CUSTODIAN SR","33151.00","29091.00","3622.00","438.00"]},
+{"id":"7","cell":["7","2018","Davis","*****","*****","TEACHG ASST-GSHIP","33150.00","33050.00","0.00","100.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","*****","*****","TEACHG FELLOW-GSHIP","33150.00","24246.00","0.00","8904.00"]},
+{"id":"9","cell":["9","2018","San Diego","DEBORAH SUZANNE","OLER","TEACHER-UNEX-CONTRACT YR","33150.00","0.00","0.00","33150.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","*****","*****","TEACHG FELLOW-GSHIP","33150.00","24246.00","0.00","8904.00"]},
+{"id":"11","cell":["11","2018","Davis","RUTH","SALAZAR","CMTY EDUC SPEC 1","33149.00","33149.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","JULIA","DELGADO","CUSTODIAN SR","33149.00","30424.00","2725.00","0.00"]},
+{"id":"13","cell":["13","2018","Riverside","BELINDA","NAVARRETE","BLANK AST 2","33149.00","33149.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","STEPHANIE","CUCCARO-ALAMIN","ASSOC SPECIALIST NEX","33149.00","33149.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","33148.00","26898.00","0.00","6250.00"]},
+{"id":"16","cell":["16","2018","San Diego","NASIM","BARGHI","NURSE PD","33148.00","30849.00","91.00","2208.00"]},
+{"id":"17","cell":["17","2018","San Diego","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","33147.00","26789.00","0.00","6358.00"]},
+{"id":"18","cell":["18","2018","Berkeley","NICOLE","SUDDUTH","CLIN SOCIAL WORKER 3","33147.00","31335.00","0.00","1812.00"]},
+{"id":"19","cell":["19","2018","Davis","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","33146.00","33146.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","EDWIN SHERRILL","REARDON","TCHN SR","33146.00","30038.00","210.00","2898.00"]}]
+}

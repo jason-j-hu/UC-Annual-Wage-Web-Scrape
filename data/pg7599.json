@@ -1,0 +1,26 @@
+{
+"page" : "7599",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","MARY E","TOFFLEMIRE","PHLEBOTOMIST CERT TCHN 2","30703.00","14833.00","0.00","15870.00"]},
+{"id":"2","cell":["2","2018","Davis","*****","*****","GSR-FULL FEE REM","30703.00","30703.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","IYAD","SOUFI","FOOD SVC MGR","30703.00","24297.00","0.00","6406.00"]},
+{"id":"4","cell":["4","2018","Davis","*****","*****","GSR-FULL FEE REM","30703.00","30703.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","DEREK ALLAN","SHACKLETON","STDT SVC ADVISOR 2","30703.00","27168.00","0.00","3535.00"]},
+{"id":"6","cell":["6","2018","San Diego","EMILY ANN","CONLON","SOCIAL WORK ASC","30702.00","29245.00","1331.00","126.00"]},
+{"id":"7","cell":["7","2018","Irvine","*****","*****","GSR-FULL FEE REM","30701.00","30701.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Riverside","KELLY","WINTERS","EHS SPEC 3","30698.00","28369.00","0.00","2329.00"]},
+{"id":"9","cell":["9","2018","San Francisco","PETER HOWARD","CHIPMAN","ASSOC SPECIALIST","30696.00","30696.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Santa Cruz","LINDSEY ANN","WARWICK","PROCTOR","30695.00","27792.00","1690.00","1213.00"]},
+{"id":"11","cell":["11","2018","Santa Cruz","ALISSA DYANE JAC","NOLAN","BLANK AST 2","30695.00","30295.00","0.00","400.00"]},
+{"id":"12","cell":["12","2018","San Diego","ARIANE RACHELLE","KERESTESY","TCHL PROJECT MGT PROFL 3","30694.00","30694.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","ALEX","CLINE","WRITER SR","30693.00","30693.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","GRACE","CHA","NURSE PD","30692.00","28273.00","738.00","1681.00"]},
+{"id":"15","cell":["15","2018","Irvine","RAMON,SR.","GONZALEZ","MED CTR FOOD SVC WORKER PD","30691.00","29614.00","1077.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","SHEILA M.","LACAP","REVENUE CYCLE HC ANL 2","30690.00","30353.00","157.00","180.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","DENISE","DORANG","MGR","30689.00","26161.00","0.00","4528.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","CHRISTOPHER","DEGIORGIO","PROF IN RES-FY","30689.00","29189.00","0.00","1500.00"]},
+{"id":"19","cell":["19","2018","Davis","*****","*****","GSR-FULL FEE REM","30686.00","30686.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","*****","*****","GSR-FULL FEE REM","30686.00","30686.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "5307",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","CHERYL F","MCDOUGALD","FINANCIAL SVC MGR 2","54503.00","54503.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","RANJODH SINGH","SANDHU","POSTDOC-EMPLOYEE","54503.00","54503.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","MICHAEL","TURNER","ADMIN SPEC","54503.00","52003.00","0.00","2500.00"]},
+{"id":"4","cell":["4","2018","San Diego","GANG","ZHANG","POSTDOC-EMPLOYEE","54503.00","54503.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","LONG","VO NGOC","POSTDOC-EMPLOYEE","54503.00","54503.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","ZHAOBIN","DONG","POSTDOC-EMPLOYEE","54503.00","54503.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","YVONNE V","LONG","ADMIN OFCR 3","54502.00","51502.00","0.00","3000.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","JENNIFER","SEONG","STDT AFFAIRS OFCR 2","54501.00","48648.00","0.00","5853.00"]},
+{"id":"9","cell":["9","2018","San Diego","ANDREW SAMUEL","FRIEDMAN","ASST RES-FY","54501.00","54501.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","MELISSA J.","AVALOS","HOSP BLANK AST 3","54500.00","53703.00","47.00","750.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","PAUL","MATAR","MGT SVC OFCR 1","54499.00","47088.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","JASMIN","PIVARAL","STDT AFFAIRS OFCR 3 EX","54499.00","53499.00","0.00","1000.00"]},
+{"id":"13","cell":["13","2018","Riverside","ELISA","BOERA","POSTDOC-EMPLOYEE","54499.00","54499.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","ASHOK","AJOY","POSTDOC-EMPLOYEE","54498.00","54498.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Santa Cruz","CHRISTINE","HARPER","ADMIN SUPV 1","54498.00","52725.00","0.00","1773.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","JESSICA","VALDEZ-SCHULZ","SRA 2 NEX","54496.00","46810.00","3579.00","4107.00"]},
+{"id":"17","cell":["17","2018","Irvine","RYAN F.","YOSHIMURA","ASSOC SPECIALIST","54494.00","54494.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","PHILLIP C.","DUFFY","CLIN RSCH CRD","54494.00","53711.00","783.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","TARA M","JONES","BLANK AST 4","54493.00","54493.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","MILLIE","LING-TSAI","STDT ACAD ADVISOR 3","54493.00","54493.00","0.00","0.00"]}]
+}

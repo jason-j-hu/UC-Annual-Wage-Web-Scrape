@@ -1,0 +1,26 @@
+{
+"page" : "9166",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","MOE","SCOTT","LECT-FY","15921.00","15155.00","0.00","766.00"]},
+{"id":"2","cell":["2","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","15920.00","15820.00","0.00","100.00"]},
+{"id":"3","cell":["3","2018","Irvine","DESIREE","TRAN","INTERCOL ATH COACH AST EX","15919.00","15919.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","JACOB","SANDERS","POSTDOC-EMPLOYEE","15919.00","3718.00","0.00","12201.00"]},
+{"id":"5","cell":["5","2018","Davis","*****","*****","GSR-FULL FEE REM","15919.00","15919.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","KRISTIN MAE","VUOSO","BLANK AST 2","15918.00","15616.00","33.00","269.00"]},
+{"id":"7","cell":["7","2018","San Diego","MAYA SUSANNA","DE VRIES","POSTDOC-EMPLOYEE","15918.00","15918.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","15918.00","8529.00","0.00","7389.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","*****","*****","FOOD SVC WORKER SR PD","15917.00","16000.00","123.00","-206.00"]},
+{"id":"10","cell":["10","2018","Davis","SARAH M","MACDONALD","SRA 3","15917.00","15917.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Riverside","BRENDA","MONTIEL","PUBL EDUC SPEC 2","15917.00","13884.00","1273.00","760.00"]},
+{"id":"12","cell":["12","2018","San Diego","*****","*****","GSR-TUIT & FEE REM-UCSD-GRP F","15917.00","15917.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Riverside","YIN-CHEN","LIU","JR SPECIALIST NEX","15917.00","15917.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","*****","*****","TEACHG ASST-GSHIP","15916.00","15816.00","0.00","100.00"]},
+{"id":"15","cell":["15","2018","Davis","*****","*****","GSR-FULL FEE REM","15916.00","15916.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","RACHEL MARY","OLAYA","RAD THER TCHNO SR","15916.00","14446.00","6.00","1464.00"]},
+{"id":"17","cell":["17","2018","Davis","*****","*****","TEACHG ASST-GSHIP","15915.00","8674.00","0.00","7241.00"]},
+{"id":"18","cell":["18","2018","San Diego","JOSEPH T.","DRAMMISSI","TEACHER-UNEX-CONTRACT YR","15915.00","0.00","0.00","15915.00"]},
+{"id":"19","cell":["19","2018","Berkeley","*****","*****","TEACHG ASST-NON GSHIP","15914.00","6196.00","0.00","9718.00"]},
+{"id":"20","cell":["20","2018","San Francisco","GRACIELA M","CORTES","PAT NAVGTR NON-CLIN 2","15914.00","15840.00","74.00","0.00"]}]
+}

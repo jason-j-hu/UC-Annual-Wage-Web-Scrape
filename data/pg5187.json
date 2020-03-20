@@ -1,0 +1,26 @@
+{
+"page" : "5187",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","ROBERT A.","WEISMAN","RECALL FACULTY","55601.00","55601.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","LAURA","MUNRO","TEACHER-UNEX-CONTRACT YR","55600.00","0.00","0.00","55600.00"]},
+{"id":"3","cell":["3","2018","San Diego","DIDI NNEKA","OSSAI","NURSE AID SR","55600.00","45333.00","3001.00","7266.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","DYLAN","READE","BLANK AST 3","55599.00","47645.00","5167.00","2787.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","ISAIAS","GALLO","BLDG MAINT WORKER SR","55599.00","54933.00","666.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","SWATHI K","HULLUGUNDI","POSTDOC-EMPLOYEE","55598.00","55598.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","KIMBERLI","WILLIAMS","BLANK AST 3","55598.00","55078.00","20.00","500.00"]},
+{"id":"8","cell":["8","2018","San Francisco","JARI S","SNELL","PROJECT POLICY ANL 2","55597.00","55597.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","MICHELLE L","GRISAMORE","PAT BILLER 3","55596.00","54173.00","420.00","1003.00"]},
+{"id":"10","cell":["10","2018","Davis","BEKISU R","OFOSE","HOSP BLANK AST 2","55595.00","43068.00","8887.00","3640.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MARK KEVIN","LIM","VOC NURSE SR","55595.00","54203.00","31.00","1361.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","DIANE","OKOYE","ADMIN SPEC","55594.00","52944.00","0.00","2650.00"]},
+{"id":"13","cell":["13","2018","Davis","HEIDI NOEL","FRIEND","PAT BILLER 3","55594.00","52217.00","3372.00","5.00"]},
+{"id":"14","cell":["14","2018","San Francisco","MEGAN G","STEPHENS","BLANK AST 3","55592.00","55592.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","KATHRYN VICTORIA","MILES","CLIN SOCIAL WORKER 1 NEX","55592.00","54842.00","0.00","750.00"]},
+{"id":"16","cell":["16","2018","Irvine","GABRIELLA","CUNANAN","ADMITTING WORKER PRN","55591.00","53740.00","1430.00","421.00"]},
+{"id":"17","cell":["17","2018","Davis","ANETH","AGUILERA","MED OFC SVC CRD 2","55591.00","55103.00","488.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","DUANE J","LINDSAY","PROJECT POLICY ANL 3","55591.00","55591.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","MING","HE","POSTDOC-EMPLOYEE","55591.00","55591.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","JONATHAN","AU","FOOD SVC SUPV 1","55591.00","55091.00","0.00","500.00"]}]
+}

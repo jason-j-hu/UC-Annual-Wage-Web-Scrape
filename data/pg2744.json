@@ -1,0 +1,26 @@
+{
+"page" : "2744",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","MARY BETH","HINES","EXEC AST 3","91937.00","87857.00","0.00","4080.00"]},
+{"id":"2","cell":["2","2018","Santa Cruz","KELLY RAY","SMITH","SYS ADM 3","91936.00","90986.00","0.00","950.00"]},
+{"id":"3","cell":["3","2018","San Francisco","LAUREN M","KAPLAN","WRITER EDITOR 3","91935.00","91935.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","SIMEON E.,IV","JOHNSTON","MAINT MECH","91934.00","76976.00","10238.00","4720.00"]},
+{"id":"5","cell":["5","2018","San Francisco","JONATHAN M","WOO","LAB RSCH SUPV 1","91933.00","91933.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","UCOP","SUTTON","BENNETT","EXEC AST 4","91933.00","91933.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","HAL EDWARD","BOLLMAN","RSCH AND DEV ENGR SUPV 2","91932.00","91932.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","MARIA LUISA","HUERTA","CLIN SOCIAL WORKER 3","91932.00","91932.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","AFROZ","SUBEDAR","DIETITIAN 2","91931.00","91931.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","CARSON F.,JR.","BLACK","APPLICATIONS PROGR 4","91930.00","91930.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","JE NELL","PADILLA","RSCH DATA ANL 3","91930.00","91930.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","MICHELLE","ANDERSON","ADMIN ANL PRN 1","91929.00","86885.00","0.00","5044.00"]},
+{"id":"13","cell":["13","2018","San Diego","RYAN E.","AUSTIN","APPLICATIONS PROGR 3","91927.00","91927.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Riverside","MATTHEW","MCCORMICK","RSCH AND DEV ENGR 3","91927.00","90827.00","0.00","1100.00"]},
+{"id":"15","cell":["15","2018","Irvine","ROCIO","ROSALES","ASST PROF-AY","91925.00","91925.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","ELIZABETH","DELO","BENEFITS ANL 4","91924.00","91924.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","MICHAEL","QUAN","INFO SYS ANL 3","91924.00","91924.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","EDWARD","BELLER","MGT SVC OFCR 2","91923.00","79191.00","0.00","12732.00"]},
+{"id":"19","cell":["19","2018","San Diego","VAN KHUE THI","VO","ACAD HR ANL 3","91923.00","81140.00","0.00","10783.00"]},
+{"id":"20","cell":["20","2018","Berkeley","STEPHEN","CERVANTES","FINANCIAL SVC ANL 4","91922.00","90922.00","0.00","1000.00"]}]
+}

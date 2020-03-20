@@ -1,0 +1,26 @@
+{
+"page" : "2666",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","MAGED","MATTA","MGT SVC OFCR 3","93913.00","91148.00","0.00","2765.00"]},
+{"id":"2","cell":["2","2018","Davis","LYNETTE R","BOWER","LAB RSCH SUPV 2","93912.00","93912.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","MARK","SHAW","FINANCIAL ANL 4","93910.00","90410.00","0.00","3500.00"]},
+{"id":"4","cell":["4","2018","San Diego","KATHLEEN MARY","NAUGHTON","SURGICAL TCHN SR","93909.00","70778.00","12825.00","10306.00"]},
+{"id":"5","cell":["5","2018","San Francisco","RAFAEL ERNESTO","DIAZ FLORES","ASST ADJ PROF-HCOMP","93908.00","93908.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","ROBERT DOUGLAS","BROWN","PAT RCDS ABSTRACTOR 4","93906.00","91607.00","2294.00","5.00"]},
+{"id":"7","cell":["7","2018","San Francisco","JANET J","TANG","RSCH DATA ANL 3","93905.00","93905.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","HEIDI ANN","BATCHELOR","GEOGRAPHIC INFO SYS PROGR 2","93905.00","76702.00","8828.00","8375.00"]},
+{"id":"9","cell":["9","2018","San Diego","KASANDRA F","LAM","ULTRASOUND TCHNO PRN","93903.00","85740.00","2963.00","5200.00"]},
+{"id":"10","cell":["10","2018","San Diego","ELLEN S","MATHEWS","PROJECT POLICY ANL 3","93903.00","88903.00","0.00","5000.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","JANA","ADAWIYA","CLIN NURSE 2","93902.00","86548.00","592.00","6762.00"]},
+{"id":"12","cell":["12","2018","Davis","MONICA","WILSON","FINANCIAL ANL 4","93901.00","93901.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","MARCELA","CUELLAR","ASST PROF-AY","93900.00","93900.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","PAUL","SILVA","PROSTHETIST ORTHOTIST","93900.00","93815.00","85.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","PATRICK I","DRISCOLL","RSCH AND DEV ENGR 4","93900.00","92138.00","0.00","1762.00"]},
+{"id":"16","cell":["16","2018","Davis","JACK D","TRUJILLO","BIOMED EQUIP TCHN 2","93896.00","93385.00","511.00","0.00"]},
+{"id":"17","cell":["17","2018","Irvine","CHRISTINA","WON","CLIN LAB SCI","93894.00","85425.00","7361.00","1108.00"]},
+{"id":"18","cell":["18","2018","Davis","ELIZABETH WITKIN","GOULD","CLIN NURSE OR ADV PRACT SPEC 4","93893.00","93593.00","0.00","300.00"]},
+{"id":"19","cell":["19","2018","San Diego","SOPHIA MILLAN","EICHNER","EXEC ADVISOR 4","93893.00","93893.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","MARCELLA A.","CLARKE","HR GENERALIST 3","93891.00","93891.00","0.00","0.00"]}]
+}

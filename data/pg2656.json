@@ -1,0 +1,26 @@
+{
+"page" : "2656",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","JOSEPH","STABLES","ADMIN ANL PRN 1","94130.00","94130.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Berkeley","WILLIAM","LEGGETT","PERF ARTS MGR 1","94130.00","93130.00","0.00","1000.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","JAMES","NAKATSUKA","MGR","94129.00","94129.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Riverside","LINDA","LATENDRESSE","CAREER SVC SUPV 2","94129.00","93229.00","0.00","900.00"]},
+{"id":"5","cell":["5","2018","San Diego","KIMBERLY RIEL","AGUILAR","CLIN RSCH SUPV 1","94128.00","91628.00","0.00","2500.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","CATHERINE","LUU","CLIN NURSE 2","94126.00","90851.00","687.00","2588.00"]},
+{"id":"7","cell":["7","2018","Irvine","ADAM CHI-LUN","CHANG","PROGR ANL 3","94124.00","94124.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","JOCELYN","TE","REG RESP THER 1","94124.00","87744.00","4557.00","1823.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","JUSTYN","PATTERSON","STDT AFFAIRS OFCR 4 SUPV","94124.00","89249.00","0.00","4875.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","EDWARD","JONES","PROGR ANL 3","94124.00","93574.00","0.00","550.00"]},
+{"id":"11","cell":["11","2018","Berkeley","CAROLINE","COLE","LECT-AY-CONTINUING","94123.00","94023.00","0.00","100.00"]},
+{"id":"12","cell":["12","2018","San Francisco","CIEL T","YOGIS","PHYS THER 2 EX","94122.00","93447.00","0.00","675.00"]},
+{"id":"13","cell":["13","2018","San Francisco","CHRIS STEVE","NICOLAIDIS","SYS ADM 2","94120.00","93844.00","276.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","ISABEL C","RIVERA-COLLAZO","ASST PROF-AY","94119.00","84008.00","0.00","10111.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","DINA","BOKTOR","ADMIN ANL PRN 2","94118.00","94118.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","REYNALDO","MANLAPAT","HEALTH INFO CODER 3","94117.00","89142.00","314.00","4661.00"]},
+{"id":"17","cell":["17","2018","San Diego","RICHARD W.","WARGO","COORD PUBLIC PROG VI","94117.00","93967.00","0.00","150.00"]},
+{"id":"18","cell":["18","2018","San Diego","PETER WILHELM","ROSE","BIOINFORMATICS PROGR 4","94116.00","94116.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","RACHEL","SHUH","LECT-AY-CONTINUING","94112.00","85348.00","0.00","8764.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","CELIA","CHEUNG","PROGR ANL 3","94111.00","93161.00","0.00","950.00"]}]
+}

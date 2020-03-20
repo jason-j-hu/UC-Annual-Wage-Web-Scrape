@@ -1,0 +1,26 @@
+{
+"page" : "5870",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","JACOB","TORRES","POSTDOC-EMPLOYEE","49616.00","49616.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","BERNADETT","BOSZE","POSTDOC-EMPLOYEE","49616.00","49616.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","YUDI","YANG","POSTDOC-EMPLOYEE","49616.00","49616.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","NKECHI P","BOATE","HOSP BLANK AST 2","49616.00","35900.00","10085.00","3631.00"]},
+{"id":"5","cell":["5","2018","Merced","ANITA","VASQUEZ","FINANCIAL ANL SUPV 2","49616.00","49616.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","YONGLONG","LI","POSTDOC-EMPLOYEE","49616.00","49616.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","SHARA ANN","SHELDON","POSTDOC-EMPLOYEE","49616.00","49616.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","THANGASELVAM","MUTHUSAMY","POSTDOC-EMPLOYEE","49616.00","49616.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","MARK","PERELIS","POSTDOC-EMPLOYEE","49616.00","49616.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","TORU","YAMAMOTO","POSTDOC-EMPLOYEE","49616.00","49616.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","HANNAH NAOMI","JONES","STDT AFFAIRS OFCR 3 EX","49615.00","41995.00","0.00","7620.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ALLISON","WEISS","OCCUPATIONAL THER 2 NEX","49615.00","49615.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","MARIA","MUNOZ CHOLICO","BLANK AST 3","49615.00","49615.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","FAYE E","JAMES","BLANK AST 2","49614.00","40824.00","7328.00","1462.00"]},
+{"id":"15","cell":["15","2018","UCOP","NETTIE","PEREZ","BLANK AST 3","49611.00","49365.00","246.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","YIJUN","CUI","ASST PROJ SCIENTIST-FY","49610.00","37740.00","0.00","11870.00"]},
+{"id":"17","cell":["17","2018","Irvine","SUSANA JAMILETH","PAEZ","ADMITTING WORKER PRN","49610.00","48936.00","14.00","660.00"]},
+{"id":"18","cell":["18","2018","Irvine","LEI","GU","POSTDOC-EMPLOYEE","49610.00","49610.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","TEDDY","PUZIE","SCRTY GUARD","49610.00","46241.00","2137.00","1232.00"]},
+{"id":"20","cell":["20","2018","Davis","CAMERON W","FESER","TCHN","49609.00","45432.00","3181.00","996.00"]}]
+}

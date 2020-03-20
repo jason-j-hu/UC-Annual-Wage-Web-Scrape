@@ -1,0 +1,26 @@
+{
+"page" : "3301",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Riverside","OMAR","SAFIE","STDT ACAD SUPV 2","79702.00","77702.00","0.00","2000.00"]},
+{"id":"2","cell":["2","2018","San Diego","RANJIT A","BUCH","EHS SPEC 3","79701.00","78701.00","0.00","1000.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","LINDA","HOLGUIN","MGR","79700.00","79020.00","0.00","680.00"]},
+{"id":"4","cell":["4","2018","San Diego","ANALIA","MENDEZ","CAREER SVC SUPV 2","79700.00","70310.00","0.00","9390.00"]},
+{"id":"5","cell":["5","2018","Berkeley","HANNAH","THOMPSON","ASSOC PROJ SCIENTIST-FY","79699.00","79699.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","LOUISA","OVANESIAN","ADMIN ANL SR","79697.00","78947.00","0.00","750.00"]},
+{"id":"7","cell":["7","2018","Berkeley","CHANIQUA","BUTSCHER","STDT ACAD ADVISOR 4","79697.00","79697.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","STARSHA","ADAMS","ADMIN SPEC","79696.00","63035.00","16661.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","LAYLA","NEWTON","PHLEBOTOMIST CERT TCHN 2","79696.00","63646.00","3571.00","12479.00"]},
+{"id":"10","cell":["10","2018","Berkeley","OTONYE","AMATORU","RSCH ADM 4","79696.00","79696.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","MACARIO A.","SARMIENTO","EHS TCHN PRN","79694.00","63981.00","15667.00","46.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ELIZABETH","ORTIZ","RADLG TCHNO","79694.00","76263.00","2219.00","1212.00"]},
+{"id":"13","cell":["13","2018","Davis","JOSEPH I","SISON","ASC PHYSCN DIPLOMATE","79694.00","79694.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","MARIA ALEINA","MIGUEL YEN","ASC PHYSCN DIPLOMATE","79693.00","79693.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","ERICA","BALLINGER","RSCH ADM 4","79692.00","79692.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","RYAN WILLIAM","SCOTT","K-12 INSTRUCTOR-AY","79691.00","79041.00","0.00","650.00"]},
+{"id":"17","cell":["17","2018","San Francisco","BICHAO","OUYANG","HOSP LAB TCHN 1","79690.00","78432.00","118.00","1140.00"]},
+{"id":"18","cell":["18","2018","Berkeley","FRANCILER","HARPER","TCHL PROJECT MGT PROFL 2","79690.00","79190.00","0.00","500.00"]},
+{"id":"19","cell":["19","2018","San Diego","NEIL W","SOUZA","QLTY IMPV HC SPEC 3","79688.00","70234.00","0.00","9454.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","AUDREY","HEARD","VOC NURSE SR","79687.00","78221.00","1053.00","413.00"]}]
+}

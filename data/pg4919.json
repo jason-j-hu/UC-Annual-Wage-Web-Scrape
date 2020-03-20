@@ -1,0 +1,26 @@
+{
+"page" : "4919",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","YADANIRA","VIZCARRA","MED AST 2","58221.00","58221.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Irvine","DIANA BICHVAN","TIEN-CHAN","STDT AFFAIRS OFCR 3 EX","58220.00","58220.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","KRISTEN","HANGES","REG RESP THER 1","58220.00","48756.00","1605.00","7859.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","EMILIO","HERNANDEZ","STDT AFFAIRS OFCR 3 SUPV","58220.00","56220.00","0.00","2000.00"]},
+{"id":"5","cell":["5","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","58219.00","46742.00","0.00","11477.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","MARIA","OLGUIN","PAT BILLER 3","58219.00","57698.00","14.00","507.00"]},
+{"id":"7","cell":["7","2018","San Francisco","CHRISTINE Y","LIN","HOSP BLANK AST 3","58218.00","56699.00","922.00","597.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","BROOKE","SALAZ","BLANK AST 3","58218.00","56669.00","1266.00","283.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","JAMES","LENT","LECT-AY","58218.00","55496.00","0.00","2722.00"]},
+{"id":"10","cell":["10","2018","Berkeley","LORENZO","MAYFIELD","SCRTY GUARD SR","58218.00","46086.00","10307.00","1825.00"]},
+{"id":"11","cell":["11","2018","Davis","GARY T","YAMAMOTO","HEALTH PROFNS EDUC SPEC 2","58217.00","46206.00","321.00","11690.00"]},
+{"id":"12","cell":["12","2018","Irvine","ROSA E","MARTINEZ-MARIN","ADMITTING WORKER PRN","58217.00","51735.00","5974.00","508.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","REGINA","WILSON","BLANK AST 3","58215.00","54716.00","2652.00","847.00"]},
+{"id":"14","cell":["14","2018","San Francisco","RENAUD CHARLES M","LA JOIE","POSTDOC-EMPLOYEE","58214.00","58214.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Irvine","BELINDA","SMITH","PAT BILLER 3","58214.00","57203.00","350.00","661.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","SOCORRO","FLORES","PAT BILLER 3","58213.00","57713.00","0.00","500.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","KRIENGKRAI","JETSUPPHASUK","PAT BILLER 3","58213.00","57713.00","0.00","500.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","CHRISTIAN","REBAMONTE","SURGICAL TCHN","58212.00","52558.00","386.00","5268.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","NELSON","DECENA","MED AST 3","58211.00","56171.00","971.00","1069.00"]},
+{"id":"20","cell":["20","2018","San Diego","PATRICIA","LOZANO","ADMIN OFCR 2","58211.00","55211.00","0.00","3000.00"]}]
+}

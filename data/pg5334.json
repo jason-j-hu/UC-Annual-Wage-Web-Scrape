@@ -1,0 +1,26 @@
+{
+"page" : "5334",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","VICKIE","BRADLEY","PAT BILLER 2","54246.00","54246.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","MELISSA E","SALINAS","PAT BILLER 2","54246.00","54246.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","LAURA","HARRISON","ASSOC SPECIALIST","54246.00","54246.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","ROBERT J","LEWIS","PAT BILLER 2","54246.00","54246.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","CESAR","PORTILLO","BUS TCHL SUPP ANL 2","54246.00","54246.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","ANNE","JORDAN","BLANK AST 3","54245.00","53045.00","0.00","1200.00"]},
+{"id":"7","cell":["7","2018","Davis","MARGERY A","DANIELS","MED OFC SVC CRD 2","54244.00","54244.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","MA VIMA","LASTIMA","AUDITOR 1","54244.00","53718.00","26.00","500.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","MAGDALENA","WHITE","ADMIN CARE CLIN PARTNER","54244.00","53445.00","143.00","656.00"]},
+{"id":"10","cell":["10","2018","San Diego","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","54244.00","39019.00","0.00","15225.00"]},
+{"id":"11","cell":["11","2018","San Diego","MARISELA","VILLANUEVA MERA","BLANK AST 3","54244.00","53083.00","160.00","1001.00"]},
+{"id":"12","cell":["12","2018","Berkeley","CEDRIC","JOSZ","POSTDOC-EMPLOYEE","54243.00","54243.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Irvine","ALYSE ANN","LARKIN-SWARTOUT","POSTDOC-EMPLOYEE","54242.00","48793.00","0.00","5449.00"]},
+{"id":"14","cell":["14","2018","Davis","SHERA D","ROGERS","HOSP UNIT SVC CRD 3","54242.00","50404.00","1532.00","2306.00"]},
+{"id":"15","cell":["15","2018","San Diego","SENETHAVISOK","TRAN","PHARMACY TCHN 3","54242.00","53242.00","0.00","1000.00"]},
+{"id":"16","cell":["16","2018","Berkeley","XUEKAI","PEI","POSTDOC-EMPLOYEE","54241.00","54241.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","ALEX","HOOBERY","RSDNC HALLS MGR AST","54241.00","47039.00","6337.00","865.00"]},
+{"id":"18","cell":["18","2018","Riverside","FRANK","FIGUEROA","FINANCIAL ANL SUPV 1","54240.00","54240.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","ANTONIO PEDRO","GONCALVES","POSTDOC-EMPLOYEE","54240.00","54240.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Riverside","NAIME","LASKAR","STDT LIFE DEV SPEC 3","54239.00","53039.00","0.00","1200.00"]}]
+}

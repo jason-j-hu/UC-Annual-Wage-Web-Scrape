@@ -1,0 +1,26 @@
+{
+"page" : "9201",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ADRIAN EDUARDO","PENA","MED CTR FOOD SVC WORKER PRN","15601.00","13892.00","624.00","1085.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","CLAUDIA","AVINA SINDICI","ADDL COMP-HGH&OLIVE VIEW MCS","15600.00","0.00","0.00","15600.00"]},
+{"id":"3","cell":["3","2018","Davis","ANA MERCEDES","RIVERA-PAGAN","TEACHER-UNEX-CONTRACT YR","15600.00","0.00","0.00","15600.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","*****","*****","STDT RECR","15600.00","14962.00","606.00","32.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","*****","*****","STDT 1","15600.00","15347.00","253.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","NATHANACL","PRUNET","ASST ADJ PROF-AY-1/9","15600.00","15600.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","RACHEL LYS","PAGE","LECT-AY-1/9","15600.00","15600.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","ALVIN","BRADFORD","CARPENTER LOCKSMITH","15599.00","15151.00","448.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","RAMONA","LOZADA","CUSTODIAN LD","15598.00","15500.00","98.00","0.00"]},
+{"id":"10","cell":["10","2018","Irvine","*****","*****","ASSOC IN__-AY- 1/9 -NON-GSHIP","15596.00","13296.00","0.00","2300.00"]},
+{"id":"11","cell":["11","2018","Santa Barbara","LILIAN L","YANG","SRA 1","15596.00","15596.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Riverside","*****","*****","GSR-PARTIAL FEE REM","15596.00","15596.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","ASUCLA","*****","*****","STDT 1","15596.00","15374.00","160.00","62.00"]},
+{"id":"14","cell":["14","2018","Riverside","ALEJANDRA","HERNANDEZ-G","FINANCIAL AID OFCR 2","15595.00","14830.00","8.00","757.00"]},
+{"id":"15","cell":["15","2018","Berkeley","*****","*****","GSR-NO REM","15595.00","15595.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","BETH KRISTEN","OCHOA","PRACTICE CRD 2","15594.00","15200.00","195.00","199.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","HEMAL","SEMWAL","SRA 3","15594.00","15519.00","75.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ANAHITA","MOSHFEGH","AUDIOLOGIST SR PD","15592.00","15592.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","*****","*****","GSR-NO REM","15591.00","10970.00","0.00","4621.00"]},
+{"id":"20","cell":["20","2018","UCOP","DAVID","WILSON","BENEFITS ANL 3","15591.00","14848.00","0.00","743.00"]}]
+}

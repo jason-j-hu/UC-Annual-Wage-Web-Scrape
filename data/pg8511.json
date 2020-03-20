@@ -1,0 +1,26 @@
+{
+"page" : "8511",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","MORCEL FATEMA","HAMIDY","BLANK AST 3","21681.00","19723.00","636.00","1322.00"]},
+{"id":"2","cell":["2","2018","Santa Cruz","SUZANNA S","ROTH","BLANK AST 2","21680.00","21680.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","LORI CATHERINE","JONESTRASK","APPLICATIONS PROGR 1","21678.00","21678.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","*****","*****","JR SPECIALIST","21677.00","21677.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Riverside","*****","*****","GSR-PARTIAL FEE REM","21676.00","21676.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","*****","*****","TEACHG ASST-GSHIP","21675.00","21575.00","0.00","100.00"]},
+{"id":"7","cell":["7","2018","San Diego","SARAH ELIZABETH","NORTON","NURSE PRACT 1","21675.00","21509.00","0.00","166.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","MARISTELA","DIAZ CARRISOZA","FOOD SVC WORKER","21673.00","21394.00","275.00","4.00"]},
+{"id":"9","cell":["9","2018","Santa Barbara","*****","*****","VIS ASST PROF","21673.00","16063.00","0.00","5610.00"]},
+{"id":"10","cell":["10","2018","Berkeley","JACQUELINE","SHELTON","BLANK AST 3","21672.00","21672.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","*****","*****","TEACHG ASST-GSHIP","21672.00","14060.00","0.00","7612.00"]},
+{"id":"12","cell":["12","2018","Irvine","ANGELITO","DIWA","PHLEBOTOMIST","21670.00","13447.00","545.00","7678.00"]},
+{"id":"13","cell":["13","2018","Irvine","JANICE A","AGUSTIN","ADMIN ANL AST","21669.00","21595.00","74.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","21669.00","21569.00","0.00","100.00"]},
+{"id":"15","cell":["15","2018","San Francisco","*****","*****","GSR-NO REM","21668.00","21668.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","MALCOLM SALVATOR","CASALE","PROJ SCIENTIST-FY","21668.00","21668.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","21668.00","19868.00","0.00","1800.00"]},
+{"id":"18","cell":["18","2018","San Diego","CHRISTOPHER KEFA","NING","CLIN APPLICATIONS SUPV 2","21668.00","21668.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","*****","*****","GSR-FULL FEE REM","21668.00","21668.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","*****","*****","GSR-FULL FEE REM","21668.00","21668.00","0.00","0.00"]}]
+}

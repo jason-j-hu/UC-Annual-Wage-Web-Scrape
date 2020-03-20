@@ -1,0 +1,26 @@
+{
+"page" : "4609",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","61218.00","61218.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","LARA","MCGUIRE","BUS INTEL SPEC 3","61218.00","55264.00","0.00","5954.00"]},
+{"id":"3","cell":["3","2018","Davis","JARED B","FLAUGHER","HEALTH EDUCATOR 2","61218.00","61218.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","MARIA ROQUESA S.","MANIEGO","COLL REPR SR","61217.00","61217.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","STACI T","LEITNER","HEALTH PROFNS EDUC SUPV 1","61217.00","60582.00","22.00","613.00"]},
+{"id":"6","cell":["6","2018","San Francisco","RAYMOND DE LA TO","CRISPINO","TCHN SR","61215.00","44263.00","16952.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","FABIAN","CARDONA","CTRL SVC TCHN LD 3","61215.00","59377.00","1349.00","489.00"]},
+{"id":"8","cell":["8","2018","San Diego","MARC ADAM","BEASLEY","EVENTS SPEC 3","61215.00","61215.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","ANTHONY S","MCGOVERN","CLIN INFORMATICS SPEC 2","61215.00","59722.00","490.00","1003.00"]},
+{"id":"10","cell":["10","2018","Irvine","TERESA","TRUJILLO","PAT BILLER 3","61214.00","58603.00","1946.00","665.00"]},
+{"id":"11","cell":["11","2018","Davis","DAVID W","PROSS","PAINTER","61214.00","61214.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","KALIKO S","SALLAS","PHYS PLT MECH","61213.00","60304.00","889.00","20.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","DESIREE","VALERIANO","STDT AFFAIRS OFCR 2","61212.00","54441.00","1771.00","5000.00"]},
+{"id":"14","cell":["14","2018","San Francisco","RADIA MOHAMED","HASSEN","GI ENDOSCOPY TCHN 1","61211.00","51503.00","4058.00","5650.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","JOHN","DIAZ","ADMIN ANL SR","61211.00","61211.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","SANDRA","PALMA","PAT COMM REPR","61209.00","61201.00","8.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","LILY","GRANT","ADMIN CARE CLIN PARTNER","61209.00","48869.00","10897.00","1443.00"]},
+{"id":"18","cell":["18","2018","Irvine","NATHANIEL ALEXAN","TABITA","EHS SPEC 1 EX","61208.00","58764.00","0.00","2444.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","DAVID ALAN","MOSES","ADV OFCR 3","61208.00","56217.00","0.00","4991.00"]},
+{"id":"20","cell":["20","2018","Davis","REBECCA R","HAMMOND-CAHILL","STDT LIFE DEV SPEC 3","61208.00","61208.00","0.00","0.00"]}]
+}

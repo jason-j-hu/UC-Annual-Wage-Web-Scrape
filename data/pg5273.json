@@ -1,0 +1,26 @@
+{
+"page" : "5273",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","JOHN","CRAIGHEAD","BUS TCHL SUPP ANL 2","54849.00","54206.00","0.00","643.00"]},
+{"id":"2","cell":["2","2018","UCOP","JAHANZEB","TASAWAR","HR GENERALIST 2","54848.00","54848.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","ALICIA","CORTES CORTES","POSTDOC-EMPLOYEE","54847.00","54847.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","SARAH","WININGER","FUNDRAISER 2 NEX","54847.00","54424.00","423.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","HONG SIK","YOO","POSTDOC-EMPLOYEE","54847.00","54847.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","ANGELICA","ENRIQUEZ","ADMIN SPEC","54846.00","54846.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","JAIME","LEE","RESC NURSE PD","54846.00","50467.00","0.00","4379.00"]},
+{"id":"8","cell":["8","2018","San Diego","IRADA AZAD KIZI","RAGIMOVA","NURSE AID SR","54845.00","43728.00","3708.00","7409.00"]},
+{"id":"9","cell":["9","2018","Davis","TERRI","ZAMORA","STDT ACAD ADVISOR 2","54845.00","54253.00","592.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","SANDRA","CATANIA","POSTDOC-EMPLOYEE","54843.00","54843.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","CHRISTINA MARIA-","PEREZ","BLANK AST 3","54843.00","51754.00","2056.00","1033.00"]},
+{"id":"12","cell":["12","2018","Berkeley","RENEE","KOUTSOUKIS","SRA 2 NEX","54843.00","54843.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","HEATHER L","ROBERTS","PAT BILLER 3","54842.00","53079.00","1763.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","LIANG-TIEN","HSIEH","POSTDOC-EMPLOYEE","54841.00","54841.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","XIAOCEN","LI","POSTDOC-EMPLOYEE","54841.00","54541.00","0.00","300.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","MELODY","WOO","BLANK AST 3","54841.00","48658.00","5009.00","1174.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","ANDRES","ZAMORA","HOSP BLANK AST 3","54841.00","54108.00","511.00","222.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","MARIA","DIAZ","BLANK AST 3 SUPV","54840.00","52502.00","1323.00","1015.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","DALSHONE","RAILBACK","PAT BILLER 3","54840.00","54319.00","14.00","507.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","S PAUL","BAJAJ","RECALL HCOMP","54840.00","0.00","0.00","54840.00"]}]
+}

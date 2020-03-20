@@ -1,0 +1,26 @@
+{
+"page" : "1668",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","FRANCIS","SORIANO","CLIN NURSE 2","124138.00","107029.00","1653.00","15456.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","CHARLENE","NAKAR","CLIN LAB SCI","124138.00","90053.00","10803.00","23282.00"]},
+{"id":"3","cell":["3","2018","Davis","MICHAEL J","FERNS","PROF-HCOMP","124133.00","112036.00","0.00","12097.00"]},
+{"id":"4","cell":["4","2018","Irvine","SHIJI","BINU","CLIN NURSE 2","124130.00","110437.00","5823.00","7870.00"]},
+{"id":"5","cell":["5","2018","San Francisco","JENNIFER L","SHELTON","CLIN NURSE 2","124128.00","119148.00","1669.00","3311.00"]},
+{"id":"6","cell":["6","2018","Berkeley","PAULA","FLAMM","SOCIAL WORK SHS MGR 1","124128.00","124128.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","IAN HYLAND","GIBSON","DIR","124127.00","124127.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","CHONG","LIU","ASST PROF-AY","124122.00","111500.00","0.00","12622.00"]},
+{"id":"9","cell":["9","2018","Davis","ANDREA J","FLOWERS","CLIN NURSE 2","124120.00","109613.00","3997.00","10510.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","MELISSA","CHUN","OPTOMETRIST SR","124118.00","119118.00","0.00","5000.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MARICEL","ALMONTE","CLIN NURSE 2","124117.00","101627.00","6516.00","15974.00"]},
+{"id":"12","cell":["12","2018","Davis","KATHY JONES","KELLEY","CONTINUING EDUCATOR II","124101.00","124101.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","JUSTINE E","PAYURAN","CLIN NURSE 2","124097.00","107322.00","3122.00","13653.00"]},
+{"id":"14","cell":["14","2018","San Diego","KAREN ANN","ARNETT","RSCH ADM 4","124093.00","124093.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Riverside","PENGYUE","LIN","INFO SYS SUPV 2","124092.00","122342.00","0.00","1750.00"]},
+{"id":"16","cell":["16","2018","Davis","JESSE P","BARBER","SYS ADM 4","124091.00","123271.00","0.00","820.00"]},
+{"id":"17","cell":["17","2018","Davis","BARBARA S","LINKE","ASSOC PROF-AY-B/E/E","124091.00","119500.00","0.00","4591.00"]},
+{"id":"18","cell":["18","2018","Irvine","JAMES JORDAN","EMERSON","ASST PROF-AY","124089.00","92700.00","0.00","31389.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","ERIKA","ELIASON PARSONS","ASST PROF-AY","124089.00","93033.00","0.00","31056.00"]},
+{"id":"20","cell":["20","2018","San Francisco","MARIA LIZA","ASATO","FINANCIAL ANL MGR 1","124087.00","121757.00","0.00","2330.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "2712",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","MARY","KELLY","ENTERPRISE RISK MGT ANL 4","92747.00","92747.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Riverside","ROBERT","TAMAYO","MAINT B LD","92746.00","74249.00","17589.00","908.00"]},
+{"id":"3","cell":["3","2018","Riverside","FREYA","SCHIWY","ASSOC PROF-AY","92745.00","92745.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","JAMES CONSTANTIN","SARDELIS","CLIN NURSE 3","92744.00","80410.00","2986.00","9348.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","MINH-TRANG","LE","MAMMOGRAPHY TCHNO","92744.00","91937.00","727.00","80.00"]},
+{"id":"6","cell":["6","2018","San Francisco","ROBIN S","GOLDMAN","HS ASST CLIN PROF-HCOMP","92741.00","92736.00","0.00","5.00"]},
+{"id":"7","cell":["7","2018","Irvine","MICHAEL JB","WANG","AST PHYSCN","92737.00","20590.00","0.00","72147.00"]},
+{"id":"8","cell":["8","2018","Berkeley","DANIEL","LEWIS","CARPENTER LOCKSMITH WORKER LD","92736.00","90436.00","0.00","2300.00"]},
+{"id":"9","cell":["9","2018","San Francisco","PIK KEI","YUNG YEUNG","FINANCIAL ANL 4","92735.00","92735.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","JAMESIA","THOMAS","ADMIN ANL SR","92735.00","92735.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","ELLEN","LAI","ADMIN ANL SR","92735.00","85235.00","0.00","7500.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","EDWIN","CARRANZA","FOOD SVC MECH","92734.00","74816.00","15258.00","2660.00"]},
+{"id":"13","cell":["13","2018","Santa Cruz","ABRAHAM D","STONE","ASSOC PROF-AY","92733.00","92733.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","JENNIFER K","MURRAY","CLIN NURSE 2","92731.00","84158.00","1923.00","6650.00"]},
+{"id":"15","cell":["15","2018","Riverside","SEAN","MAHONEY","SYS ADM 3","92731.00","91636.00","0.00","1095.00"]},
+{"id":"16","cell":["16","2018","Irvine","RODOLFO","GARCIA","HVAC MECH","92730.00","74176.00","18554.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","LESLIE","CORTEZ","ADMIN ANL PRN SUPV","92728.00","88364.00","0.00","4364.00"]},
+{"id":"18","cell":["18","2018","San Diego","ALICE CHU","YU","STF PHARMACIST 2","92728.00","89583.00","297.00","2848.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","SHAO-FEN","CHANG","CNSLNG PSYCHOLOGIST 2 MSP","92727.00","90048.00","0.00","2679.00"]},
+{"id":"20","cell":["20","2018","San Diego","DULCE AMOR LEDIN","DORADO","STDT SVC MGR 1","92725.00","92725.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "2098",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","MATTHEW J","WOLFE","CLIN APPLICATIONS PROFL 4","109461.00","108586.00","0.00","875.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","RANDY","STUCKEY","PHYS PLT SUPT SR","109459.00","108959.00","0.00","500.00"]},
+{"id":"3","cell":["3","2018","Riverside","LEE","STILLERMAN","BEH HEALTH CNSLNG SUPV 2","109458.00","107458.00","0.00","2000.00"]},
+{"id":"4","cell":["4","2018","San Diego","ROSEMARIE","MADSON","ADMIN OFCR 4","109458.00","107458.00","0.00","2000.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","JOSE","LOPEZ","CLIN NURSE 2","109454.00","106364.00","1063.00","2027.00"]},
+{"id":"6","cell":["6","2018","San Diego","SHULEI","SUN","BIOINFORMATICS PROGR 4","109451.00","108451.00","0.00","1000.00"]},
+{"id":"7","cell":["7","2018","San Diego","STEPHAN","LANGE","ASST ADJ PROF-HCOMP","109450.00","109450.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","DAVID RENATO","NATALE","ASST PROF-HCOMP","109450.00","109450.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","EILEEN VIRTUSIO","PITPITAN","ASST ADJ PROF-HCOMP","109450.00","109450.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","PAUL","TAMURA","BUYER PRN","109449.00","107949.00","0.00","1500.00"]},
+{"id":"11","cell":["11","2018","San Francisco","BILL P.","ACIKALIN","CLIN LAB SCI","109448.00","108507.00","0.00","941.00"]},
+{"id":"12","cell":["12","2018","San Diego","GABRIEL CHARLES","LEGER","ASC PHYSCN","109447.00","54542.00","0.00","54905.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","JESSICA","COLLETT","PROF-AY","109445.00","66667.00","0.00","42778.00"]},
+{"id":"14","cell":["14","2018","Davis","MARIE L","ROCHA","BEH HEALTH PSYCHIATRIC SUPV 2","109445.00","108395.00","0.00","1050.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","PAUL","HSU","ASST ADJ PROF-HCOMP","109441.00","109441.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","PHILLIP ANDREW","LOPO","IT SCRTY ANL 4","109440.00","109440.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","SHARON","MUELLER","STDT SVC MGR 1","109434.00","108934.00","0.00","500.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","NOUSHIG","KARPANIAN","ADMIN ANL SR","109433.00","99753.00","0.00","9680.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","ING","PHANSAVATH","CONTINUING EDUCATOR II","109433.00","109433.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Riverside","KING-FAI","LI","ASST PROF-AY","109433.00","90500.00","0.00","18933.00"]}]
+}

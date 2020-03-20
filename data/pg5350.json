@@ -1,0 +1,26 @@
+{
+"page" : "5350",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","JOSIE","TRAN","MED OFC SVC CRD 4","54124.00","54101.00","23.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","NOAH N","FARINAS","PHARMACY TCHN 2","54123.00","49279.00","1303.00","3541.00"]},
+{"id":"3","cell":["3","2018","San Francisco","ANN E.","BRUNETTA","NURSE PD","54122.00","53495.00","0.00","627.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","GRACE","KIM","ADMIN ANL","54122.00","53623.00","0.00","499.00"]},
+{"id":"5","cell":["5","2018","San Diego","MANDIE DONAHUE","LEE","NURSE SVC MGR 1","54122.00","54122.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","BRENDA","PUENTE RIOS","BLANK AST 3","54121.00","52046.00","1267.00","808.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","MINERVA","AQUINO","CLIN CARE PARTNER","54120.00","50525.00","2337.00","1258.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","ABEL","JONES","NURSE PD","54120.00","53984.00","68.00","68.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","JOSEPH","RICO","COLL REPR","54120.00","50570.00","0.00","3550.00"]},
+{"id":"10","cell":["10","2018","San Diego","KELLY CAMERON","O\"ROURKE","CLIN NURSE 2","54120.00","48136.00","1544.00","4440.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","ANNI","HUFFMAN","MGT SVC OFCR 1","54119.00","53532.00","587.00","0.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","LORENZA","ANGUIANO","EMPLOYMENT REPR 2","54118.00","52216.00","0.00","1902.00"]},
+{"id":"13","cell":["13","2018","Riverside","FELISA","WESTLAKE","COACH AST 3","54118.00","52218.00","0.00","1900.00"]},
+{"id":"14","cell":["14","2018","Davis","DELLA L","WILSON","MED OFC SVC CRD 3","54117.00","53480.00","637.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","MATHEW","MCMILLAN","MUSEUM SCI","54117.00","54113.00","0.00","4.00"]},
+{"id":"16","cell":["16","2018","San Francisco","BRENDA JEA","CAPTAIN-EDWARDS","PRACTICE CRD 2","54116.00","52957.00","189.00","970.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","GINA","MONTOYA","MED AST 3","54116.00","53921.00","132.00","63.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","VANESSA","HERNANDEZ","STDT AFFAIRS OFCR 2","54116.00","53582.00","534.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","THOMAS WINSTON","VICKERS","VETERINARIAN 2","54115.00","54115.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","PATRICIA L","MAROTTE","NURSE PD","54114.00","51809.00","964.00","1341.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "3005",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","CHI","VANG","CLIN NURSE 2","85923.00","80175.00","2218.00","3530.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","PATRICIA","NOMURA-FEINBERG","SPEC","85923.00","67740.00","0.00","18183.00"]},
+{"id":"3","cell":["3","2018","San Francisco","CLIFFORD W","DUHN","LAB RSCH SUPV 1","85921.00","85921.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","DENNIS","LEE","LAB MECHN PRN","85919.00","85426.00","493.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","JEFF S","SORY","INFO SYS ANL 2","85918.00","83789.00","1249.00","880.00"]},
+{"id":"6","cell":["6","2018","Irvine","JENNIFER","BORNSTEIN","ASST PROF-AY","85917.00","85917.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","DANIELLE T","RAUDENBUSH","ASST PROF-AY","85917.00","85917.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","LAUREN","KAWAGUCHI","PUBL ADMSTN ANL SR","85915.00","85915.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","NANCY","MAGALLANES","CLIN NURSE 2","85915.00","73390.00","598.00","11927.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","COURTNEY","SIDLER","DIR","85914.00","85914.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","PATRICIA","ROGERS","FINANCIAL ANL 4","85914.00","74675.00","0.00","11239.00"]},
+{"id":"12","cell":["12","2018","San Diego","SHANNON ELIZABET","MUIR","RSCH GNT PRG OFCR 3","85913.00","85913.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","FRED A","FISHMAN","RSCH CMPLNC ANL 3","85912.00","85912.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","JENNIFER","CHERNISS","PROJECT POLICY ANL 4","85910.00","85410.00","0.00","500.00"]},
+{"id":"15","cell":["15","2018","Davis","ABDOLRAHMAN S","AZARI","LECT-AY-CONTINUING","85909.00","85909.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","LAURA KAY","SCRIMPSHER","CLIN INFORMATICS SPEC 3","85906.00","84906.00","0.00","1000.00"]},
+{"id":"17","cell":["17","2018","San Francisco","EDGARDO BALINTON","GALVEZ","MED CTR SCRTY OFCR SR","85905.00","59986.00","20737.00","5182.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","BRIAN","REYNOLDS","SYS ADM 3","85904.00","85904.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","RITA","ROXAS","HOSP LAB TCHN 1","85902.00","79793.00","271.00","5838.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","RANDALYN","BROWNING","LECT-AY-CONTINUING","85901.00","82469.00","0.00","3432.00"]}]
+}

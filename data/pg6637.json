@@ -1,0 +1,26 @@
+{
+"page" : "6637",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","RHEA MAE HERNAND","BULAWAN","NURSE PD","41915.00","40978.00","901.00","36.00"]},
+{"id":"2","cell":["2","2018","Berkeley","REBECCA","GRAY","BLANK AST 3","41915.00","41415.00","0.00","500.00"]},
+{"id":"3","cell":["3","2018","Riverside","JOSEPH","OSBORN","PARKING REPR SR","41914.00","37837.00","2655.00","1422.00"]},
+{"id":"4","cell":["4","2018","Davis","JAN","VANG","MED CTR CUSTODIAN SR","41911.00","37620.00","1812.00","2479.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","SHEILA","BERKENSTOCK","BLANK AST 2","41911.00","41481.00","430.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","MICHAEL","RENTERIA","BLANK AST 2","41910.00","41486.00","257.00","167.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","PAUL","SIMS","BLANK AST 2","41910.00","41759.00","151.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","TARAK","TRIVEDI","EXAMING PHYSCN","41910.00","41910.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","ANNA CHRISTINE V","SANTOS","CLIN NURSE 2","41909.00","37768.00","844.00","3297.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","LINDA","VALLANO","BLANK AST 2","41909.00","41909.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","ISMAEL","ELACION","MED CTR FOOD SVC WORKER SR","41909.00","39955.00","940.00","1014.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","MARLENA","RAIMEY","BLANK AST 3","41908.00","41908.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","STEVEN M","LOPEZ","CUSTODIAN SR","41907.00","39170.00","532.00","2205.00"]},
+{"id":"14","cell":["14","2018","Berkeley","TOMASZ","PALCZEWSKI","POSTDOC-EMPLOYEE","41907.00","41907.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","LETICIA I","RUELAS","BLANK AST 3","41906.00","39939.00","0.00","1967.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","CASSANDRA","GUTIERREZ","HOSP BLANK AST 3","41904.00","35877.00","131.00","76.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","ZENITH","CHUA","NURSE PD","41904.00","40830.00","0.00","1074.00"]},
+{"id":"18","cell":["18","2018","Berkeley","CHARLES","BORROMEO","EHS SPEC 4","41904.00","33905.00","0.00","7999.00"]},
+{"id":"19","cell":["19","2018","Irvine","ROSEMARIE","SWATEZ","ADMIN ANL SR","41902.00","38558.00","0.00","3344.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","GEN","LI","POSTDOC-EMPLOYEE","41901.00","41901.00","0.00","0.00"]}]
+}

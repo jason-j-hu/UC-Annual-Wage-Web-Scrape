@@ -1,0 +1,26 @@
+{
+"page" : "8062",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","TRAVIS W","SCHOLL","VIS ASST PROF","26125.00","26125.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","*****","*****","TEACHG ASST-GSHIP","26125.00","22270.00","0.00","3855.00"]},
+{"id":"3","cell":["3","2018","Merced","KELSEY","RAIDT","LIBRARY AST 3","26125.00","26087.00","32.00","6.00"]},
+{"id":"4","cell":["4","2018","Merced","NICHOLAS","KNIGHT","VIS ASST PROF","26125.00","26125.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","HEATHER LAURIE","PFEFFER","BLANK AST 3","26125.00","25125.00","0.00","1000.00"]},
+{"id":"6","cell":["6","2018","Davis","*****","*****","INTRM POSTDOC SCHOLAR-EMPLOYEE","26123.00","26123.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","SHINAE","LEE","TUT-NON STDNT","26123.00","26023.00","0.00","100.00"]},
+{"id":"8","cell":["8","2018","Santa Cruz","SOFIA","ESTRADA","FOOD SVC WORKER SR","26120.00","25270.00","91.00","759.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","HUGO F","ROMERO MENESES","PRG REPR 3","26118.00","21932.00","0.00","4186.00"]},
+{"id":"10","cell":["10","2018","Riverside","*****","*****","RESID PHYS I/NON REP","26118.00","26118.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Riverside","*****","*****","RESID PHYS I/NON REP","26118.00","26118.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","SUNGEUN","BAE","BLANK AST 2","26118.00","25853.00","0.00","265.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","GAGANDEEP","SINGH","PROGR ANL 3","26117.00","25668.00","0.00","449.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","*****","*****","TEACHG FELLOW-GSHIP","26116.00","16211.00","0.00","9905.00"]},
+{"id":"15","cell":["15","2018","Merced","SAMUEL","STEARNS","APPLICATIONS PROGR 1","26116.00","25298.00","0.00","818.00"]},
+{"id":"16","cell":["16","2018","Merced","*****","*****","TEACHG ASST-GSHIP","26116.00","26016.00","0.00","100.00"]},
+{"id":"17","cell":["17","2018","Irvine","*****","*****","LECT-AY","26114.00","26114.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Merced","*****","*****","TEACHG ASST-GSHIP","26114.00","26014.00","0.00","100.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","BIJAN","RAPHAEL","TEACHER-UNEX-CONTRACT YR","26113.00","0.00","0.00","26113.00"]},
+{"id":"20","cell":["20","2018","San Francisco","NATASHA E","RAVARE-EVANS","FAC MGT SPEC 4","26112.00","26112.00","0.00","0.00"]}]
+}

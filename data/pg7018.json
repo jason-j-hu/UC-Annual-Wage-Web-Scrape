@@ -1,0 +1,26 @@
+{
+"page" : "7018",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","PEDRO","ACUNA","LECT-AY-1/9","37422.00","31633.00","0.00","5789.00"]},
+{"id":"2","cell":["2","2018","Davis","NICHOLAS D","TERRY","RADLG AST 1","37422.00","34865.00","1034.00","1523.00"]},
+{"id":"3","cell":["3","2018","Davis","KELVIN J,SR.","ELLIS","ANESTHESIA TCHN","37421.00","35672.00","1012.00","737.00"]},
+{"id":"4","cell":["4","2018","San Diego","MARIA FLORENCIA","COSTA","VISUAL COMM SPEC 4","37421.00","37421.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","EMERENCIANA G","DALUGDUGAN","CLIN NURSE 2","37421.00","16056.00","5886.00","15479.00"]},
+{"id":"6","cell":["6","2018","San Diego","MELISSA MARTHA","HIDALGO","LECT IN SUMMER SESSION","37421.00","28882.00","0.00","8539.00"]},
+{"id":"7","cell":["7","2018","San Francisco","THOMAS O\"NEILL","CONRAN","TCHN","37419.00","33062.00","4213.00","144.00"]},
+{"id":"8","cell":["8","2018","San Francisco","RUTH DE LOS ANGE","MALTEZ","PAT NAVGTR NON-CLIN 2","37418.00","32771.00","185.00","4462.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","ASHLEIGH ANAIS","RENTERIA","STDT AFFAIRS OFCR 3 EX","37418.00","34692.00","0.00","2726.00"]},
+{"id":"10","cell":["10","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","37417.00","23157.00","0.00","14260.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","37417.00","33015.00","0.00","4402.00"]},
+{"id":"12","cell":["12","2018","Berkeley","CAMERON","SADAFI","ADMISSIONS RECRMT SPEC 3","37416.00","37416.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","DOMINIC","MULLEN","SRA 1","37415.00","37415.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","ALVIN LOPEZ","TANMAJO","CUSTODIAN SR","37415.00","36021.00","0.00","1394.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","JOHN","HERMOSILLO","CTRL SVC TCHN 1","37413.00","35353.00","1220.00","840.00"]},
+{"id":"16","cell":["16","2018","Davis","LARRY E,JR.","MILLER","CUSTODIAN SR","37413.00","36822.00","591.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","DAVID","HALLE","RECALL TEACHING","37410.00","0.00","0.00","37410.00"]},
+{"id":"18","cell":["18","2018","Berkeley","CHRISTINE","RUHL","POSTDOC-EMPLOYEE","37409.00","37409.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","NADIA","DAMANI-KHOJA","NON-PHYS CLIN TRAIN-GENL CAMP","37409.00","37409.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","KRISTIN NICOLE","ROHER","DEV ENGR JR","37409.00","37409.00","0.00","0.00"]}]
+}

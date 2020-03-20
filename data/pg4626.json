@@ -1,0 +1,26 @@
+{
+"page" : "4626",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","SHIRLEY","WONG","BLANK AST 2","61044.00","60605.00","439.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","MARIBEL","HERNANDEZ","COLL REPR","61042.00","49251.00","7791.00","4000.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","MICHAEL","TURNER","MED CTR SCRTY OFCR","61042.00","38790.00","17193.00","5059.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","JESUS","CUEVAS BARBOZA","FAC WORKER","61041.00","50802.00","9749.00","490.00"]},
+{"id":"5","cell":["5","2018","Davis","PEIMAN","KHANI AMIN ABAD","LAB RSCH SUPV 1","61040.00","61040.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","KARLA ISABEL","SARRIA","MED CTR CUSTODIAN SR","61039.00","60139.00","0.00","900.00"]},
+{"id":"7","cell":["7","2018","Santa Barbara","EMILY","TOM-ATZBERGER","STDT SVC SUPV 2","61038.00","61038.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Riverside","MICHAEL","BULLOCK","FINANCIAL SVC ANL 2","61038.00","59431.00","204.00","1403.00"]},
+{"id":"9","cell":["9","2018","San Diego","ADELE M","LYNCH","PAT REL PROFL 3","61037.00","61037.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","KIMBERLY","TERRY","ADMIN OFCR 3 GF","61036.00","57540.00","0.00","3496.00"]},
+{"id":"11","cell":["11","2018","Davis","ADAM P","STEPHENS","EMPLOYMENT REPR 2","61035.00","61035.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","WINNIE","RIMANDO","VOC NURSE SR","61034.00","59695.00","1005.00","334.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","NICHOLAS","REYES","ADMIN ANL","61034.00","59540.00","494.00","1000.00"]},
+{"id":"14","cell":["14","2018","San Francisco","DINA C.","MCWILLIAMS-CHRI","COLL REPR SR","61033.00","60133.00","0.00","900.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","CAROLYN","GANDY","STDT AFFAIRS OFCR 3 EX","61033.00","61033.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","UCOP","ALISON","SCHNABEL","HR SUPV 1","61033.00","61033.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","MICHAEL","PARGETT","POSTDOC-EMPLOYEE","61032.00","61032.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","LAN BACH","FLORENCE","PAT BILLER 4","61032.00","60010.00","22.00","1000.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","EVELIA","CARDONA","PAT COMM REPR","61032.00","60982.00","50.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","THAO","LE","CLIN NURSE 2","61030.00","59919.00","297.00","814.00"]}]
+}

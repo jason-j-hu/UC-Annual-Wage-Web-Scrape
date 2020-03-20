@@ -1,0 +1,26 @@
+{
+"page" : "3640",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","ROSE MARIE B.","MAYO","CLIN NURSE 2","73602.00","71254.00","499.00","1849.00"]},
+{"id":"2","cell":["2","2018","San Francisco","KATHERINE J","GUZMAN","PRACTICE CRD 3","73601.00","72941.00","0.00","660.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","MARLENE","GARRIS","ADMIN ANL SR","73601.00","69856.00","0.00","3745.00"]},
+{"id":"4","cell":["4","2018","Davis","SHARON L","HEIN","ADMIN OFCR 3","73601.00","73601.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","CAROLYN J","MCCONVILLE","FINANCIAL ANL 4","73601.00","71726.00","0.00","1875.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","CONSTANCE","DEERING","ADMIN ANL PRN 1","73598.00","73598.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","73593.00","66393.00","0.00","7200.00"]},
+{"id":"8","cell":["8","2018","Irvine","BILLY MYUNG-HAN","RYOO","PROGR ANL 3","73590.00","73590.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","JEFFREY","ABAD","FOOD SVC MGR PRN","73590.00","70321.00","0.00","3269.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","MELINA","LOPEZ","ELECTRN","73590.00","73324.00","266.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","KACY MIE","MARUME","COMM SPEC 3","73587.00","67548.00","0.00","6039.00"]},
+{"id":"12","cell":["12","2018","San Diego","LEAH G.","TAMAYO-BRION","ACAD HR ANL 2","73586.00","68186.00","0.00","5400.00"]},
+{"id":"13","cell":["13","2018","San Francisco","DAVID P","GONZALEZ","AMBUL CARE ADMSTN CRD 2","73585.00","70624.00","2961.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","BING R.","BARCEGA","PERSONNEL ANL SR","73585.00","72835.00","0.00","750.00"]},
+{"id":"15","cell":["15","2018","San Diego","AMALIA KATERINA","ALECK","AST PHYSCN","73584.00","42898.00","0.00","30686.00"]},
+{"id":"16","cell":["16","2018","Davis","MICHELLE LEE","BARICEVIC","NURSE SVC SUPV 2","73582.00","69613.00","202.00","3767.00"]},
+{"id":"17","cell":["17","2018","San Francisco","MICHAEL","BOLOS","STERILE PROCESSING TCHN 3","73579.00","70143.00","2271.00","1165.00"]},
+{"id":"18","cell":["18","2018","Davis","LESLIE C.","KEMP","MARKETING SPEC 4","73579.00","73579.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","*****","*****","ASC PHYSCN","73579.00","63469.00","0.00","10110.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","MARLON","ABRAZADO","MGR","73576.00","71991.00","246.00","1339.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "9153",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","CAITLIN","BAILEY","HEALTH TCHN 3","16045.00","13825.00","2220.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","CASSONDRA P","GRAFF","UNCLASSIFIED","16045.00","8616.00","2673.00","4756.00"]},
+{"id":"3","cell":["3","2018","San Diego","TRENT L","SIMMONS","LAB AST 3","16045.00","16045.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","DAVID C","REESE JR","CUSTODIAN","16044.00","15431.00","0.00","613.00"]},
+{"id":"5","cell":["5","2018","Irvine","*****","*****","READER-GSHIP","16042.00","15942.00","0.00","100.00"]},
+{"id":"6","cell":["6","2018","Berkeley","REEMA","KAZAK","FINANCIAL ANL 3","16042.00","16042.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Santa Cruz","ELIZABETH GRACE-","MILLER","STDT LIFE DEV SPEC 3","16041.00","15719.00","0.00","322.00"]},
+{"id":"8","cell":["8","2018","San Diego","*****","*****","STDT SVC ADVISOR 1","16041.00","16041.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","KELLY ROSMUS","BARNES","LECT-AY-1/9","16040.00","16040.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","HOLLY JOY","RODRIGUEZ","NUC MED TCHNO SR PD","16040.00","16040.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","ROSABEL","IBAY","PHYS THER 2 PD","16039.00","16039.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","TANYA","BROWN","ADMIN CARE CLIN PARTNER PD","16039.00","13607.00","819.00","1613.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","WOLF","MARSHALL","LECT-AY-CONTINUING","16039.00","16039.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","MICHAEL ALLEN","PROUTY","MAINT MECH","16039.00","12168.00","0.00","3871.00"]},
+{"id":"15","cell":["15","2018","Davis","*****","*****","JR SPECIALIST NEX","16037.00","15954.00","83.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","*****","*****","JR SPECIALIST","16037.00","16037.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Irvine","LILY THU","NGUYEN","ADMITTING WORKER PRN PD","16036.00","15726.00","310.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","THOMAS","HUFF","BLANK AST 3","16035.00","16035.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","JIMMY","ANKLESARIA","LECT-AY-1/9","16035.00","16035.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","JONATHAN","WEHRY","LAB AST 2","16033.00","15980.00","53.00","0.00"]}]
+}

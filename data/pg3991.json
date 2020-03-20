@@ -1,0 +1,26 @@
+{
+"page" : "3991",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","MAEODIS","TAYLOR","BLANK AST 3","68461.00","67540.00","21.00","900.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ELTOINE","HOWARD","PROGR ANL 2","68461.00","58267.00","9141.00","1053.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","ABINAV","BAWEJA","HS CLIN INSTR-HCOMP","68460.00","47040.00","0.00","21420.00"]},
+{"id":"4","cell":["4","2018","Davis","SCOTT W","BRANUM","RSCH ADM 3","68460.00","66585.00","0.00","1875.00"]},
+{"id":"5","cell":["5","2018","San Francisco","CLAIRE","CHAN","RSCH ADM 2","68459.00","66055.00","0.00","2404.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","EMILY","GOLDBERG","BUS SYS ANL 3","68459.00","67959.00","0.00","500.00"]},
+{"id":"7","cell":["7","2018","San Diego","CHARLOTTE ANN","BRINKMAN","NURSE PD","68459.00","63800.00","585.00","4074.00"]},
+{"id":"8","cell":["8","2018","Berkeley","RIZAL","SINA","PHYS PLT LABORER GARDENER B","68459.00","66350.00","2109.00","0.00"]},
+{"id":"9","cell":["9","2018","Santa Barbara","AMY","LIEST","STDT ACAD SPEC 4","68457.00","68457.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Riverside","ABRIL","CHAVANDO","STDT ADVISOR SUPV 2","68456.00","62636.00","0.00","5820.00"]},
+{"id":"11","cell":["11","2018","San Francisco","MARCO A","SANCHEZ","ARTIST SR","68454.00","64517.00","3937.00","0.00"]},
+{"id":"12","cell":["12","2018","Santa Barbara","MONICA","SOLORZANO","GOVT REL SPEC 3","68454.00","68454.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","ROLLAND M.","CLARETE","BUS TCHL SUPP ANL 2","68454.00","67454.00","0.00","1000.00"]},
+{"id":"14","cell":["14","2018","San Diego","ANAIS","LOPEZ-JOHNSON","NURSE PD","68454.00","64983.00","3471.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","MOHINI L","SINGH","PAT BILLER 3","68453.00","58378.00","10075.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","ROSEMARIE","PAOLA","ADMIN ANL SR","68451.00","66654.00","0.00","1797.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","JANE","MCTAGGART","DIGITAL COMM SPEC 3","68451.00","68451.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","RICHARD HING YAN","LAU","BLDG MAINT WORKER LD","68450.00","68336.00","114.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","JAN M.","PARRIS","BLANK AST 3","68450.00","60548.00","6900.00","1002.00"]},
+{"id":"20","cell":["20","2018","Davis","CHARRISE MARIE","TORRES","K to 14 ACAD PREP SPEC 2","68447.00","60684.00","6261.00","1502.00"]}]
+}

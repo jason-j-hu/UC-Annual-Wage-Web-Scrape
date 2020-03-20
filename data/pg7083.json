@@ -1,0 +1,26 @@
+{
+"page" : "7083",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","FRANCISCO","VALENZUELA","STORES WORKER","36646.00","36646.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","VIRGINIA","MASSA","CUSTODIAN SR","36645.00","36136.00","509.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","NATALIE A","ABU HAMDAN","SRA 2 NEX","36644.00","34331.00","0.00","2313.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","SIMON","JUAN","FOOD SVC WORKER","36643.00","29158.00","6326.00","1159.00"]},
+{"id":"5","cell":["5","2018","San Diego","ENRIQUE","ORTIZ","FOOD SVC WORKER","36643.00","36032.00","271.00","340.00"]},
+{"id":"6","cell":["6","2018","Berkeley","*****","*****","STDT 4","36643.00","28259.00","8384.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","JULIE L","SULLIVAN","BLANK AST 2","36642.00","36642.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","STEPHANIE","GARCIA","RESC NURSE PD","36640.00","35950.00","368.00","322.00"]},
+{"id":"9","cell":["9","2018","San Diego","OCTAVIO","GONZALEZ-LOPEZ","FOOD SVC WORKER LD","36640.00","35477.00","0.00","1163.00"]},
+{"id":"10","cell":["10","2018","Davis","MICHELLE A","ACOSTA","PARKING AST","36638.00","36192.00","293.00","153.00"]},
+{"id":"11","cell":["11","2018","San Diego","MACH GUET","GARANG","MED CTR CUSTODIAN","36638.00","33960.00","346.00","2332.00"]},
+{"id":"12","cell":["12","2018","San Diego","KRISTOFER MIKAEL","GREEN","FOOD SVC WORKER LD","36637.00","35734.00","230.00","673.00"]},
+{"id":"13","cell":["13","2018","Merced","VANESSA","ROMO ORTEGA","SRA 1","36637.00","36596.00","41.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","SY TUAN,JR.","LE","MED CTR CUSTODIAN PD","36635.00","35528.00","1107.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","PATRICIA","PICHARDO","MED CTR CUSTODIAN SR","36635.00","35976.00","637.00","22.00"]},
+{"id":"16","cell":["16","2018","Santa Cruz","CHARLES","CARLISE","LECT-AY","36635.00","36635.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","DIMITRA","CHALKIA","SRA 2 NEX","36634.00","33354.00","0.00","3280.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","36632.00","36532.00","0.00","100.00"]},
+{"id":"19","cell":["19","2018","Santa Cruz","VICTORIA EMILY","SEGURA","PHLEBOTOMIST","36632.00","36632.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","CARYN","STARK","SRA 1","36631.00","35727.00","0.00","904.00"]}]
+}

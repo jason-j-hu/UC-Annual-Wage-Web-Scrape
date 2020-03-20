@@ -1,0 +1,26 @@
+{
+"page" : "3169",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","JENNIE ELIZABETH","BIRCH","PUBLICATIONS PROD SPEC 3","82423.00","77423.00","0.00","5000.00"]},
+{"id":"2","cell":["2","2018","Irvine","DOREEN ELYASSI","TANNENBAUM","ADMIN ANL PRN 1","82421.00","82421.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Irvine","MARIETA MARTINEZ","NOWAK","CLIN NURSE 2","82421.00","74638.00","2626.00","5157.00"]},
+{"id":"4","cell":["4","2018","Davis","KATHRYN A","GIEBLER","DIETITIAN 2","82421.00","82421.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","KRYSTIN JONES","AGOR","CLIN NURSE 2","82420.00","73145.00","3275.00","6000.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","IRENE","CAMARGO","AUDIT PROFL 3","82419.00","82419.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","JUTTA","WIEMHOFF","LIBRARY MGR 1","82417.00","82417.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","LEA","DEMARCO","ADMIN ANL SR","82416.00","78566.00","0.00","3850.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","MICHAEL","THOMAS","TEACHER-UNEX","82414.00","82414.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ADAM","RADO","TEACHER-UNEX","82414.00","82414.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","HAROLD L","VICKERY","PLUMBER","82414.00","78851.00","561.00","3002.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","MINH","TRAN","ACADEMIC ADMINISTRATOR IV","82414.00","82414.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","APRIL","ALEXANDER","RSCH ADM 4","82413.00","81913.00","0.00","500.00"]},
+{"id":"14","cell":["14","2018","Davis","MATTHEW E","FORREST","LANDSCAPE GROUNDS SUPV 1","82412.00","82412.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","KELLY E","NAIR","CLIN APPLICATIONS PROFL 3","82410.00","81535.00","0.00","875.00"]},
+{"id":"16","cell":["16","2018","Irvine","CHRISTOPHER C","RAY","BUS TCHL SUPP ANL 3","82409.00","76953.00","0.00","5456.00"]},
+{"id":"17","cell":["17","2018","Berkeley","ALEXEY","TUMANOV","POSTDOC-EMPLOYEE","82408.00","82408.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","MEGHNA V","MOTIANI","HS ASST CLIN PROF-HCOMP","82408.00","35682.00","0.00","46726.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","KERRY","TRIMBLE","BUS SYS ANL 3","82405.00","82405.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","SALISA","WONG","FINANCIAL ANL 3","82404.00","82404.00","0.00","0.00"]}]
+}

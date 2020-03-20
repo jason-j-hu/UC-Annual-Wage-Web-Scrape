@@ -1,0 +1,26 @@
+{
+"page" : "8933",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","QINGYAN","ZHONG","OPS ROOM SUPP AST PD","17920.00","16017.00","488.00","1415.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ALEXANDER","STRUMWASSER","SRA 1","17919.00","17919.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","DENNIS FRANKLIN","CLARKE","LAB AST 2","17919.00","17919.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","MUHAMMAD HASNAIN","CHATHA","SRA 1","17919.00","17919.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","MICHAEL D","COHEN","JR SPECIALIST NEX","17918.00","17918.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","STEVEN T","BANKS","COACH AST 3","17918.00","0.00","0.00","17918.00"]},
+{"id":"7","cell":["7","2018","Berkeley","BRANDON","SHALD","COACH AST 2","17917.00","17917.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","LIVIA","CRUNKLETON","RSCH ADM 3","17917.00","17917.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","MARCUS","MARKLE","WRITER SR","17917.00","17917.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Riverside","KRYSTAL","JACKSON","FOOD SVC SUPV 1","17917.00","13966.00","0.00","3951.00"]},
+{"id":"11","cell":["11","2018","San Diego","VICTORIA VALENTI","TRIPPLE","SRA 2","17917.00","9570.00","0.00","8347.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","MICHELLE","ZULETTA","ADMIN CARE CLIN PARTNER PD","17916.00","17083.00","31.00","802.00"]},
+{"id":"13","cell":["13","2018","Berkeley","GRANT","DIFFENDAFFER","LAB MECHN","17915.00","17915.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","MASON T","LOUIE","APPLICATIONS PROGR 3","17915.00","8003.00","0.00","9912.00"]},
+{"id":"15","cell":["15","2018","Irvine","ROBERT HUGHES","WILSON","FIN ANL AST","17915.00","17915.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Merced","ADITYA","SOOD","ASSOC SPECIALIST","17915.00","17915.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","*****","*****","LAB AST 2","17915.00","16684.00","0.00","1231.00"]},
+{"id":"18","cell":["18","2018","San Diego","CHRISTOPHER PHIL","DOHERTY","CHEF 2","17914.00","17181.00","699.00","34.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","SARRAH JANE PERE","COSICO","CLIN NURSE 2","17913.00","10155.00","2394.00","5364.00"]},
+{"id":"20","cell":["20","2018","Irvine","DANIEL ROBERT","MCCLURE","LECT-AY-1/9","17912.00","17912.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "2920",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","SHANE DOUGLAS","WAUGH","REG RESP THER 1","87875.00","83166.00","3926.00","783.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ALBERT","MALVAEZ","TELEVISION TCHN PRN","87875.00","79177.00","8673.00","25.00"]},
+{"id":"3","cell":["3","2018","Davis","LEE ANN","MILLER","RSCH ADM 3","87875.00","86125.00","0.00","1750.00"]},
+{"id":"4","cell":["4","2018","Davis","KAREN M","ANDERSEN","BUS SYS ANL 4","87874.00","87874.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","KRISTIN M","AMLIE","EHS MGR 1","87870.00","87870.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","BRENDA","ARREOLA","PHYS PLT MECH","87870.00","82820.00","2945.00","2105.00"]},
+{"id":"7","cell":["7","2018","Davis","ADAM P","SIEGEL","LIBRARIAN-CAREER STATUS","87870.00","87870.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","LAURA ANN","MARTIN","ADMIN OFCR 3","87870.00","82872.00","0.00","4998.00"]},
+{"id":"9","cell":["9","2018","San Francisco","JENNIFER M","TREMBLAY","NURSE PD","87868.00","71244.00","584.00","16040.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ELIZABETH","FELLER","ADMIN ANL PRN 1","87868.00","83733.00","0.00","4135.00"]},
+{"id":"11","cell":["11","2018","Berkeley","CAROLYN","NESS","WRITER EDITOR 4","87868.00","87868.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Santa Barbara","CHRISTOPHER","RUSSO","INDUSTRY ALLNS SPEC 3","87867.00","87867.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","JIIN","KIM-DAINES","PHYS THER 3 NEX","87865.00","87865.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","JANAE","SIEDER","CLIN NURSE 2","87865.00","78922.00","1246.00","7697.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","SUE","BALLENTINE","CHILD DEV CTR MGR","87864.00","83416.00","0.00","4448.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","BRIANA","REESING","CLIN NURSE 2","87862.00","83997.00","514.00","3351.00"]},
+{"id":"17","cell":["17","2018","Irvine","MOISES","FLORES","HOSP LAB TCHN 3 SUPV","87860.00","67641.00","18221.00","1998.00"]},
+{"id":"18","cell":["18","2018","San Francisco","KEVIN","CHOW","HOSP LAB TCHN 3","87858.00","85979.00","354.00","1525.00"]},
+{"id":"19","cell":["19","2018","San Francisco","VANESSA","BAILEY","POLYSOMNOGRAPHY TCHNO SR","87852.00","79326.00","744.00","7782.00"]},
+{"id":"20","cell":["20","2018","San Diego","DON A.","ELLIOTT","RSCH AND DEV ENGR 2","87852.00","71496.00","16356.00","0.00"]}]
+}

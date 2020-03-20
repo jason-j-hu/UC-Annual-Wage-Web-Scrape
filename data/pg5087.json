@@ -1,0 +1,26 @@
+{
+"page" : "5087",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","JEAN","CHUNG","ASST PROJ SCIENTIST-FY","56531.00","56531.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","YOLANDA VIVIAN","VILLALOBOS","PAT BILLER 3","56530.00","55225.00","302.00","1003.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","YIMING","SU","POSTDOC-EMPLOYEE","56529.00","56529.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","GABRIELA","ALEJOS","CLIN SPEC EX","56529.00","56529.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ERIKA","ORELLANA","ADMIN ANL","56529.00","54288.00","2241.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","DEANNA","URANGA","VOC NURSE SR","56528.00","56276.00","126.00","126.00"]},
+{"id":"7","cell":["7","2018","Davis","DAISUKE L","AGARPAO","CLIN NURSE 2","56528.00","51752.00","1859.00","2917.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","*****","*****","POSTDOC-EMPLOYEE","56528.00","56528.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","JAIME H","REYES","BLANK AST 3","56527.00","56359.00","168.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ELI","FLORA","FAC MECH","56527.00","51457.00","1393.00","3677.00"]},
+{"id":"11","cell":["11","2018","San Francisco","WALTER F","GLASER","VOC REHAB SPEC 2","56525.00","54877.00","0.00","1648.00"]},
+{"id":"12","cell":["12","2018","Irvine","KERRY ANN","ZUNIGA","PERSONNEL ANL","56525.00","56518.00","7.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","ANA CR","LLORENTE IZQUIE","ASST PROJ SCIENTIST-FY","56525.00","56525.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","ITZEL YEDIDYA","REZA","ADMITTING WORKER PRN","56524.00","54057.00","1434.00","1033.00"]},
+{"id":"15","cell":["15","2018","Davis","SCOTT C","MAUTTE","CMTY EDUC SPEC 3","56524.00","56024.00","0.00","500.00"]},
+{"id":"16","cell":["16","2018","Davis","GRETTA D","HOLLAND","PUBLICATIONS PROD SPEC 3","56524.00","55484.00","161.00","879.00"]},
+{"id":"17","cell":["17","2018","San Francisco","EVE R","GOLDEN","HS ASSOC CLIN PROF-HCOMP","56523.00","36293.00","0.00","20230.00"]},
+{"id":"18","cell":["18","2018","Irvine","TINA M","LINEBERGER","RECR THER 2 NEX","56522.00","56162.00","137.00","223.00"]},
+{"id":"19","cell":["19","2018","Riverside","KANISHA","ROBINSON","EXEC AST 3","56522.00","55182.00","140.00","1200.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","EDUARDO","MIRANDA","ACCESS REPR PRN","56522.00","47842.00","2669.00","6011.00"]}]
+}

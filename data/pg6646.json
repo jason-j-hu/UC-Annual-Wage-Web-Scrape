@@ -1,0 +1,26 @@
+{
+"page" : "6646",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","WENDELL RABI","MARASIGAN","ULTRASOUND TCHNO SR PD","41805.00","41272.00","292.00","241.00"]},
+{"id":"2","cell":["2","2018","San Francisco","DOMINIC S","SOBREPENA","TCHN","41804.00","40586.00","1218.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","JERMAINE","JOHNSON","CARPENTER APPR","41804.00","41482.00","0.00","322.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","SAMANTHA","BRADLEY","BLANK AST 2","41803.00","41471.00","332.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","ALAIDE MARI","CORDON-MULBRY","RECR PRG LEADER 2","41803.00","41803.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","ZIRAN","ZHANG","POSTDOC-EMPLOYEE","41803.00","41803.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","PETER","VAHLE","LECT-AY","41803.00","30095.00","0.00","11708.00"]},
+{"id":"8","cell":["8","2018","San Francisco","CATHERINE","AREVALO","CLIN RSCH CRD","41802.00","41802.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","DEBORA D","BONOVICH","BLANK AST 2","41802.00","40867.00","935.00","0.00"]},
+{"id":"10","cell":["10","2018","Santa Cruz","JORAINE L","MCKELLAR","BLANK AST 3","41802.00","41652.00","0.00","150.00"]},
+{"id":"11","cell":["11","2018","UCOP","YERDUA","CAESAR-KAPTOECH","ADMISSIONS RECRMT SPEC 4","41802.00","41802.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","DIAMOND SHANTELL","HAMPTON","PRACTICE CRD 2","41801.00","40781.00","0.00","1020.00"]},
+{"id":"13","cell":["13","2018","Berkeley","LENORA","AVILA","BLANK AST 3","41800.00","23450.00","14.00","18336.00"]},
+{"id":"14","cell":["14","2018","San Francisco","YUKI","OKAWA","POSTDOC-EMPLOYEE","41798.00","41798.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","DAVID K","PALMER","HOSP BLANK AST 1","41798.00","37087.00","2746.00","1965.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","41797.00","41797.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","CASS","STEVENS","ELECTR TCHN SR","41796.00","38272.00","0.00","3524.00"]},
+{"id":"18","cell":["18","2018","Berkeley","LISA","RAGER","FUNDRAISER 3","41794.00","40834.00","0.00","960.00"]},
+{"id":"19","cell":["19","2018","Berkeley","*****","*****","GSR-FULL FEE REM","41794.00","41794.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","CAROLYN","ERB","CLIN SPEC EX","41793.00","41793.00","0.00","0.00"]}]
+}

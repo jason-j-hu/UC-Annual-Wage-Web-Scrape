@@ -1,0 +1,26 @@
+{
+"page" : "8879",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","WOONGJAE","YOO","POSTDOC-EMPLOYEE","18450.00","18450.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","KEVIN ANDREW","GORDON","ADMIN ANL","18449.00","18168.00","45.00","236.00"]},
+{"id":"3","cell":["3","2018","San Diego","ROBERT CHARLES","FALLONE","NURSE PD","18449.00","18030.00","343.00","76.00"]},
+{"id":"4","cell":["4","2018","San Francisco","DEBRA","OUYANG","LAB AST 1","18448.00","17978.00","144.00","326.00"]},
+{"id":"5","cell":["5","2018","San Francisco","JANE MEI","WEI","PROJECT POLICY ANL 1","18447.00","18447.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","RODOLFO R","VALERA","HOSP LAB TCHN 2 PD","18447.00","18167.00","0.00","280.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","18447.00","18447.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","18446.00","12515.00","0.00","5931.00"]},
+{"id":"9","cell":["9","2018","Berkeley","ISAIAH","MITCHELL","GEN ACCOUNTANT 2","18446.00","18446.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","LINGLING","WANG","POSTDOC-EMPLOYEE","18446.00","18446.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","18445.00","15753.00","0.00","2692.00"]},
+{"id":"12","cell":["12","2018","San Francisco","CHRIS L","PERRY","CLIN LIC SOCIAL WORKER PD","18444.00","18356.00","0.00","88.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","*****","*****","STDT 4","18443.00","16676.00","1366.00","401.00"]},
+{"id":"14","cell":["14","2018","Merced","*****","*****","GSR-PARTIAL FEE REM","18442.00","18442.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Merced","*****","*****","TEACHG ASST-GSHIP","18442.00","18442.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Merced","*****","*****","GSR-PARTIAL FEE REM","18442.00","18442.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","SHELBY LYNNE","SASS","EMERGENCY TRAUMA TCHN PD","18442.00","17658.00","439.00","345.00"]},
+{"id":"18","cell":["18","2018","Irvine","*****","*****","TEACHG ASST-GSHIP","18441.00","18341.00","0.00","100.00"]},
+{"id":"19","cell":["19","2018","Irvine","TRACI LYNN","DICIAULA","ADMIN ANL SR","18441.00","14631.00","0.00","3810.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","DESIRAE E","VANEK","ADV OFCR 2","18441.00","17315.00","0.00","1126.00"]}]
+}

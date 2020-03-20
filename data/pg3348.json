@@ -1,0 +1,26 @@
+{
+"page" : "3348",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","MORGAN S","VAISSET-FAUVEL","LANDSCAPE GROUNDS SUPV 1","78783.00","73081.00","1389.00","4313.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","IVAN","MARTINEZ","MGT SVC OFCR 2 SUPV","78783.00","78783.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","KELLY K.","KAO","HEALTH EDUCATOR 4","78783.00","78783.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","KAREN RUTH","VALLEJO","TEACHER-UNEX","78781.00","78781.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","JOSE A","ARENAS","ACADEMIC ADMINISTRATOR III","78781.00","78781.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Santa Cruz","TRUNG THANG","TRAN","APPLICATIONS PROGR 3","78780.00","78780.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","JULIA L","JENSEN","EHS SPEC 2 NEX","78780.00","75979.00","0.00","2801.00"]},
+{"id":"8","cell":["8","2018","San Diego","STEPHEN WINSTON","ROBERTS","RSCH AND DEV ENGR 3","78777.00","78777.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","MARCIA","DEGELMAN","CLINICIAN SCHED UNSCHED","78775.00","76296.00","309.00","2170.00"]},
+{"id":"10","cell":["10","2018","Riverside","KYOKO","SAGAWA","LECT-AY-CONTINUING","78775.00","78050.00","0.00","725.00"]},
+{"id":"11","cell":["11","2018","Irvine","ADRIENNE LEE","BUCKINGHAM","MGT SVC OFCR 3 SUPV","78773.00","73829.00","0.00","4944.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","LEA M","SCARPELLI","TELEVISION ENGR","78773.00","78773.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","NICOLE","MEASLES","ADMIN ANL PRN 2","78771.00","78271.00","0.00","500.00"]},
+{"id":"14","cell":["14","2018","Berkeley","ANASTASIA","MEADORS","PUBL EDUC MGR 1","78770.00","78770.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","RENE","ARCE-CAMACHO","HOSP LAB TCHN 2","78769.00","71175.00","3432.00","4162.00"]},
+{"id":"16","cell":["16","2018","San Francisco","VIVIAN","LEON","NURSE PD","78768.00","66860.00","337.00","11571.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","YONGYUDH","SRIMANGERN","CLIN CARE PARTNER","78767.00","49673.00","19548.00","9546.00"]},
+{"id":"18","cell":["18","2018","Davis","WENJUN","ZHANG","SPECIALIST","78767.00","78767.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","PATRICIA","PERAZA","BLANK AST 3","78766.00","67118.00","10466.00","1182.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","KEVIN","NGUYEN","DEV ENGR ASC","78766.00","78766.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "4484",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","NICOLE","JACKSON","PHARMACY TCHN 2","62522.00","60082.00","1994.00","446.00"]},
+{"id":"2","cell":["2","2018","San Diego","RENEE","LEE","STDT SVC ADVISOR 3","62522.00","61617.00","0.00","905.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","KARINA","GARCIA","STDT AFFAIRS OFCR 3 EX","62520.00","61520.00","0.00","1000.00"]},
+{"id":"4","cell":["4","2018","San Diego","GERALD LEE","SHELDON","CUSTODIAL SUPV 1","62520.00","61520.00","0.00","1000.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","AMANDA","MACK","ASSOC LIBRARIAN -CAREER STATUS","62519.00","62519.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Merced","ELIZABETH","SALMON","ASSOC LIBRARIAN -CAREER STATUS","62519.00","62519.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","MARYAM","FALAHPOUR GHADI","RSCH AND DEV ENGR 2","62519.00","60019.00","0.00","2500.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","PATRICK","LACY","MED CTR STOREKEEPER LD","62518.00","54179.00","6457.00","1882.00"]},
+{"id":"9","cell":["9","2018","Davis","CATHERINE A","CODA","ADMIN MGR 1","62518.00","56430.00","0.00","6088.00"]},
+{"id":"10","cell":["10","2018","Davis","KEVIN M","CODY","NURSE PD","62517.00","49163.00","11193.00","2161.00"]},
+{"id":"11","cell":["11","2018","Irvine","NICOLA J","BLAKE","PROJ SCIENTIST-FY","62517.00","62517.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","KATHERINE DIANE","BACCA","ADMIN ANL SR SUPV","62515.00","56990.00","3094.00","2431.00"]},
+{"id":"13","cell":["13","2018","Davis","MICHELE NICOLE","BYRNES","CMTY EDUC SPEC 4","62514.00","62214.00","0.00","300.00"]},
+{"id":"14","cell":["14","2018","Riverside","BECKY","CAMPBELL","FINANCIAL ANL 2","62514.00","59014.00","0.00","3500.00"]},
+{"id":"15","cell":["15","2018","Davis","PEGGY L","MARTIN","BLANK AST 3","62513.00","57841.00","4672.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","ARCHANA","RAJA","POSTDOC-EMPLOYEE","62512.00","62512.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","OSCAR","JORDA","PROF-AY-B/E/E","62512.00","62512.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","WENDY","CABRERA PEREZ","OPHTHALMIC TCHN LD 3","62512.00","61624.00","595.00","293.00"]},
+{"id":"19","cell":["19","2018","Davis","GISELLE B","HUYBRECHT","NURSE PD","62512.00","56059.00","1281.00","5172.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","DAVID","RINCON","CMTY HEALTH PRG SUPV","62512.00","62512.00","0.00","0.00"]}]
+}

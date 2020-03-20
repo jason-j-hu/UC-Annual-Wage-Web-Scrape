@@ -1,0 +1,26 @@
+{
+"page" : "3023",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","CAROLYN","KOO","EXEC AST 3","85496.00","74975.00","0.00","10521.00"]},
+{"id":"2","cell":["2","2018","San Francisco","DAVID M.","GRADY","ADMIN OFCR 3","85495.00","85495.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","LUIS FELIPE","TIRADO","COMM AND NETWORK TCHL ANL 3","85495.00","85495.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Merced","SOMNATH","SINHA","LECT-AY","85494.00","55327.00","0.00","30167.00"]},
+{"id":"5","cell":["5","2018","Berkeley","LINDA","WATERFIELD","REGISTRAR COLL SUPV 2","85493.00","85493.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","ALEXANDRA ROSE","DIBERNARDO","CLIN NURSE 2","85492.00","65067.00","7142.00","13283.00"]},
+{"id":"7","cell":["7","2018","Berkeley","ASMA","KAZMI","ASST PROF-AY","85492.00","85292.00","0.00","200.00"]},
+{"id":"8","cell":["8","2018","Berkeley","DELIA","CASADEI","ASST PROF-AY","85492.00","85292.00","0.00","200.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","NOELA","HUESO","ADMIN ANL SR","85491.00","85491.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","RYAN M","BURGESS","HIGH VOLT ELECTRN APPR","85491.00","74838.00","10153.00","500.00"]},
+{"id":"11","cell":["11","2018","Davis","ROSANNA D","ALBASON","HOSP LAB TCHN 1","85491.00","69097.00","9877.00","6517.00"]},
+{"id":"12","cell":["12","2018","San Diego","GAYATRI","SINGH","LIBRARIAN-CAREER STATUS","85487.00","85487.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","UCOP","DIVINIA","SANTIAGO","FINANCIAL SVC ANL 3","85486.00","85486.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","ANEESH C.","SUBRAMANIAN","ASST PROJ SCIENTIST-FY","85483.00","85483.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","SHARON L","HUNTSMAN","TEACHER-UNEX-CONTRACT YR","85481.00","58686.00","0.00","26795.00"]},
+{"id":"16","cell":["16","2018","Riverside","DAVID","BOMBA","FAC PROJECT MGT SPEC 3","85481.00","85481.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","MICHAEL A","BROWN","RSCH ADM 3","85479.00","85479.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","SUSANNA","PASTELL","RSCH ADM 3","85479.00","85479.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Irvine","SUSIE ANN CASUGA","JULIAN","CLIN LAB SCI SPEC","85478.00","85478.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Riverside","TIMOTHY","BALLARD","LECT-AY-CONTINUING","85478.00","78845.00","0.00","6633.00"]}]
+}

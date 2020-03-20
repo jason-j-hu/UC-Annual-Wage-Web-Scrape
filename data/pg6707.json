@@ -1,0 +1,26 @@
+{
+"page" : "6707",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","LUCY","BRANDAUER","STOREKEEPER SR","41107.00","40596.00","115.00","396.00"]},
+{"id":"2","cell":["2","2018","San Francisco","JOSHUA J","EMERICK","ANESTHETIST NURSE SR NEX","41106.00","39295.00","914.00","897.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","ROSLYN","OWENS","BLANK AST 1","41106.00","40663.00","443.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","REYNA","MUNOZ","CUSTODIAN SR","41104.00","39879.00","1225.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","BRITT B","THOMAS-BROWN","MED AST 2 PD","41103.00","39810.00","333.00","960.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","MARIO","MAGDALENO-AREVALO","MED CTR COOK PD","41101.00","38555.00","1911.00","635.00"]},
+{"id":"7","cell":["7","2018","San Diego","JAMIE J","TRIAS","BLANK AST 2","41101.00","40888.00","0.00","213.00"]},
+{"id":"8","cell":["8","2018","Berkeley","*****","*****","GSR-FULL FEE REM","41099.00","41099.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","41098.00","41098.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Santa Cruz","HILDA M","CATANO DE PEREZ","FOOD SVC SUPV 1","41098.00","40214.00","884.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","MELISSA ANN","TATULLI","CHILD DEV CTR TEACHER 1","41096.00","39837.00","0.00","1259.00"]},
+{"id":"12","cell":["12","2018","Santa Barbara","JUSTIN","LEUNG","BLANK AST 3","41095.00","41095.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","VICKIE LUERINE","EDWARDS","BLANK AST 3","41095.00","41055.00","40.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","SANDRA WATERS","KLEIN","MGR","41093.00","36952.00","0.00","4141.00"]},
+{"id":"15","cell":["15","2018","Davis","GOLOKA B","SAHOO","PROJ SCIENTIST-FY","41092.00","41092.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","SAUL","GUERRERO","CUSTODIAN SR","41092.00","39747.00","16.00","1329.00"]},
+{"id":"17","cell":["17","2018","Riverside","CAROL","GONZALEZ","BLANK AST 3","41092.00","40891.00","201.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","*****","*****","INTRM POSTDOC SCHOLAR-EMPLOYEE","41091.00","41091.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","JANLYN","KONG","PRACTICE CRD 3","41091.00","38813.00","2278.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Cruz","MICHAEL WILLIAM","MURPHY","BLDG MAINT WORKER","41091.00","42642.00","61.00","-1612.00"]}]
+}

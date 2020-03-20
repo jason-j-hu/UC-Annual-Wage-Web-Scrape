@@ -1,0 +1,26 @@
+{
+"page" : "4117",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","ANDREW ROBERT","ARELLANO","HEALTH PROFNS EDUC SPEC 2","66809.00","66225.00","584.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","AMANDA N","CARIOGGIA","RSCH CMPLNC ANL 3","66809.00","62730.00","437.00","3642.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","DAVID","SANDERS","EVENTS SPEC 3","66809.00","66688.00","121.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","DELIA B","OPPERMAN","VOC NURSE SR","66808.00","61041.00","4424.00","1343.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","JULIA","KAMINER","VOC NURSE SR","66807.00","65444.00","249.00","1114.00"]},
+{"id":"6","cell":["6","2018","San Francisco","THEO M","ARJONA","BLANK AST 3","66806.00","64070.00","1761.00","975.00"]},
+{"id":"7","cell":["7","2018","Berkeley","JULIE","GREENE","STDT DISABILITY SPEC 4","66805.00","66305.00","0.00","500.00"]},
+{"id":"8","cell":["8","2018","San Francisco","WENDY ALLISON","SAUNDERS","BLANK AST 3","66804.00","65664.00","0.00","1140.00"]},
+{"id":"9","cell":["9","2018","San Diego","NILOOFAR","AFARI","PROF IN RES-HCOMP","66804.00","46804.00","0.00","20000.00"]},
+{"id":"10","cell":["10","2018","Davis","NICOLE E","TAUTGES","ACADEMIC COORD I-FY","66803.00","66653.00","0.00","150.00"]},
+{"id":"11","cell":["11","2018","San Francisco","ORIOL","ZALES","ADMIN OFCR 2","66802.00","66802.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","ERIC M","LONG","HVY EQUIP OPS ENGR","66802.00","66802.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","66802.00","60552.00","0.00","6250.00"]},
+{"id":"14","cell":["14","2018","Davis","ALAN J","MAZZOLENI","HVY EQUIP OPS ENGR","66802.00","66802.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","CARA LYNN","QUIROZ","PHARMACY TCHN 3","66801.00","64750.00","1047.00","1004.00"]},
+{"id":"16","cell":["16","2018","San Diego","BETSY TORDECILLA","IMPRESO","PHARMACY TCHN 3","66798.00","58232.00","3927.00","4639.00"]},
+{"id":"17","cell":["17","2018","Riverside","NORMA","PALACIOS","STDT ADVISOR SUPV 2","66797.00","66197.00","0.00","600.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","STELLA","ARRETCHE","ADMIN ANL","66797.00","65102.00","1195.00","500.00"]},
+{"id":"19","cell":["19","2018","Berkeley","MELISSA","CHAN","FUNDRAISER 2 NEX","66796.00","66296.00","0.00","500.00"]},
+{"id":"20","cell":["20","2018","San Diego","THOMAS P","JARRETT","VOC NURSE SR","66796.00","65316.00","478.00","1002.00"]}]
+}

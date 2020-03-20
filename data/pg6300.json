@@ -1,0 +1,26 @@
+{
+"page" : "6300",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","MARYSOL","RAMIREZ","MED AST 3","45505.00","45225.00","131.00","149.00"]},
+{"id":"2","cell":["2","2018","San Francisco","MAYA M","SHEPARD","RSCH ADM 2","45504.00","45082.00","219.00","203.00"]},
+{"id":"3","cell":["3","2018","Irvine","DONALD A,JR","ZOELLERS","BLDG MAINT WORKER SR","45504.00","45066.00","438.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","ERICA","BARKELEY","FOOD SVC WORKER LD","45504.00","41972.00","1978.00","1554.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","DANIEL E","VASQUEZ","ADMIN SPEC","45504.00","38149.00","959.00","6396.00"]},
+{"id":"6","cell":["6","2018","Irvine","NGA","STANFILL","MED RCDS AST SR","45503.00","44345.00","138.00","1020.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","ISMAEL","RODRIGUEZ","COOK AST","45502.00","43150.00","1011.00","1341.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","SUPRITA","SRINIVAS","IT ARCHITECT 3","45501.00","45501.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Riverside","LEI","SONG","VIS ASST PROF","45500.00","45500.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","MATHEW RYAN","LEATHERMAN","STDT SVC ADVISOR 2","45500.00","45350.00","0.00","150.00"]},
+{"id":"11","cell":["11","2018","San Francisco","JESSICA","TSUI","SRA 2 NEX","45499.00","41266.00","4233.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","ANGELINA E","VALDEZ","MED OFC SVC CRD 2","45499.00","44176.00","231.00","1092.00"]},
+{"id":"13","cell":["13","2018","Berkeley","CUIFANG","DENG","CUSTODIAN SR","45499.00","44525.00","886.00","88.00"]},
+{"id":"14","cell":["14","2018","Berkeley","KRISTIE","DINH","PUBL EDUC SPEC 2","45498.00","45498.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","*****","*****","ADMIN ANL","45498.00","45498.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","QIANG","WANG","NEURO TCHNO SR","45497.00","33258.00","1707.00","10532.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","BENJAMIN","AZUNNA","CUSTODIAN SR","45495.00","43353.00","755.00","1387.00"]},
+{"id":"18","cell":["18","2018","Berkeley","ABHIJEET","PAUL","LECT-AY","45494.00","31246.00","0.00","14248.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","MARK","PLUMERI","ELECTR TCHN PRN","45493.00","39187.00","288.00","6018.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","MARIA","HERNANDEZ-MARTINEZ","BLANK AST 2","45493.00","45342.00","151.00","0.00"]}]
+}

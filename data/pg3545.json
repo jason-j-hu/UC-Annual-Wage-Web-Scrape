@@ -1,0 +1,26 @@
+{
+"page" : "3545",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","MALLORY L","CAIN","BEH HEALTH PSYCHIATRIC SUPV 2","75231.00","75231.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Berkeley","LISA","FERRARI","FAC MGT SPEC 4","75231.00","74231.00","0.00","1000.00"]},
+{"id":"3","cell":["3","2018","San Diego","JENNIFER BENTLEY","YORE","SURVEY RESEARCHER SUPV 2","75230.00","71500.00","0.00","3730.00"]},
+{"id":"4","cell":["4","2018","San Diego","BREANNE MICHELLE","TOPPER","EMPLOYMENT REPR 3","75229.00","73929.00","0.00","1300.00"]},
+{"id":"5","cell":["5","2018","Berkeley","ELENA","MONTOYA","PROJECT POLICY ANL 3","75228.00","75228.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","75225.00","58497.00","0.00","16728.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","CARLOS","MURT","PAINTER","75225.00","70183.00","4984.00","58.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","CAROLINE","KORKOUNIAN","CLIN NURSE 2","75224.00","69773.00","354.00","5097.00"]},
+{"id":"9","cell":["9","2018","Davis","LAYNE H","PAUL","ORTHOPEDIC TCHN SR","75224.00","69799.00","3043.00","2382.00"]},
+{"id":"10","cell":["10","2018","Davis","HAYDEE","PINEDA-JOHNSON","HEALTH PROFNS EDUC SUPV 1","75223.00","70873.00","0.00","4350.00"]},
+{"id":"11","cell":["11","2018","Berkeley","JAZMINE","CASTANEDA","HR GENERALIST 3","75223.00","74723.00","0.00","500.00"]},
+{"id":"12","cell":["12","2018","San Francisco","RENEE NICOLE","ALVAREZ","PRACTICE CRD 3","75222.00","74013.00","69.00","1140.00"]},
+{"id":"13","cell":["13","2018","Davis","FRANK J","GONZALES","PAINTER","75222.00","72405.00","0.00","2817.00"]},
+{"id":"14","cell":["14","2018","San Francisco","MELISSA D","CONRAD","ADJ INSTR-HCOMP","75221.00","66208.00","0.00","9013.00"]},
+{"id":"15","cell":["15","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","75221.00","63076.00","0.00","12145.00"]},
+{"id":"16","cell":["16","2018","San Francisco","JAMES R","PALMER","FAC MGT SPEC 2","75221.00","74504.00","717.00","0.00"]},
+{"id":"17","cell":["17","2018","Irvine","KIELEY S","COCKRELL","ADMIN ANL SR","75221.00","73305.00","0.00","1916.00"]},
+{"id":"18","cell":["18","2018","Irvine","YUDY M","SALAZAR","ADMIN ANL SR","75220.00","72241.00","0.00","2979.00"]},
+{"id":"19","cell":["19","2018","San Francisco","JOSEPHINE","CLAXTON","ADMIN MGR 1","75218.00","68842.00","0.00","6376.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","NASIM","BUKSH","HOSP LAB TCHN 4 SUPV EX","75218.00","72218.00","0.00","3000.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "6908",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","ASHLEY G","BOYD","CLIN NURSE 2","38730.00","34621.00","1744.00","2365.00"]},
+{"id":"2","cell":["2","2018","San Francisco","ROGER NIRO","LABRADOR","COOK","38730.00","35175.00","995.00","2560.00"]},
+{"id":"3","cell":["3","2018","San Francisco","MEGAN MARIE PAED","APELLANES","ADMITTING WORKER SR PD","38730.00","33816.00","589.00","4325.00"]},
+{"id":"4","cell":["4","2018","Irvine","ADA LORENE","LIZASO","CLIN NURSE 2","38730.00","34119.00","2059.00","2552.00"]},
+{"id":"5","cell":["5","2018","Davis","CAMERON L","FITZWATER","CLIN NURSE 1","38729.00","33496.00","1335.00","3898.00"]},
+{"id":"6","cell":["6","2018","Berkeley","TAJANEA","ROBINSON","CUSTODIAN","38729.00","37712.00","1017.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","VANESSA M","DULAY","PRACTICE CRD 3","38728.00","37077.00","639.00","1012.00"]},
+{"id":"8","cell":["8","2018","Irvine","ISMAEL","GARCIA","CUSTODIAN","38727.00","37481.00","21.00","1225.00"]},
+{"id":"9","cell":["9","2018","Berkeley","GARY","DOMINGO","CHILD DEV CTR AST","38726.00","38210.00","516.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","CHRISTIAN","SNELL","ADMIN ANL SR SUPV","38726.00","31647.00","0.00","7079.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","GUILLERMO","PORTILLO","MED CTR FOOD SVC WORKER PRN","38725.00","37916.00","665.00","144.00"]},
+{"id":"12","cell":["12","2018","Santa Barbara","ALBERTO","REYES","COOK","38723.00","38342.00","381.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","CHARITO","MELARA ZEPEDA","CUSTODIAN","38722.00","38365.00","357.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","AMANDA LYNN","WEBB","PHYSCN AST","38720.00","38642.00","78.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","KELLY L","BROWN","BLANK AST 1","38720.00","38240.00","480.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","LAILANIE","GONZALEZ","HOSP AST 3 PD","38720.00","36965.00","1755.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","*****","*****","POSTDOC-EMPLOYEE","38718.00","38718.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","CHRISTIANA A","KALEIALII","ATH TRAINER 3","38717.00","34750.00","0.00","3967.00"]},
+{"id":"19","cell":["19","2018","San Diego","DONNA MA","COBARRUBIA-RAMO","PHLEBOTOMIST CERT TCHN 2","38717.00","32775.00","806.00","5136.00"]},
+{"id":"20","cell":["20","2018","Berkeley","KIMBERLY","SPRINGER","RADLG TCHNO PD","38716.00","37882.00","834.00","0.00"]}]
+}

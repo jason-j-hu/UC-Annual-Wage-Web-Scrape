@@ -1,0 +1,26 @@
+{
+"page" : "2476",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","MARILOU G","GALLETLY","HOSP LAB TCHN 2","98845.00","89716.00","920.00","8209.00"]},
+{"id":"2","cell":["2","2018","Santa Cruz","ABBY L","TROMBLEE","PAYROLL ANL 5","98841.00","97142.00","0.00","1699.00"]},
+{"id":"3","cell":["3","2018","San Diego","OSCAR","RAMOS","K-12 INSTRUCTOR-AY","98841.00","96441.00","0.00","2400.00"]},
+{"id":"4","cell":["4","2018","San Francisco","ELEANOR S","MARK","APPLICATIONS PROGR 3","98840.00","98840.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","MARIAN G","EDMONDS","CLIN NURSE 2","98839.00","85692.00","5551.00","7596.00"]},
+{"id":"6","cell":["6","2018","Irvine","JOSEPH ANTHONY","AYOUB","DIR AST","98838.00","97838.00","0.00","1000.00"]},
+{"id":"7","cell":["7","2018","San Diego","MOSES ENITAN","AWOTONA","BIOMED EQUIP TCHN 2","98836.00","76777.00","4352.00","17707.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","NICHOLAS","MANFREDONIA","ADMIN OFCR 3","98834.00","98834.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","QUOC DAT","TRAN","HISTO TCHNO 1","98830.00","90938.00","1054.00","6838.00"]},
+{"id":"10","cell":["10","2018","Irvine","DANIEL","WANG","PROGR ANL 3","98830.00","98830.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","MAGDALENA","MLECZKO","FINANCIAL ANL 3","98829.00","98829.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","HARVEEN","KUKREJA","ADM CRD OFCR","98828.00","98828.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","ARCADIA L","CRUZ","CLIN RSCH SUPV 1","98827.00","97327.00","0.00","1500.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","PATRICIA","TAN","HS ASST CLIN PROF-HCOMP","98826.00","98826.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","DANA G.","MATHES","WRITER EDITOR 4 GF","98823.00","98823.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","KEVIN M.","HUIE","MGR","98823.00","98823.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","MICHELLE","LEE","ADMIN ANL SR","98823.00","98823.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","HOA","NGUYEN","CLIN LAB SCI","98822.00","81870.00","1310.00","15642.00"]},
+{"id":"19","cell":["19","2018","San Francisco","JACK SORIANO","WHITEFORD","RSCH ADM 4","98820.00","98820.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","JENICA E","CIMINO","QLTY IMPV HC SPEC 4","98817.00","93211.00","0.00","5606.00"]}]
+}

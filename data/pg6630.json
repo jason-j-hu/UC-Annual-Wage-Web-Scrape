@@ -1,0 +1,26 @@
+{
+"page" : "6630",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","BEN","CORR","RECR PRG INSTR 2","41989.00","23610.00","1385.00","16994.00"]},
+{"id":"2","cell":["2","2018","Irvine","MARIA TERESA S","AIKEN","MED CTR FOOD SVC WORKER SR","41989.00","39340.00","2228.00","421.00"]},
+{"id":"3","cell":["3","2018","Davis","BRANDON M","MINER","PHARMACY TCHN 2 PD","41989.00","38927.00","1144.00","1918.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","SHAHANI","WAAS","ADMIN ANL SR","41989.00","41989.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","SILVIA","TRUJILLO","CHILD DEV CTR TEACHER 2","41988.00","41988.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","NATALIE CONSUEL","RODRIGUEZ","VOC NURSE SR","41988.00","41238.00","0.00","750.00"]},
+{"id":"7","cell":["7","2018","Merced","ALICE","CASTELLANOS","CUSTODIAN SR","41988.00","39758.00","806.00","1424.00"]},
+{"id":"8","cell":["8","2018","Irvine","MARIANN A.","HOWLAND","SRA 3","41987.00","37818.00","0.00","4169.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","FELIPE","LUIS","FOOD SVC WORKER SR","41987.00","33984.00","6510.00","1493.00"]},
+{"id":"10","cell":["10","2018","San Francisco","YUAN YUAN","LI","PAT SUPP AST","41985.00","31910.00","2369.00","7706.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","JORGE","VELAZQUEZ","MED CTR COOK","41985.00","39372.00","1747.00","866.00"]},
+{"id":"12","cell":["12","2018","Davis","VINCENT ANTHONY","DOYLE","TCHN","41985.00","40269.00","371.00","1345.00"]},
+{"id":"13","cell":["13","2018","San Francisco","DAVID CONROY","TRENT","DENTIST SR","41984.00","41484.00","0.00","500.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","EDUARDO","SAUCEDO ALVAREZ","FOOD SVC MGR AST SUPV","41984.00","38794.00","3221.00","-31.00"]},
+{"id":"15","cell":["15","2018","Davis","*****","*****","TEACHG ASST-GSHIP","41984.00","22842.00","0.00","19142.00"]},
+{"id":"16","cell":["16","2018","Berkeley","*****","*****","GSR-TUIT & FEE REM","41984.00","41984.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","LLOYD L.","GREEN","RSCH AND DEV ENGR 4","41983.00","41983.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ALEXANDRA RILEY","HOLLIHAN","PUBL ADMSTN ANL SR","41982.00","41982.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","DORSHAE","MIDDLETON","BELL ATTENDANT","41981.00","39787.00","1056.00","1138.00"]},
+{"id":"20","cell":["20","2018","San Diego","DOLORES LOUISE","SANTANA","ADMIN OFCR 2","41981.00","38620.00","5.00","3356.00"]}]
+}

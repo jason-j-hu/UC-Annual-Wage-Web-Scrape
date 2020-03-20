@@ -1,0 +1,26 @@
+{
+"page" : "4985",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","CHENITRIA","MCKENZIE","BLANK AST 3","57517.00","57517.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","HEIDE W.","TRIMBLE","RSCH ADM 2","57517.00","54517.00","0.00","3000.00"]},
+{"id":"3","cell":["3","2018","Irvine","ROSSANA","DESROCHERS","BLANK AST 2","57515.00","56622.00","53.00","840.00"]},
+{"id":"4","cell":["4","2018","San Diego","KYLE CHARLES","DYKES","DIGITAL COMM SPEC 3","57514.00","56514.00","0.00","1000.00"]},
+{"id":"5","cell":["5","2018","San Diego","ROCHELLE A","SORIANO","MED AST 2","57514.00","50123.00","6359.00","1032.00"]},
+{"id":"6","cell":["6","2018","San Diego","JENNIFER NOELLE","HENRY","LABOR REL REPR 4","57513.00","57513.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","KARINA","SERVIN","MED CTR CUSTODIAN","57513.00","38685.00","17373.00","1455.00"]},
+{"id":"8","cell":["8","2018","Berkeley","VLADIMIR","SHCHUR","POSTDOC-EMPLOYEE","57512.00","57512.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","LUYI","LI","SRA 3","57512.00","57512.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","AIDA","RIVERA","COLL REPR SR","57512.00","57229.00","0.00","283.00"]},
+{"id":"11","cell":["11","2018","Davis","LUIS","CASTILLO CHARPE","POSTDOC-EMPLOYEE","57512.00","57512.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","DOLLY","BRICKLEY","BLANK AST 3","57512.00","57229.00","0.00","283.00"]},
+{"id":"13","cell":["13","2018","Davis","ANDREW","HAMILTON","POSTDOC-EMPLOYEE","57512.00","57512.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","SONG","CHEN","POSTDOC-EMPLOYEE","57512.00","57512.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Riverside","BRANDON","LE","POSTDOC-EMPLOYEE","57512.00","57512.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","YASSER","ABOELKASSEM","POSTDOC-EMPLOYEE","57512.00","57512.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","SUNGMIN","SON","POSTDOC-EMPLOYEE","57512.00","57512.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","WAN","LI","POSTDOC-EMPLOYEE","57512.00","57512.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","LATOYA M.","LEA","BLANK AST 3","57509.00","56582.00","27.00","900.00"]},
+{"id":"20","cell":["20","2018","Davis","JAMES E","MOWBRAY","STERILE PROCESSING TCHN 2 PD","57509.00","52796.00","1566.00","3147.00"]}]
+}

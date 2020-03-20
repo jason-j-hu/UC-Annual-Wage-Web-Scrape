@@ -1,0 +1,26 @@
+{
+"page" : "5188",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","BO","ZHANG","POSTDOC-EMPLOYEE","55590.00","55590.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Irvine","MAHUL","CHAKRABORTY","POSTDOC-EMPLOYEE","55590.00","55590.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","55590.00","55156.00","0.00","434.00"]},
+{"id":"4","cell":["4","2018","Davis","CAILIN M","SEVA","MARKETING SPEC 3","55590.00","55340.00","0.00","250.00"]},
+{"id":"5","cell":["5","2018","Davis","EKATERINA","MIKHAYLOVA","POSTDOC-EMPLOYEE","55590.00","55590.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","KAPIL","AMARNATH","POSTDOC-EMPLOYEE","55590.00","55590.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","NICKLAUS FAJARDO","RODRIGUEZ","HOSP UNIT SVC CRD 3","55589.00","53579.00","817.00","1193.00"]},
+{"id":"8","cell":["8","2018","Davis","OSCAR GIOVANNI","LOPEZ","ADMISSIONS RECRMT SPEC 3","55589.00","55589.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","SHIRLEY A","DAFFIN","CLIN NURSE 3","55589.00","44949.00","2589.00","8051.00"]},
+{"id":"10","cell":["10","2018","Davis","TULSI A","SHARMA","PAT BILLER 2","55587.00","54246.00","1341.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","DRAKE","BLACKMON","FAC MGT SPEC 2","55586.00","55546.00","40.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","THEA M","MATTHEWS","PROJECT POLICY ANL 1","55586.00","55586.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","MARCOS","FUENTES","MGT SVC OFCR 2 SUPV","55586.00","54786.00","0.00","800.00"]},
+{"id":"14","cell":["14","2018","San Diego","LA SHON WYNEE","SMITH","BLANK AST 3","55586.00","51795.00","2015.00","1776.00"]},
+{"id":"15","cell":["15","2018","Irvine","HASSAN RAYSHAD","WASHINGTON","PAT BILLER 3","55585.00","54925.00","0.00","660.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","ELEONORE","KIRESICH","HS ASST CLIN PROF-HCOMP","55585.00","28578.00","0.00","27007.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","EILEEN","DE JESUS","PAT BILLER 3","55583.00","54339.00","163.00","1081.00"]},
+{"id":"18","cell":["18","2018","Riverside","QIXUAN","WANG","ASST PROF-AY","55583.00","36250.00","0.00","19333.00"]},
+{"id":"19","cell":["19","2018","Davis","GWENNER G","MILLER","FINANCIAL AID OFCR 2","55582.00","54533.00","164.00","885.00"]},
+{"id":"20","cell":["20","2018","Davis","REYNATO C","EDNILAO","MED CTR COOK SR","55582.00","52569.00","2493.00","520.00"]}]
+}

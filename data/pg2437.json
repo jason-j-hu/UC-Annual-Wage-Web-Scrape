@@ -1,0 +1,26 @@
+{
+"page" : "2437",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","KARLA","RODEBUSH","FUNDRAISER 4","99831.00","99831.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","UCOP","LATHA","SRINIVASAGOPALAN","INFO SYS ANL 3","99829.00","99829.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","UCOP","WILLIAM","GUINTO","APPLICATIONS PROGR 3","99829.00","99829.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","BEVERLY ANN","RANDEZ","ADMIN OFCR 4","99828.00","98328.00","0.00","1500.00"]},
+{"id":"5","cell":["5","2018","San Francisco","ERIN FITZGERALD","SIMON","MARKETING SPEC 3","99827.00","99827.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","CHRISTOPHER","JANSEN","INFO SYS ANL 3","99827.00","99327.00","0.00","500.00"]},
+{"id":"7","cell":["7","2018","Berkeley","JENNIFER","WOODS","PROJECT POLICY ANL 4","99826.00","99326.00","0.00","500.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","DONALD","AUE","ASSOC PROF-AY","99825.00","98825.00","0.00","1000.00"]},
+{"id":"9","cell":["9","2018","San Diego","KELLIE BREEN","CHURCH","ASST ADJ PROF-HCOMP","99825.00","98505.00","0.00","1320.00"]},
+{"id":"10","cell":["10","2018","Berkeley","IRYNA","DONCHISHIN","QA RELEASE MGT ANL 3","99823.00","99823.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","NEDINIA CASANAY","FAROL","CLIN NURSE 2","99819.00","99062.00","0.00","757.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ROBERT","CHHO","CLIN NURSE 2","99818.00","93535.00","703.00","5580.00"]},
+{"id":"13","cell":["13","2018","San Francisco","MONYCA T","DUARTE-ROBERTS","FAC MGR 1","99814.00","89410.00","0.00","10404.00"]},
+{"id":"14","cell":["14","2018","Berkeley","DAPHNE","SHORT","TRAINER 4","99813.00","99813.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","JEFF E","PRICE","GEOGRAPHIC INFO SYS SUPV 2","99813.00","99813.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","JACK","DRUTZ","ELECTRN LD","99813.00","88299.00","9412.00","2102.00"]},
+{"id":"17","cell":["17","2018","Riverside","MICHAEL","CAPRIOTTI","EDUC TCHL SUPV 2","99811.00","99561.00","0.00","250.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","LEX","KOPFER","MECH SHOP SUPT","99811.00","99811.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","DAVID M","ZEIHER","SKLD CRAFTS AND TRADES SUPV 2","99810.00","97654.00","0.00","2156.00"]},
+{"id":"20","cell":["20","2018","Davis","RITA MARIE","BAKER","CLIN NURSE 2","99807.00","93489.00","5566.00","752.00"]}]
+}

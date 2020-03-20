@@ -1,0 +1,26 @@
+{
+"page" : "4128",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","JEAN M","SINCLAIR","BLANK AST 3","66684.00","65664.00","0.00","1020.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","VANESSA","PONCE","VOC NURSE SR","66684.00","65237.00","1014.00","433.00"]},
+{"id":"3","cell":["3","2018","San Diego","BRENDAN JOSEPH","COSTELLO","PHARMACY TCHN 3","66683.00","65564.00","118.00","1001.00"]},
+{"id":"4","cell":["4","2018","San Diego","RYAN J.","FINNERTY","LIBRARY SUPV 2","66679.00","64679.00","0.00","2000.00"]},
+{"id":"5","cell":["5","2018","Berkeley","ERIC","FRIEDMAN","LECT-AY","66679.00","66679.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","MICHELLE","AYAZI","STDT ACAD ADVISOR 3","66678.00","66678.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","WAYMAN","CHEN","REVENUE CYCLE HC ANL 1","66677.00","66422.00","255.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","66677.00","62977.00","0.00","3700.00"]},
+{"id":"9","cell":["9","2018","ASUCLA","LUZ","REAL","FOOD SVC WORKER SR","66676.00","42631.00","24031.00","14.00"]},
+{"id":"10","cell":["10","2018","San Diego","OLIVIA ARCIAGA","SAUQUILLO","PHARMACY TCHN 3","66676.00","60557.00","4565.00","1554.00"]},
+{"id":"11","cell":["11","2018","San Francisco","CHAO","ZHAO","ASSOC SPECIALIST","66675.00","66675.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","JENNIFER DAY","DOS SANTOS","MGT SVC OFCR 3 SUPV","66674.00","66474.00","0.00","200.00"]},
+{"id":"13","cell":["13","2018","San Diego","JING","AN","ASSOC ADJ PROF-HCOMP","66674.00","66674.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","ALLAN","TARROSA","COLL REPR SR","66672.00","65282.00","250.00","1140.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","YUH-WEN","LI","NURSE PD","66672.00","59745.00","3000.00","3927.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","EBONY","BOLDEN","ADMIN SPEC","66671.00","60863.00","3192.00","2616.00"]},
+{"id":"17","cell":["17","2018","San Francisco","WIN SINT SINT","AUNG","HOSP LAB TCHN 1","66670.00","66225.00","48.00","397.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","66669.00","39369.00","0.00","27300.00"]},
+{"id":"19","cell":["19","2018","Davis","MARK T","WILSON","INSTRUCTIONAL DESIGNER 3","66667.00","66667.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","JULIE","KEFER","DIR","66667.00","66667.00","0.00","0.00"]}]
+}

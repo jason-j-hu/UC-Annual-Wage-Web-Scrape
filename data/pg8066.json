@@ -1,0 +1,26 @@
+{
+"page" : "8066",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","26077.00","25977.00","0.00","100.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","YEVA","PETROSYAN","BLANK AST 2 PD","26077.00","26060.00","17.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","CECILIA","MORALES","BLANK AST 3","26077.00","25684.00","393.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","26076.00","26076.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","NOAH","THAMAN","ATH TRAINER 3","26075.00","22332.00","0.00","3743.00"]},
+{"id":"6","cell":["6","2018","San Francisco","NADINE RAYDELL","CALHOUN","CUSTODIAN LD","26075.00","25726.00","349.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","SEAN A","LAINE","PAT ESCORT","26075.00","25608.00","189.00","278.00"]},
+{"id":"8","cell":["8","2018","Riverside","*****","*****","TEACHG ASST-GSHIP","26075.00","22296.00","0.00","3779.00"]},
+{"id":"9","cell":["9","2018","Irvine","DEISY","ESCOBEDO","STDT AFFAIRS OFCR 3 EX","26074.00","26074.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","VANESSA","RIVERA","RECR PRG LEADER 3 BYA","26074.00","0.00","0.00","26074.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","SONAL KRISTIN","SINGH","SRA 2 NEX","26073.00","25425.00","0.00","648.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","DARNELL","SAMPIER","VOC NURSE SR","26073.00","26073.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Cruz","HEIDI T","DAM","LECT-AY-1/9-CONTINUING","26073.00","17541.00","0.00","8532.00"]},
+{"id":"14","cell":["14","2018","Irvine","*****","*****","GSR-FULL FEE REM","26072.00","25972.00","0.00","100.00"]},
+{"id":"15","cell":["15","2018","Berkeley","YASAMAN","DAGHIGHI","POSTDOC-EMPLOYEE","26071.00","26071.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","JOAN MIREL","EDELSTEIN","NURSE PD","26071.00","26028.00","0.00","43.00"]},
+{"id":"17","cell":["17","2018","Irvine","*****","*****","GSR-TUIT & FEE REM","26071.00","26071.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","JIANMEI","HUANG","POSTDOC-EMPLOYEE","26070.00","26070.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","TESSA N","JOHNSON","POSTDOC-EMPLOYEE","26070.00","26070.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","CONG HUY","PHAM","POSTDOC-EMPLOYEE","26070.00","26070.00","0.00","0.00"]}]
+}

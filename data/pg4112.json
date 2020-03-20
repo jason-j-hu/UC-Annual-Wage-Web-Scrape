@@ -1,0 +1,26 @@
+{
+"page" : "4112",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","ALMA V","VALLE","PAT CARE AST","66870.00","57755.00","1230.00","7885.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","DARIN","WILLIAMS","DEV ENGR ASC","66870.00","66870.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","HARRISON","CASTILLO","PROGR ANL 3","66870.00","65761.00","0.00","1109.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","JEFFREY","KING","ADV OFCR 2","66868.00","66868.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","JOAO PE","DOS SANTOS FONS","SPECIALIST","66866.00","66866.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","JEFFREY D","LATTA","LIBRARY AST 5","66865.00","66865.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","NOHEMI","ROSALES-SALAZAR","PERSONNEL ANL","66865.00","65199.00","916.00","750.00"]},
+{"id":"8","cell":["8","2018","San Diego","WAYNE SHENGYAO","ZHANG","GEN ACCOUNTANT 4","66865.00","63265.00","0.00","3600.00"]},
+{"id":"9","cell":["9","2018","Davis","JEREMY A","SCOTT","VOC NURSE SR","66864.00","64967.00","1897.00","0.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","NANCY","DOAN","ADMIN OFCR 3","66863.00","57211.00","6635.00","3017.00"]},
+{"id":"11","cell":["11","2018","San Diego","DALIA","ALSHAMAS","PROJECT POLICY ANL 2","66863.00","66363.00","0.00","500.00"]},
+{"id":"12","cell":["12","2018","Berkeley","STEPHANIE","DORTON","BLANK AST 3","66861.00","65861.00","0.00","1000.00"]},
+{"id":"13","cell":["13","2018","Berkeley","MARTHA","KIMANI","BLANK AST 3","66861.00","65861.00","0.00","1000.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","WALTER","VASQUEZ","FAC MECH","66860.00","56860.00","9798.00","202.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","OLGA","GONZALEZ","VOC NURSE SR","66860.00","65557.00","1115.00","188.00"]},
+{"id":"16","cell":["16","2018","San Francisco","FELICIA","AMAYA","REG DENTAL AST","66859.00","66859.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","JEVON V.","CARRILLO","STERILE PROCESSING TCHN 2","66859.00","60711.00","185.00","5963.00"]},
+{"id":"18","cell":["18","2018","Davis","ANN LEE","KINNIEBREW","STERILE PROCESSING TCHN 2","66859.00","64832.00","1768.00","259.00"]},
+{"id":"19","cell":["19","2018","Berkeley","KIM","ANDERSON","RSCH ADM 3","66859.00","66859.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","66858.00","52805.00","0.00","14053.00"]}]
+}

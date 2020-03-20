@@ -1,0 +1,26 @@
+{
+"page" : "7496",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","JONATHAN","FUNK","LECT-AY","31866.00","30427.00","0.00","1439.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","CHRISTINA","HEADLEE","RESC NURSE PD","31865.00","31773.00","72.00","20.00"]},
+{"id":"3","cell":["3","2018","San Diego","*****","*****","POSTDOC-EMPLOYEE","31865.00","31865.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","SHANNON ELIZABET","DUBOIS","CLIN NURSE 2","31865.00","23284.00","8581.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","KAMALAKAR","CHATLA","LAB AST 2","31864.00","27054.00","4810.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","DONNA ALCANTARA","JUGAR","CLIN NURSE 2","31864.00","30320.00","1293.00","251.00"]},
+{"id":"7","cell":["7","2018","Santa Cruz","*****","*****","TEACHG ASST-GSHIP","31863.00","20791.00","0.00","11072.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","*****","*****","RESID PHYS I/NON REP","31861.00","25611.00","0.00","6250.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","*****","*****","RESID PHYS I/NON REP","31861.00","25611.00","0.00","6250.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","MICHAEL WATTS","HAYNES","PLUMBER","31860.00","31317.00","543.00","0.00"]},
+{"id":"11","cell":["11","2018","Santa Cruz","KYLE STUART","ROBERTSON","LECT-AY","31859.00","31859.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","KATHRYN","JASTRAM","CONTINUING APPT-TEMP-AUG-1/10","31859.00","31859.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Irvine","LOURDES J","TORRES","ADMIN SPEC","31858.00","29642.00","45.00","2171.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","31858.00","31758.00","0.00","100.00"]},
+{"id":"15","cell":["15","2018","Merced","*****","*****","TEACHG ASST-GSHIP","31857.00","31757.00","0.00","100.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","OH JIN","KWON","HOSP LAB TCHN 1","31857.00","10900.00","340.00","20617.00"]},
+{"id":"17","cell":["17","2018","Davis","*****","*****","GSR-FULL FEE REM","31856.00","31856.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","WINDEL GACES","BULOSAN","MED CTR CUSTODIAN","31856.00","30650.00","203.00","1003.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","31855.00","25605.00","0.00","6250.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","31855.00","25605.00","0.00","6250.00"]}]
+}

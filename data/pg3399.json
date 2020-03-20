@@ -1,0 +1,26 @@
+{
+"page" : "3399",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","UCOP","SYLVIA","JIANG","AUDIT PROFL 2","77870.00","77049.00","821.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","MANDY","MCCLAIN","ADMIN OFCR 3","77868.00","64201.00","0.00","13667.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","JOHN","SEAMAN","EHS SPEC 4","77868.00","77868.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","KEVIN JOSE","SMITH","ADMIN ANL SUPV NEX","77867.00","69675.00","5542.00","2650.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","CHRISTINA","FRUGA","PHLEBOTOMIST CERT TCHN 2","77867.00","67021.00","6511.00","4335.00"]},
+{"id":"6","cell":["6","2018","San Diego","NICHOLAS BRIAN","FENNEL","INFO SYS ANL 3","77866.00","77866.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","ANGIE","LU","INFO SYS ANL 3","77866.00","77866.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","CONNIE A","ONEIL","ADMIN OFCR 2","77865.00","74461.00","0.00","3404.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","MICHELLE","CIZEK","ADMIN ANL PRN 1","77865.00","75750.00","0.00","2115.00"]},
+{"id":"10","cell":["10","2018","San Francisco","PATRICIA","NEVAREZ","PHARMACY TCHN 2","77863.00","71318.00","3790.00","2755.00"]},
+{"id":"11","cell":["11","2018","San Francisco","MARIE ELIZABETH","SKAGGS","CLIN NURSE 2","77862.00","65834.00","5214.00","6814.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","APOLINAR","GARCIA","FOOD SVC MGR AST SUPV","77860.00","74460.00","2746.00","654.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","77859.00","71609.00","0.00","6250.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","77859.00","71609.00","0.00","6250.00"]},
+{"id":"15","cell":["15","2018","Berkeley","ROBIN","TATE","TCHL PROJECT MGT PROFL 2","77856.00","77856.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","DAVID M","GOLDMAN","CONTINUING EDUCATOR II","77855.00","63540.00","0.00","14315.00"]},
+{"id":"17","cell":["17","2018","Santa Cruz","NICHOLAS JAMES","MCCONNELL","ACAD PRG MGT OFCR 3","77853.00","77853.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","CHRISTOPHER","PINTO","DIGITAL COMM SPEC 3","77853.00","77353.00","0.00","500.00"]},
+{"id":"19","cell":["19","2018","Irvine","KRISTOPHER L","LENTZ","BUS SYS ANL 2 NEX","77852.00","67875.00","4467.00","5510.00"]},
+{"id":"20","cell":["20","2018","San Diego","RANDY","HAYS","CARPENTER LD","77849.00","75584.00","0.00","2265.00"]}]
+}

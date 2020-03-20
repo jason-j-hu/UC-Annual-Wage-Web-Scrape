@@ -1,0 +1,26 @@
+{
+"page" : "2044",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Cruz","ROBIN Y","KING","LECT-AY-CONTINUING","111201.00","101243.00","0.00","9958.00"]},
+{"id":"2","cell":["2","2018","San Diego","SARHAD","JARJIS","RESP THER 2","111201.00","98400.00","3420.00","9381.00"]},
+{"id":"3","cell":["3","2018","San Francisco","SHERRI","SHAFER","DIETITIAN SR","111199.00","109049.00","369.00","1781.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","JENNIFER","GILE","CLIN NURSE 2","111197.00","98888.00","2313.00","9996.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","SARAH","CONNOR","MGR","111194.00","111194.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","DANIEL","WEBSTER","SPECIALIST","111192.00","104392.00","0.00","6800.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","GEOFFREY","GIRARD","MGR","111190.00","107690.00","0.00","3500.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","KEVIN","BOUTTE","CT TCHNO LD","111188.00","98952.00","8572.00","3664.00"]},
+{"id":"9","cell":["9","2018","Irvine","JANITA C","PARPANA","MGT SVC OFCR 4","111187.00","111187.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","ERIN E","SEVIER","RAD THER TCHNO","111186.00","109495.00","1691.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","DREW","JOHNSON","CLIN NURSE 2","111186.00","92548.00","9373.00","9265.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","DENNIS","MANTAS","ENGR ASC","111184.00","105952.00","0.00","5232.00"]},
+{"id":"13","cell":["13","2018","San Diego","KYLE R","BARBER","SYS ADMSTN SUPV 2","111184.00","111184.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","STACIE MARIE","CRUZ","POLICE OFCR","111182.00","92662.00","5413.00","13107.00"]},
+{"id":"15","cell":["15","2018","San Diego","GIOVANNA G","ZERBI","HEALTH EDUC MGR 1","111182.00","106182.00","0.00","5000.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","PETER","EVANS","ADV OFCR 3","111180.00","110236.00","0.00","944.00"]},
+{"id":"17","cell":["17","2018","Davis","SHANNON J","HORRILLO","ACADEMIC COORD III-FY","111177.00","111177.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","SPENCER RANDALL","HARRIS","RADLG TCHNO SR","111174.00","90517.00","19656.00","1001.00"]},
+{"id":"19","cell":["19","2018","Davis","SHARON M","LOPEZ","PAT RCDS ABSTRACTOR 4","111172.00","103551.00","2939.00","4682.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","ANDREW","FREW","SPEC","111172.00","111172.00","0.00","0.00"]}]
+}

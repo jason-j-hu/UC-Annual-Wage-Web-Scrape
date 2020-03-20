@@ -1,0 +1,26 @@
+{
+"page" : "5876",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Riverside","STEPHANE","TESSON","POSTDOC-EMPLOYEE","49566.00","49566.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","JANSEN DOMINGUEZ","PATIO","CTRL SVC TCHN 2","49566.00","41753.00","1634.00","6179.00"]},
+{"id":"3","cell":["3","2018","Davis","EDNA Y","GUN UTTER","BLANK AST 3","49565.00","49356.00","209.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","HANNAH JOY","CLIFTON","AGRICULTURAL TCHN PRN","49565.00","47145.00","2420.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","BARON L","MCLAUGHLIN","MAIL PROCESSOR SR","49563.00","48147.00","1416.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","WAVERLY","PARADOX","ADMIN SPEC","49563.00","49489.00","6.00","68.00"]},
+{"id":"7","cell":["7","2018","Davis","KAITLYN ROSE","MANNING","PROSPECT RSCH SPEC 2","49562.00","49436.00","126.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","MARK","SUNG","ADMIN SPEC","49562.00","47986.00","76.00","1500.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","ALA","MORSHEDIAN","POSTDOC-EMPLOYEE","49562.00","49562.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ELIDA","MORALES","BLANK AST 2","49561.00","48200.00","1361.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","NORA ELIZABETH","ALVAREZ","ADMITTING WORKER PRN","49560.00","48199.00","941.00","420.00"]},
+{"id":"12","cell":["12","2018","Irvine","OBED","SALGADO","AUTO EQUIP OPR SR","49560.00","40768.00","7595.00","1197.00"]},
+{"id":"13","cell":["13","2018","San Diego","LU","WANG","POSTDOC-EMPLOYEE","49560.00","49560.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","SURASHREE S","KULKARNI","POSTDOC-EMPLOYEE","49560.00","49560.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","EMERSON","MACHADO GARCIA","AUTO EQUIP OPR SR","49559.00","42774.00","6384.00","401.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","YANCY","GONZALEZ","AUTO EQUIP OPR PRN","49559.00","46704.00","2316.00","539.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","RODOLFO","REYES","BLANK AST 3","49559.00","49559.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","SAMAR MUSSA","AL-BULUSHI","POSTDOC-EMPLOYEE","49558.00","49511.00","0.00","47.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","SANTIAGO","SANCHEZ","FOOD SVC MGR AST SUPV","49558.00","40903.00","8275.00","380.00"]},
+{"id":"20","cell":["20","2018","UCOP","LIZA","BUTALID","BLANK AST 3","49558.00","49365.00","193.00","0.00"]}]
+}

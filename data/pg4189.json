@@ -1,0 +1,26 @@
+{
+"page" : "4189",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","JOHN FRANCIS","CAMPBELL","SURGICAL TCHN SR","65867.00","61477.00","1208.00","3182.00"]},
+{"id":"2","cell":["2","2018","Davis","KELLY J","STOTTS","HEALTH TCHN 4 NEX","65867.00","58021.00","7846.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","ROBERT M","CLARK","FINANCIAL ANL 2","65866.00","64866.00","0.00","1000.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","MERRON","ASAMERE","ADMIN ANL SR","65865.00","65165.00","0.00","700.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","RUTH ROSE","ALCANCES","PHLEBOTOMIST CERT TCHN 2","65865.00","57208.00","4009.00","4648.00"]},
+{"id":"6","cell":["6","2018","San Diego","MARIBEL","ZAZUETA","MED STF SVC SPEC 2","65865.00","64619.00","245.00","1001.00"]},
+{"id":"7","cell":["7","2018","Irvine","RICHARD E","TERNET","PHYS PLT SUPT SR","65864.00","65864.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","LADONTE","KING","STDT LIFE DEV SPEC 4","65863.00","65863.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","MATTHEW","SMITH","LIBRARY AST 4","65861.00","65861.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","TERESA","JOHNSON","LIBRARY AST 4","65861.00","65861.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MARCO","TAMASE","LIBRARY AST 4","65861.00","65861.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ALEX","GREENWALD","LIBRARY AST 4","65861.00","65861.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","ANGELA","WILKES","BLANK AST 3","65861.00","65861.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","JEROME","CHING","BLANK AST 3","65861.00","65861.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","CORINTH","DE LEON","BLANK AST 3","65861.00","65861.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","GALE","OAKS","BLANK AST 3","65861.00","65861.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","MARK T","HOYER","WRITER EDITOR 4 GF","65860.00","60777.00","0.00","5083.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","MYCHAL","JONATAN","AST TO DEAN DIR CHAIR 1","65860.00","64860.00","0.00","1000.00"]},
+{"id":"19","cell":["19","2018","San Diego","MARGARITA","OSUNA-PENA","PAT RCDS ABSTRACTOR 3","65858.00","63566.00","1542.00","750.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","SANJUANITA","GOMEZ","COLL REPR","65857.00","61668.00","339.00","3850.00"]}]
+}

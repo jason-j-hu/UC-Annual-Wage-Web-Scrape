@@ -1,0 +1,26 @@
+{
+"page" : "8545",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","*****","*****","GSR-FULL FEE REM","21371.00","21371.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Berkeley","WENDY","PRATT","ADMISSIONS RECRMT SPEC 2","21371.00","21371.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Riverside","*****","*****","TEACHG ASST-GSHIP","21370.00","18141.00","0.00","3229.00"]},
+{"id":"4","cell":["4","2018","San Francisco","JAN N","MANTLE","REVENUE CYCLE HC ANL 4","21369.00","21369.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","21369.00","21269.00","0.00","100.00"]},
+{"id":"6","cell":["6","2018","Davis","*****","*****","JR SPECIALIST","21369.00","21369.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","JOEL D","MILLER","ADMIN ANL PRN 1","21368.00","9474.00","0.00","11894.00"]},
+{"id":"8","cell":["8","2018","San Diego","MELISSA","QUINONES","RSCH ADM 2","21366.00","21366.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","NANCY L","MORENO","HOSP BLANK AST 1","21365.00","20946.00","203.00","216.00"]},
+{"id":"10","cell":["10","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","21365.00","21265.00","0.00","100.00"]},
+{"id":"11","cell":["11","2018","Santa Cruz","ODESSA REBECCA","BURKETT","ACAD ACHIEVEMENT CNSLR 3","21364.00","21364.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Santa Barbara","BENJAMIN","BYERLY","POSTDOC-EMPLOYEE","21364.00","21364.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","CAROLIN SADEH","ODISHO","NURSE PD","21363.00","20404.00","959.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","DOUGLAS","JUTTE","ASSOC ADJ PROF-AY","21363.00","21363.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","MICHELLE","COOMBS","PHYS THER 2 NEX","21362.00","16459.00","0.00","4903.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","21362.00","21362.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","VINCENT M","REYES","RECR PRG LEADER 2","21361.00","19597.00","161.00","1603.00"]},
+{"id":"18","cell":["18","2018","Berkeley","BRIAN","CLANCY","LECT-AY-1/10","21361.00","21361.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","JENNIFER","INGALLS","LECT-AY-1/10","21361.00","21361.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","MYRA","SALCEDO","FOOD SVC WORKER","21360.00","20839.00","100.00","421.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "2227",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","YASUKO","BAKER","LECT-AY-CONTINUING","105567.00","93037.00","0.00","12530.00"]},
+{"id":"2","cell":["2","2018","San Diego","LIZABETH EVANGEL","PARK","CLIN NURSE 2","105565.00","93591.00","1529.00","10445.00"]},
+{"id":"3","cell":["3","2018","Berkeley","MARTIN","MEEKER","ACADEMIC ADMINISTRATOR V","105565.00","105565.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","ERIE D","BOORMAN","ASST PROF-AY","105557.00","105557.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","MARLON Q","SY","CLIN LAB SCI SPEC SR","105555.00","100792.00","3690.00","1073.00"]},
+{"id":"6","cell":["6","2018","San Francisco","SHAHD MOHAMED","SEID AHMED","BIOMED EQUIP TCHN 2","105554.00","99174.00","2130.00","4250.00"]},
+{"id":"7","cell":["7","2018","San Diego","JAMES ROBERT","ATHANASEN","CLIN NURSE 2","105554.00","87792.00","8147.00","9615.00"]},
+{"id":"8","cell":["8","2018","San Francisco","JEFFREY J","HARTER","REGISTRAR SPEC 4","105553.00","105553.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","UCOP","CONSTANCE","TREMBLAY","EMPLOYMENT REPR 4","105552.00","105302.00","0.00","250.00"]},
+{"id":"10","cell":["10","2018","Irvine","LUIS ENRIQUE","CANDIA","FIRE AND SCRTY SYS TCHN","105551.00","76552.00","28999.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","CLAUDIA","HERNANDEZ","CLIN NURSE 2","105551.00","81080.00","11582.00","12889.00"]},
+{"id":"12","cell":["12","2018","Santa Barbara","MICHELLE","KEUPER","ADMIN MGR 1","105548.00","105548.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","JEFFREY A.","MITCHELL","PHYS THER 3 NEX","105548.00","97923.00","304.00","7321.00"]},
+{"id":"14","cell":["14","2018","Irvine","JOHN D.","SOMMERHAUSER","DIR","105547.00","105547.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","KEVIN","COX","PROJECT POLICY ANL SUPV 2","105543.00","103307.00","0.00","2236.00"]},
+{"id":"16","cell":["16","2018","San Diego","JEREMY J","NOCON","ADMIN SUPV 2","105543.00","101543.00","0.00","4000.00"]},
+{"id":"17","cell":["17","2018","Irvine","PHUC TOM","DANG","SURGICAL TCHN SR","105541.00","59204.00","26572.00","19765.00"]},
+{"id":"18","cell":["18","2018","San Diego","BECKY","MARQUEZ","ASST PROF-HCOMP","105540.00","95544.00","0.00","9996.00"]},
+{"id":"19","cell":["19","2018","San Francisco","SATHISH","SEKHAR","CLIN LAB SCI","105539.00","104261.00","138.00","1140.00"]},
+{"id":"20","cell":["20","2018","Davis","DAVID F","FRANKLIN","FLEET SVC SUPV 2","105536.00","105536.00","0.00","0.00"]}]
+}

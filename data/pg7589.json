@@ -1,0 +1,26 @@
+{
+"page" : "7589",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","30823.00","30823.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Irvine","*****","*****","POSTDOC-EMPLOYEE","30822.00","30822.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","30822.00","28972.00","0.00","1850.00"]},
+{"id":"4","cell":["4","2018","San Diego","LEIGH ANN","WILSON","NURSE PD","30822.00","30765.00","30.00","27.00"]},
+{"id":"5","cell":["5","2018","San Diego","YOLANDA PATRICIA","NORIEGA","HOSP LAB TCHN 1 PD","30821.00","9857.00","7508.00","13456.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","TANIA","ORTEGA","CLIN CARE PARTNER","30819.00","29159.00","1279.00","381.00"]},
+{"id":"7","cell":["7","2018","San Diego","FAEREN","ADAMS","TEACHER-UNEX-CONTRACT YR","30819.00","3639.00","0.00","27180.00"]},
+{"id":"8","cell":["8","2018","Davis","LUIS A","JARA GONZALEZ","FOOD SVC WORKER","30818.00","29151.00","784.00","883.00"]},
+{"id":"9","cell":["9","2018","Davis","*****","*****","TEACHG ASST-GSHIP","30818.00","30718.00","0.00","100.00"]},
+{"id":"10","cell":["10","2018","San Francisco","JORELL V","CLEMENA","PRACTICE CRD 2","30817.00","30454.00","0.00","363.00"]},
+{"id":"11","cell":["11","2018","San Diego","*****","*****","GSR-TUIT & FEE REM-UCSD-GRP B","30816.00","30816.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Riverside","*****","*****","GSR-PARTIAL FEE REM","30815.00","30715.00","0.00","100.00"]},
+{"id":"13","cell":["13","2018","San Francisco","SALPI SEVANA","SIYAHIAN","BLANK AST 3","30814.00","30206.00","221.00","387.00"]},
+{"id":"14","cell":["14","2018","Davis","ROGER J","WETS","RECALL FACULTY","30814.00","30814.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","30814.00","30714.00","0.00","100.00"]},
+{"id":"16","cell":["16","2018","Riverside","CINDY","FLORES","ADMISSIONS RECRMT SPEC 2","30814.00","29862.00","952.00","0.00"]},
+{"id":"17","cell":["17","2018","Irvine","ANNE","DIAZ","NURSE PD","30813.00","29726.00","1087.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","CERRA","MENDEZ IXTAPA","EMERGENCY TRAUMA TCHN SR","30813.00","28291.00","1055.00","1467.00"]},
+{"id":"19","cell":["19","2018","Berkeley","ELIZABETH","AVILA","BLANK AST 3","30811.00","30811.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","KRISTI L","WISTERMAN","COOK","30809.00","29645.00","1159.00","5.00"]}]
+}
