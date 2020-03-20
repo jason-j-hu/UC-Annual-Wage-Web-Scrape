@@ -1,0 +1,26 @@
+{
+"page" : "395",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","DEREK","HOWES","BUS SYS ANL MGR 2","229679.00","201034.00","0.00","28645.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","PAUL","ALLYN","HS ASST CLIN PROF-HCOMP","229679.00","131454.00","0.00","98225.00"]},
+{"id":"3","cell":["3","2018","San Francisco","CASSANDRA M","ROBERTSON","NURSE SVC MGR 2","229672.00","212357.00","0.00","17315.00"]},
+{"id":"4","cell":["4","2018","Berkeley","ZI","QIU","PROF-AY","229643.00","172058.00","0.00","57585.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ERIN","CORE","TRANSPLANT CRD 2","229642.00","180282.00","0.00","49360.00"]},
+{"id":"6","cell":["6","2018","San Francisco","REBECCA L","MICHAEL","HS ASST CLIN PROF-HCOMP","229633.00","99633.00","0.00","130000.00"]},
+{"id":"7","cell":["7","2018","Riverside","SHARON","WALKER","ACT/INTERIM DEAN","229614.00","181200.00","0.00","48414.00"]},
+{"id":"8","cell":["8","2018","Davis","CHRISTINE SARAH","HUMPHREY","ASC PHYSCN","229556.00","210368.00","0.00","19188.00"]},
+{"id":"9","cell":["9","2018","San Diego","GAREY","RAMEY","PROF-AY-B/E/E","229550.00","229350.00","0.00","200.00"]},
+{"id":"10","cell":["10","2018","Irvine","DIEGO R","CAVENAGHI","ANESTHETIST NURSE SR NEX","229529.00","186624.00","39512.00","3393.00"]},
+{"id":"11","cell":["11","2018","Davis","CARLA S","MARTIN","NURSE SVC MGR 4","229523.00","211017.00","0.00","18506.00"]},
+{"id":"12","cell":["12","2018","Davis","WILLIAM E","DAGER","PHARMACIST 5","229483.00","209433.00","0.00","20050.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","ROBERT","WEILER","DEAN ASC","229477.00","229477.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","CAROLINE","CLOSE","ASC PHYSCN DIPLOMATE","229470.00","135694.00","0.00","93776.00"]},
+{"id":"15","cell":["15","2018","San Diego","ALEX C.","SNOEREN","PROF-AY-B/E/E","229467.00","139040.00","0.00","90427.00"]},
+{"id":"16","cell":["16","2018","San Diego","ANGELA PHILLIPS","DIAZ","GOVT REL MGR 3","229436.00","226436.00","0.00","3000.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","CHRISTINE","PIZZULLI","MGR","229431.00","201555.00","0.00","27876.00"]},
+{"id":"18","cell":["18","2018","Berkeley","CHRISTOPHER","YETTER","EXEC ADVISOR 5","229428.00","213140.00","0.00","16288.00"]},
+{"id":"19","cell":["19","2018","San Diego","STEVEN THOMAS","PELTIER","ADMIN MGR 3","229426.00","229426.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","AYDIN","BABAKHANI","ASSOC PROF-AY-B/E/E","229423.00","134917.00","0.00","94506.00"]}]
+}

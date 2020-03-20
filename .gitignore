@@ -1,3 +1,3 @@
 #my settings
-data/pg[500-15515].json
-data/*.json
+data/pg[5-9][0-9][0-9].json
+data/pg[1-9][0-9][0-9][0-9].json

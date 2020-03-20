@@ -1,0 +1,26 @@
+{
+"page" : "165",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","ALICE F","TARANTAL","PROF-HCOMP","327478.00","223990.00","0.00","103488.00"]},
+{"id":"2","cell":["2","2018","Davis","RALPH","GREEN","PROF-HCOMP","327440.00","321430.00","0.00","6010.00"]},
+{"id":"3","cell":["3","2018","San Francisco","ROBERT L","HENDREN","PROF-HCOMP","327375.00","217532.00","0.00","109843.00"]},
+{"id":"4","cell":["4","2018","Davis","CHRISTIAN M","SEBAT","HS ASSOC CLIN PROF-HCOMP","327354.00","130589.00","0.00","196765.00"]},
+{"id":"5","cell":["5","2018","Davis","HERMAN L","HEDRIANA","ASC PHYSCN","327330.00","154500.00","0.00","172830.00"]},
+{"id":"6","cell":["6","2018","Davis","LILY KOO","LIN","HS ASSOC CLIN PROF-HCOMP","327298.00","176473.00","0.00","150825.00"]},
+{"id":"7","cell":["7","2018","San Francisco","ANDREW D","AUERBACH","PROF IN RES-HCOMP","327285.00","167196.00","0.00","160089.00"]},
+{"id":"8","cell":["8","2018","Riverside","JOHN","LUO","HS CLIN PROF-HCOMP","327200.00","167258.00","0.00","159942.00"]},
+{"id":"9","cell":["9","2018","Berkeley","ALEXIS","BELL","PROF-AY-B/E/E","327175.00","287342.00","0.00","39833.00"]},
+{"id":"10","cell":["10","2018","Berkeley","ENRIQUE","IGLESIA","PROF-AY-B/E/E","327171.00","247425.00","0.00","79746.00"]},
+{"id":"11","cell":["11","2018","San Francisco","SUE J","RHEE","HS CLIN PROF-HCOMP","327166.00","145695.00","0.00","181471.00"]},
+{"id":"12","cell":["12","2018","San Diego","GORDON LAP-KAY","YUNG","HS CLIN PROF-HCOMP","327146.00","161650.00","0.00","165496.00"]},
+{"id":"13","cell":["13","2018","San Diego","HADI","ESMAEILZADEH","ASSOC PROF-AY-B/E/E","327004.00","137354.00","0.00","189650.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","PANAGIOTIS","CHRISTOFIDES","PROF-AY-B/E/E","327002.00","216120.00","0.00","110882.00"]},
+{"id":"15","cell":["15","2018","San Francisco","MOSHIUR M","ANWAR","ASST PROF IN RES-HCOMP","326862.00","127470.00","0.00","199392.00"]},
+{"id":"16","cell":["16","2018","San Diego","SIAVOUCHE","NEMAT-NASSER","PROF-AY-B/E/E","326848.00","293492.00","0.00","33356.00"]},
+{"id":"17","cell":["17","2018","Irvine","DANIELLE PERRET","KARIMI","HS ASSOC CLIN PROF-HCOMP","326838.00","155883.00","0.00","170955.00"]},
+{"id":"18","cell":["18","2018","UCOP","CLAIRE","HOLMES","SVP EXTERNAL REL","326833.00","326833.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","JEANIE","BHULLER","HS ASST CLIN PROF-HCOMP","326750.00","139090.00","0.00","187660.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","ROBERT","ASHLEY","ASC PHYSCN DIPLOMATE","326721.00","175300.00","0.00","151421.00"]}]
+}

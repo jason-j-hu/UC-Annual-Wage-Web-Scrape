@@ -1,0 +1,26 @@
+{
+"page" : "10883",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","TONJA MICHELLE","JONES","BLANK AST 2","6202.00","5274.00","22.00","906.00"]},
+{"id":"2","cell":["2","2018","San Diego","JENNIFER NOEL","SWEET","BLANK AST 1","6202.00","6202.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","KRISTEN MARIE","COLLEY","CLIN SOCIAL WORKER 1 NEX","6202.00","6202.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","MARIANO A","CASTRO","ANES OR CLIN SUPP SUPV 1","6201.00","6201.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","STEVEN","SEWELL","SUPV TEACHER ED-AY","6201.00","6201.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","*****","*****","STDT 4","6201.00","6201.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","ESTHER","DREIFUSS-KATTAN","CLIN SPEC EX","6201.00","6201.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","*****","*****","STDT 3","6201.00","6201.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","RAMOH","SALEMON","TEACHER-UNEX-CONTRACT YR","6201.00","0.00","0.00","6201.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","*****","*****","STDT 1","6201.00","6162.00","39.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","LISA","LACORTE-KRING","CLIN SPEC EX","6201.00","6201.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","KEVIN","GRACHI","TEACHER-UNEX-CONTRACT YR","6201.00","0.00","0.00","6201.00"]},
+{"id":"13","cell":["13","2018","Riverside","*****","*****","TEACHG ASST-GSHIP","6201.00","6101.00","0.00","100.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","JONNA","HOWARD","CNSLR 2","6201.00","6201.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","*****","*****","STDT 3","6201.00","6201.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","MICHAEL","DOLMAN","MUSICIAN 3","6201.00","5635.00","566.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","RAMON","ALVARADO","EVENTS CRD 2","6200.00","0.00","0.00","6200.00"]},
+{"id":"18","cell":["18","2018","Berkeley","*****","*****","STDT ACTIVITIES APPT OFFICIAL","6200.00","6200.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","*****","*****","STDT 2","6200.00","6200.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","*****","*****","STDT INTERN","6200.00","6200.00","0.00","0.00"]}]
+}

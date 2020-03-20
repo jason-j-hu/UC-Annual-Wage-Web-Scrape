@@ -1,0 +1,26 @@
+{
+"page" : "432",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","UCOP","MARK","BYRON","ENERGY MGR 3","220940.00","220940.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","MICHAEL P","PALAZZOLO","ASST PROF-AY-B/E/E","220938.00","179951.00","0.00","40987.00"]},
+{"id":"3","cell":["3","2018","San Diego","LUCY DALTON","MOORE","HS CLIN PROF-HCOMP","220917.00","168247.00","0.00","52670.00"]},
+{"id":"4","cell":["4","2018","San Diego","ARUN KUMAR","KUMAR","ASST PROF-AY-B/E/E","220916.00","113083.00","0.00","107833.00"]},
+{"id":"5","cell":["5","2018","San Francisco","AIDA","VENADO ESTRADA","HS ASST CLIN PROF-HCOMP","220896.00","95541.00","0.00","125355.00"]},
+{"id":"6","cell":["6","2018","San Francisco","BETSY S","YUAN","PHARMACY MGR 1","220895.00","206853.00","0.00","14042.00"]},
+{"id":"7","cell":["7","2018","San Diego","PATRICK JOHN","OLSEN","REGL AND CMPLNC HC MGR 2","220893.00","196565.00","0.00","24328.00"]},
+{"id":"8","cell":["8","2018","San Francisco","LAUREN CAROL","GANNON","HS ASST CLIN PROF-HCOMP","220878.00","113378.00","0.00","107500.00"]},
+{"id":"9","cell":["9","2018","San Francisco","HEIDI J","REETZ","HS ASST CLIN PROF-HCOMP","220876.00","135997.00","0.00","84879.00"]},
+{"id":"10","cell":["10","2018","Irvine","ISABELLA","VELICOGNA","ASSOC DEAN","220865.00","137340.00","0.00","83525.00"]},
+{"id":"11","cell":["11","2018","Davis","DAVID G","MITCHELL","PHARMACY MGR 1","220846.00","209433.00","0.00","11413.00"]},
+{"id":"12","cell":["12","2018","Santa Barbara","NORBERT","REICH","PROF-AY","220829.00","188183.00","0.00","32646.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","IVY","KASALLIS","ANESTHETIST NURSE SR NEX","220820.00","211861.00","946.00","8013.00"]},
+{"id":"14","cell":["14","2018","Irvine","FRANCINE S","JEFFREY","DEAN AST","220814.00","211070.00","0.00","9744.00"]},
+{"id":"15","cell":["15","2018","Davis","JOANNE R","PAUL-MURPHY","PROF-SFT-VM","220810.00","220810.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","GAIL S","GOODMAN","PROF-AY","220797.00","220797.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","MADISON E","PADDOCK","HS ASST CLIN PROF-HCOMP","220783.00","101446.00","0.00","119337.00"]},
+{"id":"18","cell":["18","2018","Davis","CHARLES A","FULLER","PROF-FY","220766.00","202038.00","0.00","18728.00"]},
+{"id":"19","cell":["19","2018","Davis","MORNA W","MELLOR","INFO SYS MGR 4","220766.00","220766.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","220757.00","57830.00","0.00","162927.00"]}]
+}

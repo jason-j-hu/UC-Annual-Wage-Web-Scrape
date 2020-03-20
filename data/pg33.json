@@ -1,0 +1,26 @@
+{
+"page" : "33",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","CHRISTOPHER B","COLWELL","PROF OF CLIN-HCOMP","529585.00","213621.00","0.00","315964.00"]},
+{"id":"2","cell":["2","2018","Davis","FRANK F","ING","HS CLIN PROF-HCOMP","529528.00","162327.00","0.00","367201.00"]},
+{"id":"3","cell":["3","2018","Davis","GARY S","LEISEROWITZ","PROF OF CLIN-HCOMP","529500.00","232913.00","0.00","296587.00"]},
+{"id":"4","cell":["4","2018","San Diego","NABIL","FATAYERJI","HS CLIN PROF-HCOMP","529467.00","233917.00","0.00","295550.00"]},
+{"id":"5","cell":["5","2018","San Francisco","CATHERINE","GILLISS","DEAN","529039.00","327154.00","0.00","201885.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","ISIDRO","SALUSKY","PROF-HCOMP","529020.00","326991.00","0.00","202029.00"]},
+{"id":"7","cell":["7","2018","Berkeley","DANIEL","FARBER","PROF-AY-LAW","528941.00","400592.00","0.00","128349.00"]},
+{"id":"8","cell":["8","2018","San Diego","SARAH","MARIETTI SHEPHE","HS ASST CLIN PROF-HCOMP","528783.00","138950.00","0.00","389833.00"]},
+{"id":"9","cell":["9","2018","Irvine","KENNETH","CHANG","PROF OF CLIN-HCOMP","528681.00","208498.00","0.00","320183.00"]},
+{"id":"10","cell":["10","2018","San Francisco","IGOR","IMMERMAN","ASST PROF OF CLIN-HCOMP","528671.00","127455.00","0.00","401216.00"]},
+{"id":"11","cell":["11","2018","San Diego","MITUL PIYUS","PATEL","HS ASSOC CLIN PROF-HCOMP","528012.00","117757.00","0.00","410255.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","STEPHEN","KEE","PROF OF CLIN-HCOMP","527367.00","217350.00","0.00","310017.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","KAMBIZ","MOTAMEDI","HS CLIN PROF-HCOMP","526916.00","193383.00","0.00","333533.00"]},
+{"id":"14","cell":["14","2018","San Francisco","FRANCIS Y.K.","YAO","PROF OF CLIN-HCOMP","526806.00","186677.00","0.00","340129.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","DAVID","LU","PROF-HCOMP","526722.00","269739.00","0.00","256983.00"]},
+{"id":"16","cell":["16","2018","San Francisco","RAJALINGAM","RAJA","PROF OF CLIN-HCOMP","526560.00","145695.00","0.00","380865.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","CHRISTOPHER","SAIGAL","PROF-HCOMP","526210.00","211218.00","0.00","314992.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ROBERT","SUH","PROF OF CLIN-HCOMP","526040.00","223817.00","0.00","302223.00"]},
+{"id":"19","cell":["19","2018","San Francisco","RUSSELL J","CUCINA","PROF OF CLIN-HCOMP","525773.00","139676.00","0.00","386097.00"]},
+{"id":"20","cell":["20","2018","Davis","EDWARD B","STRONG","PROF OF CLIN-HCOMP","525709.00","228809.00","0.00","296900.00"]}]
+}

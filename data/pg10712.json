@@ -1,0 +1,26 @@
+{
+"page" : "10712",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","*****","*****","TEACHG ASST-GSHIP","6801.00","6701.00","0.00","100.00"]},
+{"id":"2","cell":["2","2018","Riverside","*****","*****","TUT-NON GSHIP","6801.00","5926.00","666.00","209.00"]},
+{"id":"3","cell":["3","2018","Berkeley","MARIE","DOWNING","LECT IN SUMMER SESSION","6800.00","0.00","0.00","6800.00"]},
+{"id":"4","cell":["4","2018","San Francisco","ROMINA","SANTOS","AMBUL CARE ADMSTN CRD 3","6800.00","6800.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","TIFFANY ROSLYN","SCHEGG","ASC PHYSCN","6800.00","2724.00","0.00","4076.00"]},
+{"id":"6","cell":["6","2018","Irvine","*****","*****","STDT 4","6800.00","6779.00","0.00","21.00"]},
+{"id":"7","cell":["7","2018","Irvine","KATHY E.","SALATA","TEACHER-UNEX-CONTRACT YR","6800.00","0.00","0.00","6800.00"]},
+{"id":"8","cell":["8","2018","Irvine","JONATHAN","PAN","TEACHER-UNEX-CONTRACT YR","6800.00","0.00","0.00","6800.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","BLERTA SHTYLLA","PECHARICH","PRG REPR 3","6800.00","6800.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Riverside","KENNETH","BLICKENSTAFF","TEACHER-UNEX-CONTRACT YR","6800.00","0.00","0.00","6800.00"]},
+{"id":"11","cell":["11","2018","San Diego","BYRON LINDSEY","HANCHETT","TEACHER-UNEX-CONTRACT YR","6800.00","0.00","0.00","6800.00"]},
+{"id":"12","cell":["12","2018","San Diego","MARK I","REICHENTHAL","TEACHER-UNEX-CONTRACT YR","6800.00","0.00","0.00","6800.00"]},
+{"id":"13","cell":["13","2018","Berkeley","DIANA","LEE","RECR PRG INSTR 2","6800.00","0.00","0.00","6800.00"]},
+{"id":"14","cell":["14","2018","Berkeley","*****","*****","STDT 3","6799.00","6799.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","*****","*****","STDT 2","6799.00","6799.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","ANDREA JANELL","PORTER","BLANK AST 3","6799.00","2967.00","14.00","3818.00"]},
+{"id":"17","cell":["17","2018","Davis","RYAN N","KENNEDY","VOC NURSE SR","6799.00","6487.00","299.00","13.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","JONATHAN AUSTIN","FRASER","CUSTODIAN SR","6799.00","6687.00","93.00","19.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","*****","*****","STDT 1","6799.00","6799.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","*****","*****","STDT 4","6799.00","6799.00","0.00","0.00"]}]
+}

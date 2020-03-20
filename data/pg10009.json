@@ -1,0 +1,26 @@
+{
+"page" : "10009",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","KAIQIANG","QIN","POSTDOC-EMPLOYEE","9838.00","9838.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","FLORENTINO","MARTINEZ RAMIREZ","MED CTR CUSTODIAN SR","9838.00","9723.00","14.00","101.00"]},
+{"id":"3","cell":["3","2018","San Francisco","MENG","XU","ASST SPECIALIST NEX","9837.00","9837.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","*****","*****","STDT 2","9837.00","9523.00","314.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","*****","*****","STDT 4","9837.00","2809.00","0.00","7028.00"]},
+{"id":"6","cell":["6","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","9835.00","8170.00","0.00","1665.00"]},
+{"id":"7","cell":["7","2018","Davis","KRISTIN H","BRANDT","ASSOC LIBRARIAN-POTNTL CAREER","9834.00","9834.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Riverside","ALEKSANDRIA","GRABOW","INTERN-CLIN PSYCH-GENL CAMP","9834.00","9834.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Riverside","MIRIAM","ADRIANOWICZ","INTERN-CLIN PSYCH-GENL CAMP","9834.00","9834.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Riverside","SAMANTHA","HARRIS","INTERN-CLIN PSYCH-GENL CAMP","9834.00","9834.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","ENRIQUE,JR","GONZALEZ","RSCH ADM 3","9834.00","9834.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","YING","LI","LAB AST 2","9834.00","9834.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","*****","*****","TEACHG ASST-GSHIP","9833.00","4727.00","0.00","5106.00"]},
+{"id":"14","cell":["14","2018","Riverside","PATRICK","READ","LECT-MISCELLANEOUS/PART TIME","9833.00","0.00","0.00","9833.00"]},
+{"id":"15","cell":["15","2018","San Diego","*****","*****","STDT 4","9833.00","9777.00","0.00","56.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","*****","*****","TEACHG ASST-GSHIP","9832.00","8032.00","0.00","1800.00"]},
+{"id":"17","cell":["17","2018","Davis","JOSEPH C","CORSENTINO","MATERIALS MGT HC SUPV 2","9832.00","9485.00","0.00","347.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","*****","*****","STDT 3","9832.00","9825.00","0.00","7.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","GABRIELLA","NAJM","LAB AST 1","9830.00","9780.00","23.00","27.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","*****","*****","STDT 3","9830.00","8767.00","621.00","442.00"]}]
+}

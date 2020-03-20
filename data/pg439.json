@@ -1,0 +1,26 @@
+{
+"page" : "439",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","TEVFIK","BULTAN","PROF-AY-B/E/E","219605.00","161792.00","0.00","57813.00"]},
+{"id":"2","cell":["2","2018","Berkeley","THOMAS","BRUNS","AGRON AES-AY","219583.00","219583.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","GERALD P.","LOPEZ","PROF-AY-LAW","219572.00","184239.00","0.00","35333.00"]},
+{"id":"4","cell":["4","2018","UCOP","MICHAEL","GOLDSTEIN","COUNSEL 4","219552.00","219552.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","SAMUEL T","KING","ASSOC PROF-AY-B/E/E","219523.00","164267.00","0.00","55256.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","TOBIAS","HOLLERER","PROF-AY-B/E/E","219502.00","160425.00","0.00","59077.00"]},
+{"id":"7","cell":["7","2018","San Diego","GARRISON W","COTTRELL","PROF-AY-B/E/E","219494.00","176383.00","0.00","43111.00"]},
+{"id":"8","cell":["8","2018","Irvine","MARGARET E","OBRIEN","CLIN INFORMATICS SPEC 5","219480.00","195716.00","0.00","23764.00"]},
+{"id":"9","cell":["9","2018","Irvine","DOMINIK FRANZ XA","WODARZ","PROF-AY","219479.00","157585.00","0.00","61894.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","AIMEE","OSTICK","ASC PHYSCN DIPLOMATE","219475.00","128008.00","0.00","91467.00"]},
+{"id":"11","cell":["11","2018","San Francisco","WILLIAM R.","SCHROEDER","NURSE SVC SUPV 2","219470.00","172631.00","42491.00","4348.00"]},
+{"id":"12","cell":["12","2018","Santa Barbara","CHRISTOPHER","KRUEGEL","PROF-AY-B/E/E","219467.00","163667.00","0.00","55800.00"]},
+{"id":"13","cell":["13","2018","San Francisco","KYLE R","THORNTON","RADLG SVC SUPV 2","219465.00","148337.00","20590.00","50538.00"]},
+{"id":"14","cell":["14","2018","San Francisco","PUI-YAN","KWOK","PROF IN RES-FY","219460.00","134697.00","0.00","84763.00"]},
+{"id":"15","cell":["15","2018","Davis","JOCYLEN E","GLASSBERG","HS ASSOC CLIN PROF-HCOMP","219458.00","107928.00","0.00","111530.00"]},
+{"id":"16","cell":["16","2018","San Francisco","SHARON KA YEE","CHENG","FINANCIAL ANL MGR 2","219425.00","200884.00","0.00","18541.00"]},
+{"id":"17","cell":["17","2018","Santa Cruz","ALISON","GALLOWAY","PROF-AY","219422.00","136408.00","0.00","83014.00"]},
+{"id":"18","cell":["18","2018","Irvine","CATHERINE M","BROCK","ADM CRD OFCR","219398.00","214572.00","0.00","4826.00"]},
+{"id":"19","cell":["19","2018","Merced","MUKESH","SINGHAL","PROF-AY-B/E/E","219397.00","214867.00","0.00","4530.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","MARY","WOO","PROF-FY","219392.00","219392.00","0.00","0.00"]}]
+}
