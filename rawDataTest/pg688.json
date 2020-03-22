@@ -1,0 +1,26 @@
+{
+"page" : "688",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","DANIELLE M","SETIAWAN","CLIN NURSE 2","182043.00","146204.00","6515.00","29324.00"]},
+{"id":"2","cell":["2","2018","Davis","LISA M","BADOVINAC","HEALTH PROFNS EDUC MGR 2","182037.00","159319.00","0.00","22718.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","LORENA","DOUILLE","MGR","182035.00","166639.00","0.00","15396.00"]},
+{"id":"4","cell":["4","2018","Santa Cruz","KIRSTEN S","GRUESZ","PROF-AY","182025.00","181525.00","0.00","500.00"]},
+{"id":"5","cell":["5","2018","San Francisco","MARY E","MELLE","CLIN NURSE 2","182017.00","151956.00","0.00","30061.00"]},
+{"id":"6","cell":["6","2018","San Francisco","NORA MARIE","GALLAGHER","CLIN NURSE 3","182010.00","169169.00","577.00","12264.00"]},
+{"id":"7","cell":["7","2018","San Francisco","CHRISTINE O","MACASIEB","NURSE PRACT 2","182003.00","170111.00","10615.00","1277.00"]},
+{"id":"8","cell":["8","2018","Davis","KYOUNGMI","KIM","PROF IN RES-HCOMP","182000.00","131462.00","0.00","50538.00"]},
+{"id":"9","cell":["9","2018","Davis","ROBERT W","RILEY","DESIGN AND CONST MGR 1","181986.00","168750.00","0.00","13236.00"]},
+{"id":"10","cell":["10","2018","San Francisco","ALARIC C","BATTLE","IT ARCHITECT MGR 1","181976.00","176976.00","0.00","5000.00"]},
+{"id":"11","cell":["11","2018","San Francisco","CHERYL LYNN","RYAN","ULTRASOUND TCHNO PRN","181974.00","170870.00","1439.00","9665.00"]},
+{"id":"12","cell":["12","2018","San Diego","YURI A.","FIALKO","PROF-AY","181970.00","162192.00","0.00","19778.00"]},
+{"id":"13","cell":["13","2018","Davis","RICHARD MICHAEL","FRANK","GOVT REL SPEC 5","181965.00","181965.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","TERESITA","HO","CLIN NURSE 2","181955.00","135453.00","27254.00","19248.00"]},
+{"id":"15","cell":["15","2018","San Francisco","DAWN K","PIZZINI","CLIN NURSE EDUC 4","181945.00","174234.00","0.00","7711.00"]},
+{"id":"16","cell":["16","2018","San Francisco","PETER THOMAS","KOLONOSKI","INFECTION PREVENTION MGR 1","181944.00","167811.00","0.00","14133.00"]},
+{"id":"17","cell":["17","2018","San Francisco","JILL","GOLDSMITH","ORGANIZATIONAL DEV MGR 1","181941.00","181941.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","DEREK C","LEE","INFO SYS MGR 2","181912.00","167454.00","0.00","14458.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","JESSICA","PHILLIPS","MGR","181908.00","167146.00","0.00","14762.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","KUNAL","SACHDEVA","MGR","181908.00","166403.00","0.00","15505.00"]}]
+}

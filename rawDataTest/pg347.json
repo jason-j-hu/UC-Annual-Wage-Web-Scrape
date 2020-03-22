@@ -1,0 +1,26 @@
+{
+"page" : "347",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","CLAUDIO","CAMPAGNARI","PROF-AY","242503.00","183500.00","0.00","59003.00"]},
+{"id":"2","cell":["2","2018","Irvine","LBACHIR","BENMOHAMED","PROF-HCOMP","242500.00","132622.00","0.00","109878.00"]},
+{"id":"3","cell":["3","2018","San Diego","ANITA","RAJ","PROF-HCOMP","242500.00","174376.00","0.00","68124.00"]},
+{"id":"4","cell":["4","2018","San Diego","ERIC","HALGREN","PROF-HCOMP","242500.00","242500.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","UCOP","JIMMY","CASTRO","ACCOUNTING MGR 3","242499.00","208418.00","0.00","34081.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JUDITH","SELTZER","PROF-AY","242482.00","224187.00","0.00","18295.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","SUSAN","PERLMAN","HS CLIN PROF-HCOMP","242468.00","242467.00","0.00","1.00"]},
+{"id":"8","cell":["8","2018","Berkeley","PEGGY","HUSTON","ADMIN MGR 3","242464.00","242464.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","NILE","GREEN","PROF-AY","242442.00","242442.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","SIBANI","PATI","ASSOC PROF IN RES-HCOMP","242437.00","113061.00","0.00","129376.00"]},
+{"id":"11","cell":["11","2018","Santa Barbara","MARK","JUERGENSMEYER","PROF-AY","242358.00","241358.00","0.00","1000.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","HAN","DU","ASST PROF-AY","242344.00","116000.00","0.00","126344.00"]},
+{"id":"13","cell":["13","2018","Davis","KENT J","BRADFORD","AGRON AES","242335.00","230668.00","0.00","11667.00"]},
+{"id":"14","cell":["14","2018","Davis","JEFFERY C","GIBELING","PROF-AY-B/E/E","242319.00","184975.00","0.00","57344.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","HARUZO","HIDA","PROF-AY","242304.00","221299.00","0.00","21005.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","PAMELA","SHADE","ANESTHETIST NURSE SR NEX","242290.00","236373.00","4809.00","1108.00"]},
+{"id":"17","cell":["17","2018","San Francisco","MARISA A","QUINN","AMBUL CARE PAT MGR 2","242261.00","222248.00","0.00","20013.00"]},
+{"id":"18","cell":["18","2018","San Francisco","JENNIFER SHIELDS","MURPHY","NURSE PRACT 2","242250.00","171345.00","65037.00","5868.00"]},
+{"id":"19","cell":["19","2018","Davis","JOHN M","OLICHNEY","PROF-HCOMP","242208.00","191046.00","0.00","51162.00"]},
+{"id":"20","cell":["20","2018","Davis","TERRI","FELIX","ASC PHYSCN","242184.00","222671.00","0.00","19513.00"]}]
+}

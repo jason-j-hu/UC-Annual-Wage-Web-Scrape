@@ -6,7 +6,7 @@ from multiprocessing.pool import ThreadPool
 
 
 def download_json(url):
-    r = requests.get(url, stream=True)
+    r = requests.get(url)
     r_text_fixed = r.text.replace("\'", "\"")
 
     r_text_json = json.loads(r_text_fixed)
@@ -16,27 +16,32 @@ def download_json(url):
         obj.write(r_text_fixed)
 
 
+def get_urls(pg_num):
+    url = "https://ucannualwage.ucop.edu/wage/search.action"
+    payload = {'_search': 'false',
+               'nd': 1584252598793,
+               'rows': 20,
+               'page': pg_num,
+               'sidx': 'EAW_GRS_EARN_AMT',
+               'sord': 'desc',
+               'year': 2018,
+               'location': 'ALL',
+               'firstname': '',
+               'lastname': '',
+               'title': '',
+               'startSal': '',
+               'endSal': ''}
+    r = requests.get(url, params=payload)
+    return r.url
+
 if __name__ == '__main__':
-    urlsList = []
-    for pgNum in range(1, 30):
-        url = "https://ucannualwage.ucop.edu/wage/search.action"
-        payload = {'_search': 'false',
-                   'nd': 1584252598793,
-                   'rows': 20,
-                   'page': pgNum,
-                   'sidx': 'EAW_GRS_EARN_AMT',
-                   'sord': 'desc',
-                   'year': 2018,
-                   'location': 'ALL',
-                   'firstname': '',
-                   'lastname': '',
-                   'title': '',
-                   'startSal': '',
-                   'endSal': ''}
-        r = requests.get(url, params=payload)
-        urlsList.append(r.url)
-    print(urlsList)
-    results = ThreadPool(5).imap_unordered(download_json, urlsList)
+    urls_list = []
+    results_test = ThreadPool(15).imap_unordered(get_urls, range(1, 30))
+    for r in results_test:
+        urls_list.append(r)
+    print(urls_list)
+
+    results = ThreadPool(15).imap_unordered(download_json, urls_list)
     for r in results:
         pass
     print(f"Time to download: {time() - start}")

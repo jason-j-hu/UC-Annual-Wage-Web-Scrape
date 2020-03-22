@@ -1,0 +1,26 @@
+{
+"page" : "261",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","COURTNEY D","THORNBURG","PROF OF CLIN-HCOMP","274670.00","135205.00","0.00","139465.00"]},
+{"id":"2","cell":["2","2018","Berkeley","JEFFREY","LONG","PROF-AY","274633.00","244758.00","0.00","29875.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","CHRISTOPHER","WATERMAN","PROF-AY","274617.00","274617.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","DOUGLAS C","BAUER","PROF IN RES-HCOMP","274552.00","186676.00","0.00","87876.00"]},
+{"id":"5","cell":["5","2018","Berkeley","JUSTIN","TYGAR","PROF-AY-B/E/E","274484.00","149658.00","0.00","124826.00"]},
+{"id":"6","cell":["6","2018","San Francisco","KOSAL","BO","MED STF SVC MGR 3","274461.00","243700.00","0.00","30761.00"]},
+{"id":"7","cell":["7","2018","Davis","ALLA O","BLINDER","ASC PHYSCN","274459.00","258934.00","0.00","15525.00"]},
+{"id":"8","cell":["8","2018","San Diego","IMANUEL RUVIN","LERMAN","HS ASSOC CLIN PROF-HCOMP","274424.00","129075.00","0.00","145349.00"]},
+{"id":"9","cell":["9","2018","San Diego","BARBARA LOCKHART","PARRY","PROF IN RES-HCOMP","274417.00","217535.00","0.00","56882.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ERIC","D\"HOKER","PROF-AY","274392.00","246642.00","0.00","27750.00"]},
+{"id":"11","cell":["11","2018","San Francisco","DHRUV S.","KAZI","ASSOC PROF OF CLIN-HCOMP","274363.00","105763.00","0.00","168600.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","CALVIN","DUFFAUT","HS ASST CLIN PROF-HCOMP","274346.00","109572.00","0.00","164774.00"]},
+{"id":"13","cell":["13","2018","San Diego","XIANG-DONG","FU","PROF-HCOMP","274342.00","274281.00","0.00","61.00"]},
+{"id":"14","cell":["14","2018","San Diego","THOMAS L","PATTERSON","PROF IN RES-HCOMP","274342.00","274342.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Riverside","JANET","BLACHER","PROF-AY","274301.00","241080.00","0.00","33221.00"]},
+{"id":"16","cell":["16","2018","Davis","JOHN E","MADIGAN","PROF-SFT-VM","274295.00","273945.00","0.00","350.00"]},
+{"id":"17","cell":["17","2018","Davis","MICHAEL","SIMINOVITCH","RES-FY","274293.00","229103.00","0.00","45190.00"]},
+{"id":"18","cell":["18","2018","San Francisco","KAYO","TSURUTA","CLIN NURSE 3","274242.00","178312.00","93422.00","2508.00"]},
+{"id":"19","cell":["19","2018","San Diego","CRAIG R.M.","MC KENZIE","PROF-AY-B/E/E","274208.00","201175.00","0.00","73033.00"]},
+{"id":"20","cell":["20","2018","San Diego","MICHAEL WAYNE","MEYER","LECT PSOE-AY","274166.00","180588.00","0.00","93578.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "545",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","JOHN","CHIN","INFO SYS MGR 2","200134.00","183915.00","0.00","16219.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","LESLIE","COMMON","DIR AST","200123.00","175358.00","0.00","24765.00"]},
+{"id":"3","cell":["3","2018","San Diego","GINA M","BASEHORE","ANESTHETIST NURSE SR NEX","200122.00","178113.00","19566.00","2443.00"]},
+{"id":"4","cell":["4","2018","Davis","TRUMAN","YOUNG","AGRON AES","200119.00","200119.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","PHILIP S","WARD","AGRON AES","200119.00","200119.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","ARLENE","ONDEVILLA-BURCE","CLIN NURSE 3","200107.00","147133.00","38794.00","14180.00"]},
+{"id":"7","cell":["7","2018","UCOP","CATHERINE","O\"SULLIVAN","EXEC ADVISOR MGR 3","200100.00","200100.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","JEFF","REPINSKI","PROGR ANL 5","200084.00","191872.00","0.00","8212.00"]},
+{"id":"9","cell":["9","2018","San Diego","MAMATA","SIVAGNANAM","HS ASSOC CLIN PROF-HCOMP","200080.00","163015.00","0.00","37065.00"]},
+{"id":"10","cell":["10","2018","San Francisco","MARICELA D","BORREGO","REVENUE CYCLE HC MGR 1","200077.00","182400.00","0.00","17677.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","YAROSLAV","TSERKOVNYAK","PROF-AY","200077.00","149483.00","0.00","50594.00"]},
+{"id":"12","cell":["12","2018","Berkeley","SANDRINE","DUDOIT","PROF-AY","200063.00","162100.00","0.00","37963.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","PETER","NABOKOV","PROF-AY","200058.00","200058.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","GETAHUN B","WELDESELASSIE","STF PHARMACIST 1 NEX","200055.00","139073.00","41551.00","19431.00"]},
+{"id":"15","cell":["15","2018","Irvine","MICHAEL THOMAS","MCBRIDE","ASSOC DEAN","200047.00","168558.00","0.00","31489.00"]},
+{"id":"16","cell":["16","2018","San Francisco","REAGAN","MENDOZA","AMBUL CARE PAT MGR 2","200045.00","179694.00","0.00","20351.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","CYNTHIA","SENERIZ","HR MGR 3","200038.00","200038.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","JIAN-JIAN","LI","PROF-HCOMP","200035.00","190902.00","0.00","9133.00"]},
+{"id":"19","cell":["19","2018","Riverside","ALEXANDER","KOROTKOV","PROF-AY-B/E/E","200014.00","148708.00","0.00","51306.00"]},
+{"id":"20","cell":["20","2018","Riverside","JOHN","GARY","PROF-AY","200014.00","169958.00","0.00","30056.00"]}]
+}

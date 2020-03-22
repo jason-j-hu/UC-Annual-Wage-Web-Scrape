@@ -1,0 +1,26 @@
+{
+"page" : "1017",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","JOYCE","REINHOLDT","ADMIN NURSE 2 NEX","155546.00","144105.00","3177.00","8264.00"]},
+{"id":"2","cell":["2","2018","San Diego","ASIM HAMID","BILLOO","DOSIMETRIST","155542.00","148078.00","6457.00","1007.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","MARIESA","BUHL","NURSE PRACT 2","155540.00","146625.00","6715.00","2200.00"]},
+{"id":"4","cell":["4","2018","San Francisco","ALICE YU XIANG","WANG","CLIN NURSE 2","155539.00","132094.00","1744.00","21701.00"]},
+{"id":"5","cell":["5","2018","San Diego","DIANE","SANDMAN","CLIN NURSE EDUC 4","155534.00","154534.00","0.00","1000.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","SATHYA","GURUSWAMY","LECT SOE-AY","155532.00","131426.00","0.00","24106.00"]},
+{"id":"7","cell":["7","2018","San Diego","CARLA M","GROSMANN","HS CLIN PROF-HCOMP","155529.00","106804.00","0.00","48725.00"]},
+{"id":"8","cell":["8","2018","San Francisco","NAOMI","MARQUEZ","CLIN NURSE 2","155522.00","132443.00","0.00","23079.00"]},
+{"id":"9","cell":["9","2018","Davis","ELLA","REED","CLIN NURSE 2","155522.00","111561.00","30652.00","13309.00"]},
+{"id":"10","cell":["10","2018","Davis","SU-JU","LIN","PROF-AY","155521.00","133091.00","0.00","22430.00"]},
+{"id":"11","cell":["11","2018","San Francisco","PATRICK","WONG","CLIN NURSE 3","155519.00","149226.00","0.00","6293.00"]},
+{"id":"12","cell":["12","2018","San Francisco","ISAAC T","SATO","INFO SYS MGR 1","155514.00","154514.00","0.00","1000.00"]},
+{"id":"13","cell":["13","2018","San Diego","MICHAEL KAI-SHEN","PEYER","STF PHARMACIST 2","155512.00","140397.00","8546.00","6569.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","ANELO","CORDERO","ADMIN NURSE 1","155509.00","152975.00","260.00","2274.00"]},
+{"id":"15","cell":["15","2018","Davis","STEPHEN C","PALACIO","CARDIOVASCULAR TCHN","155500.00","117245.00","18466.00","19789.00"]},
+{"id":"16","cell":["16","2018","Davis","SCOTT R","FOSTER","CLIN APPLICATIONS MGR 1","155496.00","140169.00","0.00","15327.00"]},
+{"id":"17","cell":["17","2018","Davis","NITIN","NITIN","PROF-FY-B/E/E","155491.00","151971.00","0.00","3520.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ELAINE","HSIAO","ASST PROF-AY","155483.00","115683.00","0.00","39800.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","IRENE","LYUSHTRA","CLIN NURSE 2","155477.00","106654.00","27799.00","21024.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","DIDIER","MALEUVRE","PROF-AY","155475.00","143475.00","0.00","12000.00"]}]
+}
