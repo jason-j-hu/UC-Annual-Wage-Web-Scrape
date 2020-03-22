@@ -1,0 +1,26 @@
+{
+"page" : "6624",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","YELENA A","BONDAR","MED AST 2","42064.00","42020.00","44.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","TERI C","BARRY","MUSEUM SCI AST","42064.00","42064.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","SONIA","MAZARIEGOS TRUJ","HOSP BLANK AST 3","42064.00","41352.00","712.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","SHUFANG","ZHOU","BLANK AST 3","42063.00","42063.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","RONYAE","BRANDON","SCRTY GUARD SR","42063.00","38037.00","2569.00","1457.00"]},
+{"id":"6","cell":["6","2018","Merced","HIRAM","DOMINGUEZ","LAB AST 3","42063.00","41246.00","60.00","757.00"]},
+{"id":"7","cell":["7","2018","Berkeley","KRISTINA MARIE","SANTOYO","EVENTS SPEC 1","42063.00","35851.00","0.00","6212.00"]},
+{"id":"8","cell":["8","2018","Irvine","CHRISTIE JOY","SOSA","ACADEMIC COORD I-FY","42062.00","35047.00","0.00","7015.00"]},
+{"id":"9","cell":["9","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","42061.00","34803.00","0.00","7258.00"]},
+{"id":"10","cell":["10","2018","Irvine","SINDY","CAMACHO SORIA","COLL REPR","42061.00","39592.00","2469.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","KAJA","BAJC","SRA 1","42061.00","42061.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","ADRIENNE LATRICE","COLBERT","CLIN SOCIAL WORKER 1 NEX","42060.00","42060.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Merced","SIERRA","LONG","STDT ACAD ADVISOR 2","42059.00","42059.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","LYNAE","EDMUNDS","BLANK AST 2","42058.00","41436.00","622.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","DANIEL JOHN","O\"MALLEY","OCCUPATIONAL THER 1 NEX","42058.00","41800.00","146.00","112.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","42057.00","39057.00","0.00","3000.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","RUBI","JARAMILLO","OPHTHALMIC TCHN 2","42057.00","41855.00","95.00","107.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","CHANTEE","FOWLER","PAT COMM REPR","42057.00","40844.00","13.00","1200.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","42057.00","39057.00","0.00","3000.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","JOSE","ARCE","ADMIN CARE CLIN PARTNER","42054.00","40031.00","715.00","1308.00"]}]
+}

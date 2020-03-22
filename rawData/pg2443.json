@@ -1,0 +1,26 @@
+{
+"page" : "2443",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","WILLIAM J","JOINER","ASSOC PROF-HCOMP","99650.00","99650.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","SIERRA","TZOORE","DIGITAL COMM SUPV 2","99646.00","86299.00","2655.00","10692.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","DENNIS","DEPALMA","ADMIN ANL PRN 1","99643.00","99643.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","GLENN A.","LITTLE","INFO SYS ANL 3","99641.00","98626.00","0.00","1015.00"]},
+{"id":"5","cell":["5","2018","San Francisco","JULIA J","ST. GEORGE","CLIN SOCIAL WORKER 3","99639.00","98739.00","0.00","900.00"]},
+{"id":"6","cell":["6","2018","San Francisco","JANA","BROOKS","ADMIN OFCR 4","99638.00","99638.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","MARK","HANNUM","RSCH AND DEV ENGR 3","99638.00","99638.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","UCOP","JEFFREY","HESTER","MARKETING SPEC 4","99638.00","99638.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","RACHEL ANN","BIBY","ADMIN ANL PRN 1","99636.00","95914.00","0.00","3722.00"]},
+{"id":"10","cell":["10","2018","UCOP","BARBARA","HUI","APPLICATIONS PROGR 3","99634.00","99634.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","CHAU LONG","BELL-LAM","CLIN NURSE 2","99633.00","94875.00","2419.00","2339.00"]},
+{"id":"12","cell":["12","2018","San Francisco","SILVIA","MONTANO DE JIME","HEALTH PROFNS EDUC SUPV 2","99631.00","99631.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","CLAUDIA","TRUJILLO","STDT SVC MGR 1","99631.00","98131.00","0.00","1500.00"]},
+{"id":"14","cell":["14","2018","Santa Cruz","PHILLIP W","BERMAN","PROF-AY-B/E/E","99630.00","96331.00","0.00","3299.00"]},
+{"id":"15","cell":["15","2018","Davis","ELMER A","ANCHETA","INFO SYS ANL 4","99628.00","98753.00","0.00","875.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","ERIC","BONILLA","RESC NURSE PD","99627.00","91529.00","0.00","8098.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","ALICIA","CAST","ASSOC PROF-AY","99625.00","99625.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","TIANYI","ZHENG","ASST PROF-AY","99625.00","99625.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","VICTORIA PLAMENO","RUSINOV","CLIN NURSE 2","99624.00","87333.00","8016.00","4275.00"]},
+{"id":"20","cell":["20","2018","San Francisco","DANIEL AMOS","LIM","ASSOC PROF IN RES-HCOMP","99623.00","75479.00","0.00","24144.00"]}]
+}

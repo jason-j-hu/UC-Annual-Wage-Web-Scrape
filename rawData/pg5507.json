@@ -1,0 +1,26 @@
+{
+"page" : "5507",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","HELEN","ZHU","GEN ACCOUNTANT 4","52706.00","52061.00","0.00","645.00"]},
+{"id":"2","cell":["2","2018","San Diego","JOSE,JR","REYNOSO","CUSTODIAL SUPV 1","52706.00","51106.00","0.00","1600.00"]},
+{"id":"3","cell":["3","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","52704.00","44637.00","0.00","8067.00"]},
+{"id":"4","cell":["4","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","52704.00","44637.00","0.00","8067.00"]},
+{"id":"5","cell":["5","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","52704.00","44637.00","0.00","8067.00"]},
+{"id":"6","cell":["6","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","52704.00","44637.00","0.00","8067.00"]},
+{"id":"7","cell":["7","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","52704.00","44637.00","0.00","8067.00"]},
+{"id":"8","cell":["8","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","52704.00","44637.00","0.00","8067.00"]},
+{"id":"9","cell":["9","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","52704.00","44637.00","0.00","8067.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","PATRICIA","WALLACE","PAT BILLER 3","52704.00","51050.00","715.00","939.00"]},
+{"id":"11","cell":["11","2018","San Francisco","*****","*****","PRACTICE CRD 3","52703.00","51332.00","471.00","900.00"]},
+{"id":"12","cell":["12","2018","Irvine","AMSALE","PETROS","HOSP AST SR","52703.00","41773.00","10308.00","622.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","MACKENZIE","DAY","ASST PROF-AY","52703.00","43750.00","0.00","8953.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","RYAN","REDDING","STDT AFFAIRS OFCR 2","52702.00","51182.00","0.00","1520.00"]},
+{"id":"15","cell":["15","2018","UCOP","RACHEL","VELASQUEZ","EMPLOYEE SVC ASC","52701.00","51691.00","1010.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","ETHEL REGIS","LU","STDT SVC ADVISOR 2","52701.00","51291.00","530.00","880.00"]},
+{"id":"17","cell":["17","2018","Irvine","JAMES L","MCGAUGH","RECALL FACULTY","52700.00","52600.00","0.00","100.00"]},
+{"id":"18","cell":["18","2018","San Diego","TABATHA M","OREJEL-ESCOBEDO","HOSP BLANK AST 3","52700.00","51743.00","207.00","750.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","CATHERINE","WATERS","BLANK AST 3","52698.00","49891.00","2807.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","SEAN","MCMAHON","EVENTS SPEC 2","52698.00","52698.00","0.00","0.00"]}]
+}

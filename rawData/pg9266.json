@@ -1,0 +1,26 @@
+{
+"page" : "9266",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","EUGENE","BARDACH","ACADEMIC APPT","15000.00","0.00","0.00","15000.00"]},
+{"id":"2","cell":["2","2018","Berkeley","GREGORY","WATKINS","TEACHER-UNEX","15000.00","0.00","0.00","15000.00"]},
+{"id":"3","cell":["3","2018","Berkeley","ROBERT","STEINER","TEACHER-UNEX","15000.00","0.00","0.00","15000.00"]},
+{"id":"4","cell":["4","2018","Berkeley","CHRISTOPHER","CHANG","DEPARTMENT VICE CHAIR","15000.00","0.00","0.00","15000.00"]},
+{"id":"5","cell":["5","2018","Berkeley","GABRIEL","KAPRIELIAN","LECT IN SUMMER SESSION","15000.00","0.00","0.00","15000.00"]},
+{"id":"6","cell":["6","2018","Berkeley","MARK","SCHATZ","LECT IN SUMMER SESSION","15000.00","0.00","0.00","15000.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","*****","*****","RECR PRG INSTR","14999.00","14999.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","*****","*****","TEACHG ASST-GSHIP","14998.00","14998.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","LUIS","AVILA BOLIVAR","BIOINFORMATICS PROGR 3","14998.00","11833.00","0.00","3165.00"]},
+{"id":"10","cell":["10","2018","San Diego","STEVEN P","ERIE","RECALL TEACHING","14998.00","14998.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Riverside","*****","*****","FINANCIAL ANL 1","14998.00","14887.00","40.00","71.00"]},
+{"id":"12","cell":["12","2018","San Diego","PAUL G.","PICKOWICZ","RECALL TEACHING","14998.00","14998.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","MATTHEW","DIPANE","SRA 2 NEX","14997.00","14888.00","109.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","SEAN","HOWARD","ADMIN CARE CLIN PARTNER PD","14995.00","13170.00","0.00","1825.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","CHELSEA","WATTS","ADMIN CARE CLIN PARTNER PD","14994.00","12869.00","12.00","2113.00"]},
+{"id":"16","cell":["16","2018","San Diego","MICHAEL J","HILMER","VIS ASST PROF","14994.00","0.00","0.00","14994.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","JOAQUIN","LOPEZ","CUSTODIAN SR","14993.00","13551.00","1415.00","27.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","PAUL","WARREN","RECALL NON-FACULTY ACAD","14992.00","14992.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","JENNIFER G","SCOTT","ADMIN SPEC","14992.00","13987.00","18.00","987.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","NANCY ES","HERNANDEZ-GUILL","ADMIN SPEC","14992.00","14237.00","0.00","755.00"]}]
+}

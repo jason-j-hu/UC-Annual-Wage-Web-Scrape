@@ -1,0 +1,26 @@
+{
+"page" : "3429",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","MAGID","AHMADI-KASHANI","PROGR ANL 3","77323.00","77323.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Irvine","EARVIN JOHN SY","CABILTES","CLIN NURSE 2","77322.00","68964.00","4468.00","3890.00"]},
+{"id":"3","cell":["3","2018","San Diego","DANIEL IAN","SPIVEY","RESP CARE PRACT TCHN","77322.00","69601.00","289.00","7432.00"]},
+{"id":"4","cell":["4","2018","Berkeley","DENNIS","BARLOW","CARPENTER LOCKSMITH","77322.00","47976.00","4577.00","24769.00"]},
+{"id":"5","cell":["5","2018","San Francisco","MICHELLE B","DABIT","REG RESP THER 1","77321.00","72648.00","1933.00","2740.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","CHARLES","CHEUNG","PROGR ANL 2","77321.00","75992.00","623.00","706.00"]},
+{"id":"7","cell":["7","2018","Berkeley","LYNN","TRAN","FINANCIAL SVC ANL 4","77320.00","77320.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","PATRICIA","POLLARD","GI ENDOSCOPY TCHN 3","77318.00","66656.00","4533.00","6129.00"]},
+{"id":"9","cell":["9","2018","San Diego","BRENDAN MCALMON","DENNIS","SYS ADM 2","77317.00","65107.00","9634.00","2576.00"]},
+{"id":"10","cell":["10","2018","Irvine","JENNIFER POTENCI","GAUDIER","ADMIN ANL SR","77316.00","73468.00","0.00","3848.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","BERNADETTE","ACO","CLIN NURSE 2","77316.00","67914.00","81.00","9321.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ZIZI","BISHAY","HOSP LAB TCHN 3","77316.00","75878.00","871.00","567.00"]},
+{"id":"13","cell":["13","2018","San Francisco","JEFFREY D","POTTS","FOOD SVC SUPV 1 HC","77314.00","68098.00","5618.00","3598.00"]},
+{"id":"14","cell":["14","2018","San Francisco","VANESSA A","CURTIS","EHS SPEC 3","77313.00","74878.00","0.00","2435.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","KEVIN","COVARRUBIAS","SVC ENGR","77313.00","68879.00","4884.00","3550.00"]},
+{"id":"16","cell":["16","2018","Berkeley","ERIN","IMLER","STDT HEALTH PHYSCN 4","77313.00","77313.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","KEVIN","CROOK","LECT-FY","77312.00","77312.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","IRINA","LEVITSKAYA","GI ENDOSCOPY TCHN 2","77312.00","74790.00","952.00","1570.00"]},
+{"id":"19","cell":["19","2018","Davis","JEFFERY S","MARTINEZ","SYS ADM 3","77310.00","76435.00","0.00","875.00"]},
+{"id":"20","cell":["20","2018","Berkeley","RON","BARKER","ELECTR TCHN SR","77309.00","74298.00","3011.00","0.00"]}]
+}

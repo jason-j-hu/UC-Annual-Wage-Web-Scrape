@@ -1,0 +1,26 @@
+{
+"page" : "1256",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","SHENSHEN","WANG","ASST PROF-AY","142058.00","106100.00","0.00","35958.00"]},
+{"id":"2","cell":["2","2018","Davis","ELISABETH M","KRIMMER","PROF-AY","142058.00","142058.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Riverside","ALICIA","ARRIZON","PROF-AY","142058.00","112058.00","0.00","30000.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","WILLIAM","TORRENCE","ASSOC PROF-AY","142048.00","127592.00","0.00","14456.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","JONATHAN","COOK","FAC MGR 2","142046.00","142046.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","BADRU","MUTAAWE","NURSE PD","142042.00","115637.00","24125.00","2280.00"]},
+{"id":"7","cell":["7","2018","UCOP","SHELLY","MERON","WRITTEN COMM MGR 2","142042.00","142042.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","PASHUWA","WASHINGTON","ECHOCARDIOGRAPHIC TCHN PRN","142038.00","118101.00","21582.00","2355.00"]},
+{"id":"9","cell":["9","2018","San Francisco","BRENDA JOAN","GEE","COMM MGR 1","142033.00","141033.00","0.00","1000.00"]},
+{"id":"10","cell":["10","2018","Berkeley","LARS","ROHRBACH","SYS ADMSTN MGR 1","142029.00","142029.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","TONYA LYNN","VANDER MEER","NURSE SVC SUPV 2","142028.00","130229.00","5586.00","6213.00"]},
+{"id":"12","cell":["12","2018","San Francisco","CHELSI B","KING","CLIN NURSE 2","142022.00","135279.00","3570.00","3173.00"]},
+{"id":"13","cell":["13","2018","Davis","ANNE M","CASEY","FUNDRAISING MGR 2","142020.00","142020.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","NICHOLAS A","PALOMARES","PROF-AY","142016.00","123016.00","0.00","19000.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","REBECCA","LAHR","ADMIN NURSE 2 NEX","142012.00","134692.00","215.00","7105.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","VIVIAN","CHANG","HS ASST CLIN PROF-HCOMP","142008.00","108218.00","0.00","33790.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","JOSEPH","WARD","ADV OFCR 3","142002.00","125158.00","0.00","16844.00"]},
+{"id":"18","cell":["18","2018","San Diego","ORVILLE DOUGLAS","WILSON","ASC PHYSCN","142002.00","105345.00","0.00","36657.00"]},
+{"id":"19","cell":["19","2018","Davis","MIRIAM A","NUNO","ASSOC PROF-HCOMP","142000.00","106307.00","0.00","35693.00"]},
+{"id":"20","cell":["20","2018","San Diego","KARL JONAS","WAHLIN","ASST PROF-HCOMP","142000.00","95542.00","0.00","46458.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "3714",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","JANET","NG","PRACTICE CRD 3","72501.00","71841.00","0.00","660.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","JOHN","MATHEWS","ADMIN ANL SR","72501.00","72501.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","MICHAEL A","FLORENTINE","STERILE PROCESSING TCHN 2","72501.00","66092.00","2048.00","4361.00"]},
+{"id":"4","cell":["4","2018","Davis","JESSICA M","COLLINS","HR GENERALIST 3","72500.00","72500.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","NOEL NICHOLAS","BARONIA","FAC SUPV 1","72498.00","72498.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","KARRIN R","SAWYER","PROJECT POLICY ANL 2","72497.00","71557.00","60.00","880.00"]},
+{"id":"7","cell":["7","2018","Davis","DANIEL","BODHIPRASART","FOOD SVC MGR 1","72497.00","72497.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","NIVES","WETZEL DE CEDIEL","LECT-AY","72497.00","64495.00","0.00","8002.00"]},
+{"id":"9","cell":["9","2018","Davis","MICHAEL D","LACLAIR","VOC NURSE SR","72493.00","70890.00","1603.00","0.00"]},
+{"id":"10","cell":["10","2018","Irvine","LUTHER D","TOLBERT","ADMIN ANL SR","72491.00","72491.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","ASUCLA","JOSE","QUIROZ","ANL 4","72489.00","69767.00","0.00","2722.00"]},
+{"id":"12","cell":["12","2018","San Diego","SHEILA M.","KENNEDY","TRAINER 3","72489.00","68393.00","0.00","4096.00"]},
+{"id":"13","cell":["13","2018","San Diego","CHARLES ANTHON","KEEN-LOUIE","ADMIN OFCR 3","72488.00","70374.00","0.00","2114.00"]},
+{"id":"14","cell":["14","2018","Berkeley","ADAM","DOBAN","FAC MGT SPEC 3","72488.00","71988.00","0.00","500.00"]},
+{"id":"15","cell":["15","2018","Berkeley","REBECCA","LUBITZ","MARKETING SPEC 3","72488.00","71488.00","0.00","1000.00"]},
+{"id":"16","cell":["16","2018","Davis","REBECCA M","MORSE","CLIN NURSE 2","72486.00","63599.00","1293.00","7594.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","MICHELLE","RIOS","CLIN NURSE 2","72486.00","64933.00","1258.00","6295.00"]},
+{"id":"18","cell":["18","2018","Davis","VALERIE A","ODY","CONTRACT ADM 4","72486.00","71611.00","0.00","875.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","ELENA","ESPANOLA","VOC NURSE SR","72485.00","71933.00","426.00","126.00"]},
+{"id":"20","cell":["20","2018","San Diego","TARAS","NAZARKO","ASST RES-FY","72485.00","55841.00","0.00","16644.00"]}]
+}

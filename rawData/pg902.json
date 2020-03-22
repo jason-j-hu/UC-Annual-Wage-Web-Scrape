@@ -1,0 +1,26 @@
+{
+"page" : "902",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","THOMAS","LEE","ASSOC ADJ PROF-AY-B/E/E","163319.00","147175.00","0.00","16144.00"]},
+{"id":"2","cell":["2","2018","Berkeley","JASON","WITTENBERG","ASSOC PROF-AY","163317.00","134167.00","0.00","29150.00"]},
+{"id":"3","cell":["3","2018","San Francisco","PAULA A","TOKUGAWA","CLIN NURSE 3","163303.00","162328.00","0.00","975.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","ANGELICA","LEWIS","NURSE PRACT 2","163302.00","157770.00","1549.00","3983.00"]},
+{"id":"5","cell":["5","2018","Davis","CAROL M","GUZMAN","CLIN NURSE 3","163297.00","152372.00","4193.00","6732.00"]},
+{"id":"6","cell":["6","2018","San Francisco","AMANDA J","SURBER","CLIN NURSE 2","163292.00","145132.00","7519.00","10641.00"]},
+{"id":"7","cell":["7","2018","Berkeley","JONATHAN","SHEWCHUK","PROF-AY-B/E/E","163286.00","132947.00","0.00","30339.00"]},
+{"id":"8","cell":["8","2018","San Diego","DEBORAH NAOMI","BEYER","NURSE PRACT 3","163272.00","162053.00","0.00","1219.00"]},
+{"id":"9","cell":["9","2018","San Francisco","STEPHEN ALLEN","VRACAN","CLIN APPLICATIONS PROFL 3 GF","163269.00","152083.00","0.00","11186.00"]},
+{"id":"10","cell":["10","2018","Davis","MARCIN T","RYCHLEWSKI","STF PHARMACIST 2","163266.00","154234.00","9023.00","9.00"]},
+{"id":"11","cell":["11","2018","Davis","JUNG-YA","PARK","CLIN NURSE 2","163266.00","145683.00","4868.00","12715.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","JASON","LIGHT","LECT-AY-CONTINUING","163260.00","126089.00","0.00","37171.00"]},
+{"id":"13","cell":["13","2018","Irvine","SARLA","PERSAUD","CLIN NURSE SUPV 4 NEX","163259.00","137534.00","10824.00","14901.00"]},
+{"id":"14","cell":["14","2018","San Francisco","SUDHA RANI","LINGAM","INFO SYS ANL 4","163246.00","156045.00","0.00","7201.00"]},
+{"id":"15","cell":["15","2018","San Francisco","JESSICA Y","HAN","CLIN NURSE 2","163243.00","133113.00","5568.00","24562.00"]},
+{"id":"16","cell":["16","2018","Davis","BIN","GUAN","NURSE PRACT 2","163242.00","162545.00","297.00","400.00"]},
+{"id":"17","cell":["17","2018","Irvine","LAURIE A","ARMENDARIZ","CLIN NURSE SUPV 3 NEX","163240.00","140906.00","12726.00","9608.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ANA LIZA","MIRANDA","CLIN NURSE 3","163234.00","140055.00","15125.00","8054.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","MANINDER","JASDHAUL","CLIN NURSE 5","163232.00","152220.00","0.00","11012.00"]},
+{"id":"20","cell":["20","2018","Berkeley","MALCOLM","GAUSTAD","INSPECTION MGR 3","163230.00","163230.00","0.00","0.00"]}]
+}

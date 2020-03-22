@@ -1,0 +1,26 @@
+{
+"page" : "5064",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","CORNELIUS","GILDEA","STDT AFFAIRS OFCR 3 EX","56736.00","54986.00","0.00","1750.00"]},
+{"id":"2","cell":["2","2018","Davis","WILLIAM OWEN","MARSHALL","POSTDOC-EMPLOYEE","56734.00","56734.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","YENA","KIM","SRA 3 SUPV","56734.00","56734.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","MEGAN MARIE","WRIGHT","HEALTH TCHN 3","56734.00","54581.00","953.00","1200.00"]},
+{"id":"5","cell":["5","2018","San Francisco","MARISELA A","RYAN","PRACTICE CRD 2","56733.00","55938.00","210.00","585.00"]},
+{"id":"6","cell":["6","2018","San Francisco","JACLYN O","TIONGSON","PAT CARE AST","56733.00","55269.00","30.00","1434.00"]},
+{"id":"7","cell":["7","2018","Irvine","HUI","WANG","ASST PROJ SCIENTIST-FY","56733.00","56733.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","NAHALEH","OMRANIAN","ADMIN ANL","56733.00","56276.00","0.00","457.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","SERGIO","DUARTE","ASST PROJ SCIENTIST-FY","56733.00","56733.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","LORNA","COOPER","MED AST 2","56733.00","56435.00","298.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","RUTH","GONZALEZ","PUBL ADMSTN ANL","56732.00","52720.00","1282.00","2730.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ELIZABETH","CERVANTES","MED AST 3","56732.00","55924.00","718.00","90.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","LETTY","ROMERO","MED AST 3","56732.00","53985.00","2429.00","318.00"]},
+{"id":"14","cell":["14","2018","Davis","ROBERT A,III","AGUSTIN","HOSP BLANK AST 3","56732.00","49844.00","1781.00","5107.00"]},
+{"id":"15","cell":["15","2018","Irvine","LOUIS ROBERT","FRIAS","ADMIN SPEC","56731.00","56637.00","94.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","TENNILLE","FLOYD","BLANK AST 3","56731.00","48752.00","6888.00","1091.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","JUAN","PANIAGUA GUZMAN","BLDG MAINT WORKER SR","56731.00","53666.00","3065.00","0.00"]},
+{"id":"18","cell":["18","2018","Merced","JASDEEP","BIRRING","FINANCIAL ANL 3","56731.00","56731.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","GEORGETTE","ANGLUM","CLIN SPEC EX","56728.00","56728.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","LATRECEE MONCEL","EVANS","BLANK AST 3","56728.00","55489.00","237.00","1002.00"]}]
+}

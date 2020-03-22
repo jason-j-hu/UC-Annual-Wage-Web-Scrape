@@ -1,0 +1,26 @@
+{
+"page" : "5139",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","LAURA ANN","CIPHERS TANDET","HOSP LAB TCHN 2","56066.00","56066.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","MICHELLE","QUINTANA","ADMIN SPEC","56065.00","53365.00","0.00","2700.00"]},
+{"id":"3","cell":["3","2018","San Diego","JESSICA RENE","SMITH","ADMIN OFCR 2","56065.00","55427.00","638.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","BRENDA E","ARCE MENDEZ","BLANK AST 3","56064.00","56064.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ANA","ROMERO","HOSP BLANK AST 3","56064.00","55979.00","68.00","17.00"]},
+{"id":"6","cell":["6","2018","Santa Cruz","PRAMOD","GUPTA","TEACHER-UNEX-CONTRACT YR","56064.00","0.00","0.00","56064.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","YARESHLLIE","GARCIA","HOSP BLANK AST 3","56063.00","54840.00","932.00","291.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","CHRISTOPHER","ROSALES","SURGICAL TCHN","56063.00","53565.00","350.00","2148.00"]},
+{"id":"9","cell":["9","2018","San Francisco","INDRIA C","COOPER","PROJECT POLICY ANL 2","56062.00","56062.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","JOHNNY","YAO","BLANK AST 3","56061.00","56061.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MIGUEL","CAMPOS","CUSTODIAN AST SUPV","56061.00","50919.00","1543.00","3599.00"]},
+{"id":"12","cell":["12","2018","Davis","MAURA R","REILLY","BLANK AST 4","56061.00","51789.00","4150.00","122.00"]},
+{"id":"13","cell":["13","2018","San Francisco","JEFFREY R","PETTIBONE","POSTDOC-EMPLOYEE","56060.00","56060.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","RAYMUND","NAVARRO","PAT BILLER 3","56060.00","53305.00","1793.00","962.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","ANA","BARRIENTOS","HOSP BLANK AST 3","56060.00","56052.00","0.00","8.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","ERIK","BUTCHER","ADMIN ANL","56059.00","56059.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","LASHKARI R","SUMAN","AUTO EQUIP OPR PRN","56058.00","55239.00","819.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","YESENIA","RIOS","ADMITTING WORKER PRN","56058.00","53892.00","1500.00","666.00"]},
+{"id":"19","cell":["19","2018","Davis","GUADALUPE I","CASTRO","BLANK AST 3","56058.00","55062.00","996.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","AARON","RIVERA","ADMISSIONS RECRMT SPEC 2","56058.00","50860.00","5198.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "5309",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","ANNE MARIE","JACOBE-PEREZ","BLANK AST 2","54482.00","54482.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Cruz","ELEENE M","OLSON","BLANK AST 3","54482.00","54154.00","328.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","JENNIFER DERES","STEPHENSON","HOSP AST 3 PD","54482.00","53191.00","541.00","750.00"]},
+{"id":"4","cell":["4","2018","San Diego","CECILE ILUNGA","KASENGELA","CLIN NURSE 2","54481.00","45830.00","1356.00","7295.00"]},
+{"id":"5","cell":["5","2018","San Diego","LISA GAIL","TURNEY","BLANK AST 3","54481.00","51795.00","1184.00","1502.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","GENARO","GOPAR","MED CTR COOK SR","54480.00","49906.00","4036.00","538.00"]},
+{"id":"7","cell":["7","2018","Davis","BRITTANY","LANG","MED OFC SVC CRD 3","54479.00","54378.00","101.00","0.00"]},
+{"id":"8","cell":["8","2018","Riverside","CARRIE","JONAK","SRA 3","54479.00","54479.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","TIANA J","CAREY","DIETITIAN 2","54478.00","54478.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Merced","ERICA","TEIXEIRA","HR GENERALIST 3","54478.00","53780.00","0.00","698.00"]},
+{"id":"11","cell":["11","2018","Berkeley","MARGARET","MEAD","PROJECT POLICY ANL 2","54478.00","54178.00","0.00","300.00"]},
+{"id":"12","cell":["12","2018","San Francisco","STACEY L","HOLLY","RSCH DATA ANL 2","54477.00","54477.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","LUCY","DIAZ","BLANK AST 3","54477.00","53830.00","366.00","281.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","ADAN","RODRIGUEZ","ADMIN ANL AST","54477.00","51276.00","351.00","2850.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","CATHY","MACIEL","BLANK AST 3","54476.00","54269.00","207.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","LEONIDAS","KING","BLANK AST 2","54476.00","54476.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","OLIVER,JR","OLIVARES","ADMIN SUPV 1","54475.00","50419.00","193.00","3863.00"]},
+{"id":"18","cell":["18","2018","San Diego","KATHLEEN M","EDWARDS","TEACHER-UNEX-CONTRACT YR","54475.00","0.00","0.00","54475.00"]},
+{"id":"19","cell":["19","2018","San Diego","JOHN CARBUNGC","DEL ROSARIO","STERILE PROCESSING TCHN 3","54475.00","52452.00","1017.00","1006.00"]},
+{"id":"20","cell":["20","2018","San Francisco","KATHLEEN RI","DAVIDSON-ALLEN","CLIN REGIS MGR 1","54474.00","54474.00","0.00","0.00"]}]
+}

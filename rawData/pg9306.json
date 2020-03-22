@@ -1,0 +1,26 @@
+{
+"page" : "9306",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","STEVEN A","JACOBSOHN","ASC PHYSCN DIPLOMATE","14620.00","8052.00","0.00","6568.00"]},
+{"id":"2","cell":["2","2018","Riverside","*****","*****","TEACHG ASST-GSHIP","14620.00","14620.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","JESSICA","AVILA","CLIN RSCH CRD","14619.00","14619.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","LINDSEY M","KLATT","HEALTH TCHN 3","14619.00","12423.00","554.00","1642.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ANAHY","MORALES","PAT COMM REPR","14619.00","13371.00","134.00","1114.00"]},
+{"id":"6","cell":["6","2018","Berkeley","ALLISON","RAMOS","ADMISSIONS EVALUATOR 3","14619.00","13163.00","0.00","1456.00"]},
+{"id":"7","cell":["7","2018","Berkeley","*****","*****","GSR-NO REM","14618.00","14618.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","14618.00","14518.00","0.00","100.00"]},
+{"id":"9","cell":["9","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","14618.00","14518.00","0.00","100.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","*****","*****","STDT 2","14618.00","10289.00","0.00","4329.00"]},
+{"id":"11","cell":["11","2018","San Diego","LAURA JEAN","BOPP","BLANK AST 3","14618.00","13763.00","90.00","765.00"]},
+{"id":"12","cell":["12","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","14618.00","14518.00","0.00","100.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","ANGELIA","LEUNG","RECALL FACULTY","14617.00","0.00","0.00","14617.00"]},
+{"id":"14","cell":["14","2018","San Diego","JACOB JOAB","SAAIB","STERILE PROCESSING TCHN 2","14617.00","14412.00","107.00","98.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","SUSAN","VILLAR","ADMIN CARE CLIN PARTNER PD","14616.00","12847.00","0.00","1769.00"]},
+{"id":"16","cell":["16","2018","Merced","CLAUDIA","SILVA","BLANK AST 2","14616.00","14607.00","0.00","9.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","14615.00","14515.00","0.00","100.00"]},
+{"id":"18","cell":["18","2018","Berkeley","CHRISTIANA","VON HIPPEL","POSTDOC-EMPLOYEE","14614.00","14614.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","LIYE","CHEN","POSTDOC-EMPLOYEE","14614.00","14614.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","DEVAVRAT","VARTAK","POSTDOC-EMPLOYEE","14614.00","14614.00","0.00","0.00"]}]
+}

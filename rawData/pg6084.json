@@ -1,0 +1,26 @@
+{
+"page" : "6084",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","AMBER","MOORE HARROLD","FINANCIAL AID OFCR 3","47725.00","47725.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Irvine","SHALETA","SMITH","BLANK AST 3","47725.00","47725.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","SONIA","JOHNSON-MEDINA","TRAVEL RESERVATIONIST 3","47725.00","47725.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","DANA M","LIS","POSTDOC-EMPLOYEE","47725.00","47725.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","LUSINE","MASLAKYAN","CTRL SVC TCHN 2","47725.00","41811.00","1732.00","4182.00"]},
+{"id":"6","cell":["6","2018","San Diego","AMBER DAWN","PATTON","SURGICAL TCHN SR","47725.00","34469.00","5392.00","7864.00"]},
+{"id":"7","cell":["7","2018","Irvine","ROSEANNA MARIE","RODRIGUEZ","MED AST","47723.00","47158.00","565.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","GALINA","MIRZOYAN","EMERGENCY TRAUMA TCHN SR","47720.00","40271.00","6.00","7443.00"]},
+{"id":"9","cell":["9","2018","Riverside","SHARMA","YAMIJALA","POSTDOC-EMPLOYEE","47720.00","47720.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","LETICIA","MONTES","PAT COMM REPR","47719.00","47719.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","JULIO","GONZALEZ","BLANK AST 3","47719.00","47702.00","17.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","SUSAN","SHANNON","MUSEUM SCI","47719.00","47719.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","SUSAN","VILLALOBOS-MENDEZ","BLANK AST 2","47719.00","43412.00","3682.00","625.00"]},
+{"id":"14","cell":["14","2018","San Diego","DANIELLE RENEE","MULLER","BLANK AST 2","47718.00","47718.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","YOUNG A","KIM","APPLICATIONS PROGR 1","47718.00","47718.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","LAUREN CLAIRE","EDWARDS","CLIN RSCH CRD AST","47715.00","47715.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","NICHOLAS STEPHEN","RIANO","CLIN RSCH CRD AST","47715.00","47715.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","NANCY","CAI","CLIN RSCH CRD AST","47715.00","47715.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","JOI K","LEE","CLIN RSCH CRD AST","47715.00","47715.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","JASKANWALJEET","KAUR","CLIN RSCH CRD AST","47715.00","47715.00","0.00","0.00"]}]
+}

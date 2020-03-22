@@ -1,0 +1,26 @@
+{
+"page" : "7846",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","28167.00","28167.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Berkeley","*****","*****","GSR-TUIT & FEE REM","28166.00","28166.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","MARISA MAHIALANI","JIN","ADMIN OFCR 2","28166.00","28166.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","28166.00","28166.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","VALERIE L","FLECKENSTEIN","HR AST 2","28166.00","27389.00","0.00","777.00"]},
+{"id":"6","cell":["6","2018","San Diego","*****","*****","GSR-NO REM","28166.00","28066.00","0.00","100.00"]},
+{"id":"7","cell":["7","2018","San Diego","NICOLE PAULINE","GOREN","CLIN SOCIAL WORKER 1 NEX","28166.00","28166.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","28165.00","20776.00","0.00","7389.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","BENJAMIN","BEUTLER","PHYS THER 2 NEX","28164.00","28164.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","DEBORA","PELLICCIA","POSTDOC-EMPLOYEE","28164.00","28164.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","28164.00","28064.00","0.00","100.00"]},
+{"id":"12","cell":["12","2018","San Diego","CARL LYNN","GANN II","VOC NURSE SR","28163.00","23320.00","1285.00","3558.00"]},
+{"id":"13","cell":["13","2018","Davis","BARBARA J","NOBLE","REGISTRAR MGR 1","28162.00","23120.00","0.00","5042.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","MADELINE","TULLER","ADMIN ANL PRN 1","28162.00","28162.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","*****","*****","GSR-FULL FEE REM","28161.00","28161.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","GRACE E","GATES","HS ASST CLIN PROF-FY","28160.00","28160.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","JAEGAN MARIE","AYOUB","BLANK AST 2","28160.00","28160.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","MARK TODAL","SORIANO","VOC NURSE SR","28159.00","28074.00","85.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","ABIGAIL","RUDNER","TEACHER-UNEX","28158.00","0.00","0.00","28158.00"]},
+{"id":"20","cell":["20","2018","Davis","SEVAN K","HAROOTONIAN","JR SPECIALIST NEX","28157.00","23630.00","0.00","4527.00"]}]
+}

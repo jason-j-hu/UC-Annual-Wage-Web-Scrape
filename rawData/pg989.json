@@ -1,0 +1,26 @@
+{
+"page" : "989",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","ANNA","SUN","CLIN NURSE 2","157230.00","144380.00","5395.00","7455.00"]},
+{"id":"2","cell":["2","2018","San Francisco","ANNA BELINDA BAL","TUMANENG","CLIN NURSE 2","157224.00","129365.00","3258.00","24601.00"]},
+{"id":"3","cell":["3","2018","San Francisco","CAITLIN","DUDDLESTON","RADLG SVC SUPV 2","157220.00","144597.00","2451.00","10172.00"]},
+{"id":"4","cell":["4","2018","Davis","KRISTI","MCCORMICK-VILLA","CLIN NURSE 2","157219.00","152418.00","3401.00","1400.00"]},
+{"id":"5","cell":["5","2018","Davis","PETER A","BEAL","PROF-AY","157219.00","157219.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","PENG","DING","ASST PROF-AY","157215.00","118358.00","0.00","38857.00"]},
+{"id":"7","cell":["7","2018","Davis","ROXANNE B","VALDEZ","CLIN NURSE 2","157214.00","146317.00","4782.00","6115.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","RAMONA","MEHRINFAR-ZADEH","HS ASST CLIN PROF-HCOMP","157211.00","60132.00","0.00","97079.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","SINNY","WANG","HS ASST CLIN PROF-HCOMP","157208.00","106232.00","0.00","50976.00"]},
+{"id":"10","cell":["10","2018","Berkeley","FORREST","SMALLEY","DATABASE ADM 5","157207.00","157207.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","BERNA JEAN","MCKISSICK","CLIN NURSE 2","157205.00","130660.00","0.00","26545.00"]},
+{"id":"12","cell":["12","2018","San Francisco","SARAH MONICA","KNOX","ASSOC PROF-HCOMP","157204.00","117641.00","0.00","39563.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","LUKE","THEOGARAJAN","PROF-AY-B/E/E","157204.00","138192.00","0.00","19012.00"]},
+{"id":"14","cell":["14","2018","Davis","ELIZABETH ANNE","CLIFTON","CLIN NURSE 4","157204.00","155899.00","1285.00","20.00"]},
+{"id":"15","cell":["15","2018","San Francisco","ANGELA D","ADKINS","CLIN NURSE 2","157203.00","123804.00","7969.00","25430.00"]},
+{"id":"16","cell":["16","2018","UCOP","WILLIAM","FREIRE","BUS SYS ANL MGR 1","157202.00","157202.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","ELLEN M","FINNEGAN","ULTRASOUND TCHNO PRN","157201.00","131443.00","3882.00","21876.00"]},
+{"id":"18","cell":["18","2018","San Francisco","CAROLYN L","SOMMERVILLE","CLIN NURSE 2","157195.00","154499.00","0.00","2696.00"]},
+{"id":"19","cell":["19","2018","UCOP","JUDY","KOGUT-O\"CONNELL","STRAT SOURCING MGR 2","157193.00","157193.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","UCOP","DEANNA","GEDDIE","ORGANIZATIONAL CNSLT 5","157193.00","157193.00","0.00","0.00"]}]
+}

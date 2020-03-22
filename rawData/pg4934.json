@@ -1,0 +1,26 @@
+{
+"page" : "4934",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","NUSRAT","HARUN","POSTDOC-EMPLOYEE","58057.00","58057.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Cruz","LYNNE MARIE","GRIFFIN","BLANK AST 3","58056.00","57904.00","152.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","THANH VAN T","BORGES","PHARMACIST 2 PD","58053.00","56831.00","1204.00","18.00"]},
+{"id":"4","cell":["4","2018","San Diego","JENNIFER MARIE","NAVARRO","PAT BILLER 4","58053.00","56817.00","234.00","1002.00"]},
+{"id":"5","cell":["5","2018","Davis","LUIS","VALDIVIEZ","LAB RSCH SUPV 1","58052.00","58052.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","58052.00","57052.00","0.00","1000.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","58052.00","57052.00","0.00","1000.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","58052.00","57052.00","0.00","1000.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","58052.00","57052.00","0.00","1000.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","58052.00","57052.00","0.00","1000.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","58052.00","57052.00","0.00","1000.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","58052.00","57052.00","0.00","1000.00"]},
+{"id":"13","cell":["13","2018","Riverside","NELDA","THOMAS","BLANK AST 3","58050.00","54513.00","37.00","3500.00"]},
+{"id":"14","cell":["14","2018","San Diego","KEVIN L","LIBBY","EHS SPEC 1 NEX","58049.00","55978.00","0.00","2071.00"]},
+{"id":"15","cell":["15","2018","San Francisco","LUCAS WILLIAM","ROHRER","CLIN RSCH CRD","58048.00","57688.00","360.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","DAVID A","RODRIGUEZ","CLIN RSCH SUPV 2","58047.00","34084.00","0.00","23963.00"]},
+{"id":"17","cell":["17","2018","San Diego","ZACHARY","RUDOLPH","EHS SPEC 2 NEX","58046.00","56536.00","1510.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ANA","CAMPOY","ACCESS REPR PRN","58044.00","55414.00","93.00","2537.00"]},
+{"id":"19","cell":["19","2018","San Diego","ELIZABETH S","INIGUEZ","BLANK AST 3","58044.00","56581.00","461.00","1002.00"]},
+{"id":"20","cell":["20","2018","San Diego","JADE L","LAIDLAW","RECORDS ANL 2","58044.00","55583.00","0.00","2461.00"]}]
+}

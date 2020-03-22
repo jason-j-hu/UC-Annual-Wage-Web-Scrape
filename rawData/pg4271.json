@@ -1,0 +1,26 @@
+{
+"page" : "4271",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","AMANDA","MAZUR","ANL 2","64968.00","64968.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","UCOP","MATTHEW","TRIGG","HR GENERALIST 2","64966.00","62869.00","2097.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","MARILYN S.","TOWNSEND","RECALL FACULTY","64965.00","64965.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","ANN","PARK","MGT SVC OFCR 2","64965.00","64965.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","YEN M.","MAN","CLIN SOCIAL WORKER 1 EX","64963.00","64963.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","MELISSA M","BALL","FINANCIAL SVC ANL 2","64963.00","64963.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","NILOFAR","GARDEZI","PROJECT POLICY ANL 4","64963.00","64963.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Riverside","ROBERT","GODOY","RSCH ADM 3","64963.00","63427.00","1536.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","KATHY J","DALES","FINANCIAL SVC ANL 2","64962.00","63507.00","1455.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","HEATHER","ADAMS","STDT AFFAIRS OFCR 3 EX","64961.00","61711.00","0.00","3250.00"]},
+{"id":"11","cell":["11","2018","San Diego","SULABHA PRAMOD","ARGADE","SRA 3","64961.00","64961.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","LEA","VELLA","QLTY IMPV HC SPEC 3","64960.00","64960.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","TOSHEKA D.","ROBINSON","STDT LIFE DEV SPEC 3","64959.00","64959.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","TRACIE DEEANN","LUKERRALLI","AMBUL CARE ADMSTN CRD 2","64958.00","62797.00","1411.00","750.00"]},
+{"id":"15","cell":["15","2018","San Diego","RICHARD F","SHARP","COMPUTER RESC SPEC 2","64958.00","64958.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","KATALINA SIENA","FOLAU","ADMITTING WORKER SUPV","64955.00","54586.00","6149.00","4220.00"]},
+{"id":"17","cell":["17","2018","Davis","MARYCLAIRE K","ROBINSON","LECT-AY-CONTINUING","64952.00","58888.00","0.00","6064.00"]},
+{"id":"18","cell":["18","2018","San Francisco","KHONDA L","BROWN","OPS ROOM SUPP AST","64952.00","59201.00","1309.00","4442.00"]},
+{"id":"19","cell":["19","2018","Riverside","ANNA","WIRE","BLANK AST 3","64952.00","63202.00","0.00","1750.00"]},
+{"id":"20","cell":["20","2018","Berkeley","ELIZABETH","CAMACHO","APPLICATIONS PROGR 3","64952.00","64952.00","0.00","0.00"]}]
+}

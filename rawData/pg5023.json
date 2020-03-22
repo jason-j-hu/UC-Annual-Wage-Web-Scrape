@@ -1,0 +1,26 @@
+{
+"page" : "5023",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","TIA ALAANA","SMITH","BLANK AST 3","57146.00","56392.00","0.00","754.00"]},
+{"id":"2","cell":["2","2018","UCOP","JUANITA","JEFFREY","BLANK AST 2","57146.00","54579.00","2567.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","PATRICIA","CARR","ADMIN SPEC","57146.00","56616.00","0.00","530.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","LEA","ANGELES","ADMIN ANL","57146.00","57146.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","SARAH","METZ","POSTDOC-EMPLOYEE","57146.00","57146.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","PATRICK","PADILLA","RSCH ADM 3","57145.00","57145.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","HELEN RENEE","STAPLETON","ADMIN OFCR 2","57145.00","54399.00","2746.00","0.00"]},
+{"id":"8","cell":["8","2018","Santa Cruz","JASON R","TALKISH","POSTDOC-EMPLOYEE","57144.00","57144.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","ELISA","DE PAULA FRANCA","ASSOC SPECIALIST","57143.00","49761.00","0.00","7382.00"]},
+{"id":"10","cell":["10","2018","San Diego","COLEEN J","GRIFFEN","PAYROLL ANL 2","57143.00","54725.00","1118.00","1300.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","KALPANA","SUNDARAM","PROGR ANL 3","57141.00","53201.00","0.00","3940.00"]},
+{"id":"12","cell":["12","2018","San Francisco","FELICITO DE JESU","MANZARATE","TCHN PRN","57140.00","53330.00","3810.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","ERIK","CONTRERAS","CLIN NURSE 2","57140.00","48826.00","5110.00","3204.00"]},
+{"id":"14","cell":["14","2018","Irvine","DAVID CHARLES","PUIG","PARKING SUPV PRN","57138.00","57138.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","SHEILA","BREEDING","BLANK AST 3","57138.00","54789.00","0.00","2349.00"]},
+{"id":"16","cell":["16","2018","Davis","LETICIA V","GARAY","ADMISSIONS RECRMT SPEC 3","57138.00","57138.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","MARIA EMILEE","HERRERA","ADMIN SPEC","57138.00","56724.00","414.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","CHENG","GAO","POSTDOC-EMPLOYEE","57137.00","57137.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","ZHIZHAO","LIU","POSTDOC-EMPLOYEE","57137.00","57137.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","ELODIE JEANNE","LEBAS","RSCH CMPLNC ANL 2","57136.00","57136.00","0.00","0.00"]}]
+}

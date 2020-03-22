@@ -1,0 +1,26 @@
+{
+"page" : "3601",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","MEGHAN REBECCA","TEDESCO","RSCH CMPLNC ANL 3","74280.00","74280.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","OSCAR A","HERNANDEZ NUNEZ","ADMIN OFCR 3","74280.00","74280.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","74280.00","61670.00","0.00","12610.00"]},
+{"id":"4","cell":["4","2018","San Francisco","DAVID Y","LEW","PHARMACY TCHN 2","74279.00","72201.00","0.00","2078.00"]},
+{"id":"5","cell":["5","2018","UCOP","DORE","BROWN","PUBLICATIONS PROD SPEC 3","74279.00","74279.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","DESIREE MIREYA","DIESTE","CLIN SOCIAL WORKER 3","74278.00","73513.00","0.00","765.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","BAO","WANG","ASST ADJ PROF-AY","74278.00","67167.00","0.00","7111.00"]},
+{"id":"8","cell":["8","2018","Irvine","DAVEY ARTHUR","WESSELS","ELECTR TCHN PRN","74277.00","74263.00","0.00","14.00"]},
+{"id":"9","cell":["9","2018","San Diego","YAZMIN PALOMA","KAHN","CLIN NURSE 2","74277.00","66512.00","4473.00","3292.00"]},
+{"id":"10","cell":["10","2018","San Francisco","MONICA F.","MATTHEWS","ADMITTING WORKER SR","74275.00","60750.00","7513.00","6012.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","LOLA","WILLOUGHBY","PROGR ANL 2","74275.00","74275.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","KHARYN FAITH","LOTEYRO","ACAD HR ANL 3","74275.00","72275.00","0.00","2000.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","LINDA","COPES","HEALTH INFO CODER 3","74271.00","73790.00","0.00","481.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","CONRADO","GALANG","ADMIN ANL","74271.00","61536.00","1214.00","11521.00"]},
+{"id":"15","cell":["15","2018","Riverside","CHRISTINA","WONG","EXEC AST 4","74271.00","73071.00","0.00","1200.00"]},
+{"id":"16","cell":["16","2018","Berkeley","TINA","HEROD","FUNDRAISER 3","74269.00","73769.00","0.00","500.00"]},
+{"id":"17","cell":["17","2018","Berkeley","ANDREW","BESSON","PROJECT POLICY ANL 3","74268.00","74268.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","LOUIS HUY NGOC","TRAN","PROGR ANL 3","74267.00","74267.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","TAYLOR C","LEWIS","CURATOR 4","74266.00","74266.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","ROBERT","VASQUEZ","FAC MGT SPEC 3","74265.00","74265.00","0.00","0.00"]}]
+}

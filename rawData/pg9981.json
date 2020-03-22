@@ -1,0 +1,26 @@
+{
+"page" : "9981",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","DAVID","BLEI","VIS ASSOC RES","10000.00","10000.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Berkeley","MARY AGNES","HOOPES","PROJECT POLICY ANL 4","10000.00","10000.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","BOAZ","NADLER","VIS ASSOC RES","10000.00","10000.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","JOSIE","GRANT","TEACHER-UNEX","10000.00","0.00","0.00","10000.00"]},
+{"id":"5","cell":["5","2018","Berkeley","SOHVI","HEATON","VIS ASST RES","10000.00","10000.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","TAREK","ELBEIK","LECT IN SUMMER SESSION","10000.00","0.00","0.00","10000.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","SUSAN","KIRBY","ASSOC ADJ PROF-AY-1/9","9999.00","9999.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","CAMILLE M","ADAMS","PUBL EVENTS MGR AST","9999.00","9999.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Santa Barbara","FRANCESC S","ROIG","RECALL TEACHING","9999.00","9999.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ANTHONY H","SCHIFF","ADJ PROF-AY-1/9","9999.00","9999.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","MAUREEN","LEE","PHYSCN SHS 5 LIMITED HOURS","9999.00","9999.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","9998.00","8420.00","0.00","1578.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","*****","*****","STDT INTERN","9998.00","9998.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","DAVID A","CLEVELAND","RECALL TEACHING","9998.00","9998.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","KRISTINA","DIZON","K to 14 ACAD PREP SPEC 1","9998.00","9952.00","46.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","CLAUDIA","ALBANO","LECT-AY-1/10-CONTINUING","9998.00","9998.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Santa Cruz","*****","*****","STDT 4 NON UC","9997.00","9997.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","M STEPHEN","WEATHERFORD","RECALL FACULTY","9997.00","9997.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","STEPHEN I","ROTHSTEIN","RECALL FACULTY","9997.00","9997.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","YASMIN","RODRIGUEZ","FOOD SVC WORKER","9997.00","8879.00","803.00","315.00"]}]
+}

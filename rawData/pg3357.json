@@ -1,0 +1,26 @@
+{
+"page" : "3357",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","UCOP","SUSAN","OWEN","EXEC AST 3","78642.00","78642.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","78641.00","65991.00","0.00","12650.00"]},
+{"id":"3","cell":["3","2018","San Diego","ANNA MARIA","WILSON","RSCH GNT PRG OFCR 3","78640.00","78640.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","IRAN V","VICTA","HOSP LAB TCHN 1","78639.00","77923.00","716.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","LORINDA L","O\"BRIEN","GEN ACCOUNTANT 3","78639.00","77764.00","0.00","875.00"]},
+{"id":"6","cell":["6","2018","San Diego","AMY RACHELLE","FRENZEL","PHYS THER 2 NEX","78639.00","77250.00","163.00","1226.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","ERIC","WELLS","ADMIN ANL PRN 1","78637.00","74936.00","0.00","3701.00"]},
+{"id":"8","cell":["8","2018","Davis","JESUS DIONI","FERNANDEZ BAYO","ASST RES-FY-B/E/E","78635.00","78635.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Santa Barbara","MARY LYNNE","WENZEL","DATA SYS ANL 3 GF","78635.00","60639.00","0.00","17996.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ROSINA GABRIEL","IMIRU","CLIN LAB SCI","78634.00","77473.00","1161.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","RENE","VALDEZ","VOC NURSE","78632.00","76183.00","2066.00","383.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ELISE M","MARTIN","HS ASST CLIN PROF-HCOMP","78632.00","68990.00","0.00","9642.00"]},
+{"id":"13","cell":["13","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","78629.00","60644.00","0.00","17985.00"]},
+{"id":"14","cell":["14","2018","San Francisco","GIOVANNI J","LAIRD","PHARMACIST SR EX","78629.00","78629.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","KEVIN JAMES","VELLANOWETH","BUS TCHL SUPP ANL 3","78629.00","78629.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","CATHERINE A","HESS","RSCH DATA ANL 4","78629.00","77927.00","0.00","702.00"]},
+{"id":"17","cell":["17","2018","San Francisco","URSULA M","O\"KEEFFE","PRACTICE CRD 3","78627.00","77087.00","400.00","1140.00"]},
+{"id":"18","cell":["18","2018","Davis","MICHAEL ANDREW","PODRASKY","SURGICAL TCHN PRN","78627.00","76396.00","1674.00","557.00"]},
+{"id":"19","cell":["19","2018","San Diego","ELIZABETH A","SOTOA","HOSP LAB TCHN 2","78627.00","64532.00","11753.00","2342.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","STEPHANIE","WORKMAN","MGT SVC OFCR 1 SUPV","78626.00","78626.00","0.00","0.00"]}]
+}

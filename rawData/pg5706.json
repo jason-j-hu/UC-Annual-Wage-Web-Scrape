@@ -1,0 +1,26 @@
+{
+"page" : "5706",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","BARBARA JEAN","CRANE-ROOKS","PRACTICE CRD 2","50999.00","49356.00","503.00","1140.00"]},
+{"id":"2","cell":["2","2018","Davis","MADONNA M","JIMENEZ","STOREKEEPER SR","50999.00","50925.00","74.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","XOCHITL","CORDOVA","PUBL ADMSTN ANL","50999.00","50999.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","RAVEN LYNETTE","SMITH","CLIN RSCH CRD AST","50998.00","50648.00","350.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","ALYSSA M","FLORES","MED OFC SVC CRD 3","50998.00","50615.00","383.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","PEDRO","MORALES","GROUNDSKEEPER","50998.00","50560.00","438.00","0.00"]},
+{"id":"7","cell":["7","2018","Merced","BETH","BENNETT","BLANK AST 3","50998.00","49490.00","0.00","1508.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","ADARSH","MAYANK","POSTDOC-EMPLOYEE","50997.00","50997.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","REESE","WITHERS","CLIN NURSE 2","50997.00","49971.00","553.00","473.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","JEORGMA","ANG","ADMIN CARE CLIN PARTNER","50997.00","43186.00","245.00","7566.00"]},
+{"id":"11","cell":["11","2018","Merced","GREGORY","MUTUMI","POSTDOC-EMPLOYEE","50997.00","50997.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","CHRISTOPHER","COX","POSTDOC-EMPLOYEE","50997.00","50997.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","TAKISHA MAURICE","CORBETT","POSTDOC-EMPLOYEE","50997.00","50997.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","MICHAEL WILLIAM","SCARRY","GROUNDSKEEPER LD","50997.00","48355.00","2642.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","JON","WILSON","FAC WORKER","50996.00","50996.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","TIBURCIO","MARTINEZ","FAC WORKER","50996.00","50996.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","LAURA","RODRIGUEZ","PRG REPR 2","50996.00","50996.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","LETICIA MARIA","FLORES","MED AST","50995.00","49080.00","1249.00","666.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","IGOR","DE ROSA","SRA 5","50995.00","50995.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Riverside","*****","*****","LECT-AY-1/9-CONTINUING","50995.00","40442.00","0.00","10553.00"]}]
+}

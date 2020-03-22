@@ -1,0 +1,26 @@
+{
+"page" : "2400",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","SARAH","NARDINELLI","COMM SUPV 2","100834.00","95834.00","0.00","5000.00"]},
+{"id":"2","cell":["2","2018","San Francisco","CHRISTOPHER","BRIEZE","AMBUL CARE ADMSTN MGR 1","100833.00","97355.00","0.00","3478.00"]},
+{"id":"3","cell":["3","2018","San Diego","ALLEN Y","WANG","ACAD PRG MGT OFCR 4","100833.00","100833.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Riverside","RONALD","LOVERIDGE","ASSOC PROF-AY","100833.00","81633.00","0.00","19200.00"]},
+{"id":"5","cell":["5","2018","San Diego","JACQUELINE MICHE","BAUGH","CLIN NURSE 2","100832.00","95724.00","2304.00","2804.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","BRADLEY","POLLARD","POLICE OFCR","100830.00","84323.00","8196.00","8311.00"]},
+{"id":"7","cell":["7","2018","San Diego","CHELSEY MAUREEN","MCLEOD","CLIN NURSE 2","100830.00","86406.00","3122.00","11302.00"]},
+{"id":"8","cell":["8","2018","San Diego","SOWMYA","SEKAR","APPLICATIONS PROGR 4","100830.00","100830.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","MICHAEL","CABAN","PROGR ANL 4 SUPV","100828.00","100828.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","FRANK","LATORA","RSCH AND DEV ENGR 3","100827.00","94147.00","0.00","6680.00"]},
+{"id":"11","cell":["11","2018","San Diego","TAMIKA FRANSHAWN","LOPEZ","CLIN NURSE 2","100826.00","83651.00","2699.00","14476.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ANA","ELIAS","ADMIN ANL SR","100825.00","89583.00","0.00","11242.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","TINA","RAJABI","CLIN NURSE 2","100820.00","90870.00","7951.00","1999.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","KATHRYN","HECTOR","AEROSPACE ENGR 2","100818.00","100818.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","MARK E","WALCOTT","DATA SYS ANL 5","100818.00","100818.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Cruz","SAYO","FUJIOKA","STDT LIFE DEV MGR 1","100817.00","100127.00","0.00","690.00"]},
+{"id":"17","cell":["17","2018","Riverside","TABASSUM","KHAN","ASSOC PROF-AY","100817.00","86350.00","0.00","14467.00"]},
+{"id":"18","cell":["18","2018","UCOP","CHRISTOPHER","SIMON","AUDIT MGR 3","100817.00","90755.00","0.00","10062.00"]},
+{"id":"19","cell":["19","2018","San Diego","KEITH CHI","HSIUEH","FAC PROJECT MGT SPEC 3","100815.00","97315.00","0.00","3500.00"]},
+{"id":"20","cell":["20","2018","Berkeley","ANDREA","GRANT","PROJECT POLICY ANL 4","100814.00","100814.00","0.00","0.00"]}]
+}

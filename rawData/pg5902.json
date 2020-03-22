@@ -1,0 +1,26 @@
+{
+"page" : "5902",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","MONA","RAMEZANI","ADMIN ANL AST","49376.00","48301.00","0.00","1075.00"]},
+{"id":"2","cell":["2","2018","Berkeley","MARGOTINA","SALINAS","CUSTODIAN SR","49376.00","49082.00","3.00","291.00"]},
+{"id":"3","cell":["3","2018","San Francisco","YIMIN CATHERINE","HU","HOSP LAB TCHN 1 PD","49375.00","46628.00","1182.00","1565.00"]},
+{"id":"4","cell":["4","2018","Davis","KATHLEEN M.","BLAKEWELL","PROJECT POLICY ANL 3","49375.00","49375.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Santa Cruz","LINDSEY A","KUPER","ASST PROF-AY-B/E/E","49375.00","49375.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","PARVANEH","SHADKAM-FARROKHI","SRA 1","49374.00","47008.00","2343.00","23.00"]},
+{"id":"7","cell":["7","2018","Santa Barbara","JAIME","ESCOBEDO","FINANCIAL SVC ANL 2","49374.00","49374.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","SENN","ILAGAN","PHLEBOTOMIST","49373.00","47666.00","681.00","1026.00"]},
+{"id":"9","cell":["9","2018","Davis","COLIN F","BYRNE","POSTDOC-EMPLOYEE","49372.00","49372.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","MELISSA PAO","GALVEZ ALVAREZ","HEALTH TCHN 2","49372.00","48172.00","0.00","1200.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","DORCAS","OLAYEMI","ADMIN CARE CLIN PARTNER","49369.00","42368.00","5535.00","1466.00"]},
+{"id":"12","cell":["12","2018","San Diego","KATHLEEN ROSE","SCHOENEWEIS","STDT SVC ADVISOR 2","49369.00","45135.00","234.00","4000.00"]},
+{"id":"13","cell":["13","2018","Berkeley","LUKE","KREINBERG","CAREER SVC SPEC 4","49368.00","49368.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","MAY L","MOUA","ELECTROCARDIOGRAPH TCHN SR","49367.00","43864.00","2423.00","3080.00"]},
+{"id":"15","cell":["15","2018","San Diego","HENRY WALTER","CUNNINGHAM","PROJECT POLICY ANL 1","49367.00","48333.00","23.00","1011.00"]},
+{"id":"16","cell":["16","2018","San Francisco","CARLY M","WISNOWSKI","CLIN NURSE 2","49366.00","45779.00","1133.00","2454.00"]},
+{"id":"17","cell":["17","2018","Davis","MONICO J","TORRES","MED AST 1","49366.00","44625.00","699.00","4042.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ANDREA","FERRA","ADMIN SPEC","49366.00","48842.00","524.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","TAEHEE","HAN","POSTDOC-EMPLOYEE","49365.00","49365.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Cruz","JED PATRICK","MILROY","BLANK AST 3","49365.00","49365.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "6701",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","MICHAEL K","TRIBBLE","STOREKEEPER SR","41173.00","30452.00","408.00","10313.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","*****","*****","LECT-FY","41173.00","41173.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","SERGIO","JIMENEZ","MAIL PROCESSOR","41171.00","40747.00","424.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","PERLA","GARCIA GARCIA","CHILD DEV CTR TEACHER 2","41171.00","41016.00","155.00","0.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","LAURENCE","YOUNG","LIBRARY AST 3","41171.00","41171.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","NATALIE","KLINE","LAB AST 3","41171.00","41171.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","RACHEL A","POLEMAN","LAB AST 3","41171.00","41171.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","NASIR AHMED","NOORI","HOSP AST SR","41170.00","38907.00","1423.00","840.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","GABRIEL","RODRIGUEZ","FAC MECH","41170.00","39708.00","1462.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","MICHAEL S","NAYLOR","HEALTH TCHN 3","41169.00","41169.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","TIA-JANE R","DESPLANCKE","BLANK AST 3","41168.00","41162.00","0.00","6.00"]},
+{"id":"12","cell":["12","2018","Davis","NOGA","YANIV","BUS INTEL SPEC 4","41168.00","41168.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","JAVIER","VILLALOBOS JR","SRA 2 NEX","41168.00","41168.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","VIBHUTI","RAMACHANDRAN","ASST PROF-AY","41167.00","32500.00","0.00","8667.00"]},
+{"id":"15","cell":["15","2018","Santa Barbara","AMY","GONZALES","ASST PROF-AY","41167.00","41167.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","XIAOLEI","ZHAO","ASST PROF-AY","41167.00","41167.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","SAMUEL R","KUSHNER","PRACTICE CRD 3","41166.00","40048.00","1118.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","GUSTAVO","VILLEGAS","CLIN CARE PARTNER","41166.00","36207.00","315.00","4644.00"]},
+{"id":"19","cell":["19","2018","Davis","KESHANI","LATA","CUSTODIAN SR","41165.00","40217.00","948.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","MARIA","IBARRA","CUSTODIAN SR","41165.00","39360.00","1805.00","0.00"]}]
+}

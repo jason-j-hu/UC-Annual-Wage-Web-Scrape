@@ -1,0 +1,26 @@
+{
+"page" : "8445",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ANNA","GOBER","CLIN NURSE 1","22342.00","20659.00","50.00","1633.00"]},
+{"id":"2","cell":["2","2018","San Diego","RAUL M.","GUERRERO","LECT-AY-1/9-CONTINUING","22342.00","22342.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","KEVIN","CHEUNG","JR SPECIALIST NEX","22341.00","18251.00","0.00","4090.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","MAXWELL RICHARD","SHLEMMER","ATH PROFL 1 BYA","22341.00","20790.00","47.00","1504.00"]},
+{"id":"5","cell":["5","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","22341.00","22241.00","0.00","100.00"]},
+{"id":"6","cell":["6","2018","Riverside","*****","*****","TEACHG ASST-GSHIP","22340.00","22340.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","PEDRO","URISTA","HOSP BLANK AST 3","22339.00","22339.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","JUSTINE","MATIAS","CLIN NURSE 1","22337.00","19786.00","909.00","1642.00"]},
+{"id":"9","cell":["9","2018","Irvine","SHAUN M.","PICHLER","LECT-AY-1/9","22336.00","22336.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","22336.00","22236.00","0.00","100.00"]},
+{"id":"11","cell":["11","2018","San Francisco","TANVIN","AHMED","ADMIN OFCR 3","22335.00","20720.00","0.00","1615.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","JAMAAL","WILKES","ADMIN ANL PRN 1","22335.00","20604.00","0.00","1731.00"]},
+{"id":"13","cell":["13","2018","Davis","JEFFREY K","DAVIS","STDT ACAD ADVISOR 3","22333.00","22333.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","KATELYN","STICKLEY","ATH TRAINER 3","22332.00","22332.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","*****","*****","TEACHG FELLOW-GSHIP","22332.00","22332.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","MICHAEL","BUMBLIS","COMPUTER RESC SPEC 2","22332.00","22332.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","22332.00","22232.00","0.00","100.00"]},
+{"id":"18","cell":["18","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","22331.00","22231.00","0.00","100.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","22331.00","17929.00","0.00","4402.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","*****","*****","TEACHG FELLOW-GSHIP","22331.00","17929.00","0.00","4402.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "5026",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","MYRA ALEXANDRA","ROMERO","HOSP BLANK AST 4","57111.00","50356.00","976.00","5779.00"]},
+{"id":"2","cell":["2","2018","San Diego","SOURAV","BANERJEE","POSTDOC-EMPLOYEE","57111.00","57111.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","MARTIN","WACHS","PROF EMERITUS(WOS)","57111.00","57111.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","ANA VERONICA","GONZALEZ","HOSP BLANK AST 3","57110.00","54851.00","1191.00","1068.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","MARIFE","QUIOCHO","PAT BILLER 3","57109.00","56577.00","21.00","511.00"]},
+{"id":"6","cell":["6","2018","Davis","ELIZABETH N","GUERRA","MUSEUM SCI SR","57108.00","57108.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","DIANA","HUYNH","SRA 4","57108.00","57108.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","YUN YONG","LEI","SRA 4","57108.00","57108.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Santa Barbara","GREGORY","WAHLERT","MUSEUM SCI SR","57108.00","57108.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","JESSICA","NIELSEN","SRA 4","57108.00","57108.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","*****","*****","RSCH AND DEV ENGR 1","57108.00","57108.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Riverside","WEI","BELISLE","ASST PROJ SCIENTIST-FY","57108.00","57108.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Riverside","ZAID","YOUSEF","MUSEUM SCI SR","57108.00","57108.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Riverside","JANINE","ALMANZOR","MUSEUM SCI SR","57108.00","57108.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","MICHAL","KRAWCZYK","SRA 4","57108.00","57108.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","MACLEOFE A","PENAFLORIDA","PROCUREMENT ANL 3","57107.00","50785.00","0.00","6322.00"]},
+{"id":"17","cell":["17","2018","Irvine","ALFRED HAN","WU","NURSE PD","57107.00","56281.00","818.00","8.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","BEATE","TOMORSKY","HOSP BLANK AST 3","57107.00","51119.00","110.00","5878.00"]},
+{"id":"19","cell":["19","2018","Davis","ANDREA L","HENDERSON","BLANK AST 2","57106.00","50101.00","7005.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","CHRISTINE","DAVIDSON","CMTY EDUC SUPV 2","57106.00","57106.00","0.00","0.00"]}]
+}

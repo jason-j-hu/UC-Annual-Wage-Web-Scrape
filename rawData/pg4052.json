@@ -1,0 +1,26 @@
+{
+"page" : "4052",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","JANET","DIAZ","VOC NURSE SR","67666.00","66731.00","684.00","251.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ADRIAN","HERNANDEZ","NUC MED TCHNO SR","67666.00","67261.00","178.00","227.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","JENNIFER","ONO","ADMIN ANL","67664.00","66815.00","849.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","SONIA","JONES","DEMO TEACHER","67663.00","63663.00","0.00","4000.00"]},
+{"id":"5","cell":["5","2018","San Diego","JAVSON","DIAZ","BLDG MAINT WORKER SR","67663.00","52789.00","13480.00","1394.00"]},
+{"id":"6","cell":["6","2018","San Francisco","HARRISON LUU","PHAM","TCHN PRN","67662.00","54970.00","10783.00","1909.00"]},
+{"id":"7","cell":["7","2018","Berkeley","MELVIN","MCCOWAN","CUSTODIAL SUPV 1","67662.00","65322.00","0.00","2340.00"]},
+{"id":"8","cell":["8","2018","Irvine","PARULBEN S","SHAH","HOSP LAB TCHN 2","67660.00","58685.00","3848.00","5127.00"]},
+{"id":"9","cell":["9","2018","Riverside","HERBERT","KUEHNE","ENGR TCHN SUPV 2","67659.00","67659.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Irvine","JACQUELINE TRIAS","RODIO","STDT AFFAIRS OFCR 3 EX","67658.00","67658.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","ERICK","CASSANI","ELECTR TCHN PRN","67658.00","67658.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ANGELA","LEUNG","HS ASST CLIN PROF-HCOMP","67657.00","67657.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","JULIO","RAMIREZ","CLIN CARE PARTNER","67657.00","56333.00","9872.00","1452.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","ANA","NAVARRO","PHLEBOTOMIST CERT TCHN 2","67657.00","56143.00","988.00","10526.00"]},
+{"id":"15","cell":["15","2018","San Diego","ERIKA","ROSETE","RSCH ADM 3","67656.00","67156.00","0.00","500.00"]},
+{"id":"16","cell":["16","2018","Berkeley","TOM","MCGUIRE","CONTINUING EDUCATOR II","67656.00","56427.00","0.00","11229.00"]},
+{"id":"17","cell":["17","2018","San Francisco","MARCUS ANTHONY","RED","MED CTR COOK SR","67655.00","62945.00","3555.00","1155.00"]},
+{"id":"18","cell":["18","2018","Santa Cruz","NIEMA A","MAHINI","EHS SPEC 3","67654.00","67654.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Riverside","ALLAN","WELLBORN","INFO SYS ANL 2","67654.00","67154.00","0.00","500.00"]},
+{"id":"20","cell":["20","2018","Irvine","ERICA Y","MAGNUSON","CHILD LIFE SPEC 2 NEX","67653.00","66546.00","86.00","1021.00"]}]
+}

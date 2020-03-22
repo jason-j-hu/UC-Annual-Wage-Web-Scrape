@@ -1,0 +1,26 @@
+{
+"page" : "4898",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","JEAN","ESPARZA","EXEC AST 3","58442.00","58442.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","KAYLEE C","HARRIS","HOSP UNIT SVC CRD 3","58441.00","52813.00","2220.00","3408.00"]},
+{"id":"3","cell":["3","2018","Davis","VERONICA A","SPOTO","MED OFC SVC CRD 3","58441.00","58394.00","47.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","ANNA","YI","PRG REPR 3","58440.00","56440.00","0.00","2000.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","SHEILA","ABAD-SUDJONO","MGT SVC OFCR 1 SUPV","58439.00","58439.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","HERMILA","TORRES","STDT SVC ADVISOR 3","58438.00","58438.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","RENA","SINGH","MED OFC SVC CRD 3","58437.00","58394.00","43.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","TRACY D","KASIK","MED OFC SVC CRD 3","58437.00","58394.00","43.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","YOON HO","LEE","POSTDOC-EMPLOYEE","58436.00","58436.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","TERRY L","SAGER","BLANK AST 3","58433.00","57306.00","127.00","1000.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","TAE-HYUNG","KIM","ASST PROJ SCIENTIST-FY","58433.00","58433.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","NICOLE","WONG","FINANCIAL ANL 2","58433.00","58433.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","SEAN","WEINBERG","POSTDOC-EMPLOYEE","58431.00","58431.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","NANCY CROOK","POOL","NURSE PD","58429.00","50986.00","6700.00","743.00"]},
+{"id":"15","cell":["15","2018","San Francisco","AURORA B","CABAROGIAS","BLANK AST 3","58426.00","57426.00","0.00","1000.00"]},
+{"id":"16","cell":["16","2018","Irvine","JOSEPH B","WINFERY","ADMIN ANL","58426.00","58426.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Santa Cruz","PRIMROSE HAZEL","PISARES","ATH TRAINING SUPV 2","58425.00","58425.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","UCOP","LEE","ELLIOTT","CUSTOMER SVC REPR 3","58425.00","58425.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","ETHEL LORRINE","LEMON","FINANCIAL ANL 2","58425.00","57875.00","0.00","550.00"]},
+{"id":"20","cell":["20","2018","San Francisco","MOLLY","DUNN","GENETIC CNSLR 3 EX","58423.00","57862.00","0.00","561.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "3207",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","BIAO","HE","ADJ PROF-HCOMP","81600.00","68967.00","0.00","12633.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","AYALA","OFEK","PSYCHOLOGIST 2","81600.00","81600.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Irvine","ROBERTO M","RAFAEL","HISTO TCHNO 2","81599.00","75887.00","1778.00","3934.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","SHARYELL","BROWN","FOOD SVC MGR AST SUPV","81599.00","64987.00","15332.00","1280.00"]},
+{"id":"5","cell":["5","2018","San Diego","JACOB EUGENE","FLEMING","ASC PHYSCN","81595.00","57912.00","0.00","23683.00"]},
+{"id":"6","cell":["6","2018","Davis","VICTOR A.","BOGNOT","HVAC CNTRL TCHN","81594.00","81536.00","58.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","DIANA","OLIVO","CLIN NURSE 2","81591.00","81532.00","59.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","HELEN","YUNG","PERSONNEL ANL PRN","81591.00","77963.00","0.00","3628.00"]},
+{"id":"9","cell":["9","2018","Irvine","YERGALEM","MEHARENNA","ADMIN ANL SR","81589.00","81589.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","SEAN P","ENDERS","REG RESP THER 1","81589.00","79411.00","964.00","1214.00"]},
+{"id":"11","cell":["11","2018","San Francisco","JANETT N.","ZARATE","AMBUL CARE ADMSTN SUPV 2","81588.00","77554.00","325.00","3709.00"]},
+{"id":"12","cell":["12","2018","Davis","LORRIE J","SWEITZER","PROJECT POLICY ANL 3","81588.00","80713.00","0.00","875.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","ALISON","HEWITT","PUBL INFO REPR SR","81588.00","80838.00","0.00","750.00"]},
+{"id":"14","cell":["14","2018","San Diego","MIEKA EILEEN","MCCARTHY","CLIN NURSE 2","81588.00","74355.00","3918.00","3315.00"]},
+{"id":"15","cell":["15","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","81587.00","63027.00","0.00","18560.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","FLORENCIO","ORTEGA","SHEETMETAL WORKER","81587.00","77841.00","3746.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","JOHN","LI","RSCH ADM 4","81587.00","81587.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","CRAIG","SCHOENBAUM","DENTAL HYGIENIST","81586.00","78032.00","3554.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","NICKOLAS","ANDERSEN","ASST RES-AY-1/9","81584.00","66583.00","0.00","15001.00"]},
+{"id":"20","cell":["20","2018","San Francisco","KIRAN","CHAUDHARY","CLIN RSCH CRD SR NEX","81583.00","80267.00","0.00","1316.00"]}]
+}

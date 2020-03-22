@@ -1,0 +1,26 @@
+{
+"page" : "9618",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","*****","*****","TEACHG ASST-NON GSHIP","12265.00","8510.00","0.00","3755.00"]},
+{"id":"2","cell":["2","2018","San Francisco","MARGARITA","COBIAN","HEALTH PROFNS EDUC SPEC 2","12264.00","12264.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","VUNG SIAN LIAN","KHAI","LAB AST 2","12264.00","12204.00","0.00","60.00"]},
+{"id":"4","cell":["4","2018","San Diego","*****","*****","STDT 4","12263.00","12263.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","12263.00","12163.00","0.00","100.00"]},
+{"id":"6","cell":["6","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","12262.00","12262.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","*****","*****","TEACHG FELLOW-GSHIP","12262.00","10762.00","0.00","1500.00"]},
+{"id":"8","cell":["8","2018","San Francisco","ZACHARY J","ENDRESS","DECISION SUPP SPEC 4","12261.00","12261.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","WILLIAM A","BASSETT","APPLICATIONS PROGR 3","12261.00","12261.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","*****","*****","POSTDOC-EMPLOYEE","12261.00","11101.00","0.00","1160.00"]},
+{"id":"11","cell":["11","2018","San Diego","*****","*****","STDT 4","12261.00","12261.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","STANLEY","SUN","HS CLIN INSTR-FY","12260.00","12260.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","SUEANNA","WONG","CLERK SR OR SECR","12260.00","11830.00","0.00","430.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","HEATHER MACPHAIL","PALLEIKO","CLIN SPEC NEX","12260.00","10841.00","0.00","1419.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","ELIZABETH","BURRILL","PUBL CRD SR","12260.00","12260.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","YEN-LINH","VU","HS ASST CLIN PROF-AY","12260.00","12260.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","STEPHANIE","JOO","HS ASST CLIN PROF-AY","12260.00","12260.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","JILYNNETTE","CENTENO MILLAN","TEACHER-UNEX","12260.00","0.00","0.00","12260.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","ALEKSANDRA","KARAPETROVA","LAB AST 1","12259.00","12259.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Cruz","*****","*****","BLANK AST 1","12257.00","12044.00","213.00","0.00"]}]
+}

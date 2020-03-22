@@ -1,0 +1,26 @@
+{
+"page" : "5613",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","MARIA G","JIMENEZ","BLANK AST 3","51789.00","51754.00","0.00","35.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ELVIRA","MARTINEZ GOMEZ","ACCESS REPR PRN","51789.00","44702.00","837.00","6250.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","JOSEPH","CHADA","LECT PSOE-AY","51789.00","51789.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","MARIO","RAMOS","BLANK AST 3","51788.00","51388.00","0.00","400.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","COLLIN","MCLEOD","ADMISSIONS RECRMT SPEC 2","51788.00","48993.00","2795.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","BARTOSZ","FORNAL","POSTDOC-EMPLOYEE","51788.00","51788.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","MOHSEN","SAADAT","POSTDOC-EMPLOYEE","51788.00","51788.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","LUCILA","SERVIN","FINANCIAL AID OFCR 2","51787.00","50386.00","1401.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","JENNIFER E","MUNOZ","REVENUE CYCLE HC ANL 1","51785.00","50860.00","925.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","DONNA MARIE","RALPH","MED AST 2","51785.00","50757.00","278.00","750.00"]},
+{"id":"11","cell":["11","2018","Davis","BRANDIE","CATES","HEALTH TCHN 3","51784.00","46659.00","4756.00","369.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ERVIN","HUANG","ADMIN SPEC","51784.00","47110.00","0.00","4674.00"]},
+{"id":"13","cell":["13","2018","San Diego","WEN-AN","PAN","POSTDOC-EMPLOYEE","51784.00","51684.00","0.00","100.00"]},
+{"id":"14","cell":["14","2018","Berkeley","*****","*****","POSTDOC-EMPLOYEE","51784.00","49844.00","0.00","1940.00"]},
+{"id":"15","cell":["15","2018","Irvine","XIAOHUI","YANG","POSTDOC-EMPLOYEE","51783.00","51783.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","NIVEA N","JOHNSON","MED AST 2","51783.00","51642.00","141.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","GNELIDA SEVILL","DEL FIERRO","NURSE AID SR","51783.00","43758.00","1287.00","6738.00"]},
+{"id":"18","cell":["18","2018","San Diego","PAMELA","MENDIZABAL","MED AST 2","51783.00","50268.00","515.00","1000.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","DELASHON","CARTER","ADMIN SPEC","51781.00","51256.00","525.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","ASHLEE","ELKINS","HEALTH TCHN 3","51780.00","47132.00","344.00","4304.00"]}]
+}

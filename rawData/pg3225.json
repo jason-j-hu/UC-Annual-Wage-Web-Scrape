@@ -1,0 +1,26 @@
+{
+"page" : "3225",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","DONA MARI","NOLASCO-FELIPE","MED STF SVC SPEC 2","81222.00","80621.00","601.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","CAROLE","PAUL","SR LECT-AY-CONTINUING","81222.00","80317.00","0.00","905.00"]},
+{"id":"3","cell":["3","2018","Davis","AMY J","WRIGHT","PAT BILL AND COLL SUPV 2","81221.00","76261.00","3885.00","1075.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","BRIDGETTE","BELL REED","MGT SVC OFCR 3 SUPV","81218.00","81218.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","SANDRA","CADENA","CLIN NURSE 3","81218.00","77047.00","3057.00","1114.00"]},
+{"id":"6","cell":["6","2018","San Diego","CAROL ARLANZA","HERRMAN","PAT ACCESS SVC SUPV 1","81218.00","71522.00","8637.00","1059.00"]},
+{"id":"7","cell":["7","2018","San Francisco","BRENT JUSTIN R","ANABEZA","REG RESP THER PD","81216.00","69914.00","2944.00","8358.00"]},
+{"id":"8","cell":["8","2018","San Francisco","SHARON MICHELLE","JANSEN","VOC NURSE","81215.00","73881.00","371.00","6963.00"]},
+{"id":"9","cell":["9","2018","Irvine","MARTINA A","GARZA","ADMIN ANL PRN 1","81215.00","63217.00","13655.00","4343.00"]},
+{"id":"10","cell":["10","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","81215.00","65665.00","0.00","15550.00"]},
+{"id":"11","cell":["11","2018","Davis","DAVID MARTIN","SPINNER","WRITER EDITOR 3","81214.00","81214.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","JOSE L.","DIAZ","PLUMBER","81213.00","78888.00","2277.00","48.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","IRINA","ZHAROV","RESC NURSE PD","81211.00","79826.00","41.00","1344.00"]},
+{"id":"14","cell":["14","2018","San Diego","DANIEL RICHARD","STEINELL","ADMIN OFCR 3","81210.00","76210.00","0.00","5000.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","LAUREN","JENKINS","CLIN NURSE 3","81209.00","78594.00","30.00","2585.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","MARIA","VALENCIANA","MGT SVC OFCR 2","81207.00","78051.00","0.00","3156.00"]},
+{"id":"17","cell":["17","2018","Davis","HUY Q","TRAN","INFO SYS SUPV 1","81206.00","81206.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","81203.00","63503.00","0.00","17700.00"]},
+{"id":"19","cell":["19","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","81203.00","63503.00","0.00","17700.00"]},
+{"id":"20","cell":["20","2018","Davis","TESS T","ANDREWS","SPEECH PATHOLOGIST NEX","81203.00","81203.00","0.00","0.00"]}]
+}

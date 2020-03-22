@@ -1,0 +1,26 @@
+{
+"page" : "6391",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","MATTHEW T","TREVINO","SRA 1","44521.00","42267.00","1838.00","416.00"]},
+{"id":"2","cell":["2","2018","Davis","MARGUERITE","DAVIS","TCHN SR","44520.00","40216.00","3704.00","600.00"]},
+{"id":"3","cell":["3","2018","Berkeley","EMILIO","CORONA","LAB AST 3","44520.00","44520.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","NGOC-TRAM","DONG","CHILD DEV CTR TEACHER 1","44520.00","43814.00","706.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","AUREA","DATUIN","BLANK AST 2","44520.00","44347.00","173.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","KEZIAH W","MUNGAI","MED CTR CUSTODIAN SR","44519.00","36772.00","3755.00","3992.00"]},
+{"id":"7","cell":["7","2018","San Francisco","ERNEST RICHARD,III","CARNEVALI","FAC MGT SPEC 3","44519.00","44519.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","THANH T","NGUYEN","HOSP AST SR","44519.00","39774.00","3900.00","845.00"]},
+{"id":"9","cell":["9","2018","Berkeley","DAIAD","ALJALILI","CHILD DEV CTR TEACHER 1","44519.00","43862.00","657.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ANTHONY","LESLIE","LIBRARY AST 3","44518.00","43137.00","0.00","1381.00"]},
+{"id":"11","cell":["11","2018","San Diego","CODIE LEE","LAWSON","BLANK AST 3","44517.00","43358.00","1159.00","0.00"]},
+{"id":"12","cell":["12","2018","Riverside","SCOTT","BURD","LECT-AY-1/9","44516.00","37879.00","0.00","6637.00"]},
+{"id":"13","cell":["13","2018","San Diego","RAJANIGANDHA","DHOKARH","ASC PHYSCN DIPLOMATE","44516.00","17937.00","0.00","26579.00"]},
+{"id":"14","cell":["14","2018","Irvine","MOHAMMAD JAVAD","RAFI","LECT-AY","44515.00","44015.00","0.00","500.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","CYNTHIA","MARTINEZ","BLANK AST 2","44514.00","44148.00","0.00","366.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","EVELYN","AGUILAR","FOOD SVC WORKER","44514.00","37313.00","6826.00","375.00"]},
+{"id":"17","cell":["17","2018","San Francisco","KIMBERLY N","CHRISTENSEN","NURSE PD","44513.00","41632.00","1714.00","1167.00"]},
+{"id":"18","cell":["18","2018","Irvine","JENNIFER B","AVELAR","MED AST","44513.00","43348.00","1165.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","TYRONE","HARGROVE","MED CTR FOOD SVC WORKER PRN","44513.00","41817.00","2612.00","84.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","KATHERINE","MORRIS","BLANK AST 2","44513.00","44305.00","208.00","0.00"]}]
+}

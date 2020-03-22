@@ -1,0 +1,26 @@
+{
+"page" : "7025",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","ASUCLA","ARI","BARON","","37333.00","37333.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Berkeley","DEBANJAN","MUKHERJEE","POSTDOC-EMPLOYEE","37333.00","37333.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","TRISHA","MILAZZO","HR GENERALIST 3","37333.00","37333.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","MARGARETTE CLEME","MARIANO","ASST SPECIALIST","37332.00","33326.00","628.00","3378.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","UMMULWARA","QASIM","SRA 1","37332.00","37332.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JINOK","KIM","PUBL ADMSTN ANL PRN","37332.00","37332.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","SUSAN","CRESPIN","SRA 1","37332.00","37332.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","IAN","STURGILL","JR SPECIALIST","37332.00","36768.00","564.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","*****","*****","SRA 3","37330.00","37255.00","0.00","75.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","EMILY","KOSA","PRG REPR 3","37327.00","36921.00","12.00","394.00"]},
+{"id":"11","cell":["11","2018","Davis","MARY","FURSOV","NURSE PD","37325.00","33222.00","620.00","3483.00"]},
+{"id":"12","cell":["12","2018","San Diego","ANGELA GONZALEZ","ROSA","NURSE PD","37325.00","25926.00","2163.00","9236.00"]},
+{"id":"13","cell":["13","2018","Irvine","PETRA A","CRUZ","CUSTODIAN","37324.00","36621.00","690.00","13.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","ANTONIO","RAMOS CASILLAS","MED CTR CUSTODIAN SR","37322.00","35703.00","1041.00","578.00"]},
+{"id":"15","cell":["15","2018","San Diego","REILLY LILIANNA","KIDWELL","CLIN RSCH CRD AST","37322.00","35374.00","0.00","1948.00"]},
+{"id":"16","cell":["16","2018","Berkeley","*****","*****","GSR-TUIT & FEE REM","37321.00","37321.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","SILVIA","RUIZ GOMEZ","CUSTODIAN SR","37321.00","34210.00","3111.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Cruz","KESHAWN NOEL","WILLIAMS","K to 14 ACAD PREP SPEC 4","37321.00","35688.00","0.00","1633.00"]},
+{"id":"19","cell":["19","2018","Irvine","SARAHI","LARA","MED CTR CUSTODIAN PD","37320.00","36659.00","661.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","ROY PARK","LEE","ADMIN ANL AST","37320.00","37061.00","259.00","0.00"]}]
+}

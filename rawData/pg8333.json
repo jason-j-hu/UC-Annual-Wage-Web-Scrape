@@ -1,0 +1,26 @@
+{
+"page" : "8333",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","MILANA","KRUSH","SRA 1","23509.00","23442.00","65.00","2.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","RANDI","FRANCE","BLANK AST 3","23509.00","22933.00","576.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Cruz","*****","*****","TEACHG ASST-GSHIP","23509.00","23509.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Santa Barbara","JOSEPHINE","GAUSE","BLANK AST 2","23509.00","23509.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","JOELLE","MAY","PUBL ADMSTN ANL SR","23508.00","23508.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","EVANGELINA","MORENO","ADMIN CARE CLIN PARTNER PD","23508.00","22252.00","68.00","1188.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","GERARDO","CALDERON","COLL REPR SR","23508.00","22360.00","136.00","1012.00"]},
+{"id":"8","cell":["8","2018","San Diego","*****","*****","GSR-NO REM","23508.00","22782.00","726.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","HATEF","MEHRABIAN","POSTDOC-EMPLOYEE","23506.00","23506.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Irvine","*****","*****","STDT AFFAIRS OFCR 1","23506.00","23506.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","*****","*****","GSR-FULL FEE REM","23505.00","21585.00","0.00","1920.00"]},
+{"id":"12","cell":["12","2018","Irvine","KAREN A.","MCKENZIE","ADMIN SPEC","23504.00","23504.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Irvine","DOUGLAS J","MCCALLUM","HS CLIN INSTR-FY","23504.00","23504.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","ERROL C","DAUIS","LECT-AY-1/10","23502.00","23502.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","SUZANNE M","VAN STEENBERGEN","LECT-AY-1/9","23502.00","23502.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","LOURDES","VELAZQUEZ","JR SPECIALIST","23501.00","23501.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","DEYANIRA IRASEMA","ESPINOZA","BLANK AST 3","23501.00","23488.00","0.00","13.00"]},
+{"id":"18","cell":["18","2018","Berkeley","NATHANIEL","GOOD","LECT-FY","23501.00","23501.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","*****","*****","GSR-NO REM","23501.00","23501.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","AYDAN","KARSLIOGLU","POSTDOC-EMPLOYEE","23500.00","23500.00","0.00","0.00"]}]
+}

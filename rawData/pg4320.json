@@ -1,0 +1,26 @@
+{
+"page" : "4320",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","ALEXIS V","CASTRO","REG RESP THER 1","64377.00","61604.00","1524.00","1249.00"]},
+{"id":"2","cell":["2","2018","Irvine","EDMUNDO A","BANUELOS","HOSP LAB TCHN 2","64375.00","60029.00","3316.00","1030.00"]},
+{"id":"3","cell":["3","2018","Berkeley","DAVID","KARST","ELECTRN","64375.00","58165.00","0.00","6210.00"]},
+{"id":"4","cell":["4","2018","Irvine","ERIK ROY","KELLY","PROGR ANL 3 SUPV","64374.00","64374.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","ERIK RYAN","MEYERHOFF","ENTERPRISE RISK MGT ANL 2","64374.00","62093.00","0.00","2281.00"]},
+{"id":"6","cell":["6","2018","Berkeley","BENJAMIN","ENOS","MEDIA COMM SPEC 3","64373.00","64373.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","GABRIAL S","GADDA","CLIN NURSE 2","64372.00","44657.00","5916.00","13799.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","DIA","LAWRENCE","ADMIN SPEC","64372.00","63900.00","472.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","MARIA G","REALUBIN","FINANCIAL SVC ANL 2","64371.00","64371.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","TRACEY Y","THIBODEAUX","HOSP UNIT SVC CRD 3","64371.00","54105.00","9835.00","431.00"]},
+{"id":"11","cell":["11","2018","Irvine","CINDY ROSENB","KOKKELENBERG","PUBL EVENTS MGR SR","64370.00","64370.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","FATIMA A","VELEZ","HOSP BLANK AST 3","64369.00","59320.00","1135.00","3914.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","LOLITA","ALEJANDRO","SURGICAL TCHN","64369.00","58049.00","3599.00","2721.00"]},
+{"id":"14","cell":["14","2018","Santa Cruz","JAMIE LYNN M","SIEGEL","BUS SYS ANL 3","64368.00","63368.00","0.00","1000.00"]},
+{"id":"15","cell":["15","2018","San Diego","JASON LUCAS","ABUTIN","FAC PROJECT MGT SPEC 2","64368.00","62235.00","0.00","2133.00"]},
+{"id":"16","cell":["16","2018","San Diego","FRANCES ANNE","LA RUSSA","PROJECT POLICY ANL 2","64368.00","61683.00","869.00","1816.00"]},
+{"id":"17","cell":["17","2018","San Francisco","EUNICE J","TORREJON","CLIN NURSE 2","64367.00","64367.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","CARLY","HARRIS","SPEC","64366.00","64366.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","IREEN ESMEE","VAN DER HOEVEN","LECT-AY","64366.00","58439.00","0.00","5927.00"]},
+{"id":"20","cell":["20","2018","San Francisco","ROBERT","ALANIZ","HOSP BLANK AST 2","64365.00","61848.00","1489.00","1028.00"]}]
+}

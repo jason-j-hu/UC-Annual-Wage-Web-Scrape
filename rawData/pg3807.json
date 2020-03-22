@@ -1,0 +1,26 @@
+{
+"page" : "3807",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","WYNNONA STEPHANI","JOHNSON","HOSP LAB TCHN 3","71133.00","71133.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Irvine","AMANDA MARIE","VALBUENA","ADMIN ANL PRN SUPV","71132.00","70982.00","150.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","71132.00","63882.00","0.00","7250.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","WAYNE","TOLLEFSON JR","PHLEBOTOMIST CERT TCHN 2","71131.00","67860.00","1367.00","1904.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","SABEL","SAGON","ADMIN ANL SUPV NEX","71131.00","66514.00","3867.00","750.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","LINZI","OLAUGHLIN","NURSE PD","71129.00","68050.00","85.00","2994.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","DEBORAH","ANTON","VOC NURSE SR","71129.00","69784.00","622.00","723.00"]},
+{"id":"8","cell":["8","2018","San Diego","TIMOTHY J.","BROWER","CARPENTER","71129.00","70328.00","801.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","SONIA E.","RAMOS","BLANK AST 3","71128.00","70203.00","25.00","900.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","DENISE MOORE","JENKINS","MGR","71128.00","61320.00","0.00","9808.00"]},
+{"id":"11","cell":["11","2018","San Diego","JUDITH HEPNER","HAYS","HEALTH PROFNS EDUC SPEC 2","71128.00","62859.00","7769.00","500.00"]},
+{"id":"12","cell":["12","2018","Davis","ANN E","SENUTA","COMM MGR 1","71126.00","63769.00","0.00","7357.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","RODRIGO","VALENZUELA","ASST PROF-AY","71125.00","71125.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","MONICA","WARNER","HOSP LAB TCHN 4","71124.00","70103.00","262.00","759.00"]},
+{"id":"15","cell":["15","2018","Santa Cruz","JESSICA L","PETRINI","LANDSCAPE GROUNDS SUPV 2","71123.00","70773.00","0.00","350.00"]},
+{"id":"16","cell":["16","2018","San Francisco","SARAH K","FRANCKE","CLIN NURSE 2","71122.00","69270.00","1852.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","GERALD KOFI","BOATENG IBSEN","AMBUL CARE ADMSTN SUPV 1","71118.00","68141.00","0.00","2977.00"]},
+{"id":"18","cell":["18","2018","San Francisco","KIRSTIE MADELIEN","CRUZ","AMBUL CARE ADMSTN CRD 2","71117.00","65299.00","3550.00","2268.00"]},
+{"id":"19","cell":["19","2018","Davis","GREGORY S","FOLENA","WATER AND WASTEWATER OPR","71115.00","71115.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","SHEN","LIU","APPLICATIONS PROGR 3","71110.00","71110.00","0.00","0.00"]}]
+}

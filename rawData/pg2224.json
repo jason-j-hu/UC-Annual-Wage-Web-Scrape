@@ -1,0 +1,26 @@
+{
+"page" : "2224",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","THOMAS BRYAN","FERRIS","INFO SYS MGR 1","105668.00","86167.00","0.00","19501.00"]},
+{"id":"2","cell":["2","2018","Davis","JAMES JOSEPH","DUNBARR","EHS SPEC 4","105667.00","105167.00","0.00","500.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","WILLIAM","FLEMING","ASST PROF-AY","105666.00","97667.00","0.00","7999.00"]},
+{"id":"4","cell":["4","2018","San Diego","JIMMY LEE MENDOZ","DINO","CLIN NURSE 2","105666.00","90839.00","4715.00","10112.00"]},
+{"id":"5","cell":["5","2018","San Diego","IVY OLIVIEN AVIL","RULL","CLIN NURSE 2","105665.00","91008.00","1861.00","12796.00"]},
+{"id":"6","cell":["6","2018","Davis","KRISTIN C","HERMAN","ASC PHYSCN DIPLOMATE","105661.00","93500.00","0.00","12161.00"]},
+{"id":"7","cell":["7","2018","San Diego","JAYDEE ROSE FRAN","GELUZ","NURSE PRACT 2","105653.00","96877.00","7576.00","1200.00"]},
+{"id":"8","cell":["8","2018","Riverside","RAHUL","GUDIPATI","APPLICATIONS PROGR 4","105652.00","105652.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Berkeley","YOLANDA","JAGGERS","APPLICATIONS PROGR 3","105652.00","105152.00","0.00","500.00"]},
+{"id":"10","cell":["10","2018","Irvine","ALLON ISRAEL","HOCHBAUM","ASST PROF-AY-B/E/E","105650.00","105650.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","CHRISTOPHER","CAJSKI","TRAINER 4","105646.00","105146.00","0.00","500.00"]},
+{"id":"12","cell":["12","2018","Davis","NORMAN","WONG","CLIN APPLICATIONS PROFL 4","105646.00","99189.00","0.00","6457.00"]},
+{"id":"13","cell":["13","2018","San Diego","WILLIAM CARROLL","O\"REILLY","RSCH AND DEV ENGR 5","105646.00","105646.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Merced","CORINNE","LUCERO","GOVT REL MGR 1","105642.00","105642.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","UCOP","NIELS","HOOPER","ACQUISITIONS EDITOR 5","105642.00","105642.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","MARGARET J","RASMUSSEN","PROJECT POLICY ANL 4","105641.00","105641.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","AGUSTO","ANDIKA","SVC ENGR","105634.00","96516.00","774.00","8344.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","MITSURU","YAMAHATA","COMPUTING RESC MGR 1","105630.00","104130.00","0.00","1500.00"]},
+{"id":"19","cell":["19","2018","San Francisco","ANHTHY THI","TRAN","NURSE PD","105627.00","103181.00","1705.00","741.00"]},
+{"id":"20","cell":["20","2018","San Diego","HEIDI BALUYOT","DEGUZMAN","ADMIN MGR 1","105627.00","100627.00","0.00","5000.00"]}]
+}

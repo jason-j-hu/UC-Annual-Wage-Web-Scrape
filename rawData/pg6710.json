@@ -1,0 +1,26 @@
+{
+"page" : "6710",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","BRYAN","TORRES","HOSP BLANK AST 1","41070.00","34882.00","4385.00","1803.00"]},
+{"id":"2","cell":["2","2018","San Diego","MIRIAM JIRARI","TURNER","DIETITIAN 2","41070.00","41070.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","ELIZABETH CADY","SMITH","CLIN RSCH CRD","41069.00","41069.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","VICTORIA KAY","MARICICH","CLIN SOCIAL WORKER 3","41069.00","40652.00","417.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","IAN CHRISTIAN","KLUG","NURSE PD","41069.00","38493.00","2576.00","0.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","CHRISTINA","NIELSEN","STDT LIFE DEV SPEC 3","41069.00","40455.00","0.00","614.00"]},
+{"id":"7","cell":["7","2018","San Diego","JORDAN ELIZABETH","SIMPSON","CLIN RSCH CRD AST","41069.00","41069.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","MOHINI KUMAR","GOKUL","MED OFC SVC CRD 3","41068.00","40881.00","187.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","FRANCIS ADRIENN","FONTILLAS","REG RESP THER PD","41067.00","40282.00","710.00","75.00"]},
+{"id":"10","cell":["10","2018","San Diego","DARLENE MARIE","GARVAIS","BLANK AST 1","41067.00","40067.00","0.00","1000.00"]},
+{"id":"11","cell":["11","2018","Berkeley","CARMEN","PIEDRA","CUSTODIAN SR","41067.00","40327.00","581.00","159.00"]},
+{"id":"12","cell":["12","2018","Berkeley","ALFRED","MUNOZ","MAIL PROCESSOR","41066.00","41029.00","37.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","ADONIS","PAMPO","STERILE PROCESSING TCHN 2","41065.00","39324.00","1054.00","687.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","41065.00","40965.00","0.00","100.00"]},
+{"id":"15","cell":["15","2018","San Diego","JASMINE LOUISE","MONTILLA","FINANCIAL SVC ANL 2","41065.00","41065.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","TRISTAN","HONDA","PROGR ANL 1","41064.00","41064.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Riverside","DAVID","ARELLANO","LAB AST 1","41062.00","32531.00","0.00","8531.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","IRENE","MARKER","LECT-FY","41061.00","41061.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","MEGAN","CEJA","ACADEMIC COORD II-AY","41061.00","41061.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","41060.00","33716.00","0.00","7344.00"]}]
+}

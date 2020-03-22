@@ -1,0 +1,26 @@
+{
+"page" : "8719",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","WOONJUNG","LEE","SRA 1","20000.00","16234.00","0.00","3766.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ANDREA","MC COLL","SPEC","20000.00","20000.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","JOHN","BELLETTIERE","POSTDOC-EMPLOYEE","20000.00","20000.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Riverside","KEMAL","OFLUS","TEACHER-UNEX-CONTRACT YR","20000.00","0.00","0.00","20000.00"]},
+{"id":"5","cell":["5","2018","San Diego","CHARLES-ALBAN B","DELEDALLE","VIS ASST PROF","20000.00","20000.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","VALENTIN I","SHEVCHENKO","RECALL TEACHING","20000.00","0.00","0.00","20000.00"]},
+{"id":"7","cell":["7","2018","San Diego","XIANGDONG","XU","HS ASSOC CLIN PROF-HCOMP","20000.00","0.00","0.00","20000.00"]},
+{"id":"8","cell":["8","2018","San Diego","GLENN HARVEY","YAGO","VIS PROF","20000.00","20000.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Berkeley","JACOB","RITOV","VIS ASSOC RES","20000.00","20000.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","GEORGE","LEITMANN","RECALL FACULTY","20000.00","0.00","0.00","20000.00"]},
+{"id":"11","cell":["11","2018","Berkeley","CHAD","DENTON","VIS ASSOC PROF","20000.00","0.00","0.00","20000.00"]},
+{"id":"12","cell":["12","2018","Berkeley","SCOTT","BAILEY","LECT IN SUMMER SESSION","20000.00","0.00","0.00","20000.00"]},
+{"id":"13","cell":["13","2018","Berkeley","FRED","BLACKWELL","VIS ASSOC PROF","20000.00","20000.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","MARTIN","SULC","BUS SYS ANL 4","20000.00","20000.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","DANNY MARK","LAU","DENTAL AST","19999.00","19882.00","117.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","SHIRA","SHAFIR","ASSOC ADJ PROF-AY-1/9","19999.00","19999.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","ATHINA","ANASTASAKI","POSTDOC-EMPLOYEE","19999.00","19999.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","ULRICH","KELLER","RECALL TEACHING","19999.00","19999.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","19998.00","13721.00","0.00","6277.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","THOMAS","MOREHOUSE","TEACHER-UNEX-CONTRACT YR","19995.00","0.00","0.00","19995.00"]}]
+}

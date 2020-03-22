@@ -1,0 +1,26 @@
+{
+"page" : "614",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","JOSHUA D.","BLANK","PROF-AY-LAW","190638.00","146250.00","0.00","44388.00"]},
+{"id":"2","cell":["2","2018","Davis","ERIK L","CARLSSON","ASSOC PROF-AY","190634.00","102040.00","0.00","88594.00"]},
+{"id":"3","cell":["3","2018","Davis","SARAH A","NAFF","CLIN NURSE 3","190614.00","145554.00","36147.00","8913.00"]},
+{"id":"4","cell":["4","2018","San Francisco","MICA","MUSKAT","NURSE PRACT 3","190612.00","189472.00","0.00","1140.00"]},
+{"id":"5","cell":["5","2018","San Francisco","BRIE A","WILLIAMS","PROF OF CLIN-HCOMP","190608.00","139273.00","0.00","51335.00"]},
+{"id":"6","cell":["6","2018","Davis","JAMES E","WILEN","PROF-FY-B/E/E","190603.00","144678.00","0.00","45925.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","DENIS","LITVINOV","CLIN NURSE 3","190601.00","118762.00","51157.00","20682.00"]},
+{"id":"8","cell":["8","2018","San Francisco","ALISON SARA","REED","HS ASST CLIN PROF-HCOMP","190595.00","114204.00","0.00","76391.00"]},
+{"id":"9","cell":["9","2018","San Francisco","SONALI","BELAPURKAR","HS ASST CLIN PROF-HCOMP","190595.00","114204.00","0.00","76391.00"]},
+{"id":"10","cell":["10","2018","Irvine","ARMI","LAVINA","CLIN NURSE SUPV 4 NEX","190595.00","126684.00","57304.00","6607.00"]},
+{"id":"11","cell":["11","2018","San Francisco","JOSEPHINE C","KENNING","CLIN NURSE 2","190591.00","160134.00","601.00","29856.00"]},
+{"id":"12","cell":["12","2018","Davis","BRADLEY A","YEARGAIN","CLIN NURSE 2","190586.00","151540.00","17191.00","21855.00"]},
+{"id":"13","cell":["13","2018","Riverside","MONICA","CARSON","PROF-HCOMP","190583.00","130400.00","0.00","60183.00"]},
+{"id":"14","cell":["14","2018","Berkeley","ELLEN","EISEN","PROF IN RES-AY","190583.00","190583.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","LISA","TANIMUNE","PHYSCN AST SR","190580.00","186808.00","2750.00","1022.00"]},
+{"id":"16","cell":["16","2018","San Francisco","NATALIYA","KOMAROVSKAYA","CLIN APPLICATIONS MGR 1","190574.00","173666.00","0.00","16908.00"]},
+{"id":"17","cell":["17","2018","Davis","BORIS","JEREMIC","PROF-AY-B/E/E","190571.00","139964.00","0.00","50607.00"]},
+{"id":"18","cell":["18","2018","Hastings College Of Law","HADAR","AVIRAM","PROF OF LAW","190571.00","173154.00","0.00","17417.00"]},
+{"id":"19","cell":["19","2018","San Francisco","LAURA A","KIRK","PHYSCN AST SUPV 2","190569.00","181068.00","1109.00","8392.00"]},
+{"id":"20","cell":["20","2018","Santa Cruz","DAVID J","COWLEY","RSCH AND DEV ENGR MGR 2","190569.00","189569.00","0.00","1000.00"]}]
+}

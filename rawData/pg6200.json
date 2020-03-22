@@ -1,0 +1,26 @@
+{
+"page" : "6200",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","NICOLE","KIM","PHARMACIST PD","46574.00","44986.00","1560.00","28.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","KIMBERLEEANN","MEDEIROS","HOSP BLANK AST 3","46574.00","46397.00","151.00","26.00"]},
+{"id":"3","cell":["3","2018","Davis","ASHLEY N","BUSH","SCRTY GUARD","46574.00","42970.00","3589.00","15.00"]},
+{"id":"4","cell":["4","2018","Santa Barbara","ARMANDO","GARCIA","CUSTODIAN SR","46574.00","43881.00","2693.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","JORGE E","LOPEZ","MRI TCHNO PD","46574.00","46574.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","LAMARR TAYLOR","SMITH","PUBL ADMSTN ANL SR","46573.00","38750.00","0.00","7823.00"]},
+{"id":"7","cell":["7","2018","San Diego","FREDERIC JEREMY ,JR","VANTA","TCHN SR","46572.00","46238.00","334.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","JEMINAT O","OKOLO","STDT ACAD ADVISOR 2","46571.00","46571.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","AMANDA B.","CARPENTER","SRA 2 NEX","46570.00","46570.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Santa Cruz","SCOTT RYSZARD","LEISERSON","STDT LIFE DEV SPEC 3","46569.00","39614.00","0.00","6955.00"]},
+{"id":"11","cell":["11","2018","Davis","JENNIFER ANN","TUCKER","BLANK AST 3","46569.00","45899.00","670.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","VICTOR","CEDANO","CUSTODIAN LD","46568.00","43628.00","799.00","2141.00"]},
+{"id":"13","cell":["13","2018","Irvine","KATHRYN E","OSANN","RECALL FACULTY","46567.00","46567.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","BYRON","HENDRICK","CUSTODIAN SR","46567.00","44398.00","72.00","2097.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","MOREY","WILLIAMS","COLL REPR","46567.00","40484.00","251.00","5832.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","MARIA","MARQUEZ","CUSTODIAN SR","46567.00","38822.00","7745.00","0.00"]},
+{"id":"17","cell":["17","2018","Hastings College Of Law","DANIEL V","PERDOMO","ACCT TECH","46567.00","44608.00","1586.00","373.00"]},
+{"id":"18","cell":["18","2018","Santa Cruz","FIDEL JOSHUA","RUIZ","BLANK AST 3","46566.00","46144.00","22.00","400.00"]},
+{"id":"19","cell":["19","2018","Irvine","SARAH ELIZABETH","MONTEIRO","ADMIN ANL PRN 1","46565.00","46565.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","JUAN","ESPINOZA HIGUERA","ADMIN SPEC","46565.00","44118.00","1447.00","1000.00"]}]
+}

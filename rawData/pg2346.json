@@ -1,0 +1,26 @@
+{
+"page" : "2346",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Cruz","BETTINA F","APTHEKER","PROF-AY","102258.00","102258.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","SCOTT J.","HUNTSMAN","BIOINFORMATICS PROGR 3","102257.00","102257.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Merced","BIN","LIU","ASST PROF-AY","102256.00","92292.00","0.00","9964.00"]},
+{"id":"4","cell":["4","2018","San Diego","JEREL LEE SALVAD","MALONG","CLIN NURSE 2","102256.00","91579.00","6606.00","4071.00"]},
+{"id":"5","cell":["5","2018","San Diego","RUBY ANN ADVINCU","SORIA","CLIN NURSE 2","102256.00","93003.00","1946.00","7307.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","ALLEN","PEGRAM","RADLG TCHNO","102254.00","83736.00","9295.00","9223.00"]},
+{"id":"7","cell":["7","2018","Davis","KIRSTEN R","BENTON","REVENUE CYCLE HC MGR 1","102254.00","97622.00","0.00","4632.00"]},
+{"id":"8","cell":["8","2018","Davis","AMY","CLARKE","LECT-AY-CONTINUING","102253.00","101253.00","0.00","1000.00"]},
+{"id":"9","cell":["9","2018","Davis","THOMAS","POAGE","IT ARCHITECT 5","102253.00","102003.00","0.00","250.00"]},
+{"id":"10","cell":["10","2018","Davis","LEAH JEAN M","MEJIA","HR SUPV 2","102253.00","101032.00","0.00","1221.00"]},
+{"id":"11","cell":["11","2018","Irvine","CHRISTIN","O\"NEILL-PEDERSO","CLIN NURSE 2","102252.00","80825.00","13744.00","7683.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","HEATHER","AZIM","DIGITAL COMM SUPV 2","102252.00","102252.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Irvine","VIPAN","KUMAR","ASST PROF IN RES-HCOMP","102250.00","102250.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","BRENT A","HAMMOND","TCHL PROJECT MGT PROFL 4","102250.00","102000.00","0.00","250.00"]},
+{"id":"15","cell":["15","2018","San Diego","ERIN HURLEY","TOULON","CLIN NURSE 2","102250.00","88807.00","2202.00","11241.00"]},
+{"id":"16","cell":["16","2018","Irvine","EILEEN","PONIENTE","REG RESP THER 1","102247.00","85390.00","9331.00","7526.00"]},
+{"id":"17","cell":["17","2018","Irvine","KAREN E","FRANCIS","MGR","102244.00","94220.00","0.00","8024.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","COLLEEN","D\"HAILLECOURT","CLIN NURSE 3","102244.00","97902.00","674.00","3668.00"]},
+{"id":"19","cell":["19","2018","Santa Cruz","ANDREA S","HILDERMAN","FAC PROJECT MGT SPEC 4","102244.00","93494.00","0.00","8750.00"]},
+{"id":"20","cell":["20","2018","Davis","PATRICIA A","SOTO","CLIN LAB SCI","102243.00","87416.00","10739.00","4088.00"]}]
+}

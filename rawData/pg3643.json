@@ -1,0 +1,26 @@
+{
+"page" : "3643",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","MARIANNE","HUNTER","ADMIN OFCR 2","73538.00","73538.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","ANA","FIDLER","COMPUTER NETWORK TCHNO 3","73538.00","73538.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","PAULINA MARIA","TURVILLE","HOSP LAB TCHN 2","73538.00","46348.00","18678.00","8512.00"]},
+{"id":"4","cell":["4","2018","Berkeley","BELEN","FLORES","STDT SVC ADVISOR 3","73538.00","69608.00","0.00","3930.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","SHELLY","LACEY","BLANK AST 3","73537.00","68344.00","4637.00","556.00"]},
+{"id":"6","cell":["6","2018","San Francisco","PHUC HONG","TRAN","MED CTR CUSTODIAN SR","73535.00","54475.00","14808.00","4252.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","CAITLIN","HARGADON","AST TO DEAN DIR CHAIR 1","73535.00","72035.00","0.00","1500.00"]},
+{"id":"8","cell":["8","2018","Davis","PAUL V","CODY","STDT LIFE DEV SPEC 3","73535.00","73535.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Santa Cruz","ALAN","TSUDA","TEACHER-UNEX-CONTRACT YR","73535.00","0.00","0.00","73535.00"]},
+{"id":"10","cell":["10","2018","Santa Cruz","LI-CHIU LIN","MILLER","FINANCIAL ANL 4","73533.00","70009.00","0.00","3524.00"]},
+{"id":"11","cell":["11","2018","Santa Barbara","JULIE","PORTILLO","FINANCIAL ANL SUPV 2","73533.00","73533.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","KAI","FOSTER","HOSP BLANK AST 3","73532.00","68669.00","333.00","4530.00"]},
+{"id":"13","cell":["13","2018","San Francisco","JESSICA","VAN ZUTPHEN","CLIN NURSE 2","73530.00","63940.00","1671.00","7919.00"]},
+{"id":"14","cell":["14","2018","San Diego","KRISTA LEE","LOUGH","REGISTRAR SPEC 4","73530.00","72980.00","0.00","550.00"]},
+{"id":"15","cell":["15","2018","Merced","CLEOTILDE","VENTURA","ADMIN SUPV 2","73529.00","73529.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","NEDA ALALHESSABI","WALKER","FIN ANL SR","73528.00","73528.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","SHAWN","HARRITY","RECALL HCOMP","73528.00","45534.00","0.00","27994.00"]},
+{"id":"18","cell":["18","2018","San Francisco","ALEXA F","TAN","INSTRUCTIONAL DESIGNER 3","73527.00","65498.00","0.00","8029.00"]},
+{"id":"19","cell":["19","2018","San Francisco","SONIA D","STALLWORTH","PRACTICE CRD 2","73526.00","71782.00","604.00","1140.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","HECTOR","RUIZVELASCO","RESIDENTIAL SVC MECH","73526.00","70106.00","2902.00","518.00"]}]
+}

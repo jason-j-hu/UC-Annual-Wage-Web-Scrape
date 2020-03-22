@@ -1,0 +1,26 @@
+{
+"page" : "1679",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","*****","*****","HS CLIN INSTR-HCOMP","123759.00","71381.00","0.00","52378.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","SIMONETTA","FALASCA-ZAMPONI","PROF-AY","123758.00","123758.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","RICHARD A","CUNEO","HS CLIN PROF-HCOMP","123757.00","107681.00","0.00","16076.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","JOHN","ZEPEDA","ASSOC PROF-AY","123750.00","68750.00","0.00","55000.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ARNE","LUNDE","ASSOC PROF-AY","123750.00","123750.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","UCOP","FELICE","LU","REGL POLICY AND INTEL PROFL 4","123747.00","123747.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","GILBERT","BARCO","CLIN NURSE 3","123743.00","108213.00","10230.00","5300.00"]},
+{"id":"8","cell":["8","2018","Davis","MARIANNE","CIAVARELLA","HOME HEALTH NURSE 3","123743.00","88193.00","4375.00","31175.00"]},
+{"id":"9","cell":["9","2018","Davis","EDWARD X","WANG","CLIN NURSE 2","123741.00","114544.00","4200.00","4997.00"]},
+{"id":"10","cell":["10","2018","Davis","KIMBER L.","STANHOPE","RES-FY","123741.00","123741.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","DOMINIC YAU","LUNG","CYTO TCHNO SR","123739.00","123739.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","SUJNA","RAVAL-FERNANDES","ADMIN ANL PRN 2","123732.00","113732.00","0.00","10000.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","YAIR","WHITEMAN","HS ASST CLIN PROF-HCOMP","123730.00","97598.00","0.00","26132.00"]},
+{"id":"14","cell":["14","2018","Irvine","MARIYA","KOVRYGA KORNICK","EHS SPEC 3","123729.00","118735.00","0.00","4994.00"]},
+{"id":"15","cell":["15","2018","Davis","WENDY X","YANG","CLIN NURSE 2","123729.00","108272.00","2697.00","12760.00"]},
+{"id":"16","cell":["16","2018","San Diego","LAURA ELIZABETH","SAUER","CLIN NURSE 2","123728.00","117652.00","3766.00","2310.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","GARY","FIX","INFO SYS ANL 4","123727.00","123727.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","GUSTAVO","LOPEZ","SPEC","123726.00","113180.00","0.00","10546.00"]},
+{"id":"19","cell":["19","2018","Berkeley","ANDRE-DAVID","SICARD","HIGH VOLT ELECTRN","123725.00","118033.00","0.00","5692.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","JOHN","KUSHWARA","ETHICS AND CMPLNC PROFL 4","123723.00","123723.00","0.00","0.00"]}]
+}

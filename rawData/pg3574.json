@@ -1,0 +1,26 @@
+{
+"page" : "3574",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","GINA","GONZALES","STDT LIFE DEVT SUPV 1","74756.00","74756.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","PAMELA","MASANGKAY","ADMIN ANL","74755.00","74129.00","126.00","500.00"]},
+{"id":"3","cell":["3","2018","San Francisco","JUNE H","HOWE","HEALTH EDUCATOR 2","74754.00","74754.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","WENDY","DAY-BROWN","DIR ASC","74754.00","74754.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","ALEX","OUYOUNG","EDUC TCHL SPEC 4","74751.00","74751.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","RAJARSHI","GHOSH","ASST RES-FY","74750.00","74750.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","DANIELLE","GANT","HOSP UNIT SVC CRD 3","74750.00","59334.00","11064.00","4352.00"]},
+{"id":"8","cell":["8","2018","San Francisco","STEPHANIE S.","NG","PRACTICE CRD 2","74748.00","71782.00","1826.00","1140.00"]},
+{"id":"9","cell":["9","2018","Irvine","MARK E.","BRUNK","AUTO TCHN","74748.00","74748.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","AMY","EVA","PUBL EDUC SPEC 3","74745.00","74745.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MARCUS","SELDIN","POSTDOC-EMPLOYEE","74745.00","67745.00","0.00","7000.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","ALISON ELISABETH","SCHWAB","EXEC AST 3","74745.00","68853.00","0.00","5892.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","INDRA","HECHT","CLIN NURSE 3","74744.00","68809.00","691.00","5244.00"]},
+{"id":"14","cell":["14","2018","Davis","DEBRA L","GILBERT","PAT RCDS ABSTRACTOR 3","74744.00","74637.00","107.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","SARITA","PATHAK","PROJECT POLICY ANL 3","74742.00","74742.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","JENNIFER","WALSKE","ASST ADJ PROF-AY-B/E/E","74740.00","72917.00","0.00","1823.00"]},
+{"id":"17","cell":["17","2018","Irvine","RONALD","ASATO","HISTO TCHNO 2","74739.00","68456.00","944.00","5339.00"]},
+{"id":"18","cell":["18","2018","Santa Cruz","RICHARD E","OTTE","PROF-AY","74738.00","74738.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","RACHEL","JOHNSTON","FUNDRAISER 3 GF","74737.00","74737.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Riverside","MATTHEW","MUNTON","MAINT A","74737.00","70741.00","3996.00","0.00"]}]
+}

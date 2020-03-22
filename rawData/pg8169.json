@@ -1,0 +1,26 @@
+{
+"page" : "8169",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","*****","*****","READER-NON GSHIP","25105.00","25105.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Irvine","NORMA JEAN","GARZA","BLANK AST 2","25105.00","25105.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","*****","*****","ATH INTERN","25104.00","17442.00","7662.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","ISABEL J","SIBLE","CLIN RSCH CRD AST","25103.00","24835.00","0.00","268.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","25103.00","25103.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","25102.00","25102.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","WILLIAM C","BROWN","CLIN SOCIAL WORKER 1 NEX","25102.00","22949.00","0.00","2153.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","DAVID RYAN","VASQUEZ","STDT SVC ADVISOR 2","25101.00","20682.00","488.00","3931.00"]},
+{"id":"9","cell":["9","2018","Santa Barbara","*****","*****","GSR-NO REM","25101.00","21346.00","0.00","3755.00"]},
+{"id":"10","cell":["10","2018","San Francisco","ROSALIE A","INFANTE","HOSP UNIT SVC CRD PD","25100.00","24060.00","0.00","1040.00"]},
+{"id":"11","cell":["11","2018","Irvine","ERICA JULIE","KASAI","PRG REPR 1","25100.00","25100.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","DARRIN P","ESTRADA","COOK","25100.00","23953.00","1101.00","46.00"]},
+{"id":"13","cell":["13","2018","San Diego","CHARLES EDWARD,III","GOODMAN","MED CTR CUSTODIAN","25100.00","24839.00","261.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","EMILY","JENKINS","BLANK AST 3","25099.00","25082.00","0.00","17.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","CHENG","WANG","VIS ASSOC RES","25099.00","25099.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","CARL DERICK","QUE","CTRL SVC TCHN 1 PD","25099.00","24244.00","0.00","855.00"]},
+{"id":"17","cell":["17","2018","Irvine","*****","*****","TEACHG ASST-GSHIP","25098.00","24998.00","0.00","100.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","DANIEL","DAGNEW","PARKING REPR SR","25098.00","24747.00","177.00","174.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","25098.00","18962.00","0.00","6136.00"]},
+{"id":"20","cell":["20","2018","Riverside","KATHLEEN","WITTY","HEALTH PROFNS EDUC SPEC 2","25098.00","25098.00","0.00","0.00"]}]
+}

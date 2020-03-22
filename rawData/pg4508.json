@@ -1,0 +1,26 @@
+{
+"page" : "4508",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","ZARINA STA MARIA","CACCAM","PAT CARE AST","62266.00","59990.00","1099.00","1177.00"]},
+{"id":"2","cell":["2","2018","San Diego","CLAUDIA ELIZA","DE SANTIAGO","PROJECT POLICY ANL 2","62265.00","57262.00","2972.00","2031.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","MICHAEL","DUDLEY","COMPUTING RESC MGR 2","62265.00","62265.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","ANNETTE BUCKLEY","PLUMER","ASSOC LIBRARIAN -CAREER STATUS","62264.00","62264.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","REBECCA","MILLER","ASSOC LIBRARIAN -CAREER STATUS","62264.00","62264.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","LUCIA","CHEN","STATISTICIAN SR","62263.00","62263.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","KAREN M","LEWIS","HOSP UNIT SVC CRD 3","62263.00","56747.00","3910.00","1606.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","DANIEL","O\"BRIEN","BUS TCHL SUPP SUPV 2","62263.00","62170.00","93.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","CHRISTINA","CEDILLO","PHARMACY TCHN 2","62263.00","52057.00","8214.00","1992.00"]},
+{"id":"10","cell":["10","2018","San Diego","THOMAS P","HOSCH","BLANK AST 3","62262.00","56688.00","3876.00","1698.00"]},
+{"id":"11","cell":["11","2018","San Diego","FERNANDO","REYES","LAB MECHN SR","62261.00","62171.00","90.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","DEBORAH LYNNE","COLEMAN","RECR PRG INSTR 2","62260.00","61260.00","0.00","1000.00"]},
+{"id":"13","cell":["13","2018","Berkeley","JANET","WHITE","CAREER SVC SPEC 4","62257.00","61757.00","0.00","500.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","GIOVANNY","BARRIENTOS","ADMIN ANL SUPV NEX","62256.00","55992.00","6264.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","MARIE GELE","BANZON","ADMIN ANL","62256.00","61695.00","0.00","561.00"]},
+{"id":"16","cell":["16","2018","Santa Cruz","MIRANDA","ALLEN-BROWER","RECR SUPV 2","62253.00","62253.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","UCOP","BRIAN","BURCIAGA","ADMIN OFCR 2","62252.00","62252.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","MATTHEW J","SANFORD","PAT BILLER 4","62251.00","60227.00","1001.00","1023.00"]},
+{"id":"19","cell":["19","2018","Santa Cruz","ANTHONY ERIC","GRANT","BLANK AST 3","62251.00","56626.00","0.00","5625.00"]},
+{"id":"20","cell":["20","2018","San Francisco","CONSUELO","QUINONES","CLIN NURSE 2","62250.00","50421.00","3653.00","8176.00"]}]
+}

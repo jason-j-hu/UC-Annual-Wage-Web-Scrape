@@ -1,0 +1,26 @@
+{
+"page" : "5020",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","CARA M","SAMELSON","MENTAL HEALTH THER 2","57173.00","57173.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ELLEN","ALMIROL","PUBL ADMSTN ANL","57173.00","57173.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","CONNIE","CALDERON-JENSEN","ACAD ACHIEVEMENT CNSLR 2","57172.00","57119.00","53.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","PINEAL M.","ANULO","PRACTICE CRD 3","57172.00","55845.00","667.00","660.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","CLAUDIA","CRUZ","HOSP BLANK AST 3","57170.00","56906.00","205.00","59.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","NICHOLAS","RUPERT","DEV TCHN 4","57170.00","54236.00","2934.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","NIKOLAS","BALANIS","POSTDOC-EMPLOYEE","57169.00","57169.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","INES","GEHRING","SRA 2","57168.00","57168.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","JOYCE S.","HATANAKA","BLANK AST 3","57167.00","56667.00","0.00","500.00"]},
+{"id":"10","cell":["10","2018","Davis","GABRIEL A","TORRES LONDONO","ASST COOP EXT ADVISOR","57167.00","57167.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","ANGEL M","ROSALES","PAT BILLER 3","57167.00","57012.00","155.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","THERESA","MOHLER","BLANK AST 3","57167.00","53458.00","3709.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","LUCA","GALLETTI","POSTDOC-EMPLOYEE","57167.00","57167.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","MILENA","ALBINI","PAT CARE AST PD","57166.00","47064.00","4809.00","5293.00"]},
+{"id":"15","cell":["15","2018","Davis","NICOLE A","GREATREAKS","PAT BILLER 3","57166.00","56270.00","896.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","KARTIKEYA SANDEE","PURI","APPLICATIONS PROGR 2","57166.00","57166.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","VINIT VILAS","NALAWADE","DATABASE ADM 2","57166.00","57166.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Riverside","IRENE","DOTSON","BLANK AST 3","57165.00","56200.00","965.00","0.00"]},
+{"id":"19","cell":["19","2018","Riverside","DAISY","DIZON","STDT LIFE DEVT SUPV 1","57165.00","57165.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","KRIZZANIE ABAD","HARDY","HOSP BLANK AST 3","57165.00","55713.00","452.00","1000.00"]}]
+}

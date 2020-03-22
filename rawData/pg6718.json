@@ -1,0 +1,26 @@
+{
+"page" : "6718",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","LISA","MARQUEZ","BLANK AST 2","40975.00","36510.00","4465.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","BING","ZHOU","POSTDOC-EMPLOYEE","40975.00","40975.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","HAVEN B","BUCHMILLER","PLNG SPEC 4","40975.00","40975.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","ERIKA M","MYERS","MENTAL HEALTH THER 1","40974.00","40974.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","ERIN","ADRIAN","BLANK AST 2","40974.00","38912.00","0.00","2062.00"]},
+{"id":"6","cell":["6","2018","Davis","NGHI","NGHIEM","PHARMACIST 2 PD","40973.00","40292.00","681.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","JUAN","AMADOR","OPS ROOM AST 2 PD","40972.00","40852.00","0.00","120.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","SABA","TEDLA","CLIN CARE PARTNER PD","40972.00","38125.00","1618.00","1229.00"]},
+{"id":"9","cell":["9","2018","Davis","JESSICA","MILLS","SRA 1","40972.00","40650.00","322.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","TIMOTHY M","GAHAGAN","DATA SYS ANL 2","40972.00","39472.00","0.00","1500.00"]},
+{"id":"11","cell":["11","2018","San Diego","OMAR AWNI","FARAH","POSTDOC-EMPLOYEE","40969.00","40969.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","RACHEL","LAGUNA","BLANK AST 2","40969.00","40094.00","125.00","750.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","MARIA","SILVA","FOOD SVC WORKER SR","40969.00","39890.00","704.00","375.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","CARLA ANDREA","BARRY","ADMIN ANL PRN 2","40968.00","33779.00","0.00","7189.00"]},
+{"id":"15","cell":["15","2018","Davis","JACQUELINE L","OAKES","MED OFC SVC CRD 3","40967.00","31903.00","5609.00","3455.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","CATHERINE","ROMAN","MED CTR CUSTODIAN SR","40967.00","39758.00","551.00","658.00"]},
+{"id":"17","cell":["17","2018","UCOP","MARIANNE","JUSTUS","PROJECT POLICY ANL 3","40966.00","40966.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","RHONDA","HAMMER","LECT-AY-1/9","40965.00","40965.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Riverside","TRA","DUONG","ASST PROJ SCIENTIST-FY","40965.00","40965.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","WILLANA","PAIGE","BLANK AST 2","40965.00","39872.00","56.00","1037.00"]}]
+}

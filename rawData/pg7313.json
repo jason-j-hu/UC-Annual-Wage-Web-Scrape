@@ -1,0 +1,26 @@
+{
+"page" : "7313",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","MEI PENG","CHAN","FOOD SVC WORKER","33902.00","32656.00","37.00","1209.00"]},
+{"id":"2","cell":["2","2018","San Diego","DANIEL","SHIANG","SRA 1","33899.00","33899.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","HANNAH","VANDER SAL","BLANK AST 3","33897.00","33897.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","GORDON N","HONERKAMP-SMITH","RSCH DATA ANL 2","33897.00","33897.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","SONIA T","TRAN","ADMIN SPEC","33897.00","32897.00","0.00","1000.00"]},
+{"id":"6","cell":["6","2018","Berkeley","*****","*****","POSTDOC-EMPLOYEE","33896.00","33896.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","SHERRAE MARCHEL","MACK","PRG REPR 2","33895.00","32755.00","284.00","856.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","AMIYA K","CHATTERJEE","LECT-AY-1/9-CONTINUING","33894.00","33894.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","ATEFEH","MOUSAVI NIK","POSTDOC-EMPLOYEE","33893.00","33893.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","*****","*****","GSR-TUIT & FEE REM","33893.00","33893.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","CARMEN","GOMEZ","BLANK AST 3","33892.00","33474.00","418.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","THUY BICH","LE","CLIN RSCH CRD AST","33892.00","33892.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","LATIA ROCHELLE","BRYANT","PAT BILLER 3","33892.00","25889.00","7987.00","16.00"]},
+{"id":"14","cell":["14","2018","Davis","*****","*****","GSR-FULL FEE REM","33891.00","31510.00","0.00","2381.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","JENNIFER","DANAN","LECT-AY","33891.00","33891.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","JASON W","DANG","POSTDOC-EMPLOYEE","33891.00","33891.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","SHERYL A","SINGER","HEALTH EDUCATOR 2","33891.00","33124.00","0.00","767.00"]},
+{"id":"18","cell":["18","2018","San Francisco","MELISSA S","BEAMON","SCRTY GUARD SR","33889.00","25141.00","6234.00","2514.00"]},
+{"id":"19","cell":["19","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","33889.00","20791.00","0.00","13098.00"]},
+{"id":"20","cell":["20","2018","San Diego","LOUIE G","TUGAS","CARE SUPV 1","33889.00","29342.00","0.00","4547.00"]}]
+}

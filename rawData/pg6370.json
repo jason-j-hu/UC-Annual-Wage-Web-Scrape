@@ -1,0 +1,26 @@
+{
+"page" : "6370",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","TRAVIS A","TANNER","HOSP BLANK AST 2","44754.00","40776.00","3138.00","840.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ALYSA","PARRA","HOSP BLANK AST 3","44753.00","43835.00","210.00","708.00"]},
+{"id":"3","cell":["3","2018","Irvine","ROXANA","BELLO","MED AST","44752.00","40470.00","2801.00","1481.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","GLADIS","AVILES DE LEIVA","MED CTR CUSTODIAN SR","44752.00","41834.00","1809.00","1109.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","DEIRDRE","WATSON","BLANK AST 2","44752.00","44252.00","0.00","500.00"]},
+{"id":"6","cell":["6","2018","San Francisco","MIN SEOK","CHOI","QLTY IMPV HC SPEC 3","44751.00","41587.00","0.00","3164.00"]},
+{"id":"7","cell":["7","2018","San Francisco","KEVIN CHIHOW","CHANG","SRA 2 NEX","44751.00","44457.00","294.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","SARA B","MONIZ","ACCESS REPR PRN","44751.00","43609.00","614.00","528.00"]},
+{"id":"9","cell":["9","2018","Irvine","PEYMAN","BORGHEI","AST PHYSCN","44750.00","8111.00","0.00","36639.00"]},
+{"id":"10","cell":["10","2018","San Diego","AVENCIO D","VICENTE","MED CTR CUSTODIAN SR","44750.00","42378.00","0.00","2372.00"]},
+{"id":"11","cell":["11","2018","San Diego","AUDREY V","TROTTIER","BLANK AST 3","44749.00","41476.00","0.00","3273.00"]},
+{"id":"12","cell":["12","2018","San Francisco","AIRICA FAE CONCE","BUSTOS","SRA 2 NEX","44748.00","44748.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Irvine","TINA M","TIAO","BLANK AST 3","44748.00","41512.00","3236.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","LILI D.","BARBER","BLANK AST 3","44748.00","44748.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","KRISTON BETH","SCHELLINGER","PSYCHOLOGIST 1","44747.00","44747.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","*****","*****","GSR-FULL FEE REM","44747.00","44747.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","RAGHAV","KALIA","POSTDOC-EMPLOYEE","44746.00","34496.00","7485.00","2765.00"]},
+{"id":"18","cell":["18","2018","Irvine","BELIA C","DOMINGUEZ","MED CTR CUSTODIAN SR","44746.00","38693.00","5620.00","433.00"]},
+{"id":"19","cell":["19","2018","Davis","OSARENOMA","IGBINOSA","HOSP BLANK AST 2","44746.00","41682.00","2733.00","331.00"]},
+{"id":"20","cell":["20","2018","Irvine","JOCELYN","RODRIGUEZ","GI ENDOSCOPY TCHN 1","44746.00","39772.00","3109.00","1865.00"]}]
+}

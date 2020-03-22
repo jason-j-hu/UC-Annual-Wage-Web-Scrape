@@ -1,0 +1,26 @@
+{
+"page" : "5941",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","TYLER L","BADILLA","ADMIN OFCR 2","49018.00","49018.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Irvine","HECTOR G","GONZALEZ ACOSTA","BLDG MAINT WORKER SR","49017.00","48945.00","72.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","VILMA","BANOS-DE JESUS","SOCIAL WORK ASC AST","49015.00","48696.00","319.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","DANIEL","DIAZ","CUSTODIAN LD","49015.00","47339.00","1543.00","133.00"]},
+{"id":"5","cell":["5","2018","Irvine","STEPHANIE MARIE","BECKHAM","ADMIN ANL AST","49014.00","49014.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","SANDRA","NUNFIO","DENTAL AST","49014.00","49014.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","LUCY","VACA","BLANK AST 3","49014.00","48717.00","297.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","CONSTANCE M","JOHN","ASSOC ADJ PROF-FY","49013.00","49013.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","TRI N","HUYNH","HS ASSOC CLIN PROF-FY","49013.00","49013.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","JOANNA","VASQUEZ","DENTAL AST","49013.00","49013.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","ELLA M","POWERS","SRA 1","49013.00","40442.00","8571.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","CORINNE G","JOLIVALT","ASSOC ADJ PROF-FY","49013.00","49013.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","ELDA","LOPEZ","PAT COMM REPR","49012.00","47150.00","1112.00","750.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","MARTIN","RUIZ","GROUNDSKEEPER","49012.00","47998.00","1014.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","JONATHAN","SOU","AUDITOR 1","49012.00","49012.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","NATALIE J.","HADLAND","PRODUCER DIR","49011.00","49005.00","0.00","6.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","THATSON","NGUYEN","PROGR ANL 2","49011.00","46275.00","0.00","2736.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","GABRIEL","DA SILVA","ADMIN CARE CLIN PARTNER","49010.00","41637.00","6141.00","1232.00"]},
+{"id":"19","cell":["19","2018","Davis","ANNA ELIZABETH","GRIMES","HEALTH TCHN 2","49009.00","46443.00","1366.00","1200.00"]},
+{"id":"20","cell":["20","2018","Berkeley","MARKUS NORMAN","RABE","POSTDOC-EMPLOYEE","49009.00","49009.00","0.00","0.00"]}]
+}

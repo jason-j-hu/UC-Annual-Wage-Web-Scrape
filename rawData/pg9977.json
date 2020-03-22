@@ -1,0 +1,26 @@
+{
+"page" : "9977",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","RICHARD","APPELBAUM","RECALL TEACHING","10003.00","10003.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","AUBRIANNA MARIE","BUTLER","BLANK AST 3","10003.00","9834.00","169.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","*****","*****","STDT 2","10002.00","10002.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","LISA-MARIE","ADORNO","PUBL EDUC SPEC 4","10002.00","9266.00","0.00","736.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","DIANA M","BONTA","ADJ PROF-AY-1/9","10002.00","10002.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","TERENCE M","MURPHY","RECALL TEACHING","10002.00","0.00","0.00","10002.00"]},
+{"id":"7","cell":["7","2018","San Diego","TIMOTHY","DRESSELHAUS","HS CLIN PROF-HCOMP","10002.00","10002.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","ALAIN","DEJANVRY","RECALL FACULTY","10002.00","10002.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Berkeley","ADAM","RAUSCH","RSCH AND DEV ENGR 1","10002.00","10002.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","JOHNATHAN EDWARD","DONES","EVENTS SPEC 1","10001.00","10001.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","*****","*****","GSR-FULL FEE REM","10001.00","10001.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","*****","*****","STDT 4","10001.00","10001.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","ELIZABETH M","YANO","ADJ PROF-AY-1/9","10001.00","10001.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Riverside","*****","*****","GSR-PARTIAL FEE REM","10001.00","10001.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Riverside","*****","*****","GSR-PARTIAL FEE REM","10001.00","10001.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Riverside","*****","*****","GSR-PARTIAL FEE REM","10001.00","10001.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","EVA MARIE","FROYD","NURSE SVC MGR 1","10001.00","10001.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","*****","*****","STDT 4","10001.00","10001.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","MATTHEW KRISTOFER","HORTON","POSTDOC-EMPLOYEE","10000.00","10000.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","TOM","BAKER","VIS PROF","10000.00","10000.00","0.00","0.00"]}]
+}

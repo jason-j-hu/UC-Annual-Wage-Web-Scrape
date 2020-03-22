@@ -1,0 +1,26 @@
+{
+"page" : "6940",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","LYDIA J","SHANG","FINANCIAL ANL 2","38280.00","38280.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","NATALIE TAMARA","JONES","POSTDOC-EMPLOYEE","38279.00","38279.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","XIOMARA D","LOPEZ","PRACTICE CRD 1","38278.00","37594.00","0.00","684.00"]},
+{"id":"4","cell":["4","2018","Irvine","LORENA","BERMUDEZ HERRER","CUSTODIAN","38278.00","36399.00","283.00","1596.00"]},
+{"id":"5","cell":["5","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","38277.00","36177.00","0.00","2100.00"]},
+{"id":"6","cell":["6","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","38277.00","37692.00","0.00","585.00"]},
+{"id":"7","cell":["7","2018","Irvine","RACHAEL ANNE","VALENCIA","HOSP AST SR","38276.00","33977.00","1367.00","2932.00"]},
+{"id":"8","cell":["8","2018","Davis","STEVEN H","LEE","ASST SPECIALIST","38276.00","38276.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","CELENE","SOTELO","CUSTODIAN","38275.00","36625.00","433.00","1217.00"]},
+{"id":"10","cell":["10","2018","Riverside","MARIA","SALAZAR DE PINACHO","FOOD SVC WORKER SR","38275.00","38051.00","220.00","4.00"]},
+{"id":"11","cell":["11","2018","Irvine","ERIKA","RUBIO PEREZ","CUSTODIAN","38274.00","37062.00","0.00","1212.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","MAISHA","BEASLEY","ADMIN CARE CLIN PARTNER","38274.00","31623.00","3954.00","2697.00"]},
+{"id":"13","cell":["13","2018","Merced","BLANCA","JIMENEZ","BLANK AST 1","38274.00","38274.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Hastings College Of Law","KATHARINE G","WALSHAM","GRAD FELLOW","38273.00","35208.00","0.00","3065.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","MICHAEL","BRUNER","CUSTODIAN SR","38273.00","36584.00","1689.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","JAMIE","LAHVIC","POSTDOC-FELLOW","38272.00","37976.00","0.00","296.00"]},
+{"id":"17","cell":["17","2018","Irvine","DANYELLE BROOKE","DALE","ADMIN ANL PRN 1","38271.00","38271.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","MARIA DE JESUS","GUTIERREZ","CUSTODIAN","38269.00","36696.00","0.00","1573.00"]},
+{"id":"19","cell":["19","2018","San Diego","FERNANDO,JR","HERNANDEZ","MED AST 2","38269.00","37426.00","93.00","750.00"]},
+{"id":"20","cell":["20","2018","Santa Cruz","BETSY P","RIKER","PHYSCN AST","38268.00","38268.00","0.00","0.00"]}]
+}

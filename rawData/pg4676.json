@@ -1,0 +1,26 @@
+{
+"page" : "4676",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","LORETTA","JOHNSON-WOOLEN","BLANK AST 3","60571.00","59761.00","554.00","256.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ELEUTERIA","HERNANDEZ","STDT AFFAIRS OFCR 2","60567.00","59067.00","0.00","1500.00"]},
+{"id":"3","cell":["3","2018","San Diego","MARIE A.","MONTEZ","HOSP LAB TCHN 1","60564.00","60564.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","THUY DUNG","VU","PERSONNEL ANL PRN","60563.00","60563.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","LAURA M","TROUTNER","BLANK AST 3","60563.00","60563.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","ELIZABETH A","FROES","CLIN NURSE 3","60563.00","55307.00","1179.00","4077.00"]},
+{"id":"7","cell":["7","2018","Davis","MARINA L.","RAMOS","BLANK AST 3","60563.00","60563.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","STEVEN J","GARCIA","BLANK AST 3","60563.00","60563.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","KAREN M","JOHNSTON","BLANK AST 3","60563.00","60563.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","ANDREA M","VILLANUEVA","BLANK AST 3","60563.00","60563.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","ANGELA H","TAGGART","BLANK AST 3","60563.00","60563.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","BRIDGET","ESTRADA","VOC NURSE SR","60563.00","60457.00","102.00","4.00"]},
+{"id":"13","cell":["13","2018","Davis","DEBORAH M.","FILLET","BLANK AST 3","60563.00","60563.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","JEANNE MICHELLE","FULLER","BLANK AST 3","60562.00","57966.00","2592.00","4.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","EMILY","MAI","CLIN NURSE 3","60561.00","55030.00","4004.00","1527.00"]},
+{"id":"16","cell":["16","2018","Berkeley","ETTA","HEBER","PROJECT POLICY ANL 3","60561.00","60561.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","ERIC","LARSEN","RES-FY","60560.00","60560.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","GENEVIEVE ELIZAB","RAMIREZ","PRACTICE CRD 3","60559.00","58451.00","1444.00","664.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","BRIAN","HOPE","MGT SVC OFCR 2 SUPV","60559.00","60559.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","MICHAEL ARMANDO","PROVINS","ELECTR TCHN","60559.00","55869.00","4690.00","0.00"]}]
+}

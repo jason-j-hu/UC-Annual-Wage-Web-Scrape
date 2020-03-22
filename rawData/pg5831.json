@@ -1,0 +1,26 @@
+{
+"page" : "5831",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","MELISSA","KRUEGER","CLIN RSCH CRD","49952.00","47524.00","0.00","2428.00"]},
+{"id":"2","cell":["2","2018","San Diego","REYNALDO","LOPEZLARA","BLDG MAINT WORKER SR","49952.00","46026.00","2461.00","1465.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","EVA","RODRIGUEZ","BLANK AST 3","49952.00","49103.00","248.00","601.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","JOE","BROWN III","VOC NURSE","49951.00","45581.00","942.00","3428.00"]},
+{"id":"5","cell":["5","2018","Santa Cruz","GERARD","CARRIZOZA-QUINT","CUSTODIAN SR","49951.00","47820.00","770.00","1361.00"]},
+{"id":"6","cell":["6","2018","San Diego","DENNIS","SANTIAGO","HOSP BLANK AST 3","49951.00","44189.00","5012.00","750.00"]},
+{"id":"7","cell":["7","2018","San Diego","ROBYN","GOMES","HOSP BLANK AST 3","49951.00","49201.00","0.00","750.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","SANDRA","MEJIA","MED AST 3","49950.00","48957.00","273.00","720.00"]},
+{"id":"9","cell":["9","2018","Riverside","SHONDA","SCOTT","MED AST 2","49950.00","49950.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","FEDORA","GERTZMAN","LIBRARY SUPV 1","49950.00","49950.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","EDWARD H","SUNG","SRA 2 NEX","49949.00","46946.00","3003.00","0.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","MARY RUTH","BARTON","BLANK AST 3","49949.00","48949.00","0.00","1000.00"]},
+{"id":"13","cell":["13","2018","San Diego","WIELAND UDAN","DULOS","PHLEBOTOMIST CERT TCHN 2","49949.00","48168.00","774.00","1007.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","JOSEPH","RISHER","BLANK AST 3","49949.00","49778.00","51.00","120.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","BRIANA","WISE","RECR SUPV SR","49948.00","49948.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","AMY P","HSIAO","BLANK AST 3","49948.00","49448.00","0.00","500.00"]},
+{"id":"17","cell":["17","2018","Davis","MICHAEL C","YOUNG","TELEVISION TCHN","49947.00","49566.00","381.00","0.00"]},
+{"id":"18","cell":["18","2018","Riverside","MICHAEL","SCHWEITZER","SCRTY GUARD SR","49947.00","48928.00","0.00","1019.00"]},
+{"id":"19","cell":["19","2018","San Francisco","RAKESH","RAMACHANDRAN","POSTDOC-EMPLOYEE","49945.00","49945.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","RENE","PADILLA","ADMIN SPEC","49945.00","49811.00","134.00","0.00"]}]
+}

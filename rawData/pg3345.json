@@ -1,0 +1,26 @@
+{
+"page" : "3345",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","MELISSA","BADILLA","ADMITTING WORKER PRN","78857.00","74407.00","3299.00","1151.00"]},
+{"id":"2","cell":["2","2018","Riverside","SHU-LIANG","HSU","LECT-AY-CONTINUING","78857.00","68852.00","0.00","10005.00"]},
+{"id":"3","cell":["3","2018","Berkeley","RAYMOND","HAWKINS","LECT-AY","78853.00","68740.00","0.00","10113.00"]},
+{"id":"4","cell":["4","2018","San Francisco","REBECCA A.","BENNETT","CLIN NURSE 2","78849.00","78849.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Merced","DIANE","CATON","ADMIN SUPV 2","78848.00","78848.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","STEWART D","RICHARDSON","SYS OPR","78847.00","77714.00","1133.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","CLAIRE","TSAI","BUYER 4","78846.00","78846.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","JAMES","BREEN","LAB GLASSBLOWER PRN","78846.00","78827.00","19.00","0.00"]},
+{"id":"9","cell":["9","2018","Berkeley","DYLAN","SMITH","SRA 4","78845.00","78845.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","THOMAS","CODA","ADMIN ANL SR","78844.00","78844.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Riverside","MARTIN","NAVARRO","LECT-AY-CONTINUING","78844.00","78844.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","JENNIFER P.","SEVADJIAN","DATA SYS ANL 2","78842.00","77329.00","913.00","600.00"]},
+{"id":"13","cell":["13","2018","Davis","THOMAS J","KOHNKE","RSCH AND DEV ENGR 3","78840.00","78840.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","JAMES","SONG","EMPLOYEE REL REPR 3","78839.00","78839.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","JANET E.","HOWARD","DIGITAL COMM SPEC 5","78839.00","78839.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","78837.00","61783.00","0.00","17054.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","AMY","KING","ADMIN ANL SR","78836.00","78836.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","KEVIN","MUHAMMAD","MED CTR SCRTY OFCR","78836.00","48989.00","29280.00","567.00"]},
+{"id":"19","cell":["19","2018","San Francisco","CHRISTOPHER HONE","BANEZ","PHARMACY TCHN 2","78834.00","68905.00","6329.00","3600.00"]},
+{"id":"20","cell":["20","2018","Davis","JEFFERY E","CONBOY HEISER","RECR SUPV 2","78834.00","78834.00","0.00","0.00"]}]
+}

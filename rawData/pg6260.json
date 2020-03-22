@@ -1,0 +1,26 @@
+{
+"page" : "6260",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","BERTHA V","PINA","HOSP AST SR","45932.00","41594.00","3308.00","1030.00"]},
+{"id":"2","cell":["2","2018","San Diego","ZAIRA","MORALES OLOZAGA","HOSP BLANK AST 2","45932.00","42533.00","2366.00","1033.00"]},
+{"id":"3","cell":["3","2018","Davis","ERIK","PLASCENCIA","STORES WORKER","45931.00","44869.00","1062.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","ESMERALDA","VARGAS","PHARMACY TCHN 3","45931.00","44791.00","140.00","1000.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","BRITNEY","LUEBECK","K TO 14 ACAD PREP SPEC 2","45930.00","45930.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","FLORA","DO","PHYS THER AST 2","45928.00","44901.00","0.00","1027.00"]},
+{"id":"7","cell":["7","2018","Santa Cruz","LAURA TANNARA","WILSON","BLANK AST 3","45928.00","45428.00","0.00","500.00"]},
+{"id":"8","cell":["8","2018","San Diego","CLETUS WAYNE","FINNELL","ABLE SEAMAN 2","45926.00","44096.00","1830.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","TERESA","MIRAMONTES","ADMIN CARE CLIN PARTNER","45925.00","40581.00","3467.00","1877.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","TAU-MU","YI","ASSOC RES-FY","45924.00","45924.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","CANDIE","WESTWOOD-OLMSTE","BLANK AST 2","45923.00","45359.00","564.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","ARON ANTHONY","KING","NURSE PD","45923.00","39950.00","1589.00","4384.00"]},
+{"id":"13","cell":["13","2018","San Diego","JANIE MAE","SACCHETTI","TCHN SR","45923.00","45323.00","0.00","600.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","PABLO","CAUZOR","ADMIN CARE CLIN PARTNER","45923.00","41786.00","3008.00","1129.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","YVETTE","JOHNSON","BLANK AST 3","45922.00","40531.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","LEYLA ARAYA","MICHAEL","PAT NAVGTR NON-CLIN 3","45922.00","45115.00","0.00","807.00"]},
+{"id":"17","cell":["17","2018","Davis","JESUS","MENDEZ","SRA 1","45921.00","45921.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","ANTHONY PAUL","DICUS","HOSP UNIT SVC CRD 3","45921.00","42333.00","456.00","3132.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","LUKE","EHLERT","SRA 2 NEX","45921.00","45921.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","MARCO","GUERRERO","COOK AST","45919.00","33466.00","12426.00","27.00"]}]
+}

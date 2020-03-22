@@ -1,0 +1,26 @@
+{
+"page" : "5362",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","KRISTA","LORETTO","PRG REPR SUPV","54010.00","54010.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","CARINA","COBOS","ADMIN SPEC","54009.00","49509.00","0.00","4500.00"]},
+{"id":"3","cell":["3","2018","San Diego","ANANTH","SOUNDARAM JEEVA","POSTDOC-EMPLOYEE","54009.00","54009.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","ANNA MARIE","ARRIETA","LIBRARY AST 4","54008.00","54008.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","HIROYUKI","MINAMINO","LIBRARY AST 4","54008.00","54008.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","JESSICA R.","GREENLAW","STDT SVC ADVISOR 2","54007.00","50757.00","0.00","3250.00"]},
+{"id":"7","cell":["7","2018","Riverside","OSCAR","HINOJOSA","K TO 14 ACAD PREP SPEC 3","54006.00","53206.00","0.00","800.00"]},
+{"id":"8","cell":["8","2018","Davis","CHARISA R","JARAMILLO","MED OFC SVC CRD 3","54005.00","49167.00","4778.00","60.00"]},
+{"id":"9","cell":["9","2018","Hastings College Of Law","DIVINA J","MORGAN","LEAD ADMIN ASST/FACULTY SUPP","54005.00","52559.00","1446.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","VERONICA","ALVAREZ","BLANK AST 3","54005.00","52637.00","1368.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","RYAN N","ALLEN","RSCH AND DEV ENGR 2","54004.00","54004.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","NEMIE ESPANTO","TAKEYAMA","ACCESS REPR SR","54004.00","52148.00","1185.00","671.00"]},
+{"id":"13","cell":["13","2018","San Diego","ROSEMARIE DELACR","ASANAS","HOSP UNIT SVC CRD 3","54003.00","51710.00","1244.00","1049.00"]},
+{"id":"14","cell":["14","2018","Berkeley","DANETTE","JOHNSON","FOOD SVC SUPV 1","54003.00","53503.00","0.00","500.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","CASSANDRA","FADDIS","CLIN NURSE 2","54002.00","49231.00","58.00","4713.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","PRAPAI","SAKBURANAPHAT","HOSP BLANK AST 3","54001.00","52814.00","922.00","265.00"]},
+{"id":"17","cell":["17","2018","Davis","STEPHEN A","MANNIS","ASC PHYSCN DIPLOMATE","54000.00","27000.00","0.00","27000.00"]},
+{"id":"18","cell":["18","2018","Irvine","RAQUEL IYA","ARANDA","MED AST","54000.00","48430.00","5143.00","427.00"]},
+{"id":"19","cell":["19","2018","Irvine","TERA DENISE","HOLMES","STDT AFFAIRS OFCR 1","54000.00","54000.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","DANIELLE A","ACEVES","STDT AFFAIRS OFCR 2","54000.00","54000.00","0.00","0.00"]}]
+}

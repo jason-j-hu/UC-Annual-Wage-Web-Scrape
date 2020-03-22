@@ -1,0 +1,26 @@
+{
+"page" : "2302",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","DAVID VINCENT","PRICE","ELECTR TCHN PRN","103494.00","80163.00","23331.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","JAMES","GOLDE","REAL ESTATE OFCR 5","103493.00","93493.00","0.00","10000.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","MASIHOLAH","RAGHEB","RADLG TCHNO PRN","103493.00","101270.00","1207.00","1016.00"]},
+{"id":"4","cell":["4","2018","San Francisco","ANN-MARIE C","CABONCE","AMBUL CARE ADMSTN CRD 3","103491.00","98906.00","0.00","4585.00"]},
+{"id":"5","cell":["5","2018","San Francisco","GREGORY J","WHISMAN","ADMIN SUPV 2","103490.00","103490.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","MUNIR","BEKEN","ASSOC PROF-AY","103488.00","102700.00","0.00","788.00"]},
+{"id":"7","cell":["7","2018","San Francisco","HYUNIL","JO","SPECIALIST","103487.00","103487.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","KEVIN CHRISTOPHE","CORBIT","SPECIALIST","103487.00","103487.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","CONNIE L","MERRON","SPECIALIST","103487.00","103487.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","ROBERT M","COTTER","SPECIALIST","103487.00","103487.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","GARY LEE","MOULDER","SPECIALIST","103487.00","103487.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","CHI YAN","MAK","SPECIALIST","103487.00","103487.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","AMANDA","WADE","SPECIALIST","103487.00","103487.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","YING","SHI","SPECIALIST","103487.00","103487.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Irvine","QIYIN","LIN","SPECIALIST","103487.00","103487.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","KEVIN","BEALS","SPECIALIST","103487.00","103487.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","HECTOR","NOLLA","SPECIALIST","103487.00","103487.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","COLLIN","BODE","SPECIALIST","103487.00","103487.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","ALISON","BILLMAN","SPECIALIST","103487.00","103487.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","DIANA DAVALOS","BLACK","CLIN NURSE 2","103486.00","95663.00","3464.00","4359.00"]}]
+}

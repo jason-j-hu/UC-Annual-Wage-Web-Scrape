@@ -1,0 +1,26 @@
+{
+"page" : "6839",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","ESTHER","SHIN","FINANCIAL SVC ANL 2","39553.00","38416.00","41.00","1096.00"]},
+{"id":"2","cell":["2","2018","San Francisco","SUSAN MEY","SAECHAO","HR GENERALIST 3","39552.00","39552.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Irvine","ERIN L","DEFRIES","FIN ANL SR","39552.00","39552.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","JACQUELINE","BRIZUELA","ADMIN ANL AST","39552.00","37827.00","0.00","1725.00"]},
+{"id":"5","cell":["5","2018","Davis","EDUARDO","CERVANTES","JR SPECIALIST","39552.00","39140.00","412.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","39552.00","39552.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","LISA ANN","ZEIGLER","VIS ASST RES","39552.00","39552.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","JULIUS D","BERNARDO","VOC NURSE SR","39551.00","39377.00","174.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","CAROLYN","ALBRIGHT","BLANK AST 2","39551.00","14200.00","0.00","25351.00"]},
+{"id":"10","cell":["10","2018","San Diego","NIROSHA","GNANASSEGARANE","CLIN NURSE 1","39551.00","35690.00","286.00","3575.00"]},
+{"id":"11","cell":["11","2018","Irvine","CYNTHIA FAY","MCCOLLUM","BLANK AST 2","39550.00","39550.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","SIGFRED IAN","ALPAJARO","VIS ASST PROF-HCOMP","39550.00","39550.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","JAMES","EVANS","RECALL FACULTY","39550.00","39550.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","CHANELL","MUCKER","MED AST 3","39549.00","37985.00","585.00","979.00"]},
+{"id":"15","cell":["15","2018","Davis","EMILY A","HUBBARD","JR SPECIALIST","39549.00","39359.00","190.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","JULIO IVAN","BLANCO","MED CTR CUSTODIAN","39549.00","34213.00","2811.00","2525.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","MARJORIE","WELLS","PUBL ADMSTN ANL SR","39548.00","36552.00","0.00","2996.00"]},
+{"id":"18","cell":["18","2018","Riverside","CAROLINA","ROSAS SAAVEDRA","INDUSTRY ALLNS SPEC 3","39548.00","37557.00","0.00","1991.00"]},
+{"id":"19","cell":["19","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","39547.00","34947.00","0.00","4600.00"]},
+{"id":"20","cell":["20","2018","Davis","LINDA L","HAM","ADMIN OFCR 2","39547.00","34772.00","0.00","4775.00"]}]
+}

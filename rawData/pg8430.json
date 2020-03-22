@@ -1,0 +1,26 @@
+{
+"page" : "8430",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","EVA","FUCHS","TEACHER-UNEX","22481.00","0.00","0.00","22481.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","22479.00","22479.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","*****","*****","CLERK","22479.00","21863.00","239.00","377.00"]},
+{"id":"4","cell":["4","2018","Santa Cruz","*****","*****","TEACHG ASST-GSHIP","22479.00","20791.00","0.00","1688.00"]},
+{"id":"5","cell":["5","2018","Santa Cruz","*****","*****","TEACHG ASST-GSHIP","22479.00","20791.00","0.00","1688.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","*****","*****","TEACHG ASST-GSHIP","22479.00","21808.00","0.00","671.00"]},
+{"id":"7","cell":["7","2018","San Diego","APRIL LYNN","ROBLES","HOSP UNIT SVC CRD PD","22479.00","22479.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","*****","*****","TEACHG ASST-GSHIP","22478.00","18623.00","0.00","3855.00"]},
+{"id":"9","cell":["9","2018","Irvine","GIULIA","TEDESCHI","JR SPECIALIST NEX","22477.00","22477.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","THOMAS","MORRILL","PROJECT POLICY ANL 4","22477.00","22477.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","STEPHANIE FIRENZ","HANAN","CLIN RSCH CRD","22476.00","21693.00","252.00","531.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","22475.00","22475.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","MARILYN B","MELLO","BLANK AST 3","22474.00","22449.00","25.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","IDA","SCHOENBORN","HOSP UNIT SVC CRD 3","22474.00","20680.00","48.00","1746.00"]},
+{"id":"15","cell":["15","2018","Davis","*****","*****","TEACHG ASST-GSHIP","22473.00","18618.00","0.00","3855.00"]},
+{"id":"16","cell":["16","2018","San Diego","CHLOE A","AUTRAN","SRA 2","22473.00","22473.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","22472.00","22372.00","0.00","100.00"]},
+{"id":"18","cell":["18","2018","Berkeley","SOUKAINA","ELBANI","PROJECT POLICY ANL 3","22472.00","21739.00","0.00","733.00"]},
+{"id":"19","cell":["19","2018","San Francisco","ELLIOTT NATHAN","SCHWARTZ","ASC PHYSCN DIPLOMATE","22472.00","16835.00","0.00","5637.00"]},
+{"id":"20","cell":["20","2018","Irvine","KENNETH G","GONZALEZ","STERILE PROCESSING TCHN 1 PD","22471.00","22417.00","54.00","0.00"]}]
+}

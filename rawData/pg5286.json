@@ -1,0 +1,26 @@
+{
+"page" : "5286",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","DAVID","TAOSAKA","BLANK AST 2","54716.00","54216.00","0.00","500.00"]},
+{"id":"2","cell":["2","2018","San Francisco","EILEEN M","FOY","ASST ADJ PROF-HCOMP","54716.00","30756.00","0.00","23960.00"]},
+{"id":"3","cell":["3","2018","Davis","CATHERINNE L","SCRIMA","ADMIN OFCR 2","54716.00","53795.00","36.00","885.00"]},
+{"id":"4","cell":["4","2018","San Francisco","ANNA L","WANG","HOSP UNIT SVC CRD 3","54715.00","51129.00","921.00","2665.00"]},
+{"id":"5","cell":["5","2018","San Francisco","DOUGLAS J","TOTTEN","POSTDOC-EMPLOYEE","54714.00","54714.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","SASHAUNEI","ORPILLA-ADVANI","ADMIN ANL AST","54713.00","54072.00","625.00","16.00"]},
+{"id":"7","cell":["7","2018","San Francisco","CHIEN-DER","LEE","POSTDOC-EMPLOYEE","54712.00","54712.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","HOPE ESPERANZA","TYNER","MED OFC SVC CRD 2","54712.00","54579.00","133.00","0.00"]},
+{"id":"9","cell":["9","2018","Merced","ATALIE","WOMBLE","ADMIN OFCR 2","54712.00","54712.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","TAMARA ANN","WAHLIN","PHYSCN AST SR","54711.00","54711.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","LUPE CABRERA","URENO","ADMITTING WORKER PRN","54710.00","53665.00","622.00","423.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","MELODY","COTTRELL","ADMIN SPEC","54710.00","54055.00","655.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","SASAN","ZENHARI ABHARRO","CLIN RSCH CRD","54707.00","54707.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","ATKIA","SADIA","STDT AFFAIRS OFCR 1","54707.00","50616.00","1591.00","2500.00"]},
+{"id":"15","cell":["15","2018","San Francisco","PAUL ANDREW","SOBOLEWSKI","BUS SYS ANL 4","54706.00","51122.00","0.00","3584.00"]},
+{"id":"16","cell":["16","2018","Irvine","KATHRYN LYNN","DORSHEIMER","CNSLNG PSYCHOLOGIST SR","54706.00","52227.00","0.00","2479.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","OLUWASEGUN","OLUYIDE","ADMIN CARE CLIN PARTNER PD","54706.00","45585.00","8251.00","870.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","ODILON DE JESUS","PEREZ","CUSTODIAN SR","54706.00","46563.00","6642.00","1501.00"]},
+{"id":"19","cell":["19","2018","San Diego","SARAY","CAMACHO","BLANK AST 3","54706.00","53893.00","63.00","750.00"]},
+{"id":"20","cell":["20","2018","Irvine","MAYSA E.","NICHTER","ACADEMIC COORD I-FY","54705.00","47365.00","0.00","7340.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "2729",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","EMILY","NAVALES","CLIN NURSE 2","92358.00","83033.00","1074.00","8251.00"]},
+{"id":"2","cell":["2","2018","Berkeley","USHA","MANANDHAR","SYS ADM 3","92357.00","92357.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","YULIYA","JACKSON","APPLICATIONS PROGR 3","92357.00","91857.00","0.00","500.00"]},
+{"id":"4","cell":["4","2018","Riverside","ROWAN","REID","FAC PROJECT MGT SPEC 3","92356.00","91356.00","0.00","1000.00"]},
+{"id":"5","cell":["5","2018","Davis","CATRINA L","WAGNER","STDT LIFE DEVT SUPV 2","92355.00","91855.00","0.00","500.00"]},
+{"id":"6","cell":["6","2018","San Diego","DEBORAH LAUREN","ORBAN","CLIN NURSE 3","92353.00","85288.00","6051.00","1014.00"]},
+{"id":"7","cell":["7","2018","Irvine","MICHAEL K","WATKINS","PROGR ANL 3","92352.00","92352.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","BRET REEVES","WITTMANN","EDUC TCHL SPEC 3","92348.00","90310.00","2038.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","ERNEST GABRIEL","SANDOVAL","BUS SYS ANL 3","92348.00","81783.00","0.00","10565.00"]},
+{"id":"10","cell":["10","2018","Santa Cruz","VICKI L","DAVIS","BUS TCHL SUPP SUPV 2","92348.00","91398.00","0.00","950.00"]},
+{"id":"11","cell":["11","2018","Santa Barbara","TIZIANA","DE SIMONE","LECT-AY-CONTINUING","92348.00","85182.00","0.00","7166.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","JEFFREY D","PAWLAK","PHYS PLT MECH","92347.00","92212.00","135.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","MORTEZA","FARAJI","APPLICATIONS PROGR 3","92344.00","91844.00","0.00","500.00"]},
+{"id":"14","cell":["14","2018","San Diego","CHLOE JULES","RIGOR","CLIN NURSE 2","92343.00","85460.00","4327.00","2556.00"]},
+{"id":"15","cell":["15","2018","Santa Barbara","JAVIERA","BARANDIARAN","ASST PROF-AY","92342.00","92342.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","MICHELLE GRIZELD","DURAN","HOSP LAB TCHN 3 SUPV","92340.00","79043.00","7844.00","5453.00"]},
+{"id":"17","cell":["17","2018","Davis","LEANDRA S","NEAL","ORGANIZATIONAL CNSLT 4","92338.00","91463.00","0.00","875.00"]},
+{"id":"18","cell":["18","2018","UCOP","ANNETTE","HOLMES","INSTITUTIONAL RSCH ANL 3","92338.00","92338.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","ANDREA LYNN","HANSON","CAREER SVC SPEC 4","92336.00","92336.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","LUXIN","WANG","ASST PROF-AY","92334.00","69216.00","0.00","23118.00"]}]
+}

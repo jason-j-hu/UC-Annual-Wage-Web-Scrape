@@ -1,0 +1,26 @@
+{
+"page" : "5890",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","SIMENG","ZENG","BLANK AST 3","49448.00","49448.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","ARTURO","CHIQUITO","BLANK AST 3","49448.00","49448.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","MURIEL R","CROOM","BLANK AST 3","49448.00","49448.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","NELSON DIZON","DE GUZMAN","BLANK AST 3","49448.00","49448.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","ANNA LOUISE","DICKSON","BLANK AST 3","49448.00","49448.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","CHRISTINE EDVINA","ECO","BLANK AST 3","49448.00","49448.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","VICTORIA","GERGINIS-MELLOS","BLANK AST 3","49448.00","49448.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","OLIVIA","HERNANDEZ","BLANK AST 3","49448.00","49448.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","TANISHA SHAMONE","JACKSON","BLANK AST 3","49448.00","49448.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","TERESA BETH","MELENDEZ","BLANK AST 3","49448.00","49448.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","SUSAN JANE","MARSHALL","BLANK AST 3","49448.00","49448.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","LAUREL CAHALL","SPRUANCE","CLIN NURSE 2","49448.00","47794.00","453.00","1201.00"]},
+{"id":"13","cell":["13","2018","San Diego","DONNA DEE","VOSS","BLANK AST 3","49448.00","49448.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","ALVARO","LOPEZ-PIEDRA","LIBRARY AST 3","49448.00","49448.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Irvine","JUSTIN THOMAS","SEMRAU","BLDG MAINT WORKER SR","49447.00","48516.00","931.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","LINDA L","YOUNGER","BLANK AST 3","49446.00","49386.00","60.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","ANNA","CRUZ","VOC NURSE SR","49446.00","47598.00","1377.00","471.00"]},
+{"id":"18","cell":["18","2018","San Diego","LEANNE","CHUKOSKIE","ASST RES-FY","49445.00","49445.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","ROBETTE","JONES","BLANK AST 3","49444.00","47843.00","797.00","804.00"]},
+{"id":"20","cell":["20","2018","Irvine","HANNA","YOON","PHARMACY TCHN 1","49444.00","45970.00","2087.00","1387.00"]}]
+}

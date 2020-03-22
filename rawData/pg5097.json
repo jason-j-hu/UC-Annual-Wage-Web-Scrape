@@ -1,0 +1,26 @@
+{
+"page" : "5097",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","EDWARD","MURILLO","OPS ROOM AST 1","56421.00","48078.00","5737.00","2606.00"]},
+{"id":"2","cell":["2","2018","Irvine","SEVAN NATALIE","KALAYDJIAN","ADMIN ANL SR","56420.00","56420.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Irvine","BAIRD","LANGENBRUNNER","POSTDOC-EMPLOYEE","56420.00","56420.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","MARTHA ALICIA","YOSHINAGA","BLANK AST 3","56420.00","54258.00","636.00","1526.00"]},
+{"id":"5","cell":["5","2018","Davis","BRANDEE L","MEAD","PROJECT POLICY ANL 2","56419.00","55422.00","997.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","MARTIN","ROHDEN","POSTDOC-EMPLOYEE","56418.00","56418.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","MONICA L","FERRIGNO","BLANK AST 3","56418.00","56357.00","61.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","ANGELA M","KREEGER","TCHL PROJECT MGT PROFL 3","56418.00","56418.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","MARK A","RICH","FINANCIAL SVC ANL 2","56418.00","56395.00","23.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","JOSE BENJAMIN","GONZALES","AMBUL CARE PAT MGR 1","56417.00","56417.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MARIA","MARTINEZ","CLIN CARE PARTNER","56417.00","46298.00","3594.00","6525.00"]},
+{"id":"12","cell":["12","2018","Riverside","CECILIA","RODRIGUEZ FURLAN","ASST PROJ SCIENTIST-FY","56417.00","56417.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","SAMUEL","HERNANDEZ","FOOD SVC SUPV 1","56417.00","55917.00","0.00","500.00"]},
+{"id":"14","cell":["14","2018","Davis","JENNIFER","BANNISTER","ADMISSIONS RECRMT SPEC 2","56416.00","56325.00","91.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","MICHELLE MARIE","JACK","CLIN SOCIAL WORKER 2","56416.00","55416.00","0.00","1000.00"]},
+{"id":"16","cell":["16","2018","San Diego","MATTHEW DAVID","PROCTOR","EARLY CHILDHOOD EDUC SUPV 2","56416.00","54272.00","0.00","2144.00"]},
+{"id":"17","cell":["17","2018","Davis","LETICIA SANCHEZ","WARTER","AMBUL CARE ADMSTN MGR 1","56415.00","53037.00","0.00","3378.00"]},
+{"id":"18","cell":["18","2018","Davis","KIRSTIN D","TRUITT","ADMIN OFCR 2","56414.00","56414.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","MARIJA","PODOLSKI","POSTDOC-EMPLOYEE","56414.00","56414.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","ANA JULIA","ACOSTA","TELEMETRY TCHN","56412.00","48473.00","6884.00","1055.00"]}]
+}

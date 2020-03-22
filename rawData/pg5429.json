@@ -1,0 +1,26 @@
+{
+"page" : "5429",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Cruz","PATRICIA P","CHAN","ASST PROJ SCIENTIST-FY-B/E/E","53417.00","53417.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","EMILY AMBER","HARRISON","NURSE PD","53417.00","48661.00","3317.00","1439.00"]},
+{"id":"3","cell":["3","2018","San Francisco","JOSEPH T","ARQUIZA","BLANK AST 2","53416.00","49260.00","1475.00","2681.00"]},
+{"id":"4","cell":["4","2018","Irvine","GEORGE THEODOR","STIUBIANU","POSTDOC-EMPLOYEE","53416.00","53416.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","ANDREW RICHARD","WEIDLER","FINANCIAL SVC ANL 2","53416.00","51816.00","0.00","1600.00"]},
+{"id":"6","cell":["6","2018","Berkeley","QUAVES","MCGHEE","BUS TCHL SUPP ANL 2","53416.00","53416.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","DANIEL B","GOODMAN","POSTDOC-EMPLOYEE","53415.00","53415.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","LANECIA","STROM","TCHN PRN","53413.00","48623.00","4296.00","494.00"]},
+{"id":"9","cell":["9","2018","Irvine","TERESA","VAZQUEZ","MED AST","53413.00","48181.00","4792.00","440.00"]},
+{"id":"10","cell":["10","2018","San Francisco","BOBO","DANG","POSTDOC-EMPLOYEE","53412.00","53412.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","MENG","LI","POSTDOC-EMPLOYEE","53412.00","53412.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Riverside","RANDOL","CONTRERAS","ASST PROF-AY","53411.00","53411.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","SUBHADRA","KUMARI","MED CTR CUSTODIAN SR","53410.00","45766.00","5219.00","2425.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","LILIT","MALINTSYAN","RESC NURSE PD","53409.00","52663.00","0.00","746.00"]},
+{"id":"15","cell":["15","2018","San Diego","DONALD ALEXANDER","SLATER","POSTDOC-EMPLOYEE","53409.00","53409.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","JOSE","FLORES","CUSTODIAN LD","53409.00","52677.00","524.00","208.00"]},
+{"id":"17","cell":["17","2018","Berkeley","REXIS","DE GUIA","STDT ACAD SPEC 4","53409.00","45713.00","0.00","7696.00"]},
+{"id":"18","cell":["18","2018","San Francisco","KAY S","BOLLA","CLIN NURSE 2","53408.00","53408.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Irvine","KASIN YADUNANDAM","ANANDAM","POSTDOC-EMPLOYEE","53408.00","53408.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","RICHARD","GONZALEZ","EMERGENCY TRAUMA TCHN SR","53408.00","44973.00","5437.00","2998.00"]}]
+}

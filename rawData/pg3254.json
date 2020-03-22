@@ -1,0 +1,26 @@
+{
+"page" : "3254",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","REBECKAH E","LONG","SOCIAL WORKER 2","80647.00","80328.00","251.00","68.00"]},
+{"id":"2","cell":["2","2018","Davis","COREY","POPE","HR GENERALIST 3","80645.00","80645.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","BUDD","JAMIESON","INFO SYS ANL 3","80645.00","80645.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","JASON L","PERRY","REFRIGERATION MECH","80645.00","78745.00","0.00","1900.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","MICHAELA","CLEMENCE","SPECIALIST","80644.00","80644.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","TREVOR HAROLD","WALKER","BUS TCHL SUPP SUPV 1","80644.00","75644.00","0.00","5000.00"]},
+{"id":"7","cell":["7","2018","San Francisco","JOHN MILBURN","THOMAS","FINANCIAL SVC ANL 3","80643.00","80643.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","DONNETT","FLASH","LECT-AY-CONTINUING","80643.00","66353.00","0.00","14290.00"]},
+{"id":"9","cell":["9","2018","San Francisco","ROSA N","PAZ","CLIN RSCH SUPV 2","80642.00","80642.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","AARON","REZA","MGT SVC OFCR 1","80642.00","76968.00","0.00","3674.00"]},
+{"id":"11","cell":["11","2018","San Diego","DENISE PAULETTE","DEVALL","EHS SPEC 2 NEX","80642.00","77776.00","0.00","2866.00"]},
+{"id":"12","cell":["12","2018","San Diego","ERICA NICOLE","KEANE","NURSE PD","80642.00","61288.00","2466.00","16888.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","BONAL","SAMRETH","ADMIN ANL PRN 1","80641.00","70239.00","0.00","10402.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","ANTONIO","GONZALEZ","EDITOR SR","80641.00","80641.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","AIPERI A","ALYBAEVA","RSCH ADM 4","80638.00","80638.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","JULIANNE","SWENSON","LECT-AY","80638.00","74381.00","0.00","6257.00"]},
+{"id":"17","cell":["17","2018","San Francisco","MEHRET T","BAIRE","PAT CARE AST","80637.00","51588.00","19894.00","9155.00"]},
+{"id":"18","cell":["18","2018","San Francisco","LINDA D","FERRELL","RECALL HCOMP","80636.00","78960.00","0.00","1676.00"]},
+{"id":"19","cell":["19","2018","San Diego","ROBIN A","BOYINGTON","SURGICAL TCHN SR","80634.00","74108.00","5264.00","1262.00"]},
+{"id":"20","cell":["20","2018","Irvine","TAYLOR EMIL","MARTINI","STDT AFFAIRS OFCR 4 SUPV","80633.00","74119.00","0.00","6514.00"]}]
+}

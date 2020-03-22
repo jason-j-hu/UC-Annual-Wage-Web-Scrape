@@ -1,0 +1,26 @@
+{
+"page" : "8815",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","*****","*****","STDT 4","18994.00","18937.00","0.00","57.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","IRENE","STEVES","SRA 1","18993.00","18993.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","ALEXANDER","KAPUSTIN","COOK","18992.00","17525.00","1017.00","450.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","MEGHAN","MCCANN","FOOD SVC WORKER LD","18992.00","16812.00","1406.00","774.00"]},
+{"id":"5","cell":["5","2018","Davis","THOMAS V","AGOSTA","SRA 1","18991.00","14103.00","0.00","4888.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","MIRNA ELIZABETH","SALAZAR","CUSTODIAN SR","18991.00","18991.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","*****","*****","TCHN","18990.00","17974.00","198.00","818.00"]},
+{"id":"8","cell":["8","2018","San Diego","EVA RABIAH","KINTZER","CLIN RSCH CRD AST","18990.00","18990.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","DEBRA LYNN","NIGRO","ADMIN SPEC","18990.00","15857.00","589.00","2544.00"]},
+{"id":"10","cell":["10","2018","San Diego","LORETTA ANN","SALEWSKE","NURSE PD","18989.00","17817.00","426.00","746.00"]},
+{"id":"11","cell":["11","2018","Irvine","SANDRA LUZ","SAPIENS","HOSP AST SR","18987.00","16976.00","618.00","1393.00"]},
+{"id":"12","cell":["12","2018","Davis","MICHELLE","WEINSTEIN","SRA 1","18987.00","17945.00","93.00","949.00"]},
+{"id":"13","cell":["13","2018","Riverside","JOHN","MAXWELL","ALUMNI EXTERNAL REL SUPV 2","18986.00","9680.00","0.00","9306.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","18986.00","18986.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","18985.00","18885.00","0.00","100.00"]},
+{"id":"16","cell":["16","2018","Riverside","JOSEPH","TANKSLEY","USER EXPERIENCE DESIGNER 3","18985.00","18393.00","0.00","592.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","VANESSA","SANCHEZ MEDINA","PRG REPR 1","18984.00","18984.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","18983.00","18983.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","*****","*****","LECT IN SUMMER SESSION","18982.00","6190.00","0.00","12792.00"]},
+{"id":"20","cell":["20","2018","Davis","SCOTT A","MCCORD","LIBRARY AST 1","18982.00","18353.00","0.00","629.00"]}]
+}

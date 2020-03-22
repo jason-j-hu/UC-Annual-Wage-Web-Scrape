@@ -1,0 +1,26 @@
+{
+"page" : "8350",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","ITAI","ATER","VIS ASSOC PROF","23333.00","23333.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Berkeley","SAEIDEH","POPAL","FINANCIAL ANL MGR 1","23333.00","23333.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","BILLY","REYNOSO","FAC MGR 1","23333.00","23333.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","LAXMI","SUTHAR","ADDL COMP-HGH&OLIVE VIEW MCS","23333.00","0.00","0.00","23333.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","HYUNG TAEK","KIM","ADDL COMP-HGH&OLIVE VIEW MCS","23333.00","0.00","0.00","23333.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","MELANIE","BARBONI","ASST RES-FY","23333.00","23333.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","RAJAN","PATEL","CMTY HEALTH PRG REPR PD","23333.00","23322.00","0.00","11.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","LAUREN","ERSHOFF","ADV OFCR 2","23333.00","23333.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Santa Barbara","*****","*****","LIBRARY AST 3","23333.00","23301.00","0.00","32.00"]},
+{"id":"10","cell":["10","2018","Riverside","*****","*****","TEACHG ASST-GSHIP","23333.00","22903.00","0.00","430.00"]},
+{"id":"11","cell":["11","2018","Davis","MARCEL T","BERNUCCI","JR SPECIALIST NEX","23332.00","20883.00","0.00","2449.00"]},
+{"id":"12","cell":["12","2018","Berkeley","AMBER","MCCHESNEY-YOUNG","BLANK AST 3","23331.00","23331.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","VICTORIA A","URNEZIS","HEALTH TCHN 2","23331.00","15659.00","2994.00","4678.00"]},
+{"id":"14","cell":["14","2018","San Diego","HEATHER JOY","ANSEL","ULTRASOUND TCHNO PRN","23331.00","21764.00","311.00","1256.00"]},
+{"id":"15","cell":["15","2018","Davis","SANJINI","SINGH","CLIN NURSE 2","23330.00","23282.00","48.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","*****","*****","GSR-FULL FEE REM","23329.00","23329.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","MELISSA","OSORIO","ADMIN SPEC","23329.00","21408.00","0.00","1921.00"]},
+{"id":"18","cell":["18","2018","Berkeley","KATHARINA","KAISER","LECT-AY-CONTINUING","23329.00","23329.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","*****","*****","TEACHG ASST-GSHIP","23328.00","23228.00","0.00","100.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","JUANA","CASTILLO","MED AST 3","23328.00","18085.00","4658.00","585.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "2667",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","MEDARDO","LARGOZA","STY ENGR","93889.00","83208.00","8381.00","2300.00"]},
+{"id":"2","cell":["2","2018","San Francisco","HOLLY MASAKO","NIGORIZAWA","PROJECT POLICY ANL 3","93888.00","93888.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Irvine","ALEXANDRA E","ANDERSON","DIR","93887.00","93887.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","VELVETTE SINGIAN","LIVA","REG RESP THER 1","93885.00","82323.00","4826.00","6736.00"]},
+{"id":"5","cell":["5","2018","San Francisco","ERICA","SCHLEIMER","APPLICATIONS PROGR 3","93879.00","93879.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","BETSY","COOPER","ACAD PRG MGT OFCR 5","93879.00","85361.00","0.00","8518.00"]},
+{"id":"7","cell":["7","2018","San Diego","KRYSTLE JORDAN D","BAELLO","CLIN NURSE 2","93878.00","90381.00","1117.00","2380.00"]},
+{"id":"8","cell":["8","2018","Santa Cruz","GINA","DENT","ASSOC PROF-AY","93875.00","93375.00","0.00","500.00"]},
+{"id":"9","cell":["9","2018","San Francisco","ELLA LAYDA FERMI","REYES","PROJECT POLICY ANL 3","93874.00","90382.00","0.00","3492.00"]},
+{"id":"10","cell":["10","2018","San Diego","SUE MAXINE","SMITH","CASE MGR EX","93874.00","92518.00","356.00","1000.00"]},
+{"id":"11","cell":["11","2018","San Diego","RICHEL TAPIA","MONZON","CASE MGR EX","93874.00","92518.00","356.00","1000.00"]},
+{"id":"12","cell":["12","2018","San Francisco","CAITLIN A","SNOW","TCHL PROJECT MGT PROFL 4","93870.00","93870.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","JEFFREY C.","GAGNON","LECT PSOE-AY","93870.00","76567.00","0.00","17303.00"]},
+{"id":"14","cell":["14","2018","Berkeley","AMANDA","JANISH","FINANCIAL ANL 4","93870.00","92137.00","0.00","1733.00"]},
+{"id":"15","cell":["15","2018","San Francisco","MARIA VICTORIA","MIRANDA","CONCIERGE 4","93869.00","86648.00","0.00","7221.00"]},
+{"id":"16","cell":["16","2018","San Francisco","JUSTIN","WARDELL","REVENUE CYCLE HC ANL 3","93867.00","88712.00","0.00","5155.00"]},
+{"id":"17","cell":["17","2018","San Francisco","PAUL","STANGER","RECALL HCOMP","93867.00","77236.00","0.00","16631.00"]},
+{"id":"18","cell":["18","2018","San Francisco","LINDSAY N.","WILLIAMS","AMBUL CARE ADMSTN MGR 1","93865.00","84163.00","0.00","9702.00"]},
+{"id":"19","cell":["19","2018","San Francisco","SHANTI LILA","GOODEN","HS ASST CLIN PROF-HCOMP","93864.00","43897.00","0.00","49967.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","JACLYN","KEEGAN","CLIN NURSE 2","93863.00","90141.00","331.00","3391.00"]}]
+}

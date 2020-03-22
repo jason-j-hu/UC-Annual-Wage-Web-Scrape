@@ -1,0 +1,26 @@
+{
+"page" : "676",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","YUANPING","LI","CLIN NURSE 2","183430.00","160723.00","6621.00","16086.00"]},
+{"id":"2","cell":["2","2018","San Francisco","ELMER A.","SEISA","CLIN LAB SUPV 2","183427.00","175333.00","0.00","8094.00"]},
+{"id":"3","cell":["3","2018","San Francisco","PHILIP","KONG","PHARMACIST PD","183421.00","157074.00","21737.00","4610.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","CAROL","BIBB","HS CLIN PROF-HCOMP","183420.00","149858.00","0.00","33562.00"]},
+{"id":"5","cell":["5","2018","San Francisco","ORIE","KALU","NURSE PD","183419.00","155230.00","51.00","28138.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","XAVIER","CAGIGAS","HS ASST CLIN PROF-HCOMP","183416.00","126267.00","0.00","57149.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","NICHOLAS","BRECHA","PROF-HCOMP","183414.00","183414.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","EN","CHIANG","PHARMACIST SR SUPV","183403.00","153858.00","23527.00","6018.00"]},
+{"id":"9","cell":["9","2018","Santa Cruz","ENRICO JORGE","RAMIREZ-RUIZ","PROF-AY","183399.00","175358.00","0.00","8041.00"]},
+{"id":"10","cell":["10","2018","Irvine","STEVEN W.","BARWICK","PROF-AY","183397.00","164975.00","0.00","18422.00"]},
+{"id":"11","cell":["11","2018","Davis","HONGMEI - HELEN","SHAO","CLIN NURSE 2","183389.00","149044.00","28211.00","6134.00"]},
+{"id":"12","cell":["12","2018","Berkeley","BARBARA","BROQUE","ORGANIZATIONAL CNSLT 5","183385.00","183385.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","ILENE B","ANDERSON","PHARMACIST SPEC","183381.00","182787.00","0.00","594.00"]},
+{"id":"14","cell":["14","2018","San Francisco","JAMIE CORPUS","PASCUA","CLIN NURSE 2","183377.00","143823.00","11215.00","28339.00"]},
+{"id":"15","cell":["15","2018","San Francisco","CARLA M","FIGUEROA","CLIN NURSE 2","183365.00","150229.00","0.00","33136.00"]},
+{"id":"16","cell":["16","2018","San Francisco","CARLOTTA L","CAVAZOS","PHYSCN AST SR","183365.00","181646.00","699.00","1020.00"]},
+{"id":"17","cell":["17","2018","Irvine","PARMIS","KHATIBI","PHARMACIST SPEC","183355.00","172765.00","0.00","10590.00"]},
+{"id":"18","cell":["18","2018","San Francisco","MY","PHAM","CLIN NURSE 2","183343.00","149539.00","6534.00","27270.00"]},
+{"id":"19","cell":["19","2018","San Francisco","SANJEEV","SABHARWAL","PROF OF CLIN-HCOMP","183333.00","58538.00","0.00","124795.00"]},
+{"id":"20","cell":["20","2018","Davis","SONIA M","ACEVEDO ESPINOZ","ASC PHYSCN","183311.00","168961.00","0.00","14350.00"]}]
+}

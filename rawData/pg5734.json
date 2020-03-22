@@ -1,0 +1,26 @@
+{
+"page" : "5734",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","LACHMI","NARESH","VOLUNTEER SVC SUPV 1","50759.00","47761.00","2088.00","910.00"]},
+{"id":"2","cell":["2","2018","San Diego","ALAN","LARSON","ADMIN OFCR 2","50758.00","49011.00","247.00","1500.00"]},
+{"id":"3","cell":["3","2018","Davis","DANIEL","QUIROS MOLINA","SRA 2 NEX","50757.00","48859.00","1898.00","0.00"]},
+{"id":"4","cell":["4","2018","Riverside","LEO","HAYASHIBARA","DEV TCHN 3","50757.00","50434.00","55.00","268.00"]},
+{"id":"5","cell":["5","2018","Berkeley","PAUL","ROTTLOFF","BLANK AST 3","50756.00","50756.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","REBECCA","RILEY","BLANK AST 3","50756.00","50004.00","752.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","CHRISTY L","SMALL","ADMIN OFCR 2","50756.00","48376.00","124.00","2256.00"]},
+{"id":"8","cell":["8","2018","San Diego","CONSTANTIN IUSTI","CAPSA","PROCTOR SR","50756.00","45472.00","3752.00","1532.00"]},
+{"id":"9","cell":["9","2018","Irvine","NICHOLAS G.","TROUP","ADMIN SPEC","50755.00","50354.00","0.00","401.00"]},
+{"id":"10","cell":["10","2018","Davis","HUYEN THI","NGUYEN","MED CTR FOOD SVC WORKER PRN","50754.00","46536.00","3609.00","609.00"]},
+{"id":"11","cell":["11","2018","San Francisco","JAMAL EMARI","COLTER","BLANK AST 3","50752.00","50087.00","665.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","SANTIAGO","PINEDA","POSTDOC-EMPLOYEE","50752.00","50752.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","EVA","BORRAS","POSTDOC-EMPLOYEE","50752.00","50752.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","ANDOW","RODRIGUEZ","SYS ADM 1","50751.00","50501.00","0.00","250.00"]},
+{"id":"15","cell":["15","2018","Berkeley","YUKA","MINTON","SRA 2","50751.00","50101.00","650.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","LILY","YANG","EVENTS SPEC 3","50750.00","50750.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","DONG SUB","KIM","POSTDOC-EMPLOYEE","50750.00","50750.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","NATASCHA","COHEN","THEATER PROD SPEC 3","50750.00","50750.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","JOYCE CAROL","SMITH","VIS PROF","50750.00","50750.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","AMERICA","MICHEL-LOPEZ","HOSP AST 3 PD","50749.00","49562.00","329.00","858.00"]}]
+}

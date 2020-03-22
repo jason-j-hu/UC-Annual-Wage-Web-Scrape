@@ -1,0 +1,26 @@
+{
+"page" : "8009",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","*****","*****","BLANK AST 3","26669.00","26203.00","466.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","SERGIO I","CAMARENA GONZAL","PROGR ANL 1","26669.00","24344.00","2122.00","203.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","26668.00","26168.00","0.00","500.00"]},
+{"id":"4","cell":["4","2018","Berkeley","DAMON","LESSLER","COACH AST 3","26667.00","26667.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","CHUN-TEH","CHEN","POSTDOC-EMPLOYEE","26667.00","26667.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","ANNALAURA","STINGO","VIS ASST PROF","26667.00","26667.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","TAIR","AKHMEJANOV","VIS ASST PROF","26667.00","26667.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","LAUREN","ORR","HS CLIN INSTR-HCOMP","26667.00","20900.00","0.00","5767.00"]},
+{"id":"9","cell":["9","2018","Davis","SHRUTI","RAVISHANKAR","BUS SYS ANL 3","26667.00","26667.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","MARTIN","GEBERT","VIS ASST PROF","26667.00","26667.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","YUHUA","ZHANG","ADJ INSTR-HCOMP","26667.00","26667.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","BENSON C","AU","VIS ASST PROF","26667.00","26667.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","JOSHUA P","SWANSON","VIS ASST PROF","26667.00","26667.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Riverside","*****","*****","TEACHG ASST-GSHIP","26667.00","21281.00","0.00","5386.00"]},
+{"id":"15","cell":["15","2018","Irvine","*****","*****","GSR-FULL FEE REM","26666.00","26666.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","*****","*****","GSR-FULL FEE REM","26666.00","26666.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Riverside","TERESA","SALVATO","MUSEUM SCI AST","26666.00","26657.00","0.00","9.00"]},
+{"id":"18","cell":["18","2018","San Francisco","DONALD SHAW,III","WINTER","HEALTH PROFNS EDUC SPEC 2","26665.00","26310.00","0.00","355.00"]},
+{"id":"19","cell":["19","2018","Irvine","*****","*****","GSR-TUIT & FEE REM","26665.00","26665.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","*****","*****","GSR-FULL FEE REM","26665.00","26665.00","0.00","0.00"]}]
+}

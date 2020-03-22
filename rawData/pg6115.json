@@ -1,0 +1,26 @@
+{
+"page" : "6115",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ENDELISA","ROMERO","BLANK AST 3","47412.00","47307.00","105.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","ILIA V","POTANIN","DEV TCHN 3","47412.00","44450.00","2962.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","RICHARD F","GANN II","MED CTR SCRTY OFCR","47412.00","38582.00","6032.00","2798.00"]},
+{"id":"4","cell":["4","2018","Irvine","THEA","WILLS-OLSEN","CMTY HEALTH PRG MGR","47411.00","47411.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","TAPAN","BISWAS","ASSOC PROJ SCIENTIST-FY","47411.00","47411.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","GILBERTO","REYES","COOK","47411.00","42334.00","4128.00","949.00"]},
+{"id":"7","cell":["7","2018","Davis","SANDRA C","GARZA","CLIN NURSE 1","47410.00","41879.00","1071.00","4460.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","ANDREW","GRICE","SRA 2 NEX","47410.00","47410.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","PATRICIA A","CRAFT","ADMIN OFCR 2","47409.00","47409.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","POLLY W","CHEW","BLANK AST 3","47408.00","47408.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","EMMA","SANDOVAL","CMTY EDUC SUPV 2","47408.00","47408.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Riverside","OSCAR","JACQUES","PARKING REPR SR","47407.00","46523.00","858.00","26.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","JANET","RODRIGUEZ SANDOVAL","HOSP BLANK AST 3","47407.00","47371.00","24.00","12.00"]},
+{"id":"14","cell":["14","2018","Davis","JOSHUA L","GALLOWAY","MED CTR FOOD SVC WORKER PRN","47406.00","42766.00","3552.00","1088.00"]},
+{"id":"15","cell":["15","2018","Davis","ELYSIA J","FRINK","BLANK AST 3","47406.00","47078.00","328.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","CATHERINE","HAAS","ADMIN SPEC","47406.00","47406.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Irvine","JAMES J,IV","MCGRATH","ADMIN SPEC","47405.00","47405.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","JESSICA WARING","HAROLD","PROJECT POLICY ANL 2","47405.00","47405.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","LUZ","ROMAN","COOK","47405.00","43944.00","3348.00","113.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","IRENE","CHUNG","CLIN NURSE 2","47404.00","44849.00","175.00","2380.00"]}]
+}

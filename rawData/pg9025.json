@@ -1,0 +1,26 @@
+{
+"page" : "9025",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","MARGO L","MACREADY","ADMISSIONS RECRMT SPEC 3","17044.00","17044.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","SARLA D","SINGH","HOSP AST 1 PD","17043.00","15371.00","342.00","1330.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","JEFFREY","MAYNARD","ADJ INSTR-AY","17043.00","6822.00","0.00","10221.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","17042.00","17042.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","CARTELIUS MARZEL","LEWIS","TELEMETRY TCHN","17042.00","13299.00","392.00","3351.00"]},
+{"id":"6","cell":["6","2018","Berkeley","*****","*****","GSR-FULL FEE REM","17042.00","17042.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","CYRIL CARREON","CUSTODIO","HOSP LAB TCHN 1 PD","17041.00","16870.00","171.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","JONATHAN-KOLADE","ODUFALU","PSYCHOMETRIST","17040.00","16862.00","178.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","XIAOMIN","HE","CUSTODIAN SR","17038.00","15328.00","701.00","1009.00"]},
+{"id":"10","cell":["10","2018","Irvine","BARB J","HEINE","LECT-AY-1/9-CONTINUING","17038.00","17038.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","*****","*****","TEACHG FELLOW-GSHIP","17036.00","17036.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","STACY L","KILPATRICK BAMB","AMBUL CARE ADMSTN CRD 2","17034.00","17034.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Irvine","BRANDON LEE","BURRIS","HOSP AST 1 PD","17034.00","17034.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","VRINDA V","KHARE","DATA SYS ANL 2","17034.00","16184.00","89.00","761.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","AMY R","CATLIN","ADJ PROF-AY","17033.00","17033.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Riverside","CHAO","LIAN","POSTDOC-EMPLOYEE","17033.00","17033.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","CAITLIN E","MCKENZIE","COOK","17032.00","15903.00","1075.00","54.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","VARDAN","MAKARYAN","MRI TCHNO","17032.00","16193.00","425.00","414.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","XINRU","WU","SRA 2 NEX","17032.00","17032.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","17032.00","17032.00","0.00","0.00"]}]
+}

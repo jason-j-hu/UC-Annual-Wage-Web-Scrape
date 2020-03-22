@@ -1,0 +1,26 @@
+{
+"page" : "1353",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","GULCIN","PEKKURNAZ","ASST PROF-AY","137117.00","97388.00","0.00","39729.00"]},
+{"id":"2","cell":["2","2018","San Francisco","KEVIN","BARNEY","FAC MGR 1","137115.00","29672.00","0.00","107443.00"]},
+{"id":"3","cell":["3","2018","Davis","ROSE","MIRANDA-PONCE","CLIN NURSE 2","137114.00","132212.00","1516.00","3386.00"]},
+{"id":"4","cell":["4","2018","Davis","DANIEL P","FLORENDO","CLIN NURSE 2","137113.00","125513.00","6213.00","5387.00"]},
+{"id":"5","cell":["5","2018","Berkeley","FOTI","MELLIS","ATH MGR 2 PAC12","137113.00","137113.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","MONIQUE M","IMROTH","EHS SPEC 5","137112.00","123370.00","0.00","13742.00"]},
+{"id":"7","cell":["7","2018","San Francisco","JEANETTE M.","BROERING","ACAD PRG MGR 1","137107.00","137107.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","SONIA","MAASIK","LECT-AY-CONTINUING","137106.00","136556.00","0.00","550.00"]},
+{"id":"9","cell":["9","2018","Davis","VANESSA G","MCELROY","AMBUL CARE ADMSTN MGR 2","137105.00","135205.00","0.00","1900.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","HAROLD","STAFFORD","DIR","137105.00","137105.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Riverside","SHAWN","KELLY","IT SCRTY ANL 4","137104.00","137104.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","HUGH","GRAHAM","FINANCIAL ANL 4","137104.00","132760.00","0.00","4344.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","JOSE","SEGOVIA","CLIN NURSE 2","137102.00","112229.00","8534.00","16339.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","MAI-KING","CHAN","HS ASST CLIN PROF-HCOMP","137101.00","74719.00","0.00","62382.00"]},
+{"id":"15","cell":["15","2018","San Francisco","LAURA H","YIN","NURSE PD","137100.00","129630.00","359.00","7111.00"]},
+{"id":"16","cell":["16","2018","Davis","ALLYN","FERNANDEZ","ADMIN MGR 1","137092.00","127151.00","0.00","9941.00"]},
+{"id":"17","cell":["17","2018","Santa Cruz","MARIA MONIKA ANN","DOROUGH","FUNDRAISING MGR 1","137092.00","136342.00","0.00","750.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","NAVEED","HUSSAIN","INTERVENTIONAL RADLG TCHNO","137092.00","115349.00","466.00","21277.00"]},
+{"id":"19","cell":["19","2018","San Francisco","SUSAN","FORSTAT","BENEFITS ANL 5","137090.00","137090.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","ROMAN ALEKSEY","VALAJEV","RADLG TCHNO SR","137090.00","121070.00","4398.00","11622.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "4540",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","KATHRENE B","DINONG","BLANK AST 3","61965.00","61954.00","11.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ANA","CORDERO SOSA","SRA 2 NEX","61965.00","61965.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","MICHAEL SOLON","RAMOS","CLIN NURSE 2","61965.00","58049.00","742.00","3174.00"]},
+{"id":"4","cell":["4","2018","San Francisco","STACI","TANIGUCHI","HEALTH PROFNS EDUC SPEC 2","61964.00","59372.00","447.00","2145.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","SUZAN","FARAG","ADMIN SPEC","61964.00","58464.00","0.00","3500.00"]},
+{"id":"6","cell":["6","2018","Davis","SUSAN A","NICHOL","SRA 2 NEX","61963.00","61963.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","PERMINDER","KAUR","SRA 2 NEX","61963.00","61963.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","ANTONIO","LOPEZ","STERILE PROCESSING TCHN 2","61963.00","48596.00","11326.00","2041.00"]},
+{"id":"9","cell":["9","2018","Davis","TOMMIE S","SERPA","BLANK AST 3","61963.00","61441.00","522.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","PHYLLIS T","HIMMEL","MUSEUM SCI","61963.00","61963.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","FOREST G","CANNON","ASST PROJ SCIENTIST-FY","61963.00","61963.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","UCOP","PIN","LUO","BLANK AST 3","61963.00","61956.00","7.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","VERONICA","HARO","ADMIN ANL SR","61962.00","61462.00","0.00","500.00"]},
+{"id":"14","cell":["14","2018","San Francisco","DOMINIC V","TALBERT","STERILE PROCESSING TCHN 2","61959.00","56489.00","0.00","5470.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","TRUC QUYNH","LE","HOSP LAB TCHN 2","61959.00","61959.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","JONATHAN D","GUINA","HOSP BLANK AST 3","61958.00","59839.00","2108.00","11.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","BARBARA","NICHOLS","MGT SVC OFCR 1 SUPV","61958.00","61958.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","SYLVIA","RATNASAMY","ASSOC PROF-AY-B/E/E","61958.00","61958.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Santa Cruz","REBECCA E.L.","BARD","ADMIN OFCR 2","61957.00","61357.00","0.00","600.00"]},
+{"id":"20","cell":["20","2018","San Francisco","CHENG","LI","MED CTR CUSTODIAN SR","61956.00","50354.00","7637.00","3965.00"]}]
+}

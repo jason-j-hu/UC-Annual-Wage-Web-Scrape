@@ -1,0 +1,26 @@
+{
+"page" : "5817",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","JAEKYUNG","KIM","POSTDOC-EMPLOYEE","50045.00","50045.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","DELPHINE","HYPOLITE","POSTDOC-EMPLOYEE","50045.00","50045.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Riverside","DEBORAH","BROWN","FINANCIAL SVC ANL 1","50045.00","49545.00","0.00","500.00"]},
+{"id":"4","cell":["4","2018","Merced","LAQUETTA","BREWSTER","BLANK AST 3","50044.00","48544.00","0.00","1500.00"]},
+{"id":"5","cell":["5","2018","Davis","GABRIELA","GONZALEZ GUEVAR","OPS ROOM AST 1","50043.00","45582.00","2478.00","1983.00"]},
+{"id":"6","cell":["6","2018","Davis","TREVOR L","BAER","SRA 1","50043.00","43110.00","6933.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","*****","*****","SRA 3","50043.00","50043.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Riverside","SHEENA","THRUSH","STDT ACAD SPEC 3","50043.00","48007.00","1536.00","500.00"]},
+{"id":"9","cell":["9","2018","Davis","LAURA","DEL HOYO SORIAN","POSTDOC-EMPLOYEE","50042.00","50042.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","DARIUS","TERRY","HEAD COACH 5","50042.00","38470.00","0.00","11572.00"]},
+{"id":"11","cell":["11","2018","Santa Barbara","EMILY","TETER","HEALTH EDUCATOR 3","50042.00","50042.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Riverside","VAIBHAV","KATEWA","POSTDOC-EMPLOYEE","50042.00","50042.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Merced","ZHENG","XIANG","PROJECT POLICY ANL 3","50042.00","50042.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","ANA K","NAREZ","MED AST 2","50041.00","48754.00","1287.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","VIKEN","MARDIROSIAN","BLANK AST 3","50041.00","47679.00","0.00","2362.00"]},
+{"id":"16","cell":["16","2018","San Diego","JAY C","JACKSON","PARKING REPR SR","50041.00","48064.00","583.00","1394.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","JERMAINE","MOORE","PAT SPECIALTY SVC TCHN","50040.00","41641.00","1529.00","6870.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","MERCEDES A","PEREZ","CUSTODIAN LD","50039.00","45302.00","4731.00","6.00"]},
+{"id":"19","cell":["19","2018","ASUCLA","LUIS","SANCHEZ BLASQUEZ","ANL 2","50039.00","49253.00","0.00","786.00"]},
+{"id":"20","cell":["20","2018","ASUCLA","AMBER","BOATENG","ANL 1","50039.00","49263.00","0.00","776.00"]}]
+}

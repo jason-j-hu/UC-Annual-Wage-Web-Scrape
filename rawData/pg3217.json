@@ -1,0 +1,26 @@
+{
+"page" : "3217",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","JEFFERY","CHO","MGR","81379.00","81379.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Berkeley","HEDDY","RISS","ACADEMIC COORD I-FY","81377.00","66021.00","0.00","15356.00"]},
+{"id":"3","cell":["3","2018","Berkeley","JORDAN","RICHARDSON","FINANCIAL SVC ANL 4","81377.00","76377.00","0.00","5000.00"]},
+{"id":"4","cell":["4","2018","San Francisco","DARREN G","WONG","ADMITTING WORKER PRN","81374.00","70349.00","2682.00","8343.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","CHERIE","LEWIS","ADMIN ANL PRN 1","81373.00","75531.00","0.00","5842.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","LLOYD","NICKS","PROGR ANL 3","81373.00","81373.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","PATRICIA A","BRENNAN","ADMIN ANL PRN SUPV","81372.00","81372.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","JULIE ANN","CASTRO","ADMIN ANL PRN SUPV","81372.00","81372.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","ANDREW","VAUGHAN","PROF-HCOMP","81370.00","81359.00","0.00","11.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","LAILA","RAMJI","CHILD LIFE SPEC 3","81369.00","81369.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","AURORA","REYES","STDT AFFAIRS OFCR 4","81367.00","81367.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","MELISSA T","ASSENZIO","RSCH DATA ANL 3","81366.00","81366.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Merced","CHARLES","WEIR","HVAC-R","81366.00","74646.00","3905.00","2815.00"]},
+{"id":"14","cell":["14","2018","San Francisco","ANDREA MAY-CHU","CHAO","AMBUL CARE ADMSTN SUPV 2","81364.00","77514.00","241.00","3609.00"]},
+{"id":"15","cell":["15","2018","Davis","MICHAEL","VALENZUELA","STDT ACAD ADVISOR 3","81364.00","73864.00","0.00","7500.00"]},
+{"id":"16","cell":["16","2018","Davis","JENNIFER LOUISE","SHORTS","ACAD HR ANL 3","81364.00","81364.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","JOSHUA DAVID","MAGNUSON","ANESTHETIST NURSE SR PD","81363.00","80763.00","0.00","600.00"]},
+{"id":"18","cell":["18","2018","San Francisco","TIMOTHY H.","BATES","PROJECT POLICY ANL 4","81360.00","81360.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","ZHUOZHOU","LIU","APPLICATIONS PROGR 3","81360.00","80810.00","0.00","550.00"]},
+{"id":"20","cell":["20","2018","Davis","STACEY L","BIANCO","HR GENERALIST 3","81358.00","81358.00","0.00","0.00"]}]
+}

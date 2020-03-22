@@ -1,0 +1,26 @@
+{
+"page" : "8003",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","GLORIA B","STEVENS","CLIN NURSE 2","26735.00","20093.00","32.00","6610.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","PHILIP","CLEMENTS","RECALL FACULTY","26734.00","25984.00","0.00","750.00"]},
+{"id":"3","cell":["3","2018","Davis","KRISTINA M","FASY","MED OFC SVC CRD 2","26734.00","26734.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","PETER ANTHONY","JORDAN","POSTDOC-EMPLOYEE","26734.00","26734.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","*****","*****","TEACHG ASST-GSHIP","26733.00","26633.00","0.00","100.00"]},
+{"id":"6","cell":["6","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","26733.00","26733.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","26733.00","17212.00","0.00","9521.00"]},
+{"id":"8","cell":["8","2018","Riverside","*****","*****","TEACHG ASST-GSHIP","26733.00","26633.00","0.00","100.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","SARA","CLEMENT","LECT-AY","26732.00","26732.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","DINA","MARTINEZ","HOSP BLANK AST 3","26732.00","25336.00","95.00","1301.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","STEPHEN","COMMINS","RECALL TEACHING NON-SENATE","26732.00","26732.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","ANDREW A","MUNOZ","COOK","26731.00","25408.00","518.00","805.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","BAOLONG","SU","BLANK AST 3","26731.00","23681.00","1675.00","1375.00"]},
+{"id":"14","cell":["14","2018","Berkeley","*****","*****","GSR-FULL FEE REM","26731.00","26731.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","*****","*****","GSR-FULL FEE REM","26731.00","26731.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","TIARA","DAVIDSON","RSDNC HALLS MGR AST","26730.00","21181.00","5375.00","174.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","URI","MAOZ","VIS ASST PROF","26730.00","21104.00","0.00","5626.00"]},
+{"id":"18","cell":["18","2018","Davis","ERIK M","BLOSSER","POSTDOC-EMPLOYEE","26730.00","26730.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","EOWYN","MADER","ADMIN OFCR 2","26730.00","26730.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","AMADO","VILLEGAS","TCHN SR","26729.00","23854.00","2184.00","691.00"]}]
+}

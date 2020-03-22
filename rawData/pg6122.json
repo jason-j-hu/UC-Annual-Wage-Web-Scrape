@@ -1,0 +1,26 @@
+{
+"page" : "6122",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","CHABREE","ROGERS","BLANK AST 3","47342.00","47321.00","21.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","JOSE","CERVANTES JIMENEZ","COOK AST","47342.00","39508.00","6904.00","930.00"]},
+{"id":"3","cell":["3","2018","San Diego","LAUREN H","BARKER","PUBL EDUC SPEC 2","47341.00","47341.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","RANECE","SMITH","ADMIN SPEC","47340.00","46227.00","113.00","1000.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","HON","HOANG","BLANK AST 3","47340.00","47340.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","HEATHER L","MURPHY","EXEC AST 3","47339.00","45248.00","2091.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","CECILLE S","DEL ROSARIO","BLANK AST 3","47338.00","47235.00","103.00","0.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","HEIDI","DINNOGEN","STDT SVC ADVISOR 2","47338.00","47338.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","JOHN FRANCIS","VETTER","PROSTHETIST ORTHOTIST SR","47337.00","39739.00","5364.00","2234.00"]},
+{"id":"10","cell":["10","2018","Riverside","OSWALDO","OSUNA","BLANK AST 3","47336.00","47036.00","0.00","300.00"]},
+{"id":"11","cell":["11","2018","Berkeley","LAURA","KOCOUREK","BLANK AST 3","47336.00","45356.00","1980.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","47335.00","39314.00","0.00","8021.00"]},
+{"id":"13","cell":["13","2018","Davis","HOLLY E","KIRK","SURGICAL TCHN SR","47335.00","43453.00","826.00","3056.00"]},
+{"id":"14","cell":["14","2018","Davis","DAPHNE A","KENNELLY","PROJECT POLICY ANL 2","47334.00","45385.00","0.00","1949.00"]},
+{"id":"15","cell":["15","2018","Berkeley","JUDITH","KLINMAN","RECALL FACULTY","47334.00","47334.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","DANIELLE","VIVO","ALUMNI EXTERNAL REL SPEC 2","47334.00","46859.00","475.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","HENRY","ORTIZ","LABORER SR LD","47332.00","46702.00","630.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","RACHEL M","LEBRETT","STDT SVC ADVISOR 2","47332.00","47310.00","22.00","0.00"]},
+{"id":"19","cell":["19","2018","Santa Barbara","ABRAHAM","RODRIGUEZ","COOK","47331.00","45980.00","1351.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","ANGELITA A","EJANDA","MED CTR CUSTODIAN","47331.00","38675.00","6002.00","2654.00"]}]
+}

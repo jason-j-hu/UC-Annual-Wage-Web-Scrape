@@ -1,0 +1,26 @@
+{
+"page" : "4948",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","SHARON","SINGH","ADMIN SPEC","57915.00","56986.00","395.00","534.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","VERNE\"","HOWARD","HOSP BLANK AST 3","57915.00","57388.00","355.00","172.00"]},
+{"id":"3","cell":["3","2018","San Diego","RUTH ELLEN","PATTERSON","RECALL HCOMP","57915.00","38045.00","0.00","19870.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","PEN-CHIANG DAVID","SUN","PRG PROMOTION MGR 1","57915.00","57915.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","CARMEN","RAMIREZ","PAT BILLER 3","57914.00","57254.00","0.00","660.00"]},
+{"id":"6","cell":["6","2018","Irvine","PETER PAUL M","GOMEZ","PAT BILLER 3","57914.00","57254.00","0.00","660.00"]},
+{"id":"7","cell":["7","2018","San Diego","BENJAMIN HALSEY","BRICKLEY","RECR PRG LEADER 2","57914.00","57914.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","KIMVI","DIEP","STF PHARMACIST 2","57913.00","54942.00","2147.00","824.00"]},
+{"id":"9","cell":["9","2018","San Francisco","KARIM","LEE","SPECIALIST","57913.00","45830.00","0.00","12083.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","DIAN","TAI","PROGR ANL 1","57913.00","57913.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","*****","*****","POSTDOC-EMPLOYEE","57913.00","54892.00","0.00","3021.00"]},
+{"id":"12","cell":["12","2018","Davis","PAM","SOLANO","FINANCIAL ANL 2","57911.00","56461.00","137.00","1313.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","JOSEPH","ALCOCER","BLANK AST 3","57911.00","55951.00","1960.00","0.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","JESSICA","FEWELL","GEN ACCOUNTANT 2","57910.00","57910.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","ANNE M.","SAWYERS","SRA 2 NEX","57910.00","57910.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","OLGA","KIM","BLANK AST 2","57907.00","45205.00","9003.00","3699.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","LILINA","TSAN","ADMIN ANL","57904.00","57904.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","JULIE N.","HARRIS-WAI","ASST ADJ PROF-HCOMP","57902.00","49433.00","0.00","8469.00"]},
+{"id":"19","cell":["19","2018","Davis","JESSICA C","SOLIZ","PAT BILLER 3","57902.00","57366.00","531.00","5.00"]},
+{"id":"20","cell":["20","2018","San Francisco","LEAKONA JR","TUPOU","HOSP BLANK AST 2","57901.00","52809.00","3874.00","1218.00"]}]
+}

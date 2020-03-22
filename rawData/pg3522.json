@@ -1,0 +1,26 @@
+{
+"page" : "3522",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","LETIA C","GRAENING","STDT ADVISOR SUPV 2","75628.00","75628.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","CANDACE MICHELLE","WINKLER","CLIN RSCH SUPV 1","75625.00","74625.00","0.00","1000.00"]},
+{"id":"3","cell":["3","2018","San Diego","RONALD E","RAMIREZ","ELECTR TCHN PRN","75625.00","64727.00","5770.00","5128.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","EUSEBIO","HERRERA","MGT SVC OFCR 2","75625.00","72181.00","0.00","3444.00"]},
+{"id":"5","cell":["5","2018","San Francisco","DYAN RENAE","RUELAS","HEALTH PROFNS EDUC SPEC 3","75624.00","74624.00","0.00","1000.00"]},
+{"id":"6","cell":["6","2018","San Diego","VANESSA DAUZ","ALFILER","PHARMACY TCHN 3","75624.00","63021.00","9243.00","3360.00"]},
+{"id":"7","cell":["7","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","75621.00","62411.00","0.00","13210.00"]},
+{"id":"8","cell":["8","2018","Davis","RICHARD E","RUCKER","BUS TCHL SUPP ANL 3","75620.00","74703.00","0.00","917.00"]},
+{"id":"9","cell":["9","2018","San Diego","AMY M","ROBINSON","COMM SPEC 3","75617.00","73867.00","0.00","1750.00"]},
+{"id":"10","cell":["10","2018","Irvine","NADIM ATOINE","MADI","PROGR ANL 2","75616.00","75616.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","75615.00","65665.00","0.00","9950.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","LAURA","BENSCOTER","ADMIN ANL SR SUPV","75614.00","72114.00","0.00","3500.00"]},
+{"id":"13","cell":["13","2018","Riverside","DARRELL","SCOTT","MAINT B","75612.00","75026.00","0.00","586.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","LESLIE","HENRY","ADMIN ANL","75609.00","68641.00","0.00","6968.00"]},
+{"id":"15","cell":["15","2018","Berkeley","PATRICIA","CANUL","FUNDRAISER 3","75609.00","75109.00","0.00","500.00"]},
+{"id":"16","cell":["16","2018","San Francisco","JAY E","PIMENTEL","PAT CARE AST","75608.00","64296.00","9109.00","2203.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","BRYAN NINO","COBANGBANG","PAT SPECIALTY SVC TCHN","75608.00","63663.00","4474.00","7471.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","ADITEE","MASKEY","FUNDRAISER 4","75608.00","75608.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Riverside","RANDALL","CLARK","MAINT B","75608.00","75608.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","JEANETTE SOP","TORRES YBARRA","CLIN RSCH CRD SR EX","75607.00","75607.00","0.00","0.00"]}]
+}

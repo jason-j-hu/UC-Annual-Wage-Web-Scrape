@@ -1,0 +1,26 @@
+{
+"page" : "3912",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Merced","REANNON","COOK","POLICE SVC SUPV 1","69633.00","69633.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Diego","GABRIELA C","HOFFMANN","STDT SVC ADVISOR 3","69631.00","69631.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","KARESE","YOUNG","HR GENERALIST 2","69631.00","67099.00","2532.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","ANNA","ESAKI-SMITH","ALUMNI EXTERNAL REL SPEC 5","69630.00","68717.00","0.00","913.00"]},
+{"id":"5","cell":["5","2018","Irvine","MICHAEL JAMES","WALAKO","ADMIN ANL","69630.00","64014.00","1711.00","3905.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","ZARENNA","KHAN","CLIN NURSE 2","69630.00","58728.00","402.00","10500.00"]},
+{"id":"7","cell":["7","2018","San Diego","CINDY C","HSU","STDT HEALTH PHYSCN 4 PD","69630.00","69630.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","LESLIE F","RUBIN","ANESTHETIST NURSE SR EX","69629.00","69629.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","JOSE","ESCOBAR","MGT SVC OFCR 1","69627.00","70227.00","0.00","-600.00"]},
+{"id":"10","cell":["10","2018","Santa Cruz","MARLENE A","ROBINSON","ADMIN OFCR 3","69627.00","69627.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","ELISON YALUNG","MANGUERA","HOSP BLANK AST 2","69626.00","62182.00","2020.00","5424.00"]},
+{"id":"12","cell":["12","2018","Irvine","JUAN CARLOS","ONOFRE","ADMIN ANL SR","69625.00","67489.00","0.00","2136.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","TERESA","LOPEZ","HOSP LAB TCHN 2","69625.00","65681.00","3450.00","494.00"]},
+{"id":"14","cell":["14","2018","Davis","DIANNA","FRANCIS","IP OFCR 2","69625.00","69625.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","MISAKO KAWAHARA","STILLION","SRA 4","69624.00","69624.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","JACQUELIN","POASA","SRA 4","69624.00","69624.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","ETHIOPIA T","TESEMA","PAT CARE AST","69623.00","58493.00","2667.00","8463.00"]},
+{"id":"18","cell":["18","2018","San Diego","MARIA DEL CARMEN","ROBLEDO","STERILE PROCESSING TCHN 2","69620.00","48983.00","12438.00","8199.00"]},
+{"id":"19","cell":["19","2018","San Francisco","NILO E","MIA","FINANCIAL ANL MGR 2","69616.00","68616.00","0.00","1000.00"]},
+{"id":"20","cell":["20","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","69615.00","56407.00","0.00","13208.00"]}]
+}

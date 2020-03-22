@@ -1,0 +1,26 @@
+{
+"page" : "4390",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","63536.00","57086.00","0.00","6450.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","63536.00","57086.00","0.00","6450.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","63536.00","57086.00","0.00","6450.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","63536.00","57086.00","0.00","6450.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","TANAYA","BURNHAM","ADMIN SPEC","63535.00","63535.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","MIKKO","HARTIALA","ADMIN SPEC","63535.00","63535.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","MARIA IVETTE","CENTENO","PRACTICE CRD 2","63533.00","62544.00","89.00","900.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","HENRY","YEE","FOOD SVC MECH AST","63533.00","52621.00","10879.00","33.00"]},
+{"id":"9","cell":["9","2018","Davis","MARISOL","CARRILLO","MED OFC SVC CRD 3","63532.00","59763.00","3767.00","2.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","DANIEL","RAMIREZ","SURGICAL TCHN SR","63532.00","58100.00","1088.00","4344.00"]},
+{"id":"11","cell":["11","2018","Davis","EDMA M","CISNEROS","ACCESS REPR PRN","63532.00","59471.00","3547.00","514.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","LATASHA","GUYTON","ADMIN SPEC","63530.00","58904.00","4026.00","600.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","STEPHANIE","SANTOS","ADMIN ANL","63529.00","56737.00","3957.00","2835.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","TONYA","GREENE","ADMIN SPEC","63529.00","62318.00","411.00","800.00"]},
+{"id":"15","cell":["15","2018","San Francisco","ROCIO E","GUARNIZ PALACIO","STERILE PROCESSING TCHN 1","63528.00","63327.00","201.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","NAOKI","YAMAMOTO","ASST PROF-AY","63527.00","63527.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","MICHAEL SEAN","MURPHY","SRA 2","63527.00","52798.00","0.00","10729.00"]},
+{"id":"18","cell":["18","2018","San Diego","YVONNE DUNG MY","LAI","STF PHARMACIST 2","63526.00","59298.00","528.00","3700.00"]},
+{"id":"19","cell":["19","2018","Berkeley","CHRISTIAN REX","BUCEY","STDT LIFE DEV SPEC 3","63525.00","63525.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","LETISHA ELAINE","SALAS","RSCH ADM 2","63525.00","61525.00","0.00","2000.00"]}]
+}

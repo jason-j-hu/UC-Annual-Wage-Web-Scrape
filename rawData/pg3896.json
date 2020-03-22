@@ -1,0 +1,26 @@
+{
+"page" : "3896",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","69880.00","63180.00","0.00","6700.00"]},
+{"id":"2","cell":["2","2018","San Diego","TY LARRY","OLDHAM","STERILE PROCESSING TCHN 3","69880.00","52944.00","8988.00","7948.00"]},
+{"id":"3","cell":["3","2018","Berkeley","DEBRA","BEHRENS","CAREER SVC SPEC 4","69880.00","69630.00","0.00","250.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","LAURIE","ULTAN-THOMAS","ADMIN ANL","69879.00","69879.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","JILLIAN","GRENIG","ADMIN ANL SR","69878.00","65632.00","746.00","3500.00"]},
+{"id":"6","cell":["6","2018","San Diego","MELANIE C","BENN","CLIN SOCIAL WORKER 3","69878.00","69878.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","MICHAEL","EDWARDS","MGT SVC OFCR 2 SUPV","69876.00","67376.00","0.00","2500.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","DANA JEAN","TOBEY","CLIN NURSE 2","69876.00","61301.00","1607.00","6968.00"]},
+{"id":"9","cell":["9","2018","Berkeley","ETHAN","KATZ","ASSOC PROF-AY","69875.00","49875.00","0.00","20000.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","CHARLEMAGNE","EBALO","HOSP LAB TCHN 2","69875.00","69800.00","50.00","25.00"]},
+{"id":"11","cell":["11","2018","Riverside","ZHIXIAN","ZHU","VIS ASST PROF","69875.00","69875.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Riverside","CHRISTINA","VASILAKOPOULOU","VIS ASST PROF","69875.00","69875.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","KAYLIE","ALEXANDER","PUBL ADMSTN ANL SR","69873.00","69873.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","LATRICIA","FERNANDEZ","MED CTR SCRTY OFCR","69873.00","38731.00","25696.00","5446.00"]},
+{"id":"15","cell":["15","2018","Berkeley","BRENT","ATKINSON","FAC MGT SPEC 3","69873.00","69873.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","ERWIN CARLOS","PAULINO","REVENUE CYCLE HC ANL 2","69872.00","65237.00","480.00","4155.00"]},
+{"id":"17","cell":["17","2018","Irvine","MEGAN GAGE","WITBRACHT","ASSOC PROJ SCIENTIST-FY","69872.00","69872.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","JULIE","MOUNTS","EMPLOYMENT REPR 3","69870.00","68745.00","0.00","1125.00"]},
+{"id":"19","cell":["19","2018","Davis","STEPHEN F","ELLIOTT","COMM SPEC 3","69868.00","69868.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","ROCCI R","TWITCHELL","EHS SPEC 2 NEX","69868.00","68599.00","1269.00","0.00"]}]
+}

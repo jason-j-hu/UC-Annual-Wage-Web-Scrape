@@ -1,0 +1,26 @@
+{
+"page" : "2314",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","SARA ARIANNA","DUGAN","CLIN NURSE 2","103207.00","85159.00","3571.00","14477.00"]},
+{"id":"2","cell":["2","2018","San Francisco","ALVA","LEUNG","CLIN LAB SCI","103198.00","101772.00","0.00","1426.00"]},
+{"id":"3","cell":["3","2018","San Diego","MARNIE SHERRIE","BROOKOLO","ADMIN OFCR 4","103198.00","103198.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","JENNIE","RANOLA","HEALTH INFO CODER 3","103192.00","96507.00","5290.00","1395.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ALLISON","JAMES","CLIN NURSE 2","103192.00","86833.00","2455.00","13904.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","SHARON","KNIGHT","CLIN NURSE 2","103192.00","98501.00","1751.00","2940.00"]},
+{"id":"7","cell":["7","2018","Davis","DANIEL C","MENDOZA","COMM AND NETWORK TCHL SUPV 1","103192.00","103192.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","JUDY","VAN","CLIN NURSE 2","103191.00","85374.00","9644.00","8173.00"]},
+{"id":"9","cell":["9","2018","San Diego","CHRISTINA ROSE","BENSON","CLIN NURSE 2","103191.00","92151.00","1088.00","9952.00"]},
+{"id":"10","cell":["10","2018","San Francisco","JULIA KAY","CHUNG","AUDIOLOGIST SR EX","103187.00","102659.00","0.00","528.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","RUBY","ORTIZ","CLIN NURSE 3","103184.00","94924.00","4925.00","3335.00"]},
+{"id":"12","cell":["12","2018","San Diego","SUSAN S","MARX","LECT-AY-CONTINUING","103184.00","63184.00","0.00","40000.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","MIKHAIL","VAYNER","PROGR ANL 2","103181.00","78330.00","23003.00","1848.00"]},
+{"id":"14","cell":["14","2018","San Diego","LINDA","SUMETHASORN","CLIN NURSE 2","103180.00","98582.00","1949.00","2649.00"]},
+{"id":"15","cell":["15","2018","San Diego","CYNTHIA SANTOS","DELAVIN","CLIN NURSE 2","103178.00","91394.00","1900.00","9884.00"]},
+{"id":"16","cell":["16","2018","San Diego","LISA BEATRICE","KELLOGG","ALUMNI EXTERNAL REL SPEC 5","103178.00","98178.00","0.00","5000.00"]},
+{"id":"17","cell":["17","2018","Irvine","JENNIFER A","JALANDONI","CLIN NURSE 2","103177.00","91876.00","3867.00","7434.00"]},
+{"id":"18","cell":["18","2018","Davis","DANA A","LITTLE","CLIN RSCH SUPV 2","103174.00","102299.00","0.00","875.00"]},
+{"id":"19","cell":["19","2018","San Diego","NICOLE","FIORE","TRAINER 3","103173.00","102173.00","0.00","1000.00"]},
+{"id":"20","cell":["20","2018","San Diego","MARCO ALFREDO","ARCINIEGA","PARKING OPS SPEC 2","103170.00","65784.00","3335.00","34051.00"]}]
+}

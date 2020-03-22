@@ -1,0 +1,26 @@
+{
+"page" : "7579",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","30915.00","30815.00","0.00","100.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","FRANK","VAVOUNAS","EHS TCHN SR","30914.00","30498.00","416.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","ROSEANNA D","FOWLER","BLANK AST 1","30913.00","30332.00","0.00","581.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","30912.00","30812.00","0.00","100.00"]},
+{"id":"5","cell":["5","2018","San Diego","VANESSA Y","HERNANDEZ","CMTY EDUC SPEC 2","30911.00","30911.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","30911.00","30811.00","0.00","100.00"]},
+{"id":"7","cell":["7","2018","Davis","FAITH D","FOGEL","MED INTERPRETER 1","30910.00","28721.00","75.00","2114.00"]},
+{"id":"8","cell":["8","2018","Irvine","*****","*****","GSR-TUIT & FEE REM","30910.00","29143.00","0.00","1767.00"]},
+{"id":"9","cell":["9","2018","San Diego","KATIE K","LAM","SRA 3","30909.00","30909.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","*****","*****","GSR-TUIT & FEE REM-UCSD-GRP C","30908.00","30908.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","NAVENDU","JANA","POSTDOC-EMPLOYEE","30907.00","30907.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","GINA MICHELLE","POLICASTRO","POSTDOC-EMPLOYEE","30907.00","30907.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","MATTHEW J","HANSEN","POSTDOC-EMPLOYEE","30906.00","30906.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","JULIANA","HERNANDEZ","PAT BILLER 3","30905.00","30885.00","7.00","13.00"]},
+{"id":"15","cell":["15","2018","Davis","*****","*****","TEACHG ASST-GSHIP","30905.00","29764.00","0.00","1141.00"]},
+{"id":"16","cell":["16","2018","Berkeley","JEFFREY","TUNG","LAB AST 2","30904.00","30904.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Santa Cruz","MARY M.","THOMAS","ASST SPECIALIST","30902.00","28056.00","0.00","2846.00"]},
+{"id":"18","cell":["18","2018","San Francisco","TIARA","SMITH","CLIN RSCH CRD","30901.00","30726.00","70.00","105.00"]},
+{"id":"19","cell":["19","2018","Santa Cruz","JACQUELYN SUZETT","POWELL","ADMIN OFCR 2","30901.00","30391.00","0.00","510.00"]},
+{"id":"20","cell":["20","2018","Santa Cruz","EMETERIO","ROBLES","FOOD SVC WORKER SR","30901.00","24032.00","5994.00","875.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "6404",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","ASAF","INBAL","POSTDOC-EMPLOYEE","44392.00","44392.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Cruz","IRENE CORTES","ROMERO","FOOD SVC WORKER SR","44392.00","42363.00","2029.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","REGINALD","PEREZ","ADMIN CARE CLIN PARTNER","44392.00","37635.00","432.00","6325.00"]},
+{"id":"4","cell":["4","2018","San Francisco","QUENNIE JOY F","SAMSIN","HOSP LAB TCHN 1","44391.00","43989.00","33.00","369.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","*****","*****","PRG REPR 2","44391.00","44389.00","2.00","0.00"]},
+{"id":"6","cell":["6","2018","Santa Cruz","KATHARINA FLOREN","PIERINI","GARDENER GROUNDSKEEPER","44390.00","44390.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","MANOLITO R","ROMANO","MED CTR CUSTODIAN SR","44390.00","42034.00","0.00","2356.00"]},
+{"id":"8","cell":["8","2018","Berkeley","HELEN","HOROWITZ","BLANK AST 2","44390.00","44390.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","*****","*****","AST PHYSCN","44389.00","14389.00","0.00","30000.00"]},
+{"id":"10","cell":["10","2018","San Diego","DAVID VALDEZ","MIRALLES","CUSTODIAN SR","44389.00","42995.00","0.00","1394.00"]},
+{"id":"11","cell":["11","2018","Davis","ALI","ROBERSON","MED CTR ENVIR SVC WORKER 1","44387.00","41753.00","1853.00","781.00"]},
+{"id":"12","cell":["12","2018","Riverside","LESLIE","SETTLE","LIBRARY AST 4","44387.00","43787.00","0.00","600.00"]},
+{"id":"13","cell":["13","2018","Irvine","MARGARET NJERI","KUNGU","HOSP AST SR","44386.00","38876.00","2514.00","2996.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","JULIO","LOPEZ","BLANK AST 2","44386.00","44272.00","114.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","EHAB","SAAD","TEACHER-UNEX","44385.00","0.00","0.00","44385.00"]},
+{"id":"16","cell":["16","2018","San Diego","RICHARD ARMANDO","MELENDEZ","AUTO EQUIP OPR SR","44385.00","42587.00","1798.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","MARIO,JR","RAMIREZ","PARKING REPR","44384.00","42196.00","1795.00","393.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","44384.00","18834.00","0.00","25550.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","THOMAS","BARRENO","EMERGENCY TRAUMA TCHN SR","44381.00","41348.00","1333.00","1700.00"]},
+{"id":"20","cell":["20","2018","Berkeley","BO","LI","POSTDOC-EMPLOYEE","44380.00","44380.00","0.00","0.00"]}]
+}

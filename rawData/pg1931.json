@@ -1,0 +1,26 @@
+{
+"page" : "1931",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","TODD S.","PITMAN","PLNG SPEC 4","114917.00","111502.00","0.00","3415.00"]},
+{"id":"2","cell":["2","2018","San Francisco","HARSIMRAT SONA","MAHAL","CLIN NURSE 2","114916.00","98173.00","2382.00","14361.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","THERESA","NUARIN","CLIN NURSE 3","114912.00","111217.00","1252.00","2443.00"]},
+{"id":"4","cell":["4","2018","San Diego","TRACY ANNE","ALDERMAN","PSYCHOLOGIST 2","114912.00","114912.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","KORRINA","NOBLETT","CLIN NURSE 2","114912.00","93278.00","6321.00","15313.00"]},
+{"id":"6","cell":["6","2018","San Diego","KEVIN PATRI","SCHWERDTFEGER","AMBUL CARE ADMSTN MGR 1","114911.00","110119.00","0.00","4792.00"]},
+{"id":"7","cell":["7","2018","Davis","DONNA L.","JUSTICE","MARKETING MGR 1","114908.00","114908.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Riverside","KEVIN","ESTERLING","PROF-AY","114908.00","114908.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","CLAIRE RENEE","DE LEON","COMM SPEC 4","114907.00","107600.00","0.00","7307.00"]},
+{"id":"10","cell":["10","2018","Davis","STEPHANNIE M","LANDELL","NURSE SVC SUPV 2","114904.00","99913.00","3457.00","11534.00"]},
+{"id":"11","cell":["11","2018","San Diego","JOHN JACINTO","DUCA","FUNDRAISER 5","114901.00","112401.00","0.00","2500.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","JARED","RAZ","CLIN NURSE 2","114899.00","98523.00","638.00","15738.00"]},
+{"id":"13","cell":["13","2018","San Francisco","ALLAN J","BER","ANES OR CLIN SUPP SUPV 2","114898.00","109632.00","0.00","5266.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","LESLIE","COLASSE","FAC PROJECT MGT SPEC 4","114895.00","114895.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Irvine","ANN NGO","NGUYEN","ULTRASOUND TCHNO PRN","114890.00","107866.00","5984.00","1040.00"]},
+{"id":"16","cell":["16","2018","San Francisco","WILEEN","CHANG","AUDIOLOGIST SR EX","114887.00","114359.00","0.00","528.00"]},
+{"id":"17","cell":["17","2018","San Francisco","ALEXIS","COX","ACAD PRG MGT OFCR 3","114884.00","114884.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","JUNAFAYE C","LASPINAS","CLIN NURSE 2","114884.00","107780.00","3286.00","3818.00"]},
+{"id":"19","cell":["19","2018","San Francisco","MICHAEL C","OLDHAM","ASST PROF IN RES-HCOMP","114883.00","103464.00","0.00","11419.00"]},
+{"id":"20","cell":["20","2018","Merced","NICOLA","LERCARI","ASST PROF-AY","114883.00","83342.00","0.00","31541.00"]}]
+}

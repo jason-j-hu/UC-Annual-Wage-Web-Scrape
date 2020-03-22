@@ -1,0 +1,26 @@
+{
+"page" : "3453",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","PETER B","THARP","CLIN NURSE 2","76889.00","76289.00","499.00","101.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","WILLIAM","HAWKINS","ADJ PROF-AY-B/E/E","76888.00","56888.00","0.00","20000.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","TENSIE","PALMER","ADMIN SPEC","76887.00","73054.00","0.00","3833.00"]},
+{"id":"4","cell":["4","2018","Irvine","ARTHUR","PEREZ","MGT SVC OFCR 2 SUPV","76885.00","75385.00","0.00","1500.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","KRISTINA","SINUTKO","ARTIST PRN","76884.00","75884.00","0.00","1000.00"]},
+{"id":"6","cell":["6","2018","San Diego","MICHAEL ALLEN","BONNER","SURGICAL TCHN SR","76884.00","71493.00","1360.00","4031.00"]},
+{"id":"7","cell":["7","2018","Irvine","CYNTHIA","FELICIANO","ASSOC PROF-AY","76883.00","76883.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","FAIZY","AHMED","PROJ SCIENTIST-FY","76882.00","76882.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","SUZZANE","UPADHYAY","CLIN NURSE 2","76882.00","75837.00","323.00","722.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","AMANDA","DO","PUBL ADMSTN ANL SR","76879.00","73347.00","0.00","3532.00"]},
+{"id":"11","cell":["11","2018","Berkeley","LINH","LE","OPTOMETRIST 3","76879.00","76879.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","AMMERIE MICHELLE","JOVES","CLIN NURSE 2","76876.00","64851.00","2405.00","9620.00"]},
+{"id":"13","cell":["13","2018","Riverside","PAUL","SIMON","DIGITAL COMM SPEC 3","76875.00","76375.00","0.00","500.00"]},
+{"id":"14","cell":["14","2018","San Francisco","FLORA BELLO","AVECILLA","ADMIN OFCR 2","76873.00","73887.00","0.00","2986.00"]},
+{"id":"15","cell":["15","2018","San Francisco","ARLEN CINCO","BAYQUEN","BENEFITS ANL 3","76873.00","73470.00","0.00","3403.00"]},
+{"id":"16","cell":["16","2018","Davis","ERIC D","GOMEZ","PLUMBER","76872.00","71541.00","3455.00","1876.00"]},
+{"id":"17","cell":["17","2018","Davis","NEIL DANIEL","HUEFNER","PROJECT POLICY ANL 3","76872.00","76872.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","JAMES","SHIN","MGT SVC OFCR 2","76872.00","70944.00","0.00","5928.00"]},
+{"id":"19","cell":["19","2018","Irvine","MARCELLUS F","KWONG","ADMIN ANL SR","76869.00","72077.00","0.00","4792.00"]},
+{"id":"20","cell":["20","2018","Berkeley","LUCAS","ABBOTT","STDT LIFE DEV SPEC 3","76869.00","76869.00","0.00","0.00"]}]
+}

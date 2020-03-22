@@ -1,0 +1,26 @@
+{
+"page" : "3281",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","MARCO","LINDSEY","EXEC AST 3","80127.00","80127.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Merced","KYLER","LAIRD","INFO SYS ANL 4","80126.00","80126.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","YU HSIN","LIN","STF PHARMACIST 2","80125.00","63647.00","11111.00","5367.00"]},
+{"id":"4","cell":["4","2018","San Diego","GARY","HENDERSON","STDT SVC ADVISOR 3","80125.00","75181.00","0.00","4944.00"]},
+{"id":"5","cell":["5","2018","San Diego","GITA","MEHTA","RECALL HCOMP","80124.00","0.00","0.00","80124.00"]},
+{"id":"6","cell":["6","2018","San Francisco","*****","*****","CHIEF RESID PHYS-NON REP","80123.00","64001.00","0.00","16122.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","ERIN","THOMAS","MGR","80123.00","77426.00","0.00","2697.00"]},
+{"id":"8","cell":["8","2018","Davis","RIC B","ENCARNACION","ELECTR TCHN PRN","80122.00","80122.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","TAMMI L","OLINEKA","RSCH ADM 4","80122.00","78133.00","0.00","1989.00"]},
+{"id":"10","cell":["10","2018","San Francisco","KENDY Y","MORA","PHARMACY TCHN 2","80120.00","75537.00","2610.00","1973.00"]},
+{"id":"11","cell":["11","2018","San Francisco","KATHERINE L","MALABED","GENETIC CNSLR 3 EX","80120.00","79691.00","0.00","429.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","DEANDRA","HICKS","FUNDRAISING MGR 1","80120.00","79211.00","0.00","909.00"]},
+{"id":"13","cell":["13","2018","UCOP","AFROZKHAN","PATHAN","BUS SYS ANL 3","80120.00","80120.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","JONATHAN","OKADA","HEAD COACH 5","80120.00","72720.00","0.00","7400.00"]},
+{"id":"15","cell":["15","2018","Berkeley","MONICA","DURAN","EVENTS SUPV 2","80120.00","79170.00","0.00","950.00"]},
+{"id":"16","cell":["16","2018","San Francisco","KAREN K","LAU","FINANCIAL SVC ANL 2","80118.00","77118.00","0.00","3000.00"]},
+{"id":"17","cell":["17","2018","Irvine","JULIETTE ALEXAND","CARRILLO","ASST PROF-AY","80117.00","80117.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","80116.00","68016.00","0.00","12100.00"]},
+{"id":"19","cell":["19","2018","Davis","ASHMITA","BALI","POLYSOMNOGRAPHY TCHNO SR","80114.00","74016.00","1140.00","4958.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","CELINA","LIEBMANN","ADMIN ANL","80114.00","80114.00","0.00","0.00"]}]
+}

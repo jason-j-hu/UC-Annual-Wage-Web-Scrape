@@ -1,0 +1,26 @@
+{
+"page" : "4486",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","GAYLE","ENTZ","BLANK AST 3","62497.00","62497.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Irvine","GINA C.","CHEN","FIN ANL SR","62496.00","62496.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","NICOLE A","CARSON","VOC NURSE SR","62496.00","61881.00","608.00","7.00"]},
+{"id":"4","cell":["4","2018","Irvine","VAN L","PHAM","VOC NURSE SR","62495.00","60752.00","1321.00","422.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","KATHERINE","OREFICE","PUBL ADMSTN ANL SR","62494.00","62494.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","SYLVIA N","NGUYEN","TCHN PRN SUPV","62493.00","61870.00","23.00","600.00"]},
+{"id":"7","cell":["7","2018","Berkeley","DANELLE","CARR","EVENTS SPEC 2","62493.00","62433.00","60.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","MARIA CARMELITA","CUYSON","ADMIN ANL","62492.00","59492.00","0.00","3000.00"]},
+{"id":"9","cell":["9","2018","San Diego","TANIA","MAYER","STDT SVC ADVISOR 2","62492.00","57592.00","0.00","4900.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ROBERT WILLIAM","STROTMAN","PROGR ANL 3","62491.00","60961.00","0.00","1530.00"]},
+{"id":"11","cell":["11","2018","Santa Barbara","CYNTHIA","FELANDO","LECT-AY-CONTINUING","62491.00","49150.00","0.00","13341.00"]},
+{"id":"12","cell":["12","2018","Berkeley","JONATHAN","LEE","BLANK AST 3","62489.00","56656.00","2833.00","3000.00"]},
+{"id":"13","cell":["13","2018","Irvine","RICHARD K","KONDO","STDT AFFAIRS OFCR 3 EX","62488.00","57788.00","0.00","4700.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","LUZ","BERNARDINO","ADMIN ANL","62488.00","59427.00","61.00","3000.00"]},
+{"id":"15","cell":["15","2018","San Diego","GENEVIEVE","VALDEZ","CUSTODIAL SUPV 1","62488.00","61488.00","0.00","1000.00"]},
+{"id":"16","cell":["16","2018","San Diego","MICHAEL K","WEBER","BROADCAST COMM SPEC 3","62488.00","61288.00","0.00","1200.00"]},
+{"id":"17","cell":["17","2018","Santa Cruz","DOUGLAS WEARE","BRAGDON","FINANCIAL ANL 4","62487.00","55909.00","0.00","6578.00"]},
+{"id":"18","cell":["18","2018","San Diego","AGUSTIN","RIVAS","PHARMACY TCHN 3","62487.00","60373.00","1103.00","1011.00"]},
+{"id":"19","cell":["19","2018","Berkeley","SCOTT","PETERSON","LIBRARY SUPV 2","62487.00","62487.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","JEREMIAH","COLEMAN","EHS SPEC 2 NEX","62486.00","62486.00","0.00","0.00"]}]
+}

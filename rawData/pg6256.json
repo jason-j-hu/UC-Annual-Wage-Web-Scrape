@@ -1,0 +1,26 @@
+{
+"page" : "6256",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","YOU HAO","ZOU","CUSTODIAN SR","45989.00","45034.00","868.00","87.00"]},
+{"id":"2","cell":["2","2018","Berkeley","JOSE","SANTIAGO","CUSTODIAN","45988.00","39567.00","4745.00","1676.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","EUGENIO","HERNANDEZ","CUSTODIAN SR","45986.00","37188.00","5878.00","2920.00"]},
+{"id":"4","cell":["4","2018","Davis","SCOTT A","ASAKAWA","INSTITUTIONAL RSCH ANL 3","45984.00","45984.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","NATHANIEL W.","CAETON","ASST COOP EXT ADVISOR","45984.00","45984.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","RICHARD A","ELLIOT","SRA 1","45983.00","45966.00","17.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","ROGER","BURNETT","CUSTODIAN","45983.00","34980.00","9235.00","1768.00"]},
+{"id":"8","cell":["8","2018","San Diego","RENE L","GALVAN","CUSTODIAN LD","45982.00","44588.00","0.00","1394.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","DARLENE","ENRIQUEZ","PAT COMM REPR","45981.00","45981.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","REBECCA N","BLEIBAUM","TEACHER-UNEX-CONTRACT YR","45980.00","0.00","0.00","45980.00"]},
+{"id":"11","cell":["11","2018","Irvine","MARIA G","ARRAZOLA","ADMITTING WORKER PRN","45978.00","44072.00","886.00","1020.00"]},
+{"id":"12","cell":["12","2018","Davis","FABIOLA","CARDENAS","MED INTERPRETER 1","45978.00","45946.00","0.00","32.00"]},
+{"id":"13","cell":["13","2018","San Diego","RICHARD WILLIAM ,JR","HOLBOROW","BLANK AST 2","45977.00","44451.00","0.00","1526.00"]},
+{"id":"14","cell":["14","2018","Irvine","SEYED PARHAM","SADRIZADEH","PROGR ANL 3","45976.00","38561.00","0.00","7415.00"]},
+{"id":"15","cell":["15","2018","Riverside","IVONNE","MORENO","EVENTS SPEC 2","45976.00","45726.00","0.00","250.00"]},
+{"id":"16","cell":["16","2018","San Francisco","AVINASH J","PATIL","POSTDOC-EMPLOYEE","45975.00","42975.00","0.00","3000.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","MARTIN","OLVERA-SOSA","COOK SR","45975.00","45975.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","ILEANA","RAMIREZ","BLANK AST 3","45974.00","44316.00","1658.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","JESSE","HURTADO","EEO REPR 2","45971.00","45971.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Merced","MONIQUE","DEVILLA","ALUMNI EXTERNAL REL SPEC 1","45970.00","44970.00","0.00","1000.00"]}]
+}

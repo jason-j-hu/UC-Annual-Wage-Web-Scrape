@@ -1,0 +1,26 @@
+{
+"page" : "5652",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","ALAN C","TENSCHER","SRA 1","51480.00","51480.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","ARBHIE","GUCE","ATH TRAINER 3","51480.00","51480.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Hastings College Of Law","CHRISTINE A","NATOLI","GRAD FELLOW","51480.00","51480.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","TAFFADA K","LACY","EMERGENCY TRAUMA TCHN SR","51479.00","48080.00","3194.00","205.00"]},
+{"id":"5","cell":["5","2018","San Diego","GREGORY CHARLES","ROBERTS","RES-AY","51479.00","51479.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","PETER","WILTON","POSTDOC-EMPLOYEE","51478.00","51478.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","LIN","ZHANG","POSTDOC-EMPLOYEE","51478.00","51478.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","JACQUELINE P","TULSKY","RECALL FACULTY","51477.00","50927.00","0.00","550.00"]},
+{"id":"9","cell":["9","2018","Davis","JESSICA JANNETT","VILLANUEVA","HEALTH TCHN 3","51477.00","50277.00","0.00","1200.00"]},
+{"id":"10","cell":["10","2018","San Diego","DAVID B","BERRY","POSTDOC-EMPLOYEE","51477.00","51477.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","TINA MARIE","OCHOA","BLANK AST 3","51476.00","50632.00","844.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","CHRISTINA MARIE","ROCHELEAU","NURSE PD","51475.00","51019.00","0.00","456.00"]},
+{"id":"13","cell":["13","2018","Irvine","ROMULO A.,JR.","CARRERA","BLANK AST 3","51474.00","50585.00","47.00","842.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","OLIVIA","HERNANDEZ","BLANK AST 2 SUPV","51474.00","51474.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","SARAH J","COX","MED OFC SVC CRD 3","51474.00","51177.00","297.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","HOLLY","ROACH","MUSEUM SCI","51473.00","51298.00","175.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","IRMA","GUERECA","PERINATAL TCHN 2","51473.00","45984.00","4169.00","1322.00"]},
+{"id":"18","cell":["18","2018","Irvine","WENDY","CANT","ADMIN ANL","51472.00","50943.00","529.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","LIBERTY","PENA","ADMIN CARE CLIN PARTNER","51472.00","44246.00","912.00","6314.00"]},
+{"id":"20","cell":["20","2018","Davis","RANDI G","FREEMAN","ADMIN OFCR 2","51472.00","50449.00","147.00","876.00"]}]
+}

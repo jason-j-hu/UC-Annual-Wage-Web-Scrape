@@ -1,0 +1,26 @@
+{
+"page" : "4574",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","IANA R","HERRON","PRACTICE CRD 3","61620.00","59875.00","605.00","1140.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","QING-YI","LU","ADJ PROF-FY","61619.00","61619.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","JEFFREY ARNOLD","BOLTON","NURSE PD","61618.00","61195.00","423.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","STEPAN","OVSEPYAN","STERILE PROCESSING TCHN 2","61618.00","43822.00","10672.00","7124.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ELIZABETH","VELEZ BARRETO","ADMIN SPEC","61618.00","59024.00","2594.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JEFFREY","DAGURO","VOC NURSE SR","61617.00","60938.00","535.00","144.00"]},
+{"id":"7","cell":["7","2018","San Diego","CYNTHIA P.","PAULO","RSCH ADM 3","61616.00","60016.00","0.00","1600.00"]},
+{"id":"8","cell":["8","2018","Berkeley","LEAH","SIME","FINANCIAL AID OFCR 3","61615.00","38280.00","0.00","23335.00"]},
+{"id":"9","cell":["9","2018","San Francisco","TRILCE","SANTANA","SRA 3","61614.00","61614.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","JULIE A.","VOGT","SRA 3","61614.00","61614.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Santa Cruz","NANCY J","FREETHY","BLANK AST 3","61614.00","60501.00","798.00","315.00"]},
+{"id":"12","cell":["12","2018","San Diego","ANDREA LYNN","TORZON","CLIN SOCIAL WORKER 1 NEX","61614.00","61614.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","RHONDA","GERNERT","BLANK AST 2","61612.00","55279.00","4868.00","1465.00"]},
+{"id":"14","cell":["14","2018","Davis","REBECCA L","HARTMAN","FINANCIAL SVC ANL 2","61612.00","61086.00","526.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","SHELLY","WOLF","DEAN ASC","61612.00","51625.00","0.00","9987.00"]},
+{"id":"16","cell":["16","2018","Berkeley","PATRICIA","HERNANDEZ","BLDG MAINT WORKER LD","61612.00","52484.00","1386.00","7742.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","JESSICA","LIN","ADMIN ANL SR","61611.00","61611.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","GREGORY","SHINTANI","ADMIN ANL SR","61610.00","57213.00","0.00","4397.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","CHRISTOPHER","TERRY","STERILE PROCESSING TCHN 3","61610.00","52264.00","3275.00","6071.00"]},
+{"id":"20","cell":["20","2018","San Diego","IVETTE PROVEDENC","JAZMIN","PAT BILLER 3","61610.00","58620.00","2240.00","750.00"]}]
+}

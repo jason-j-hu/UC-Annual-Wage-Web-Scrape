@@ -1,0 +1,26 @@
+{
+"page" : "3250",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","LANA V","RUIZ","CLIN NURSE 2","80737.00","76521.00","1936.00","2280.00"]},
+{"id":"2","cell":["2","2018","San Diego","OCTAVIO","OCHOA","ADMIN OFCR 4","80737.00","80737.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","80736.00","60464.00","0.00","20272.00"]},
+{"id":"4","cell":["4","2018","Irvine","CAM N.","TRAN","ADMIN ANL PRN 1","80735.00","80735.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","JENNA","DAVIS","CLIN NURSE 3","80735.00","74440.00","13.00","6282.00"]},
+{"id":"6","cell":["6","2018","San Diego","MARLA","SKLOVER","ACAD PRG MGT OFCR 3","80735.00","79235.00","0.00","1500.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","CLAIRE","MCCLUSKEY","DIR AST","80735.00","76935.00","0.00","3800.00"]},
+{"id":"8","cell":["8","2018","San Francisco","MICHELLE","SWAIN","VOC REHAB SUPV 1","80733.00","80733.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Santa Barbara","ANDREW","RILEY","SUSTAIN OFCR 3","80731.00","80731.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","VALERIA SANTA","WAHLERS","CASE MGR EX","80731.00","80170.00","0.00","561.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","TRANG","VU","ADMIN ANL SR","80727.00","77033.00","0.00","3694.00"]},
+{"id":"12","cell":["12","2018","Davis","MATT D","JOHNSON","APPLICATIONS PROGR 3","80726.00","80726.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","JOHN V.","TES","TELEVISION TCHN SR","80724.00","71094.00","9538.00","92.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","*****","*****","ASC PHYSCN DIPLOMATE","80724.00","80724.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Irvine","GEORGIE S","TORRES","CLIN NURSE 3","80723.00","65951.00","4615.00","10157.00"]},
+{"id":"16","cell":["16","2018","San Diego","NICHOLAS KUR","KNOTE-MACIAS","FUNDRAISER 4","80722.00","79722.00","0.00","1000.00"]},
+{"id":"17","cell":["17","2018","San Diego","ERIN LEIGH","ESPALDON","INSTITUTIONAL RSCH ANL 3","80721.00","75721.00","0.00","5000.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","MARCELYN","KNOX","CLIN SOCIAL WORKER 3","80720.00","80720.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","80719.00","60644.00","0.00","20075.00"]},
+{"id":"20","cell":["20","2018","Santa Cruz","MICHELLE L","DOHL","ADMIN SUPV 2","80716.00","80116.00","0.00","600.00"]}]
+}

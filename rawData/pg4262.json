@@ -1,0 +1,26 @@
+{
+"page" : "4262",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","LAWRENCE W","DAVIS","COMPUTER RESC SPEC 2","65062.00","65062.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","KRISTEN L","MADERA","HOSP LAB TCHN 1","65062.00","63824.00","1238.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","SARA L","BLAIR-MEDEIROS","STDT LIFE DEV SPEC 3","65062.00","65062.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","TAMMY S","HO","HS CLIN INSTR-HCOMP","65061.00","35175.00","0.00","29886.00"]},
+{"id":"5","cell":["5","2018","Davis","SHERRY M","PETTA","CHILD LIFE SPEC 1 NEX","65060.00","64208.00","852.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","65060.00","61476.00","0.00","3584.00"]},
+{"id":"7","cell":["7","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","65060.00","61476.00","0.00","3584.00"]},
+{"id":"8","cell":["8","2018","San Francisco","BRIAN T.","COE","TELEVISION TCHN","65059.00","57242.00","7803.00","14.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","65057.00","39057.00","0.00","26000.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","PHONG","LAY","FOOD SVC MGR","65055.00","64155.00","0.00","900.00"]},
+{"id":"11","cell":["11","2018","San Diego","DIANA","ENRIQUEZ-ALMAGU","EXEC AST 3","65055.00","62555.00","0.00","2500.00"]},
+{"id":"12","cell":["12","2018","San Diego","TODD M","HLIFKA","RSCH ADM 3","65054.00","64354.00","0.00","700.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","CORDELIA","QUEVEDO","HOSP BLANK AST 4","65053.00","62669.00","1903.00","481.00"]},
+{"id":"14","cell":["14","2018","San Francisco","YUET W","KAN","RECALL FACULTY","65052.00","65052.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Irvine","AHMED A","ALI","HS ASST CLIN PROF-HCOMP","65052.00","57167.00","0.00","7885.00"]},
+{"id":"16","cell":["16","2018","UCOP","AARON","BADILLO","BENEFITS ANL 2","65052.00","61114.00","3938.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","JOHNNY BRUCE","JOHNSON","BLANK AST 3","65052.00","56653.00","7348.00","1051.00"]},
+{"id":"18","cell":["18","2018","San Diego","LYNNE M","MERCHANT","INFO SYS ANL 3","65052.00","65052.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","GLENN","GILLESPIE","LIBRARY AST 4","65052.00","65052.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","WAN PING","WEN","OPS ROOM SUPP AST","65051.00","56394.00","3269.00","5388.00"]}]
+}

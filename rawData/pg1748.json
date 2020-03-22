@@ -1,0 +1,26 @@
+{
+"page" : "1748",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ZACHARY","STEINERT-THRELKELD","ASST PROF-AY","121131.00","108475.00","0.00","12656.00"]},
+{"id":"2","cell":["2","2018","San Diego","KAREN MARIE","GOCSIK","LECT SOE-AY","121131.00","111166.00","0.00","9965.00"]},
+{"id":"3","cell":["3","2018","Davis","QUN","GU","ASSOC PROF-AY-B/E/E","121127.00","121127.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","KATRINA","COOPER","CLIN NURSE 2","121127.00","114888.00","497.00","5742.00"]},
+{"id":"5","cell":["5","2018","Berkeley","LINDA","SONG","PROJECT POLICY ANL 5","121126.00","121126.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","MARY J","KANE","DEAF TRANSLATOR INTERPRETER","121124.00","109427.00","11697.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","EVA","CHAVEZ","CLIN NURSE 2","121122.00","119679.00","142.00","1301.00"]},
+{"id":"8","cell":["8","2018","San Diego","LAURA JEANE","BOERNER","CLIN NURSE 3","121122.00","117804.00","1389.00","1929.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","STANLEY","CHUA","PROGR ANL 4","121114.00","114121.00","0.00","6993.00"]},
+{"id":"10","cell":["10","2018","Irvine","LIEM THANH","TRAN","ULTRASOUND TCHNO PRN","121110.00","105415.00","7896.00","7799.00"]},
+{"id":"11","cell":["11","2018","San Francisco","ANGELA K","MARKS","ADMIN MGR 1","121104.00","111979.00","0.00","9125.00"]},
+{"id":"12","cell":["12","2018","Davis","CHRISTINE E","VAN DYKE","CLIN NURSE 2","121104.00","105279.00","3843.00","11982.00"]},
+{"id":"13","cell":["13","2018","San Diego","KRISTINE MAY MAN","ROTONI","CLIN NURSE 2","121104.00","97203.00","4654.00","19247.00"]},
+{"id":"14","cell":["14","2018","San Diego","ANDREW RAY","DAVIS","CLIN NURSE 2","121103.00","100767.00","3402.00","16934.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","BOBBIE","GERRY","CLIN NURSE 3","121102.00","105742.00","255.00","15105.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","MANUEL","ALVANO","CLIN NURSE 2","121101.00","94060.00","11347.00","15694.00"]},
+{"id":"17","cell":["17","2018","San Diego","TOMOKO","HAYASHI","PROJ SCIENTIST-FY","121100.00","121100.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","ANDREY ANATOLYE","KABANTSEV","PROJ SCIENTIST-FY","121100.00","121100.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","REBECCA","BRASSFIELD","AMBUL CARE ADMSTN MGR 1","121097.00","102923.00","0.00","18174.00"]},
+{"id":"20","cell":["20","2018","Davis","DONALD R","SCHAFER","RADLG TCHNO","121097.00","104959.00","7800.00","8338.00"]}]
+}

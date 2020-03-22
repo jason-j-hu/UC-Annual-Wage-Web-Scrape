@@ -1,0 +1,26 @@
+{
+"page" : "1380",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Riverside","RYAN","JULIAN","PROF-AY","135850.00","130358.00","0.00","5492.00"]},
+{"id":"2","cell":["2","2018","Riverside","TIMOTHY","DEBOLT","MARKETING MGR 1","135850.00","135850.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","DEANNA","SAILOR","BUS SYS ANL 4","135850.00","135350.00","0.00","500.00"]},
+{"id":"4","cell":["4","2018","Berkeley","BARBARA","SCULLION","BUS SYS ANL 4","135850.00","135350.00","0.00","500.00"]},
+{"id":"5","cell":["5","2018","Irvine","NICOLE","MARTIN","ADMIN NURSE 3","135845.00","131290.00","0.00","4555.00"]},
+{"id":"6","cell":["6","2018","Davis","SUMMER C","SMITH","QLTY IMPV HC SPEC 4","135841.00","134466.00","0.00","1375.00"]},
+{"id":"7","cell":["7","2018","San Diego","ROSE FITZGERALD","FRITTS","QLTY IMPV HC SPEC 4","135838.00","134838.00","0.00","1000.00"]},
+{"id":"8","cell":["8","2018","San Diego","TODD D","ADAMS","PROCUREMENT MGR 1","135833.00","134533.00","0.00","1300.00"]},
+{"id":"9","cell":["9","2018","San Diego","BREANNA LINEE","LUSTRE","ASC PHYSCN","135833.00","67083.00","0.00","68750.00"]},
+{"id":"10","cell":["10","2018","Berkeley","SCOTT","MCCOY","IT ARCHITECT 4","135829.00","133179.00","0.00","2650.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","LUO","XU","CLIN NURSE 3","135828.00","131947.00","130.00","3751.00"]},
+{"id":"12","cell":["12","2018","San Diego","MICHAEL J","TAUBER","ASSOC PROF-AY","135822.00","105058.00","0.00","30764.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","JOE","BROWN","ADMIN ANL PRN 2","135817.00","125817.00","0.00","10000.00"]},
+{"id":"14","cell":["14","2018","Davis","MATTHEW L.","VAUGHN","HEAD COACH 5","135816.00","126500.00","0.00","9316.00"]},
+{"id":"15","cell":["15","2018","Davis","RACHEL A","WHITMER","PROF-HCOMP","135816.00","88024.00","0.00","47792.00"]},
+{"id":"16","cell":["16","2018","San Diego","SANJAYA","SAXENA","HS CLIN PROF-HCOMP","135816.00","100952.00","0.00","34864.00"]},
+{"id":"17","cell":["17","2018","San Diego","VICTORIA BAISAS","CAJIPE","IP OFCR 4","135815.00","135815.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","REBECCA L","SUDORE","PROF IN RES-HCOMP","135814.00","122193.00","0.00","13621.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","LATOYA","SMALL","ASST PROF-AY","135808.00","101375.00","0.00","34433.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","MARCEL","VILLAMOR","CLIN NURSE 2","135807.00","106828.00","8486.00","20493.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "2825",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","DAVID I","BLACKSBERG","EHS SPEC 3","90090.00","86172.00","0.00","3918.00"]},
+{"id":"2","cell":["2","2018","Irvine","MATTHEW","EICHINGER","CLIN APPLICATIONS PROFL 4","90088.00","83357.00","0.00","6731.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","JUAN","SEBASTIAN","PROGR ANL 3","90087.00","90087.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","BRIAN P.","BLASCHKE","FAC SUPV 2","90087.00","90087.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ERIC","MARIN","LECT-AY-CONTINUING","90086.00","84936.00","0.00","5150.00"]},
+{"id":"6","cell":["6","2018","San Francisco","MARY E","WANG","CLIN NURSE 2","90085.00","78497.00","7242.00","4346.00"]},
+{"id":"7","cell":["7","2018","Berkeley","KATHY","GERITZ","MUSEUM SCI SR","90084.00","90084.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Santa Cruz","THEODORE C","BUCHWALD","SYS ADM 3","90082.00","90082.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Santa Barbara","CONSTANCE","HOWARD","ADMIN MGR 1","90082.00","90082.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","DEBRA LYNN","POLLARD","RSCH ADM 3","90082.00","86944.00","0.00","3138.00"]},
+{"id":"11","cell":["11","2018","Berkeley","SUSAN","PARISH","EVENTS SPEC 4","90082.00","89582.00","0.00","500.00"]},
+{"id":"12","cell":["12","2018","Santa Barbara","DANIEL","CANDIA","SKLD TRADES MECH","90081.00","68820.00","16959.00","4302.00"]},
+{"id":"13","cell":["13","2018","San Diego","KENNETH STANL","DANISZEWSKI","AUDIT PROFL 4","90080.00","90080.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","AMY","AHLERS","DIGITAL COMM SPEC 4","90080.00","90080.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","NANCY J","ALLEN","ACAD PRG MGT OFCR 5","90078.00","90078.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","MICHELLE L","SHAFFER","CLIN NURSE 2","90074.00","76613.00","4746.00","8715.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","LINDA","DO","STDT HEALTH PHYSCN 5","90073.00","90073.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Riverside","TRUDY","COHEN","ADMIN SUPV 2","90073.00","86573.00","0.00","3500.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","HOA","LAM","SRA 4","90072.00","90072.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","SHANPING","CHEN","SRA 4","90072.00","90072.00","0.00","0.00"]}]
+}

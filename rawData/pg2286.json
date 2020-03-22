@@ -1,0 +1,26 @@
+{
+"page" : "2286",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","SHARON","JOHNSON","HR SUPV 2","103927.00","103427.00","0.00","500.00"]},
+{"id":"2","cell":["2","2018","San Francisco","CHRISTOPHER K.","SOTTO","CLIN RSCH SUPV 2","103926.00","103926.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","UCOP","MARK","GOODRICH","PARALEGAL 4","103926.00","103926.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","MARIO A","BAINCO","RADLG TCHNO","103922.00","93114.00","5512.00","5296.00"]},
+{"id":"5","cell":["5","2018","Davis","MICHAEL R","CRANFIELD","FIELD VETERINARIAN 3","103922.00","103922.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","MATTHEW","MUSSER","EEG TCHNO SR","103921.00","89879.00","10353.00","3689.00"]},
+{"id":"7","cell":["7","2018","San Francisco","RHODA MARIE","BYRNE","NURSE PD","103920.00","98101.00","1229.00","4590.00"]},
+{"id":"8","cell":["8","2018","Davis","JON DANIEL","FLYNN","MARKETING SPEC 4","103920.00","103920.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","DAVID J","GONZALEZ","ASST PROF-HCOMP","103920.00","79594.00","0.00","24326.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","CAROLYNN","MARAVILLA","CYTO TCHNO SR","103919.00","103521.00","398.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","TREVOR","KEENAN","ASST RES-AY","103917.00","92917.00","0.00","11000.00"]},
+{"id":"12","cell":["12","2018","San Francisco","MATTHEW MICHAEL","TROJNAR","HEALTH PROFNS EDUC SUPV 2","103916.00","103916.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","JOSE","FERNANDEZ DE SO","ACADEMIC COORD II-FY","103913.00","92863.00","0.00","11050.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","KEN PEI HSIANG","LEE","COMPUTING RESC MGR 2","103909.00","79612.00","0.00","24297.00"]},
+{"id":"15","cell":["15","2018","San Francisco","GOPALA KRIS","ANUMANCHIPALLI","ASSOC RES-FY","103908.00","103908.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","CHAKRAPANI","KALYANARAMAN","ASSOC RES-FY","103908.00","103908.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","DONALD PAUL","LAND","PROF-AY","103908.00","103908.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","IVETTE","HERNANDEZ-TORRE","ASSOC PROF-AY","103908.00","103908.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Irvine","HUGH JOHN","ROBERTS","ASSOC PROF-AY","103908.00","103908.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","PHANG-LANG","CHEN","ASSOC PROF-HCOMP","103908.00","103908.00","0.00","0.00"]}]
+}

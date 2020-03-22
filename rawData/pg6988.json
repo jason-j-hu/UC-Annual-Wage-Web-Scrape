@@ -1,0 +1,26 @@
+{
+"page" : "6988",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","37726.00","37726.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","37726.00","37726.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","SARAH F","VATCH","STDT SVC ADVISOR 3","37725.00","37725.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","TOMAS","CABEZA DE BACA","POSTDOC-EMPLOYEE","37724.00","37724.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","MINA XIAOMENG","JIANG","SRA 2 NEX","37724.00","36674.00","605.00","445.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","MIRCEA","IONCICA","ADMIN CARE PARTNER","37723.00","31563.00","4495.00","1665.00"]},
+{"id":"7","cell":["7","2018","San Diego","KARA MARIKO FUKU","BAYANI","ADMIN OFCR 2","37722.00","37222.00","0.00","500.00"]},
+{"id":"8","cell":["8","2018","Davis","ROBERT RAYMOND","BLUNDELL","JR SPECIALIST","37721.00","37721.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","37721.00","37721.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","COURTNEY","SCOTT","ECHOCARDIOGRAPHIC TCHN SR","37721.00","34685.00","2930.00","106.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MARY","JENSEN","PROGR ANL 2","37721.00","37721.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","EDWIN","GOMEZ","ECHOCARDIOGRAPHIC TCHN SR","37720.00","37219.00","415.00","86.00"]},
+{"id":"13","cell":["13","2018","Berkeley","JOSE","LEDEZMA","FOOD SVC WORKER SR","37720.00","37720.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","MING","YE","SRA 4","37719.00","37719.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","MARIA","BOLANOS ZATARAIN","CUSTODIAN SR","37718.00","37404.00","448.00","-134.00"]},
+{"id":"16","cell":["16","2018","Berkeley","HEBA","FARAG","LAB AST 3","37718.00","37666.00","52.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","DANIEL M","BRYSON","LIBRARY AST 3","37717.00","32934.00","4383.00","400.00"]},
+{"id":"18","cell":["18","2018","Irvine","JEFFREY DONALD","RILEY","ASST PROJ SCIENTIST-FY","37716.00","27208.00","0.00","10508.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","JENNIFER","CONNER","PAT TRANSPORT TCHN 2","37716.00","37046.00","55.00","615.00"]},
+{"id":"20","cell":["20","2018","San Francisco","PAUL S","JHUN","ASC PHYSCN DIPLOMATE","37715.00","20580.00","0.00","17135.00"]}]
+}

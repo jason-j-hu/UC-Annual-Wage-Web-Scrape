@@ -1,0 +1,26 @@
+{
+"page" : "6420",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","NICOLE","CISNEROS","PAT COMM REPR","44241.00","43312.00","929.00","0.00"]},
+{"id":"2","cell":["2","2018","Berkeley","*****","*****","PROJECT POLICY ANL 2","44241.00","43640.00","601.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","LINDSAY MICHELL","SZAFRANSKI","HS CLIN INSTR-HCOMP","44240.00","40396.00","0.00","3844.00"]},
+{"id":"4","cell":["4","2018","Berkeley","*****","*****","SRA 2","44237.00","44237.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","TANIA MAREE","HORNE","VOC REHAB SUPV 2","44237.00","44237.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JULIA","TUBERT","SRA 2 NEX","44237.00","44237.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","SOLEDAD","ESPINOZA","ADMIN SPEC","44235.00","44052.00","183.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","RAMON","ESTRADA","CUSTODIAN SR","44234.00","44234.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Riverside","PAULA","DURON","CUSTODIAN SR","44234.00","42174.00","2041.00","19.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","SAIRA","ESCOBAR","CHILD DEV CTR TEACHER 2","44234.00","43493.00","741.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","MATTHEW D","BROOKS","MED CTR SCRTY OFCR","44233.00","37843.00","3198.00","3192.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ILEANA","GONZALEZ","MED CTR CUSTODIAN SR","44233.00","43163.00","386.00","684.00"]},
+{"id":"13","cell":["13","2018","San Diego","AIDAN IVAR","BROWN","POSTDOC-EMPLOYEE","44233.00","43233.00","0.00","1000.00"]},
+{"id":"14","cell":["14","2018","Irvine","KRUPALI S.","PATEL","HOSP LAB TCHN 2","44232.00","43107.00","354.00","771.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","RACHEL","OLDER","ADMIN SPEC","44232.00","44200.00","32.00","0.00"]},
+{"id":"16","cell":["16","2018","ASUCLA","LAURA","MENDEZ","FOOD SVC WORKER","44232.00","41773.00","2434.00","25.00"]},
+{"id":"17","cell":["17","2018","Riverside","REBECCA","MULAY","CUSTODIAN SR","44232.00","42868.00","0.00","1364.00"]},
+{"id":"18","cell":["18","2018","Berkeley","GEORGE","RUSSELL","HS ASST CLIN PROF-FY","44232.00","40556.00","0.00","3676.00"]},
+{"id":"19","cell":["19","2018","Berkeley","*****","*****","GSR-FULL FEE REM","44232.00","44232.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","CLAUDIA","ORDONEZ","HOSP BLANK AST 1","44231.00","42508.00","841.00","882.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "7234",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","*****","*****","RESID PHYS II-VIII/NON REP","34853.00","34803.00","0.00","50.00"]},
+{"id":"2","cell":["2","2018","San Diego","DAISY ANA","GONZALES","CLIN SOCIAL WORKER 1 NEX","34853.00","34853.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","GABRIEL E","GARCIA","MED CTR CUSTODIAN SR","34852.00","32942.00","1675.00","235.00"]},
+{"id":"4","cell":["4","2018","Davis","LANA E","JOHNSON","REPROGRAPHICS TCHN SR","34852.00","34847.00","5.00","0.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","MEGAN","TURLEY","PROJECT POLICY ANL 2","34852.00","34852.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","THOMAS L","LOWE","RECALL FACULTY","34851.00","34851.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","IMELDA","CARDONA","CUSTODIAN SR","34851.00","34851.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","CLAUDI","ANGUIANO RODRIG","MED CTR FOOD SVC WORKER SR","34850.00","33431.00","1155.00","264.00"]},
+{"id":"9","cell":["9","2018","Davis","ARTURO R","LOPEZ","BLANK AST 1","34850.00","34762.00","76.00","12.00"]},
+{"id":"10","cell":["10","2018","San Francisco","IRINA","DEBNATH","LAB RSCH SUPV 2","34849.00","34849.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","MARIA","QUIJADA","CUSTODIAN SR","34849.00","34849.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","NATASHA LAC","TOLENTINO","NURSE PD","34846.00","26501.00","3853.00","4492.00"]},
+{"id":"13","cell":["13","2018","Davis","ZACHERY J","MILLS","SURGICAL TCHN SR","34844.00","33239.00","309.00","1296.00"]},
+{"id":"14","cell":["14","2018","San Diego","FREDRIC E.","ROSE","LECT-AY-CONTINUING","34844.00","34844.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","EMILIE C","BARRUET","POSTDOC-EMPLOYEE","34843.00","34843.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","ESTHER","SOLIS BECERRA","SRA 1","34843.00","34843.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","LINDA","BEDWELL","ADMIN ANL PRN 1","34842.00","34842.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","34842.00","24496.00","0.00","10346.00"]},
+{"id":"19","cell":["19","2018","Davis","*****","*****","POSTDOC-EMPLOYEE","34841.00","34841.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","34841.00","34841.00","0.00","0.00"]}]
+}

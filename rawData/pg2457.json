@@ -1,0 +1,26 @@
+{
+"page" : "2457",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","NANCY","ANDRADA","CLIN NURSE 2","99311.00","85172.00","252.00","13887.00"]},
+{"id":"2","cell":["2","2018","Davis","AHMED R","YOUSEFI","CLIN APPLICATIONS PROFL 4","99311.00","98436.00","0.00","875.00"]},
+{"id":"3","cell":["3","2018","Davis","NARIYUKI","FUJITA","CONTINUING EDUCATOR II","99310.00","99310.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","JOHN JOSE","APIZ","INFO SYS ANL 3","99307.00","98238.00","1069.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","JONATHAN HIDEO","FURUTA","ULTRASOUND TCHNO PRN","99307.00","98099.00","208.00","1000.00"]},
+{"id":"6","cell":["6","2018","Davis","KATHLEEN A","TURLEY","PHYS THER 2 NEX","99303.00","93795.00","5392.00","116.00"]},
+{"id":"7","cell":["7","2018","San Diego","ALECE L","HON","FINANCIAL ANL 4","99303.00","97553.00","0.00","1750.00"]},
+{"id":"8","cell":["8","2018","San Francisco","SARIT","HELMAN","DATABASE ADM 3","99299.00","99299.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Berkeley","DANIEL","URESTE","ADMIN OFCR 4","99298.00","99298.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","DYAN","KIRSCHENMAN","REVENUE CYCLE HC ANL 4","99294.00","98544.00","0.00","750.00"]},
+{"id":"11","cell":["11","2018","San Diego","JENNIFER B.","MATTHEWS","COMM SPEC 3","99293.00","99293.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Merced","JESUS","CISNEROS","STDT SVC MGR 2","99286.00","99286.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","STEPHANIE","SMITH","EXEC AST 3","99285.00","99285.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","JANICE NOCON","ANDRES","CLIN NURSE 2","99282.00","85461.00","3881.00","9940.00"]},
+{"id":"15","cell":["15","2018","San Francisco","BRIANNA CHRISTIN","KARNOFEL","REG RESP THER 1","99279.00","82551.00","2513.00","14215.00"]},
+{"id":"16","cell":["16","2018","San Diego","MARCON RAMOS","ORODIO","CLIN NURSE 2","99279.00","84992.00","2593.00","11694.00"]},
+{"id":"17","cell":["17","2018","UCOP","SUZANNE","MARTIN","STRAT SOURCING PROFL 4","99278.00","99278.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","PERLA P","ARGAO","ELECTROCARDIOGRAPH TCHN SR","99276.00","85851.00","12234.00","1191.00"]},
+{"id":"19","cell":["19","2018","San Diego","JASON E.","JENNINGS","FINANCIAL ANL 4","99273.00","97273.00","0.00","2000.00"]},
+{"id":"20","cell":["20","2018","Davis","JUSTIN W","GRIFFITHS","REG RESP THER 1","99272.00","96728.00","1935.00","609.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "3542",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","MICHELE","BUTLER","ADMISSIONS RECRMT MGR 1","75286.00","63935.00","0.00","11351.00"]},
+{"id":"2","cell":["2","2018","Davis","KIMBERLY K","PEREZ","CLIN REGIS ANL 3","75285.00","74410.00","0.00","875.00"]},
+{"id":"3","cell":["3","2018","San Francisco","MARIA JOSEFINA P","LORENZANA","HOSP UNIT SVC CRD 3","75283.00","60470.00","8633.00","6180.00"]},
+{"id":"4","cell":["4","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","75283.00","59093.00","0.00","16190.00"]},
+{"id":"5","cell":["5","2018","San Francisco","JASON","NIEMI","SURGICAL TCHN SR","75281.00","70335.00","954.00","3992.00"]},
+{"id":"6","cell":["6","2018","Santa Cruz","ANNE B","DEPAGE","BUS SYS ANL SUPV 2","75281.00","74781.00","0.00","500.00"]},
+{"id":"7","cell":["7","2018","San Diego","REYNA ALICIA","BROWN","BLANK AST 3","75281.00","64152.00","10053.00","1076.00"]},
+{"id":"8","cell":["8","2018","San Francisco","TABITHA A","SEDINO","EXEC AST 3","75280.00","70530.00","0.00","4750.00"]},
+{"id":"9","cell":["9","2018","San Diego","AIMEE JOSEFA","BASOM-TURPIN","FINANCIAL ANL 3","75280.00","73280.00","0.00","2000.00"]},
+{"id":"10","cell":["10","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","75279.00","63179.00","0.00","12100.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","VANESSA","WRIGHT","CLIN NURSE 2","75277.00","71256.00","385.00","3636.00"]},
+{"id":"12","cell":["12","2018","San Francisco","SKY KRISTEN","FEUER","ACADEMIC COORD II-FY","75276.00","75276.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","JOSEPH D","MARTIN","COMM SPEC 3","75276.00","75276.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","PAMELA","REYNOLDS","COMM SPEC 4","75275.00","75275.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","MARY K","BRANT","BUS SYS ANL 3","75274.00","74399.00","0.00","875.00"]},
+{"id":"16","cell":["16","2018","San Francisco","MICHAEL DE VERA","VALENCIA","REG DENTAL AST","75273.00","75104.00","169.00","0.00"]},
+{"id":"17","cell":["17","2018","Riverside","LAURA","BLEVINS","EVENTS SUPV 2","75271.00","75271.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","BRIAN THOMAS","MALONEY","ELECTRN","75267.00","70907.00","4360.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","JESSICA","POWERS","PROGR ANL 2","75267.00","73300.00","1056.00","911.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","EDWARD","SCHATZ","STDT LIFE DEVT SUPV 2","75266.00","75266.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "2901",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","MICHAEL S","CLEGG","SRA 4","88296.00","88296.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","YUHUA","ZHU","SRA 4","88296.00","88296.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","MAY","HTIKE","SRA 4","88296.00","88296.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","YING","CAI","SRA 4","88296.00","88296.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","MICHAL","MACHNICKI","SRA 4","88296.00","88296.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","JENNIFER CORY","FRASCINO","SRA 4","88296.00","88296.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","THANH-MY DINH","NGUYEN","PUBL SFTY DISPATCHER","88296.00","75854.00","7846.00","4596.00"]},
+{"id":"8","cell":["8","2018","San Diego","SANDRA M","URSIC","PUBLICATIONS PROD SPEC 3","88296.00","83748.00","0.00","4548.00"]},
+{"id":"9","cell":["9","2018","Davis","SHEETAL R.","SHAH","CNSLNG PSYCHOLOGIST 2 HX","88295.00","85663.00","0.00","2632.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","TIFFANY","BARRETT","MGR","88293.00","85389.00","0.00","2904.00"]},
+{"id":"11","cell":["11","2018","San Diego","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","88293.00","65665.00","0.00","22628.00"]},
+{"id":"12","cell":["12","2018","San Francisco","AUNG","CHEIN","ASSOC SPECIALIST","88291.00","61111.00","0.00","27180.00"]},
+{"id":"13","cell":["13","2018","Davis","NOELLE K","DUNN","CLIN NURSE 2","88289.00","83938.00","386.00","3965.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","BARRY","MARGOLIS","ACADEMIC ADMINISTRATOR III","88288.00","88288.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","BIANCA","GHERMEZIAN","CLIN NURSE 2","88287.00","80658.00","446.00","7183.00"]},
+{"id":"16","cell":["16","2018","Santa Cruz","GINA RENE","QUOLAS","COMM AND NETWORK TCHL ANL 3","88286.00","87336.00","0.00","950.00"]},
+{"id":"17","cell":["17","2018","San Diego","ADAM DOUGLAS","ROYCE","SYS ADMSTN SUPV 1","88285.00","85027.00","0.00","3258.00"]},
+{"id":"18","cell":["18","2018","San Diego","ROSA M","OLVERA","PAT REL SUPV 2","88282.00","87282.00","0.00","1000.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","GABRIELA","OSEGUERA","REG RESP THER 1","88281.00","83496.00","4138.00","647.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","ROCHELLE","NOEL","ADMIN ANL SR","88281.00","87488.00","0.00","793.00"]}]
+}

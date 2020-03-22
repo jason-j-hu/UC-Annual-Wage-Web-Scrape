@@ -1,0 +1,26 @@
+{
+"page" : "6736",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","SANDRA","OLGEIRSON","MARKETING SPEC 2","40781.00","40781.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","SIGNE","MOORE","NURSE PD","40780.00","39889.00","34.00","857.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","JOSUE","MARTINEZ","PAT TRANSPORT TCHN 2","40779.00","37582.00","2320.00","877.00"]},
+{"id":"4","cell":["4","2018","Merced","MARIA","SOUSA","COOK","40779.00","39077.00","1528.00","174.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","JAMES","PORTER","PUBL EVENTS MGR SUPV NEX","40777.00","40777.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","ABIGAIL","SPINNER","ACAD PRG MGT OFCR 3","40776.00","35374.00","0.00","5402.00"]},
+{"id":"7","cell":["7","2018","San Diego","GRACE","LEE","CLIN NURSE 2","40776.00","32829.00","946.00","7001.00"]},
+{"id":"8","cell":["8","2018","San Francisco","NEJLEH","ABED","HS ASST CLIN PROF-FY","40775.00","40775.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Santa Cruz","KRISTINE ANN","KENNEDY","MED AST 2","40775.00","40775.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","TANYA B","PEREZ","LIBRARY AST 3","40775.00","40764.00","0.00","11.00"]},
+{"id":"11","cell":["11","2018","San Diego","KEVIN DANIEL","CORBETT","ASSOC PROF-HCOMP","40775.00","31698.00","0.00","9077.00"]},
+{"id":"12","cell":["12","2018","Berkeley","SANDRA","JACQUEZ","FOOD SVC SUPV 2","40775.00","40775.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","LEONOR","PIO","CUSTODIAN","40775.00","40241.00","534.00","0.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","IRINA","NIKOLAEVA","BLANK AST 2","40774.00","40774.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","MATTHEW","ARANDA","MED CTR CUSTODIAN SR","40773.00","37422.00","243.00","3108.00"]},
+{"id":"16","cell":["16","2018","Berkeley","CATHERINE","PINKAS","TEACHER-UNEX","40773.00","0.00","0.00","40773.00"]},
+{"id":"17","cell":["17","2018","San Diego","KATHRYN ANN","BEDROUNI","TEACHER-UNEX-CONTRACT YR","40772.00","0.00","0.00","40772.00"]},
+{"id":"18","cell":["18","2018","Davis","*****","*****","TEACHG ASST-GSHIP","40771.00","39024.00","0.00","1747.00"]},
+{"id":"19","cell":["19","2018","San Francisco","JUN HYUNG","SIN","SRA 1","40770.00","40770.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","SARMEN","TER-OGANESYAN","COMPUTER RESC SPEC 2","40770.00","40656.00","114.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "5541",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","*****","*****","POST DDS I-VI/NON REP","52401.00","52401.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Irvine","DALE M","MUDD","POSTDOC-EMPLOYEE","52401.00","52401.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Irvine","BLANCA","MORENO","ADMITTING WORKER PRN","52401.00","51964.00","15.00","422.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","PAOLO","CARPIO","ADMIN SPEC","52400.00","49157.00","2243.00","1000.00"]},
+{"id":"5","cell":["5","2018","ASUCLA","PATRICIA","JUAREZ","FOOD SVC WORKER SR","52400.00","42208.00","10192.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","XI CHENG","SITU","BLANK AST 3","52399.00","52399.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","TIFFANY C","WALLACE","BLANK AST 3","52399.00","51692.00","207.00","500.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","MARITZA","FULJENCIO","STDT SVC ADVISOR 2","52399.00","52399.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","ELIZABETH","HUIZAR","DENTAL AST","52398.00","51725.00","25.00","648.00"]},
+{"id":"10","cell":["10","2018","Berkeley","GISELA","MENDEZ","CUSTODIAN SR","52397.00","50518.00","1781.00","98.00"]},
+{"id":"11","cell":["11","2018","Irvine","EVA M","MAIDA","ADMIN ANL","52396.00","50925.00","246.00","1225.00"]},
+{"id":"12","cell":["12","2018","ASUCLA","FELICIA","KING","ANL 2","52396.00","51543.00","0.00","853.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","NYREE","HAMPARSUMIAN","TRANSPLANT CRD 1","52396.00","52396.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","MARY CHRISTINE K","ANG","ADMIN ANL","52395.00","52395.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","ADRIANA","PEREZ","DIETETIC AST","52395.00","50666.00","720.00","1009.00"]},
+{"id":"16","cell":["16","2018","San Diego","CHANDRA LYNN A.","BANDRIL","FINANCIAL SVC ANL 2","52395.00","50622.00","473.00","1300.00"]},
+{"id":"17","cell":["17","2018","Irvine","MARY A.","CLUMECK","SPEECH PATHOLOGIST PD","52393.00","51207.00","1186.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","MICHELE Y","WU","SRA 2 NEX","52393.00","50209.00","2184.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","STANLEY J","YELONEK","MED CTR COOK","52393.00","47984.00","3416.00","993.00"]},
+{"id":"20","cell":["20","2018","San Diego","KATHERINE M","CROUTHAMEL","SRA 2 NEX","52393.00","52393.00","0.00","0.00"]}]
+}

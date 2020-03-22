@@ -1,0 +1,26 @@
+{
+"page" : "3237",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","STEVEN","KAISER","RSCH AND DEV ENGR 3","81000.00","81000.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","MARIA","NAU","PROJECT POLICY ANL 3","81000.00","81000.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","JOHN","WITKOWSKI","APPLICATIONS PROGR 3","81000.00","81000.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","HEIDI","KAYSER","PUBL ADMSTN ANL SR","81000.00","81000.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","SANDRA","RICHMOND","ADMIN OFCR 4","81000.00","81000.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","WHITNEY","MELLO","EXEC AST 3","81000.00","78500.00","0.00","2500.00"]},
+{"id":"7","cell":["7","2018","San Francisco","WILLIAM J","TOOMEY","ADMIN SUPV 1","80999.00","80999.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Merced","EHSAN","CHOUDHRY","ORGANIZATIONAL CNSLT 3","80999.00","80999.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Merced","CRAIG","HARMELIN","PROJECT POLICY ANL 4","80997.00","80997.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","TERESA","LEONARD","ADMIN ANL SR","80995.00","72943.00","0.00","8052.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","BRETT","LANDENBERGER","PROGR ANL 3","80995.00","78995.00","0.00","2000.00"]},
+{"id":"12","cell":["12","2018","Hastings College Of Law","TERESA L","LONDON","PRIN ADMIN ANALYST","80994.00","80994.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","JOAN GERONIMO","VARIAS","VOC NURSE SR","80993.00","80182.00","149.00","662.00"]},
+{"id":"14","cell":["14","2018","San Francisco","JENNIFER A","MARENCO","PAYROLL ANL 2","80991.00","79281.00","1710.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","KRISTA","MEYER","COMM SPEC 3","80991.00","80991.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","DEANNA","HAMILTON","ADMIN ANL SR SUPV","80989.00","77489.00","0.00","3500.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","KATHRYN","MCCURDY","FIELD RESEARCHER 4","80989.00","80989.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","CRISTINA","SANDOVAL","FIELD RESEARCHER 4","80989.00","80989.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","UCOP","TAYO","OGUNS","FINANCIAL ANL 3","80988.00","80988.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","ANUPAMA","DIMASHKIE","CLIN SPEC EX","80987.00","73707.00","0.00","7280.00"]}]
+}

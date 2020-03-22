@@ -1,0 +1,26 @@
+{
+"page" : "7162",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","ERIC","RAYGOZA","EMERGENCY TRAUMA TCHN","35734.00","33924.00","727.00","1083.00"]},
+{"id":"2","cell":["2","2018","San Diego","REBECCA LYNN","RODD","SRA 2","35734.00","34688.00","0.00","1046.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","GUISELA","CAZUN","CUSTODIAN SR","35733.00","33772.00","738.00","1223.00"]},
+{"id":"4","cell":["4","2018","Berkeley","MICAH","GELL-REDMAN","LECT-FY","35732.00","35732.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","MARTHA ESTELLE","LECHLINSKI","VOC NURSE SR","35731.00","32990.00","2210.00","531.00"]},
+{"id":"6","cell":["6","2018","San Francisco","MAREN","SCHEUNER-PURCEL","HS CLIN INSTR-HCOMP","35731.00","12802.00","0.00","22929.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","35729.00","35629.00","0.00","100.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","TANYA","VAPNIK","PSYCHOLOGIST 1","35729.00","33767.00","0.00","1962.00"]},
+{"id":"9","cell":["9","2018","San Francisco","JANETTE","TANG","SRA 2 NEX","35728.00","35728.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","NHAT","TRUONG","LAB AST 2","35727.00","35727.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","DANIEL","ROCHE","ADJ INSTR-HCOMP","35726.00","19214.00","0.00","16512.00"]},
+{"id":"12","cell":["12","2018","San Diego","MIGUEL ANGEL","RODRIGUEZ","FOOD SVC WORKER LD","35726.00","35375.00","222.00","129.00"]},
+{"id":"13","cell":["13","2018","San Diego","DEREK DANIEL","HICKENBOTTOM","CLIN NURSE 2","35726.00","35028.00","18.00","680.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","*****","*****","GSR-NO REM","35725.00","35154.00","0.00","571.00"]},
+{"id":"15","cell":["15","2018","Irvine","PAUL JAMES","SPENCER","LECT-AY-1/9","35724.00","35378.00","0.00","346.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","ANABEL","VERA","BLANK AST 3","35724.00","35498.00","3.00","223.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","HANNAH ELIZABE","BAZUR-LEIDY","RESC NURSE PD","35722.00","35439.00","82.00","201.00"]},
+{"id":"18","cell":["18","2018","Berkeley","AMBER","BANAYAT","STDT ACAD ADVISOR 3","35721.00","34921.00","0.00","800.00"]},
+{"id":"19","cell":["19","2018","Berkeley","*****","*****","GSR-FULL FEE REM","35721.00","35721.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","35720.00","35720.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "4038",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","YURI","UEHARA","ADMIN ANL","67800.00","67050.00","0.00","750.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","SAGE","DAVIS","RSCH AND DEV ENGR 2","67800.00","67800.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","67798.00","54934.00","0.00","12864.00"]},
+{"id":"4","cell":["4","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","67798.00","62616.00","0.00","5182.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","LUCINDA","DANIELS","PAT RCDS ABSTRACTOR 3","67798.00","67397.00","8.00","393.00"]},
+{"id":"6","cell":["6","2018","Merced","SARAH","SHEETS","LIBRARY PROFL 4","67798.00","67798.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Riverside","DEANNA","WHEELER","EXEC AST 4","67798.00","66298.00","0.00","1500.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","ILJIE","FITZGERALD","HS ASST CLIN PROF-HCOMP","67797.00","67797.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","LESLEY G","TAYLOR","PAT SUPP CALL CTR SUPV 1","67796.00","67796.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","MIRIAM C.","CHILDS","STDT ACAD ADVISOR 3","67795.00","67795.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","RICARDO","CORREA","PROGR ANL 2","67795.00","63301.00","3856.00","638.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","MICHELLE","PHAN","ADMIN ANL","67793.00","62887.00","4906.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","PATRICK M.","ETIENNE","FINANCIAL SVC ANL 3","67793.00","67193.00","0.00","600.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","CHHANDARA","PECH","PUBL ADMSTN ANL SR","67791.00","67791.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","MATTHEW DAVID","HIRSCH","MARINE TCHN 2","67791.00","51037.00","0.00","16754.00"]},
+{"id":"16","cell":["16","2018","Berkeley","MATTHEW","LISIECKI","PROJECT POLICY ANL 3","67787.00","67787.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","SARRA","ZIARI","CAREER SVC SPEC 4","67787.00","67787.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","BENJAMIN","JOHNSON","ADV OFCR 2","67787.00","67787.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","SCOTT","PALANJIAN","PRG REPR SUPV","67787.00","67787.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","CHARLES","MCQUAIN","PROGR ANL 2","67785.00","65560.00","2225.00","0.00"]}]
+}

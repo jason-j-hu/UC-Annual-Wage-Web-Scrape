@@ -1,0 +1,26 @@
+{
+"page" : "3537",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ANDREW","MCCLURE","STDT AFFAIRS OFCR 5","75373.00","71873.00","0.00","3500.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","MARIO","ESTRADA","MGT SVC OFCR 1","75372.00","73085.00","0.00","2287.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","ALONZO","HIGGINS","RESIDENTIAL SVC MECH","75372.00","70282.00","4924.00","166.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","JORGE","LARA","MGT SVC OFCR 1","75371.00","73555.00","0.00","1816.00"]},
+{"id":"5","cell":["5","2018","Berkeley","MARK","BELL","STOREKEEPING SUPV 1","75370.00","71870.00","0.00","3500.00"]},
+{"id":"6","cell":["6","2018","Davis","KATE W","ZHANG","ADMIN SUPV 1","75366.00","69619.00","2617.00","3130.00"]},
+{"id":"7","cell":["7","2018","San Diego","RUSS","TKEBUCHAVA","ACAD HR ANL 2","75366.00","69061.00","4195.00","2110.00"]},
+{"id":"8","cell":["8","2018","Riverside","MATTHEW","SNYDER","LECT-AY-CONTINUING","75364.00","68594.00","0.00","6770.00"]},
+{"id":"9","cell":["9","2018","San Francisco","CHRISTINA NAVARR","ELEAZAR","ADMITTING WORKER SR","75363.00","74343.00","0.00","1020.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","DOUGLAS","HATT","FLEET SVC SUPV 1","75363.00","70634.00","1988.00","2741.00"]},
+{"id":"11","cell":["11","2018","Irvine","GERAINT CHARLES","BELL","PROGR ANL 2","75361.00","74611.00","0.00","750.00"]},
+{"id":"12","cell":["12","2018","Irvine","THUY VI KHA","PHAM","ADMIN ANL","75361.00","72621.00","0.00","2740.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","MAURA","RESNICK","PRG REPR 3","75358.00","75358.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","AMINA Y","MOHAMED","APPLICATIONS PROGR 4","75358.00","75358.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","BRYAN","LEE","BUS TCHL SUPP ANL 3","75358.00","75358.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","TREVOR","MARKS","RSCH AND DEV ENGR 2","75355.00","75355.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","SUSAN","SHEPPARD","FAC MGT SPEC 2","75353.00","72185.00","3168.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","DYLAN G.","PARENTI","INFO SYS SUPV 2","75352.00","57193.00","0.00","18159.00"]},
+{"id":"19","cell":["19","2018","Irvine","DANIEL JOHN","EMRICH","ADMIN ANL SR","75351.00","75351.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","75349.00","61420.00","0.00","13929.00"]}]
+}

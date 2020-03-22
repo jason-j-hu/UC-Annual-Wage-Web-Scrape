@@ -1,0 +1,26 @@
+{
+"page" : "7068",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","JEFFREY JERMAINE","JAMES","FOOD SVC WORKER LD","36835.00","36528.00","0.00","307.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","CHARLIE","CHAVEZ","MEETING ROOM CAPTAIN 2","36833.00","33282.00","2544.00","1007.00"]},
+{"id":"3","cell":["3","2018","Davis","SAMPATH","WIJESINGHE","HS ASST CLIN PROF-HCOMP","36833.00","35583.00","0.00","1250.00"]},
+{"id":"4","cell":["4","2018","Riverside","RAVI","BERRY","ADMIN STIPEND","36833.00","0.00","0.00","36833.00"]},
+{"id":"5","cell":["5","2018","San Francisco","TOBIAS","HAEUSERMANN","POSTDOC-EMPLOYEE","36832.00","35000.00","0.00","1832.00"]},
+{"id":"6","cell":["6","2018","San Diego","ESTHER","WONG","SRA 2 NEX","36832.00","36644.00","188.00","0.00"]},
+{"id":"7","cell":["7","2018","Santa Cruz","GEOFFREY M","CHILDERS","LECT-AY","36831.00","34318.00","0.00","2513.00"]},
+{"id":"8","cell":["8","2018","San Diego","FRANCISCO J","CARDOZA","MED CTR CUSTODIAN","36831.00","34473.00","39.00","2319.00"]},
+{"id":"9","cell":["9","2018","Riverside","WILLIE","THOMPSON","CUSTODIAN SR","36830.00","35590.00","374.00","866.00"]},
+{"id":"10","cell":["10","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","36829.00","31919.00","0.00","4910.00"]},
+{"id":"11","cell":["11","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","36829.00","31919.00","0.00","4910.00"]},
+{"id":"12","cell":["12","2018","Davis","FREDERICK O","MARANIA","CUSTODIAN SR","36828.00","34747.00","0.00","2081.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","XOCHITL","VILLA","BLANK AST 2","36828.00","36596.00","31.00","201.00"]},
+{"id":"14","cell":["14","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","36825.00","33325.00","0.00","3500.00"]},
+{"id":"15","cell":["15","2018","Merced","LUCAS","HO","COOK SR","36825.00","32104.00","3911.00","810.00"]},
+{"id":"16","cell":["16","2018","San Francisco","MALCOLM A","WRIGHT","MED CTR CUSTODIAN SR","36824.00","36665.00","19.00","140.00"]},
+{"id":"17","cell":["17","2018","Davis","CARLOS","FIGUEROA","CLIN RSCH CRD AST","36822.00","35618.00","1204.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Cruz","ERIKA FAYE","RESULTAY","JR SPECIALIST","36822.00","36822.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","*****","*****","GSR-NO REM","36822.00","36822.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","CARMEN","DE LA TORRE MEN","CUSTODIAN SR","36817.00","36121.00","696.00","0.00"]}]
+}

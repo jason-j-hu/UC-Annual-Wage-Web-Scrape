@@ -1,0 +1,26 @@
+{
+"page" : "5806",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","SAVANNAH","COOKSON","POSTDOC-EMPLOYEE","50141.00","50141.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","ADAM WAYNE","AUTRY","POSTDOC-EMPLOYEE","50141.00","50141.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","ALBERTAS","NAVICKAS","POSTDOC-EMPLOYEE","50141.00","50141.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","SON","GIANG","LAB AST 3","50141.00","45927.00","4214.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","JANET","VALENCIA","MED AST","50141.00","47406.00","2298.00","437.00"]},
+{"id":"6","cell":["6","2018","Davis","ANNARITA","MARRANO","POSTDOC-EMPLOYEE","50141.00","50141.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","PADMAJA","VENKATAKRISHNAN","POSTDOC-EMPLOYEE","50141.00","50141.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","SHUCHITA","TIWARI","POSTDOC-EMPLOYEE","50141.00","50141.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","SHUANG","HU","POSTDOC-EMPLOYEE","50141.00","50141.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","PEI","CHENG","POSTDOC-EMPLOYEE","50141.00","50141.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","SHIH LUNG","WOO","POSTDOC-EMPLOYEE","50141.00","50141.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Riverside","CHI","CHAN","POSTDOC-EMPLOYEE","50141.00","50141.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","ZONGLIANG","DU","POSTDOC-EMPLOYEE","50141.00","50141.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","JYOTI","BAROKAR","POSTDOC-EMPLOYEE","50141.00","50141.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","ZACHARY","NEWMAN","POSTDOC-EMPLOYEE","50141.00","50141.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","PAMELA R","LAUCK","LAB AST 3","50139.00","49379.00","760.00","0.00"]},
+{"id":"17","cell":["17","2018","Merced","LUIS","CAYETANO SIMMARI","LECT-AY-1/10","50139.00","47172.00","0.00","2967.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","KYRIACOS","KYRIACOU","BLANK AST 3","50137.00","49915.00","222.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","RUBY","LOREDO ESTRADA","LIBRARY AST 4","50137.00","50137.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","TARUN KRISHNA","CHIGURUPATI","HEALTH PROFNS EDUC SPEC 2","50136.00","48684.00","0.00","1452.00"]}]
+}

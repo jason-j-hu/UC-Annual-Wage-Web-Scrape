@@ -1,0 +1,26 @@
+{
+"page" : "6871",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","MARIA","REYNOSO","BLANK AST 1","39163.00","39163.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ELIA","ENRIQUEZ","BLANK AST 1","39163.00","39163.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","LYUBOV","HUTAN","ADMIN CARE CLIN PARTNER","39163.00","34127.00","2960.00","2076.00"]},
+{"id":"4","cell":["4","2018","San Diego","DIANA MILENA","CUNNINGHAM","NURSE AID SR","39163.00","33955.00","1990.00","3218.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","OSCAR","GONZALEZ","FOOD SVC WORKER","39162.00","33250.00","4866.00","1046.00"]},
+{"id":"6","cell":["6","2018","Riverside","RITA","KAHN","LECT-AY-1/9","39162.00","39162.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Santa Cruz","ALISON NICOLE","WENGER","BLANK AST 3","39161.00","38391.00","0.00","770.00"]},
+{"id":"8","cell":["8","2018","San Diego","MAYELA","SOLIS DE ORTIZ","MED CTR CUSTODIAN","39161.00","37285.00","872.00","1004.00"]},
+{"id":"9","cell":["9","2018","San Diego","JOHN MARC C","MACARAEG","MED CTR STOREKEEPER","39160.00","36399.00","419.00","2342.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","NZUBE","ETONYE","ADMIN CARE CLIN PARTNER","39159.00","37260.00","23.00","1876.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","EMILIO","RONQUILLO","SRA 1","39158.00","39158.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","ANNETTE","PERCY","FOOD SVC WORKER SR","39158.00","38571.00","352.00","235.00"]},
+{"id":"13","cell":["13","2018","Davis","PARUL","PURI","NURSE PD","39156.00","39156.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","CIERRA G","KATSURANIS","NURSE PD","39156.00","36005.00","1328.00","1823.00"]},
+{"id":"15","cell":["15","2018","Santa Cruz","TAMMY LYNN","FOX","COOK","39155.00","36972.00","155.00","2028.00"]},
+{"id":"16","cell":["16","2018","Irvine","AMY SWEE","NICA","CHILD DEV CTR CRD","39153.00","35509.00","0.00","3644.00"]},
+{"id":"17","cell":["17","2018","Davis","MARIA BEATRICE E","MENOR","JR SPECIALIST","39153.00","38814.00","339.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","JOSEPH LEE","WITZTUM","RECALL FACULTY","39153.00","39153.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","THOMAS J","STRATTON","CMTY EDUC SPEC 2","39152.00","39152.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","MIRIAM","KORAL","LECT-AY-CONTINUING","39151.00","39151.00","0.00","0.00"]}]
+}

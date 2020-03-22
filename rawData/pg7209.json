@@ -1,0 +1,26 @@
+{
+"page" : "7209",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","*****","*****","TEACHG ASST-GSHIP","35165.00","35065.00","0.00","100.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","JOSE","FLORES RIVAS","CUSTODIAN SR","35164.00","33804.00","0.00","1360.00"]},
+{"id":"3","cell":["3","2018","Davis","SHAQUILLE D","WOOLFOLK","CUSTODIAN","35163.00","34627.00","0.00","536.00"]},
+{"id":"4","cell":["4","2018","Irvine","RAYMOND JOEMMIE","MONTOYA","NURSE PD","35162.00","34684.00","478.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","VELADIA","JACKSON","CUSTODIAN SR","35162.00","33846.00","1316.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","ANA","SANCHEZ","BLANK AST 2","35160.00","33496.00","0.00","1664.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","VILMA I.","BABB DAWSON","ADMIN ANL SR","35160.00","24121.00","0.00","11039.00"]},
+{"id":"8","cell":["8","2018","San Francisco","FAYE F","WONG","RADLG TCHNO PRN","35158.00","29909.00","257.00","4992.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","SALAHADIN","AHMED","PARKING REPR SR","35158.00","32969.00","2189.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","AENOY","LUM","ULTRASOUND TCHNO SR","35158.00","34429.00","121.00","608.00"]},
+{"id":"11","cell":["11","2018","Riverside","ERIC","CASTILLO","FARM LABORER","35157.00","35127.00","30.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","MAGGIE","GOODSON","LAB AST 2","35156.00","35156.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","MICHELLE ABARIEN","TILLMAN","ALUMNI EXTERNAL REL SPEC 3","35156.00","35156.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","NICHOLAS G","MACIAS","SRA 1","35155.00","34180.00","975.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","MEGAN","GLASSON","FUNDRAISER 4","35155.00","29997.00","0.00","5158.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","CRISTIAN","RODRIGUEZ","MED CTR CUSTODIAN SR","35154.00","35145.00","7.00","2.00"]},
+{"id":"17","cell":["17","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","35153.00","34803.00","0.00","350.00"]},
+{"id":"18","cell":["18","2018","Irvine","*****","*****","RESID PHYS II-VIII/NON REP","35153.00","34803.00","0.00","350.00"]},
+{"id":"19","cell":["19","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","35153.00","34803.00","0.00","350.00"]},
+{"id":"20","cell":["20","2018","Irvine","*****","*****","RESID PHYS II-VIII/REP","35153.00","34803.00","0.00","350.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "3642",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","EDWARD","KAGIMU","STERILE PROCESSING TCHN 2","73554.00","58769.00","12128.00","2657.00"]},
+{"id":"2","cell":["2","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","73554.00","61420.00","0.00","12134.00"]},
+{"id":"3","cell":["3","2018","San Diego","TAMARA LYNN","RIBBE","PAT RCDS ABSTRACTOR 3","73554.00","70806.00","1998.00","750.00"]},
+{"id":"4","cell":["4","2018","Davis","SHAWNA","FERGUSON","HOSP LAB TCHN 1","73553.00","73553.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","EM","NGUYEN","HOSP LAB TCHN 1","73553.00","73553.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","DANNA XI","LI","OPS ROOM SUPP AST","73552.00","63965.00","2853.00","6734.00"]},
+{"id":"7","cell":["7","2018","Davis","TRAVIS S","BURNS","SRA 4","73552.00","73552.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","KIMBERLY","GUESS","HEALTH EDUCATOR 4","73552.00","73552.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","JENNIFER L","LOWERY","RSCH DATA ANL 3","73550.00","73550.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","DEVEN","DESAI","FUNDRAISER 3 GF","73550.00","73550.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","LUCY","TSENG","ADMIN ANL","73547.00","71165.00","0.00","2382.00"]},
+{"id":"12","cell":["12","2018","Davis","GWENDOLYN DENISE","SHARPER","HOSP MED TRANSCRIBER SR","73547.00","67675.00","5872.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","TRISHA A","YASSEAR","CLIN RSCH CRD","73546.00","70034.00","3512.00","0.00"]},
+{"id":"14","cell":["14","2018","Riverside","KAREN","FIORENZA","HEALTH EDUCATOR 4","73546.00","67569.00","0.00","5977.00"]},
+{"id":"15","cell":["15","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","73544.00","60644.00","0.00","12900.00"]},
+{"id":"16","cell":["16","2018","San Diego","ELIZABETH ANNE","BOYD","CLIN NURSE 3","73543.00","68440.00","3178.00","1925.00"]},
+{"id":"17","cell":["17","2018","San Francisco","JUDITH","GONZALEZ","PHARMACY TCHN 2","73541.00","61678.00","8771.00","3092.00"]},
+{"id":"18","cell":["18","2018","San Francisco","JOANIE","NAIFY","PHARMACY TCHN 2","73541.00","63775.00","5005.00","4761.00"]},
+{"id":"19","cell":["19","2018","Irvine","GARY","MORENO","MED CTR ELECTR TCHN","73541.00","67278.00","785.00","5478.00"]},
+{"id":"20","cell":["20","2018","Davis","KRISTINA R","GONZALES","VOC NURSE SR","73540.00","72259.00","1262.00","19.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "4569",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","MARIA JESUSA G","LUIS","PAT SUPP AST","61689.00","56718.00","3432.00","1539.00"]},
+{"id":"2","cell":["2","2018","Davis","CATHERINE H.","LOGE","FUNDRAISER 3","61689.00","61314.00","375.00","0.00"]},
+{"id":"3","cell":["3","2018","Irvine","SHANNON MARIE","VANCE","MGR","61686.00","61686.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","KELLY","BOBAK","PHARMACY TCHN 2","61686.00","57045.00","3403.00","1238.00"]},
+{"id":"5","cell":["5","2018","San Francisco","MARI DIANE VE","DEL CASTILLO","PAT CARE AST","61685.00","53591.00","3747.00","4347.00"]},
+{"id":"6","cell":["6","2018","Irvine","DIANNA","SAHHAR","LIBRARY AST 4","61685.00","61539.00","146.00","0.00"]},
+{"id":"7","cell":["7","2018","UCOP","MABEL","ALDRETE","COMPENSATION ANL 2","61685.00","57375.00","3810.00","500.00"]},
+{"id":"8","cell":["8","2018","San Francisco","KATRINA","LITVINSKY","BLANK AST 3","61683.00","60161.00","382.00","1140.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","JACOB","LES","ADMIN SPEC","61682.00","55754.00","0.00","5928.00"]},
+{"id":"10","cell":["10","2018","Davis","KARL T","LUND","ASST COOP EXT ADVISOR","61681.00","61681.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","ANTONIA","RIBAS DA SILVA","ADMIN OFCR 2","61680.00","61680.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","ALLISON MIC","MORENO-SUARES","BENEFITS ANL 2","61679.00","58923.00","0.00","2756.00"]},
+{"id":"13","cell":["13","2018","Davis","JAMES D","GLOEGE","PHYS PLT MECH","61678.00","61678.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","ROMERIO F","SHERMAN","STEAMFITTER","61676.00","59766.00","1197.00","713.00"]},
+{"id":"15","cell":["15","2018","Irvine","BRENT C.","LOVE","SRA 2","61675.00","61675.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","NAZ","MOTEBASSEM","VOC NURSE PD","61674.00","57786.00","3037.00","851.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","GERARDO","MUNOZ","FAC MECH","61674.00","57467.00","4196.00","11.00"]},
+{"id":"18","cell":["18","2018","Irvine","CRISTINA S.","GUZMAN","CLIN NURSE 2","61672.00","55901.00","119.00","5652.00"]},
+{"id":"19","cell":["19","2018","ASUCLA","KEENAN","RIGGS","FAC MECH","61672.00","57726.00","3941.00","5.00"]},
+{"id":"20","cell":["20","2018","San Francisco","*****","*****","CHIEF RESID PHYS-NON REP","61670.00","61670.00","0.00","0.00"]}]
+}

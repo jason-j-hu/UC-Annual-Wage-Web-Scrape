@@ -1,0 +1,26 @@
+{
+"page" : "861",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","CATHERINE MARY","O\"CONNOR","NURSE PRACT 2","166407.00","165251.00","0.00","1156.00"]},
+{"id":"2","cell":["2","2018","San Diego","APRIL DREAM GENT","TE","CLIN NURSE 2","166393.00","123413.00","26415.00","16565.00"]},
+{"id":"3","cell":["3","2018","San Francisco","EDMON D","OBINIANA","ADMIN MGR 2","166389.00","150050.00","0.00","16339.00"]},
+{"id":"4","cell":["4","2018","Irvine","PRISCILLA LAY","DUONG","CLIN NURSE SUPV 3 NEX","166387.00","141931.00","11195.00","13261.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","WILVERA","BAYANI","CLIN NURSE 2","166379.00","131312.00","24835.00","10232.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","THEODORE","BRAUN","DIR","166377.00","154590.00","0.00","11787.00"]},
+{"id":"7","cell":["7","2018","San Francisco","ANTHONY EDWARD","PREVEDELLO","BUS SYS ANL 5","166374.00","166374.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","GINGER MARIE","ZARAGOZA","CLIN NURSE 2","166371.00","140549.00","0.00","25822.00"]},
+{"id":"9","cell":["9","2018","Davis","LEANA M","ASTON","AMBUL CARE PAT MGR 2","166368.00","154594.00","0.00","11774.00"]},
+{"id":"10","cell":["10","2018","San Francisco","CAROLINE","TOBIN","CLIN NURSE 3","166366.00","163933.00","612.00","1821.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","LEEZA","LEE","ADMIN NURSE 1","166364.00","142714.00","14430.00","9220.00"]},
+{"id":"12","cell":["12","2018","Merced","DEBORAH","WIEBE","PROF-AY","166364.00","161558.00","0.00","4806.00"]},
+{"id":"13","cell":["13","2018","Berkeley","ANDREW","CAMPBELL","ACAD PRG MGT OFCR 4","166360.00","166360.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","ALYSON J","VOLTMER","CLIN NURSE 2","166357.00","161091.00","3256.00","2010.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","BRANDY","BRYANT","MGR","166356.00","152220.00","0.00","14136.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","STACEY","PARK","STF PHARMACIST 1 NEX","166352.00","162011.00","1285.00","3056.00"]},
+{"id":"17","cell":["17","2018","Merced","AUTUMN","SALAZAR","CONTRACTS AND GRANTS MGR 3","166352.00","166352.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","MATTHEW L.","HUFFMAN","PROF-AY","166343.00","131167.00","0.00","35176.00"]},
+{"id":"19","cell":["19","2018","San Francisco","BONNIE JACQUELIN","JOHNSON","ACAD HR ANL 5","166332.00","166332.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","JIE","HUANG","SPEC","166328.00","133102.00","0.00","33226.00"]}]
+}

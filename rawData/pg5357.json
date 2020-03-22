@@ -1,0 +1,26 @@
+{
+"page" : "5357",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","SCOTT A","CAMERON","POSTDOC-EMPLOYEE","54054.00","54054.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","JESSICA L","NUSBAUM","MARKETING SPEC 4","54054.00","54054.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","MONIKA K","SINGH","PAT BILLER 3","54054.00","54142.00","-88.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","AYAL","LAVI","POSTDOC-EMPLOYEE","54054.00","54054.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","RODELIO","ACOB","PERINATAL TCHN 2","54054.00","47986.00","189.00","5879.00"]},
+{"id":"6","cell":["6","2018","Santa Cruz","EDWARD","PEREPELITSKY","POSTDOC-EMPLOYEE","54054.00","54054.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Santa Cruz","JANNINE","FORST","POSTDOC-EMPLOYEE","54054.00","54054.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","DANIEL E","CARLIN","POSTDOC-EMPLOYEE","54054.00","54054.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","JAMES E","HALL","POSTDOC-EMPLOYEE","54054.00","54054.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Riverside","NATHAN","PRICE","POSTDOC-EMPLOYEE","54054.00","54054.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","CRISTIN","SALMERON SALVAD","POSTDOC-EMPLOYEE","54054.00","54054.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","JULIA WING YAN","KAM","POSTDOC-EMPLOYEE","54054.00","54054.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","SAE-HEE C","LEE","ADMIN OFCR 2","54052.00","53349.00","0.00","703.00"]},
+{"id":"14","cell":["14","2018","San Diego","PRISCILLA A","HUNTER","NURSE PD","54052.00","54052.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","KEVIN M","YATES","ELECTR TCHN","54051.00","53934.00","117.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","JILL SPEAR","LIVINGSTON","ADMIN ANL","54050.00","50920.00","0.00","3130.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","SYLVIA","PEREZ","PUBL ADMSTN ANL","54050.00","54050.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","MYRNA DEE","KIKUCHI","STDT AFFAIRS OFCR 2","54050.00","54050.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","VERONICA M","SANCHEZ","REVENUE CYCLE HC ANL 1","54049.00","51655.00","1424.00","970.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","KATHY","QUISPE","STDT AFFAIRS OFCR 2","54049.00","50657.00","3392.00","0.00"]}]
+}

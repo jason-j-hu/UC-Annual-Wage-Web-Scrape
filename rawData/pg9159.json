@@ -1,0 +1,26 @@
+{
+"page" : "9159",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","*****","*****","GSR-FULL FEE REM","15986.00","15986.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","JI","QI","HS CLIN INSTR-HCOMP","15986.00","11409.00","0.00","4577.00"]},
+{"id":"3","cell":["3","2018","Davis","*****","*****","JR SPECIALIST","15985.00","15985.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","MILENA","GIANFRANCESCO","POSTDOC-EMPLOYEE","15984.00","13578.00","0.00","2406.00"]},
+{"id":"5","cell":["5","2018","San Francisco","VERNE A,III","OVERTON","CUSTODIAL HC SUPV 1","15984.00","15984.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","JAMES D.","BELLUZZI","RECALL HCOMP","15984.00","15984.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","RAFAEL","PONCE","CUSTODIAN SR","15984.00","15225.00","451.00","308.00"]},
+{"id":"8","cell":["8","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","15984.00","15984.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","15984.00","15984.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","15983.00","15983.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","*****","*****","SRA 1","15982.00","15982.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","STEVEN M","DEGEYTER","LABORER","15981.00","15874.00","107.00","0.00"]},
+{"id":"13","cell":["13","2018","Riverside","RACHELLE","SAWATSKY","LECT-AY-1/9","15981.00","15981.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","JOAN M.","FAIRBURN","BLANK AST 3","15980.00","15102.00","0.00","878.00"]},
+{"id":"15","cell":["15","2018","Berkeley","ALEXANDER FRIEDRICH","LEDER","POSTDOC-EMPLOYEE","15979.00","15979.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","MICHAEL JOSEPH","SCIARAPPA","STDT AFFAIRS OFCR 3 EX","15979.00","15979.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","ZACHARY B","MAR","AMBUL CARE ADMSTN CRD 2","15978.00","11051.00","0.00","4927.00"]},
+{"id":"18","cell":["18","2018","San Francisco","SANDRA E","WILLARD","PSYCHOLOGIST 2","15978.00","15978.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","*****","*****","DELIVERY WORKER","15978.00","15380.00","593.00","5.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","15978.00","15978.00","0.00","0.00"]}]
+}

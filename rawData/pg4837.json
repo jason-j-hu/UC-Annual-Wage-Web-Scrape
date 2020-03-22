@@ -1,0 +1,26 @@
+{
+"page" : "4837",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","KENNETH EUGENE","MEYERHOFFER","RECR PRG INSTR 2","58984.00","58984.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","SHUKI","CHAN","HOSP BLANK AST 3","58984.00","56290.00","0.00","2694.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","PETER","TRAN","PROGR ANL 2 SUPV","58984.00","55839.00","2701.00","444.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","VISITH","UY","PUBL ADMSTN ANL SR","58984.00","58984.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","BETH A","SORENSEN","CURRICULUM PLNR 2","58984.00","57201.00","867.00","916.00"]},
+{"id":"6","cell":["6","2018","San Diego","*****","*****","RESID PHYS II-VIII/REP","58984.00","55584.00","0.00","3400.00"]},
+{"id":"7","cell":["7","2018","San Diego","JENNIFER LYNN","JONES","FINANCIAL ANL 2","58984.00","58984.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","LISA","DE LA CRUZ","BLANK AST 3","58983.00","58875.00","108.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","DANIEL","JESSIE","LECT-AY","58982.00","48084.00","0.00","10898.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ANDREW","SZAJCZYK","PHYS PLT SUPT AST","58982.00","58482.00","0.00","500.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","ZHIQIANG","ZHOU","SRA 3","58982.00","58982.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","LINDSAY WITMER","DILLON","CLIN RSCH SUPV 2","58982.00","58982.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","DEBORAH","CAHN-WEINER","BEH HEALTH PSYCHIATRIC PROFL 4","58981.00","58681.00","0.00","300.00"]},
+{"id":"14","cell":["14","2018","San Diego","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","58981.00","55581.00","0.00","3400.00"]},
+{"id":"15","cell":["15","2018","Berkeley","RICHARD","BABB","BLANK AST 2","58981.00","58904.00","77.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","ARACELI","PEREZ LOPEZ","ASST PROJ SCIENTIST-FY","58980.00","58980.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","LISA","PARK","ADMIN ANL SR","58976.00","58976.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","ADEMA JANE","AQUINO","HOSP BLANK AST 3","58975.00","56283.00","1807.00","885.00"]},
+{"id":"19","cell":["19","2018","Irvine","ANDREA","FARIA","ADMITTING WORKER PRN","58975.00","54077.00","4468.00","430.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","APRIL","JOHNSON","PUBL ADMSTN ANL SR","58975.00","58975.00","0.00","0.00"]}]
+}

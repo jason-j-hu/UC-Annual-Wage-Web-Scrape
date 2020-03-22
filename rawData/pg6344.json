@@ -1,0 +1,26 @@
+{
+"page" : "6344",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","MARY SIOBHAN","MC LAUGHLIN","HOSP BLANK AST 3","45034.00","43978.00","56.00","1000.00"]},
+{"id":"2","cell":["2","2018","Irvine","LILIANA JESSETH","LOPEZ","ADMITTING WORKER PRN","45033.00","42352.00","1630.00","1051.00"]},
+{"id":"3","cell":["3","2018","Davis","EMILY N","SPECE","MED OFC SVC CRD 2","45032.00","44887.00","145.00","0.00"]},
+{"id":"4","cell":["4","2018","UCOP","DANIEL","SCUIRY","BENEFITS ANL 3","45032.00","44429.00","0.00","603.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","GEORGIOS","KOUTROULAKIS","LECT-AY","45031.00","45031.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","CHRISTOPHER S","WADSWORTH","ASC PHYSCN DIPLOMATE","45030.00","12964.00","0.00","32066.00"]},
+{"id":"7","cell":["7","2018","Davis","JORGE L,JR","OROPEZA","DATA SYS ANL 2","45029.00","43425.00","1018.00","586.00"]},
+{"id":"8","cell":["8","2018","Irvine","JANELLE ANNE AQU","TADIQUE","CLIN NURSE 1","45029.00","41063.00","1995.00","1971.00"]},
+{"id":"9","cell":["9","2018","Santa Barbara","MARZIEH","KAVAND","POSTDOC-EMPLOYEE","45029.00","45029.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","ISMAEL","RAMIREZ-SANCHEZ","CUSTODIAN","45029.00","44244.00","785.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","JULIA","BLACKSCHLEGER","MED AST 2","45028.00","42040.00","2563.00","425.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","JAVIER","BELTRAN","MED CTR FOOD SVC WORKER PRN","45028.00","40867.00","3613.00","548.00"]},
+{"id":"13","cell":["13","2018","San Diego","ELIZABETH ROSE","WEINRIB","CLIN NURSE 2","45028.00","43933.00","423.00","672.00"]},
+{"id":"14","cell":["14","2018","Berkeley","BITA","AZIMI RASHTI","RECR PRG INSTR 1","45026.00","0.00","0.00","45026.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","TIFFANY","COLLINS","BLANK AST 3","45026.00","44164.00","362.00","500.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","LORENA","CASTRO","PAT COMM REPR","45025.00","45025.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","DARIUS DEE","LAHTINEN","REAL ESTATE OFCR 3","45024.00","42573.00","0.00","2451.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","PHRINDA","CHHOEUN","BLANK AST 2","45023.00","44273.00","0.00","750.00"]},
+{"id":"19","cell":["19","2018","Davis","TRACI M","CORDA GIORDANO","CASE MGR PD","45023.00","44687.00","0.00","336.00"]},
+{"id":"20","cell":["20","2018","San Diego","RICARDO","RODRIGUEZ","BUS TCHL SUPP ANL 2","45023.00","43722.00","0.00","1301.00"]}]
+}

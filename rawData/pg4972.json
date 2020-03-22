@@ -1,0 +1,26 @@
+{
+"page" : "4972",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","ERIN K.","O\"BRIEN","ADMIN OFCR 2","57666.00","57666.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Berkeley","SAVANNAH","HEAP","PROJECT POLICY ANL 3","57666.00","57666.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Riverside","JENNIFER","KAVETSKY","STDT ACAD SPEC 3","57665.00","56665.00","0.00","1000.00"]},
+{"id":"4","cell":["4","2018","San Diego","LINDA RIOS","PENALOZA","HOSP BLANK AST 3","57665.00","54966.00","1685.00","1014.00"]},
+{"id":"5","cell":["5","2018","Irvine","IRENE","VORONTSOVA","POSTDOC-EMPLOYEE","57664.00","57664.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","HIROMI","WETTERSTEN","POSTDOC-EMPLOYEE","57664.00","57664.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","MISUN","KANG","POSTDOC-EMPLOYEE","57663.00","57663.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","VICTORIA","GROPP","ADMIN SPEC","57663.00","56463.00","0.00","1200.00"]},
+{"id":"9","cell":["9","2018","Davis","MELISSA M","WHALEY","STDT ACAD ADVISOR 2","57663.00","57363.00","0.00","300.00"]},
+{"id":"10","cell":["10","2018","Santa Cruz","CAREN E","CAMBLIN","LECT-AY-CONTINUING","57663.00","54708.00","0.00","2955.00"]},
+{"id":"11","cell":["11","2018","Davis","MARLON S","COVELL","CTRL STERILE SUPV 1","57662.00","55259.00","781.00","1622.00"]},
+{"id":"12","cell":["12","2018","San Francisco","JEAN PAUL","ARMACHE","POSTDOC-EMPLOYEE","57660.00","57660.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","DANIELA","ABIB","ADMIN SPEC","57660.00","52626.00","0.00","5034.00"]},
+{"id":"14","cell":["14","2018","Davis","SHREE P","THAPA","POSTDOC-EMPLOYEE","57660.00","57660.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","BARBARA","NEWTON","BLANK AST 3","57660.00","57229.00","431.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","ANDREW M","HAU","POSTDOC-EMPLOYEE","57660.00","57660.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","PRAHNE","AKSHAYALINGAM V","POSTDOC-EMPLOYEE","57660.00","57660.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Cruz","SALVADOR,JR.","PENA","AUTO EQUIP OPR PRN","57659.00","53544.00","1355.00","2760.00"]},
+{"id":"19","cell":["19","2018","Irvine","CATHERINE","MEDINA","PAT BILLER 3","57658.00","56972.00","26.00","660.00"]},
+{"id":"20","cell":["20","2018","Davis","BECKY L","PRICKETT","PROJECT POLICY ANL 2","57658.00","57152.00","10.00","496.00"]}]
+}

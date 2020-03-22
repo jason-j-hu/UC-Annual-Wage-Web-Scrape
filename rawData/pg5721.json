@@ -1,0 +1,26 @@
+{
+"page" : "5721",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","MAURICIO T","RODRIGUEZ","CMTY EDUC SPEC 2","50864.00","49995.00","-10.00","879.00"]},
+{"id":"2","cell":["2","2018","Irvine","ANITA DHALARI","CENTENO","BLANK AST 3","50863.00","50039.00","824.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","MACHIKO NAGATA","MURDOCK","SRA 2 NEX","50863.00","50814.00","49.00","0.00"]},
+{"id":"4","cell":["4","2018","Santa Barbara","VINCENT","RODRIGUEZ","STDT ACAD ADVISOR 3","50861.00","50861.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","JOWELL V","DOMINGUEZ","HOSP BLANK AST 3","50860.00","45259.00","1085.00","4516.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","MATTHEW","BALDRIDGE","PROGR ANL 1","50860.00","50860.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Santa Barbara","VALERIE","BATIKIAN","STDT AFFAIRS OFCR 1","50860.00","50860.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","INGRID","ELKEN","STDT AFFAIRS OFCR 1","50860.00","50860.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","JENNIFER G","STILLWELL","ACAD HR ANL 1","50860.00","50035.00","30.00","795.00"]},
+{"id":"10","cell":["10","2018","San Diego","MARIA TERESITA G","BACCAY","VOC NURSE SR","50860.00","46097.00","4763.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","LIVIER","PALOMERA","MED CTR CUSTODIAN SR","50860.00","42873.00","5377.00","2610.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","CESAR","FERNANDEZ","STDT AFFAIRS OFCR 2","50860.00","50860.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","LILIBETH","LOPEZ","BLANK AST 3","50859.00","49405.00","454.00","1000.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","TIESHIA","POGUES-MILLS","PAT BILLER 3","50859.00","47742.00","1752.00","1365.00"]},
+{"id":"15","cell":["15","2018","Davis","YEIMI","HEREDIA JUAREZ","MED OFC SVC CRD 3","50859.00","49411.00","1448.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","ALEXIS ALEXANDRA","SULLIVAN","CLIN RSCH CRD","50857.00","50857.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","ROBERT P,JR","BACLAAN","MED CTR FOOD SVC WORKER SR","50857.00","48268.00","1449.00","1140.00"]},
+{"id":"18","cell":["18","2018","Riverside","PAUL","PARISI","MAINT B LD","50857.00","29314.00","16545.00","4998.00"]},
+{"id":"19","cell":["19","2018","Davis","LILIANA E","SMITH","MED AST 2","50856.00","50856.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","ASHLEIGH NICOLE","CSIKOS","CLIN NURSE 2","50855.00","42567.00","916.00","7372.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "5117",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","CHAD","BROWN","FAC SUPV 1","56257.00","55928.00","329.00","0.00"]},
+{"id":"2","cell":["2","2018","Hastings College Of Law","CHELSEY K","CROWLEY","ADMIN SPECIALIST","56257.00","53997.00","2260.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","ERICHA W","WRIGHT","MED CTR COOK","56256.00","56043.00","213.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","ROSE A","PHILIPPS","RSCH ADM 2","56256.00","56256.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","ALEXIS K","GULLY","DIETETIC AST","56256.00","52370.00","3473.00","413.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","NOEMI","ROMERO","BLANK AST 3 SUPV","56256.00","52979.00","2527.00","750.00"]},
+{"id":"7","cell":["7","2018","San Diego","JULIA ELIA","MCAVOY","HOSP BLANK AST 3","56256.00","53737.00","1477.00","1042.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","GERARDO","VASQUEZ","BLDG MAINT WORKER SR","56254.00","49755.00","6499.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","REBECCA","VELEZ","BLANK AST 3","56254.00","55504.00","0.00","750.00"]},
+{"id":"10","cell":["10","2018","San Diego","SEAN WILLIAM","PFEIFER","RSCH ADM 2","56253.00","54253.00","0.00","2000.00"]},
+{"id":"11","cell":["11","2018","Santa Cruz","CANDACE LEE","COLEMAN","BUS SYS ANL 3","56252.00","55252.00","0.00","1000.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ATEF","SHAWKY","FOOD SVC MGR AST SUPV","56251.00","44791.00","11757.00","-297.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","JIM","LOPEZ","EMERGENCY MED TCHN SR","56251.00","45809.00","8175.00","2267.00"]},
+{"id":"14","cell":["14","2018","Irvine","LISA XINGGUANG","LEE","HS ASST CLIN PROF-HCOMP","56250.00","27051.00","0.00","29199.00"]},
+{"id":"15","cell":["15","2018","Davis","FELICIA E","MILLER","FINANCIAL AID OFCR 3","56250.00","56080.00","170.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Cruz","JOSEPH N","BURCHETT","POSTDOC-EMPLOYEE","56250.00","56250.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","UCOP","ANDREW","MURDOCK","COMM SPEC 4","56250.00","55232.00","0.00","1018.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","JULIA MORROW","KERRIGAN","HS CLIN INSTR-HCOMP","56250.00","45625.00","0.00","10625.00"]},
+{"id":"19","cell":["19","2018","San Francisco","WEN","LI","POSTDOC-EMPLOYEE","56248.00","56248.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","RINTARO","HASHIMOTO","HS CLIN INSTR-HCOMP","56248.00","56248.00","0.00","0.00"]}]
+}

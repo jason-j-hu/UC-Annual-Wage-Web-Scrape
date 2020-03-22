@@ -1,0 +1,26 @@
+{
+"page" : "4846",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","LATASHA M","AMOS","MED AST 2","58894.00","58160.00","734.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","TIM","GAO","ADMIN ANL SR","58893.00","58768.00","0.00","125.00"]},
+{"id":"3","cell":["3","2018","San Francisco","FUXIN","LU","ASSOC SPECIALIST","58892.00","58892.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","JOCELYN","FERNANDO","MED CTR FOOD SVC WORKER SR","58892.00","55642.00","2100.00","1150.00"]},
+{"id":"5","cell":["5","2018","Irvine","LISA KATHLEEN","CASSAR","CLIN NURSE 2","58892.00","55577.00","1136.00","2179.00"]},
+{"id":"6","cell":["6","2018","San Francisco","LARA","REICHMAN","GENETIC CNSLR 2 EX","58891.00","56166.00","0.00","2725.00"]},
+{"id":"7","cell":["7","2018","Davis","JASMINE L","NARAYAN","MED AST 2","58891.00","58236.00","655.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","ELIZABETH ANN","FELANDO","RSCH ADM 2","58891.00","58891.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","AUDREY J.","BELL","HOSP BLANK AST 2","58890.00","56635.00","925.00","1330.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","JOANNA","HERNANDEZ","BLANK AST 3","58890.00","58558.00","42.00","290.00"]},
+{"id":"11","cell":["11","2018","Davis","VICKY M","HALL","MED OFC SVC CRD 3","58889.00","58860.00","29.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","DANIELLE","BLACK","PHLEBOTOMIST CERT TCHN 2","58889.00","55904.00","1095.00","1890.00"]},
+{"id":"13","cell":["13","2018","San Francisco","LANI TRINA","DEL ROSARIO","RSCH CMPLNC ANL 2","58888.00","57888.00","0.00","1000.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","MOLLY","JACOBS","LECT-AY","58888.00","54349.00","0.00","4539.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","LESLIE","CHEW","BLANK AST 3","58888.00","55937.00","154.00","2797.00"]},
+{"id":"16","cell":["16","2018","Berkeley","MARIA","URIARTE","ATH PROFL 4 BYA","58888.00","58888.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","ANGELA M","TYLER","ADMIN OFCR 2","58887.00","57613.00","774.00","500.00"]},
+{"id":"18","cell":["18","2018","Davis","WILLIAM,JR.","TUCK","BLANK AST 4","58886.00","57432.00","1454.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","MARSHA","DUNN","BLANK AST 3","58885.00","56311.00","2574.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","DIANA","ESPINOSA","HOSP BLANK AST 3","58883.00","57436.00","1085.00","362.00"]}]
+}

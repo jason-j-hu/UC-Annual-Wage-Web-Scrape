@@ -1,0 +1,26 @@
+{
+"page" : "6047",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","WILLIAM","SPAIN","ATH PROFL 3 BYA","48069.00","48069.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","DAVID J","MATSON","COMPUTER RESC SPEC 1","48069.00","48069.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","ELINA","YEGIYAN","MED CTR FOOD SVC WORKER SR","48069.00","43759.00","2523.00","1787.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","RONALD","TUCKER","ADMIN SPEC","48069.00","48069.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","CYRAIL","SMITH","BLANK AST 3","48069.00","47117.00","944.00","8.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","NATHAN","ANDERSON","ADV OFCR 1","48069.00","48069.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","BRANDON","OSBORN","ATH PROFL 3 BYA","48069.00","48069.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Santa Cruz","MICHELLE L","SASSE","GARDENER GROUNDSKEEPER","48069.00","47069.00","0.00","1000.00"]},
+{"id":"9","cell":["9","2018","Berkeley","SCOTT","ORLOFF","MUSEUM PREPARATOR PRN","48069.00","48069.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","REYNALDO A","MANUEL","TCHN","48068.00","41111.00","6964.00","-7.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","HUI","LIU","PUBL ADMSTN ANL","48068.00","44363.00","0.00","3705.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ALLEN","BABER","MED CTR STOREKEEPER","48068.00","44341.00","3446.00","281.00"]},
+{"id":"13","cell":["13","2018","San Francisco","LEWIS A.","MYERS","PAT SUPP AST","48067.00","41281.00","1710.00","5076.00"]},
+{"id":"14","cell":["14","2018","San Diego","CAROLINA","PRICE","BLANK AST 3","48067.00","48067.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Merced","MARCOS","PENA","GROUNDSKEEPER LD","48067.00","47453.00","614.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","KENNETH","ROGERS","CUSTODIAN","48066.00","37761.00","7925.00","2380.00"]},
+{"id":"17","cell":["17","2018","Davis","TROY R","MCWILLIAMS","AGRICULTURAL TCHN SR","48066.00","47616.00","450.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","JOSE","HERNANDEZ","CMTY HEALTH PRG REPR","48065.00","46642.00","64.00","1359.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","TASHA","COOK","ADMIN CARE CLIN PARTNER","48065.00","46140.00","1308.00","617.00"]},
+{"id":"20","cell":["20","2018","San Diego","MARCELLA PAZ","RAMOS","HOSP BLANK AST 3","48065.00","46904.00","411.00","750.00"]}]
+}

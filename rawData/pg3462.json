@@ -1,0 +1,26 @@
+{
+"page" : "3462",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","JOSE","LOPEZ","FOOD SVC MGR SR","76697.00","77297.00","0.00","-600.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","JASON","BERGSCHNEIDER","STDT AFFAIRS OFCR 3 EX","76697.00","75997.00","0.00","700.00"]},
+{"id":"3","cell":["3","2018","San Diego","WES L","WINKLESS","CONST INSP 3","76697.00","76697.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","*****","*****","RESID PHYS II-VIII/NON REP","76696.00","58496.00","0.00","18200.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ALVEN","YE","ADMIN ANL SR","76696.00","75896.00","0.00","800.00"]},
+{"id":"6","cell":["6","2018","Hastings College Of Law","SIMONA","SCOTTI","SR ADMIN ANALYST","76696.00","76696.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Hastings College Of Law","CHARLES E","LEUNG","SR ADMIN ANALYST","76696.00","76696.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","JESSICA","BAN","PRG REPR 3","76695.00","76695.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","RICHARD C","WALSH","MARINE TCHN 3 NEX","76695.00","68286.00","8409.00","0.00"]},
+{"id":"10","cell":["10","2018","Riverside","WENDY","WILLIAMS-CLARK","HR GENERALIST 2","76694.00","61377.00","1009.00","14308.00"]},
+{"id":"11","cell":["11","2018","Riverside","ALEX","MACIAS","MAINT B","76693.00","75608.00","1072.00","13.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","MICHAEL","IBALE","ADMIN ANL SR SUPV","76692.00","75192.00","0.00","1500.00"]},
+{"id":"13","cell":["13","2018","San Diego","RAZELENE SALENGA","CASTRO","CLIN NURSE 2","76692.00","68491.00","1379.00","6822.00"]},
+{"id":"14","cell":["14","2018","San Diego","JAN HAROLD","GATMAYTAN","RESP CARE PRACT TCHN","76691.00","68113.00","1040.00","7538.00"]},
+{"id":"15","cell":["15","2018","Davis","ELEONORA","NAPOLI","ASSOC PROJ SCIENTIST-FY","76688.00","76688.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","KRISTI","MARES","FINANCIAL SVC ANL 4","76688.00","76688.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","ANDREW STEVEN","DELAROSA","APPLICATIONS PROGR 3","76687.00","76687.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","LYNN ALAN","LAUMANN","APPLICATIONS PROGR 3","76686.00","74686.00","0.00","2000.00"]},
+{"id":"19","cell":["19","2018","Berkeley","ROBERT","HOLD","DIGITAL COMM SPEC 4","76685.00","76685.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","SUSAN","IVEY","ADJ PROF-AY","76684.00","76684.00","0.00","0.00"]}]
+}

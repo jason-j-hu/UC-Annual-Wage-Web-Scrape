@@ -1,0 +1,26 @@
+{
+"page" : "6636",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","JESUS","SANCHEZ","REHAB AID 2","41927.00","41645.00","35.00","247.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","KIMBERLY","HUGHES","BLANK AST 2","41927.00","41535.00","392.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","SHYAMSUNDAR","PAL CHINA","POSTDOC-EMPLOYEE","41927.00","41927.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","DAISY","DO","HOSP UNIT SVC CRD 3","41926.00","39221.00","865.00","1840.00"]},
+{"id":"5","cell":["5","2018","San Diego","TAKAE","OHNISHI","LECT-AY-CONTINUING","41926.00","41926.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","ZACHARY R","HANNA","POSTDOC-EMPLOYEE","41924.00","41924.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","*****","*****","GSR-FULL FEE REM","41924.00","41224.00","0.00","700.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","FRANCIS","YANG","PUBL ADMSTN ANL","41923.00","41923.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","DAWN ELIZABETH","CRAWFORD","VOC NURSE","41922.00","40979.00","943.00","0.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","GUADALUPE Y","GONZALEZ-YEPEZ","RSCH ADM 2","41922.00","38762.00","496.00","2664.00"]},
+{"id":"11","cell":["11","2018","Berkeley","SHU","LIN","FOOD SVC WORKER SR","41922.00","39722.00","2200.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","JOSHOA","SANTOS","BLANK AST 3","41920.00","41804.00","116.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","JENNIFER LYNN","BISSET","VOC NURSE SR","41920.00","41920.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","LI MIN","KWONG","COOK","41920.00","40642.00","3.00","1275.00"]},
+{"id":"15","cell":["15","2018","San Diego","KAITLYN J","KRISHNA","CHILD DEV CTR TEACHER 2","41919.00","38511.00","0.00","3408.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","MARIA","CERVANTES VENTURA","CUSTODIAN SR","41918.00","41846.00","72.00","0.00"]},
+{"id":"17","cell":["17","2018","ASUCLA","ROSALINA","DIAZ DE CHACON","CUSTODIAN SR","41917.00","39221.00","1329.00","1367.00"]},
+{"id":"18","cell":["18","2018","Davis","LISHAN B","AMDE","ASST PROF-AY","41916.00","34417.00","0.00","7499.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","FABIOLA","MARTINEZ","CHILD DEV CTR TEACHER 2","41916.00","41341.00","575.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","WEICHAO","LI","CUSTODIAN LD","41916.00","41233.00","602.00","81.00"]}]
+}

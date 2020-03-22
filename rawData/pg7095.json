@@ -1,0 +1,26 @@
+{
+"page" : "7095",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","CHRISTINE M","ROGALSKI","BLANK AST 3","36507.00","36507.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","36507.00","33007.00","0.00","3500.00"]},
+{"id":"3","cell":["3","2018","San Francisco","ROBERT J","HANCE","SRA 3","36506.00","36506.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","LORELLA","GINO","BLANK AST 3","36506.00","36506.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","ANDREW C","KOBACH","POSTDOC-EMPLOYEE","36506.00","36506.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","MELISSA S","LANDEROS","MARKETING SPEC 2","36505.00","36505.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","MARIA","CASTRO","BLANK AST 2","36504.00","36504.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Riverside","PEDRO","CASTILLO","CUSTODIAN SR","36503.00","35201.00","144.00","1158.00"]},
+{"id":"9","cell":["9","2018","Davis","ERIN L","CARLSON","SRA 3","36502.00","36502.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","SAIMA","DEEN","SRA 1","36502.00","36502.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Riverside","CATHERYNE","CIANCI","REVENUE CYCLE HC MGR 1","36501.00","26307.00","0.00","10194.00"]},
+{"id":"12","cell":["12","2018","San Diego","BRAD S","COHEN","TUT-NON STDNT","36500.00","36400.00","0.00","100.00"]},
+{"id":"13","cell":["13","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","36499.00","36399.00","0.00","100.00"]},
+{"id":"14","cell":["14","2018","Santa Cruz","ELISE MARIE","MC CANDLESS","PROJECT POLICY ANL 4","36498.00","35498.00","0.00","1000.00"]},
+{"id":"15","cell":["15","2018","Riverside","MICHAEL","KELLY","CUSTODIAN SR","36498.00","33433.00","1678.00","1387.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","ANTONIO","CALDERON","GROUNDSKEEPER","36496.00","27654.00","74.00","8768.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","*****","*****","PROGR ANL 1","36496.00","35564.00","910.00","22.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","SERGE","ALEXANIAN","PHYSCN SR","36494.00","11667.00","0.00","24827.00"]},
+{"id":"19","cell":["19","2018","Berkeley","CYNTHIA","STEELE","CHILD DEV CTR TEACHER 1","36494.00","31970.00","205.00","4319.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","VERIDIANA","URIBE","REG RESP THER PD","36493.00","34120.00","2012.00","361.00"]}]
+}

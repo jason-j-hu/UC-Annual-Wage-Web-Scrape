@@ -1,0 +1,26 @@
+{
+"page" : "5778",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","BRENDAN C","EHLERMANN","EMERGENCY TRAUMA TCHN SR","50398.00","47612.00","2063.00","723.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","KIMBERLY","GOUVEIA","PRG REPR 2","50397.00","48850.00","925.00","622.00"]},
+{"id":"3","cell":["3","2018","Berkeley","MICHAEL","HAMMER","BLDG MAINT WORKER","50397.00","49480.00","917.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","MICHAEL","STUBBS","MED CTR COOK","50396.00","44602.00","5314.00","480.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","PHILIP","ROSENBAUM","SRA 1","50396.00","48048.00","1227.00","1121.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","SIRANUSH","BAGDASARIAN","BLANK AST 3","50396.00","50396.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","AN","LE","BLANK AST 2","50396.00","46707.00","89.00","3600.00"]},
+{"id":"8","cell":["8","2018","Irvine","GERALD D","MCMILLAN","STDT AFFAIRS OFCR 2","50395.00","50395.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","DINA","EIDINGER","MGT SVC OFCR 1 SUPV","50393.00","48120.00","0.00","2273.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","HALEY","HRNCIR","SRA 1","50393.00","50393.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","QINGSONG","TU","POSTDOC-EMPLOYEE","50393.00","50393.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","SHANNON M","ADAMO","CLIN NURSE 3","50392.00","46806.00","1297.00","2289.00"]},
+{"id":"13","cell":["13","2018","Santa Cruz","CLEA MIEL","HERMANSON","FUNDRAISER 2 NEX","50392.00","50392.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","JENNIFER L","BARTZ","FINANCIAL SVC ANL 2","50392.00","50392.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","SERINA","SANTOLERI-COSTANZA","SCRTY GUARD SR","50392.00","44485.00","5393.00","514.00"]},
+{"id":"16","cell":["16","2018","Irvine","CAMILLE KE-MIN","LAWS","ADMIN ANL","50391.00","49991.00","0.00","400.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","CHRISTINA","GOMEZ","ADMIN ANL AST","50391.00","49238.00","943.00","210.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","VINCENT","CROCE","INTERCOL ATH COACH AST EX","50391.00","45109.00","0.00","5282.00"]},
+{"id":"19","cell":["19","2018","San Diego","DAVID","ESPIRITU JR","THEATER PROD SPEC 2","50391.00","44373.00","0.00","6018.00"]},
+{"id":"20","cell":["20","2018","San Francisco","ELIZABETH SERRAN","PALOMAR","HOSP BLANK AST 2","50390.00","47839.00","1346.00","1205.00"]}]
+}

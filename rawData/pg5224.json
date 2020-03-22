@@ -1,0 +1,26 @@
+{
+"page" : "5224",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","MARIA CLARIZZA","NOCUM","BLANK AST 3","55291.00","45781.00","9186.00","324.00"]},
+{"id":"2","cell":["2","2018","Irvine","JULIANNE M","SALES","ADMIN ANL","55290.00","55196.00","94.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","VERONICA","CHAVEZ","BLANK AST 3","55289.00","51120.00","4169.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","JOAN","STOCKER","MED OFC SVC CRD 2","55289.00","55289.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Davis","ANA M","LOPEZ","MED OFC SVC CRD 2","55289.00","55289.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","JORGE J","RAMOS","MED OFC SVC CRD 2","55289.00","55077.00","212.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","ROWENA A.","DAVIS","HOSP BLANK AST 3","55289.00","54168.00","120.00","1001.00"]},
+{"id":"8","cell":["8","2018","San Francisco","MANUEL S","KENERY","MED CTR CUSTODIAN SR","55288.00","54307.00","81.00","900.00"]},
+{"id":"9","cell":["9","2018","Davis","DENISE","BRONNER","POSTDOC-EMPLOYEE","55288.00","55288.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","KIMBERLY D.","WOO","BLANK AST 3","55287.00","54287.00","0.00","1000.00"]},
+{"id":"11","cell":["11","2018","Irvine","LARISA ALEXEY","KARKAFI","LECT-AY","55287.00","55113.00","0.00","174.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","ELYSA","PACHECO","SURGICAL TCHN","55287.00","53841.00","539.00","907.00"]},
+{"id":"13","cell":["13","2018","Davis","OSCAR","SAAVEDRA JR","BLANK AST 3","55287.00","55287.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","CELIA","VALLADARES","CMTY HEALTH PRG REPR SR","55286.00","52809.00","499.00","1978.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","FRANCISCO","RODRIGUEZ MERAZ","FAC WORKER","55286.00","50996.00","852.00","3438.00"]},
+{"id":"16","cell":["16","2018","Davis","LORI J","CHAPMAN","MED OFC SVC CRD 3","55285.00","53079.00","2186.00","20.00"]},
+{"id":"17","cell":["17","2018","UCOP","JUDY","GARNET","PAYROLL ANL 2","55284.00","54309.00","975.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","BLANCA","GARCIA","BLDG MAINT WORKER SR","55282.00","54933.00","344.00","5.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","MINERVA","CORTEZ","BLANK AST 3","55282.00","55094.00","188.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","AMY","LOU","STDT SVC ADVISOR 2","55281.00","54517.00","764.00","0.00"]}]
+}

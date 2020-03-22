@@ -1,0 +1,26 @@
+{
+"page" : "5076",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Cruz","SCOTT G","TRUGMAN","BLANK AST 3","56626.00","56626.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","ALEXANDRA","CUGNIER","ADMIN OFCR 2","56626.00","56626.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","UCOP","CIERRA","COVARRUBIAS","BLANK AST 3","56626.00","56626.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","ISAAC","DOMINGUEZ","HOSP BLANK AST 2","56626.00","48682.00","702.00","7242.00"]},
+{"id":"5","cell":["5","2018","Berkeley","JUDY","DELIRAMICH","BLANK AST 3","56626.00","55626.00","0.00","1000.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","LAURIE","BRANAGAN","COMPUTER NETWORK TCHNO 3","56625.00","56625.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Riverside","MARGI","BURNETT","ACAD HR ANL 2","56625.00","56025.00","0.00","600.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","TINA","PITTS","ADMIN ANL","56624.00","55793.00","831.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","EMILY C","ZINN","HEALTH TCHN 3","56624.00","42878.00","7114.00","6632.00"]},
+{"id":"10","cell":["10","2018","San Diego","FELECIA S","MYERS","HOSP LAB TCHN 1","56624.00","56624.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","JOHN SAHAGUN","SANTOS","PHARMACY TCHN 2","56623.00","54298.00","816.00","1509.00"]},
+{"id":"12","cell":["12","2018","Santa Barbara","CHRISTIAN","MATT","POSTDOC-EMPLOYEE","56623.00","56623.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Riverside","DENNIS","MCIVER","STDT ACAD SPEC 3","56623.00","54873.00","0.00","1750.00"]},
+{"id":"14","cell":["14","2018","San Diego","MYRA LYNN","BAUTISTA","EVENTS SPEC 3","56622.00","55272.00","0.00","1350.00"]},
+{"id":"15","cell":["15","2018","Irvine","TERENCE","LIBEIRO","POSTDOC-EMPLOYEE","56621.00","56621.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","JUNE","VARGAS","MED OFC SVC CRD 3","56621.00","56396.00","225.00","0.00"]},
+{"id":"17","cell":["17","2018","Merced","JENNIFER","SOUZA","STDT ACAD ADVISOR 3","56621.00","56621.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","CLAUDIA","RICKERBY","CLIN NURSE 2","56620.00","55271.00","179.00","1170.00"]},
+{"id":"19","cell":["19","2018","San Francisco","JENNIFER LOUISE","LEONARD","NURSE PD","56619.00","54007.00","292.00","2320.00"]},
+{"id":"20","cell":["20","2018","Davis","NITIN B","PARIKH","CLIN INFORMATICS SPEC 4","56619.00","56619.00","0.00","0.00"]}]
+}

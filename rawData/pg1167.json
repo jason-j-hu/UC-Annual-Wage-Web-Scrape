@@ -1,0 +1,26 @@
+{
+"page" : "1167",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","CAROLYN","MURRY","MGR","146660.00","146660.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Berkeley","BENJAMIN","PORTER","DIRECTOR","146659.00","111775.00","0.00","34884.00"]},
+{"id":"3","cell":["3","2018","San Diego","JASON KENNETH","ROGERS","PHYSCN NETWORK DEV SPEC 4","146652.00","135992.00","0.00","10660.00"]},
+{"id":"4","cell":["4","2018","San Francisco","JESSICA","KVITKO","CLIN NURSE 2","146651.00","126811.00","7100.00","12740.00"]},
+{"id":"5","cell":["5","2018","San Francisco","AMBER","FITZSIMMONS","ASST ADJ PROF-HCOMP","146639.00","103466.00","0.00","43173.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","MARC","BACHRACH","BIOMED EQUIP TCHN 3","146637.00","109588.00","22010.00","15039.00"]},
+{"id":"7","cell":["7","2018","San Diego","DAVID W.","ANDERSON","CLIN NURSE 2","146636.00","128650.00","7539.00","10447.00"]},
+{"id":"8","cell":["8","2018","Riverside","CHRISTOPHER","RICHMOND","ENTERPRISE RISK MGR 1","146633.00","146633.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","MARK-GERALD GUZM","GOCE","ULTRASOUND TCHNO SR","146630.00","125036.00","5834.00","15760.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","CINDY","SMITH GAGLE","DIR","146626.00","145226.00","0.00","1400.00"]},
+{"id":"11","cell":["11","2018","Riverside","KENT","JOHNSON","ASSOC RES-FY-B/E/E","146625.00","146625.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","AMATO TOMAS","EVAN","ASSOC PROF-AY","146625.00","108758.00","0.00","37867.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","MARIA","TANTANIA","CLIN NURSE 2","146623.00","118694.00","10635.00","17294.00"]},
+{"id":"14","cell":["14","2018","Santa Barbara","DERON","BURKEPILE","ASSOC PROF-AY","146617.00","116517.00","0.00","30100.00"]},
+{"id":"15","cell":["15","2018","San Diego","BILL","LIN","PROF-AY-B/E/E","146617.00","146617.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","SHAOFEI","TU","ADMIN NURSE 2 NEX","146612.00","138200.00","1420.00","6992.00"]},
+{"id":"17","cell":["17","2018","San Francisco","WILSON","NG","RADLG TCHNO PRN","146608.00","144186.00","779.00","1643.00"]},
+{"id":"18","cell":["18","2018","Berkeley","MAURA","NOLAN","ASSOC PROF-AY","146608.00","129108.00","0.00","17500.00"]},
+{"id":"19","cell":["19","2018","San Diego","PAUL K","HUGHES","DATA SYS ANL 4","146598.00","146598.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","HECTOR","CALDERON","PROF-AY","146595.00","143375.00","0.00","3220.00"]}]
+}

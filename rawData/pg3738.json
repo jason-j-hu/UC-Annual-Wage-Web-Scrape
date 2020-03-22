@@ -1,0 +1,26 @@
+{
+"page" : "3738",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","ELIZA","PIERRE","COACH AST 2","72100.00","72100.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","GRETCHE","MATSUMOTO","PRG REPR SUPV","72097.00","72097.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","MYRNA","ALVAREZ","ADMIN SPEC","72097.00","70950.00","235.00","912.00"]},
+{"id":"4","cell":["4","2018","San Diego","PAUL M","KRUEGER","TCHL PROJECT MGT PROFL 3","72097.00","71597.00","0.00","500.00"]},
+{"id":"5","cell":["5","2018","Davis","LAUREL V.C.","ODE-SCHNEIDER","COMM SPEC 4","72095.00","72095.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","MICHAEL","BLEVINS","HOSP LAB TCHN 2","72095.00","64439.00","6618.00","1038.00"]},
+{"id":"7","cell":["7","2018","Davis","ANGELA","SANGUINETTI","ASST RES-FY","72094.00","72094.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","ANTHONY CARL","AHUE","HVAC MECH","72094.00","69662.00","2432.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","NAIRA","SHIRVANYAN","ADMIN ANL SR SUPV","72094.00","65373.00","0.00","6721.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ASHOK KUMAR","VERMA","ASST PROJ SCIENTIST-FY","72092.00","72092.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","CHARLES DANIEL","STONER","ANESTHESIA TCHN 3","72091.00","69960.00","819.00","1312.00"]},
+{"id":"12","cell":["12","2018","San Diego","CESAR BOSAS","JOCOSING","STERILE PROCESSING TCHN 2","72091.00","50472.00","20411.00","1208.00"]},
+{"id":"13","cell":["13","2018","Davis","JULIA","YU","CLIN NURSE 2","72090.00","66117.00","1852.00","4121.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","MARTIN","CAESAR","MGT SVC OFCR 2","72090.00","68802.00","0.00","3288.00"]},
+{"id":"15","cell":["15","2018","Berkeley","ZIADA","TEWELDE","STDT SVC ADVISOR 3","72090.00","72090.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","YANG","CAO","SPECIALIST","72088.00","72088.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","STACY","CASTELLANOS","ANL 4","72084.00","72084.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","ANNIE","SZETO","PROJECT POLICY ANL 2","72082.00","72064.00","18.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","VICTOR","MORROW","CUSTODIAN SUPV","72081.00","58309.00","8665.00","5107.00"]},
+{"id":"20","cell":["20","2018","Davis","MATTHEW P","FAVETTI","APPLICATIONS PROGR 4","72080.00","72080.00","0.00","0.00"]}]
+}

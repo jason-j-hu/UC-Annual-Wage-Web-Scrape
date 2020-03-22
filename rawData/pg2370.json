@@ -1,0 +1,26 @@
+{
+"page" : "2370",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","KATHLEEN L","ARVIDSON-AGAH","CLIN NURSE 2","101640.00","80498.00","7320.00","13822.00"]},
+{"id":"2","cell":["2","2018","San Diego","TENEILLE MARIE","DE LIMA","CLIN NURSE 2","101639.00","93923.00","5080.00","2636.00"]},
+{"id":"3","cell":["3","2018","San Francisco","PATRICK LAWRENCE","WHITE","BUS TCHL SUPP ANL 2","101634.00","88982.00","7918.00","4734.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","FELICIA","CODREA","CLIN SPEC EX","101631.00","92496.00","0.00","9135.00"]},
+{"id":"5","cell":["5","2018","San Diego","NOUREDDINE SAMIR","CHEHADE","BUS DEV HC PROFL 4","101631.00","100631.00","0.00","1000.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","TODD","WEBER","PROGR ANL 3 SUPV","101629.00","101629.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","LYNN","WONG","MGR","101626.00","101626.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","KATHRYN","KIETZMAN","PUBL ADMSTN ANL PRN","101626.00","99626.00","0.00","2000.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","CRYSTA","RICH","NURSE PD","101626.00","91428.00","3966.00","6232.00"]},
+{"id":"10","cell":["10","2018","San Francisco","JARROD T","BREDE","HOSP LAB TCHN 3","101624.00","98869.00","1612.00","1143.00"]},
+{"id":"11","cell":["11","2018","San Diego","CHRISTINA MARIE","SPUCCES","CLIN NURSE 2","101624.00","89283.00","2406.00","9935.00"]},
+{"id":"12","cell":["12","2018","San Francisco","DOUGLAS M","BLACK","CLIN RSCH ANL 4","101622.00","96622.00","0.00","5000.00"]},
+{"id":"13","cell":["13","2018","Davis","STEPHANIE L.","MUDGE","ASSOC PROF-AY","101621.00","101621.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","CINDY L","NUNES","AMBUL CARE ADMSTN SUPV 1","101619.00","97891.00","0.00","3728.00"]},
+{"id":"15","cell":["15","2018","San Diego","SCOTT ALEXANDER","SAGLE","RECORDS ANL 4","101616.00","99216.00","0.00","2400.00"]},
+{"id":"16","cell":["16","2018","San Diego","LOURDES","SMITH HUIDOR","PROJECT POLICY ANL 4","101613.00","96613.00","0.00","5000.00"]},
+{"id":"17","cell":["17","2018","Irvine","JESSICA ANNE","FARLEY","POLICE OFCR","101611.00","83072.00","17533.00","1006.00"]},
+{"id":"18","cell":["18","2018","Riverside","JANETTE","DUCUT","TRAINING DEV MGR 1","101611.00","101111.00","0.00","500.00"]},
+{"id":"19","cell":["19","2018","Merced","VICTORIA","KUPO","STDT ACAD MGR 2","101610.00","96333.00","0.00","5277.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","VINCENT","FLOURNOY","MGT SVC OFCR 2","101607.00","96807.00","0.00","4800.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "4850",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","LEAH CABALBAG","TIONG","STERILE PROCESSING TCHN 2","58850.00","42868.00","14050.00","1932.00"]},
+{"id":"2","cell":["2","2018","Berkeley","ELAD","REGEV","PHYS PLT LABORER GARDENER B","58849.00","58698.00","151.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","BRIANNA","HEATH","LAB RSCH SUPV 1","58848.00","57962.00","0.00","886.00"]},
+{"id":"4","cell":["4","2018","Riverside","WEI-CHUN","LEE","CAREER SVC SPEC 3","58848.00","58348.00","0.00","500.00"]},
+{"id":"5","cell":["5","2018","San Diego","BAHARIN","ABDULLAH","CLIN RSCH CRD","58848.00","58848.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","FRANCIS","GONZALES","ALUMNI EXTERNAL REL SPEC 3","58846.00","58846.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","ROBERTO","PONCE","FAC MECH","58846.00","58329.00","517.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","GILDA","MOADAB","SRA 4","58845.00","58845.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","RACHEL","VAUGHN","LECT-AY","58845.00","58845.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","KATHLEEN","PRADO-GIBSON","BLANK AST 3","58844.00","58838.00","0.00","6.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","CICELY","BROWN","PAT BILLER 3","58844.00","56004.00","1572.00","1268.00"]},
+{"id":"12","cell":["12","2018","Davis","SARAH J","KOLLER","LIBRARY SUPV 2","58843.00","58843.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Francisco","FERNAND ANDALLO","REGALADO","BLANK AST 2","58842.00","52930.00","670.00","5242.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","CELIA","GOMEZ","HOSP BLANK AST 3","58841.00","58189.00","7.00","645.00"]},
+{"id":"15","cell":["15","2018","San Francisco","JUAN JOSE","FERRETTI","GI ENDOSCOPY TCHN 2","58840.00","55598.00","1523.00","1719.00"]},
+{"id":"16","cell":["16","2018","Davis","LEANN M","LEGER","MED AST 2","58840.00","58039.00","801.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","YOLANDA","THOMAS","BLANK AST 3","58840.00","56913.00","1327.00","600.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","JAMECA","TUCKER","RESC NURSE PD","58840.00","53006.00","248.00","5586.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","LAURA","LAZO","HOSP LAB TCHN 2","58840.00","58572.00","227.00","41.00"]},
+{"id":"20","cell":["20","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","58839.00","19289.00","0.00","39550.00"]}]
+}

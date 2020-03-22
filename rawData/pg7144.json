@@ -1,0 +1,26 @@
+{
+"page" : "7144",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Cruz","MELINDA ELIZABET","SHERWOOD","BLANK AST 3","35961.00","31718.00","0.00","4243.00"]},
+{"id":"2","cell":["2","2018","San Diego","JORDAN A","PIPER","CLIN NURSE 1","35961.00","32479.00","88.00","3394.00"]},
+{"id":"3","cell":["3","2018","Davis","MICHAEL P","LEAL","CUSTODIAN","35959.00","33829.00","57.00","2073.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","EDDIE JOON","PARK","POSTDOC-EMPLOYEE","35958.00","35958.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","PATRICK","MAO","APPLICATIONS PROGR 4","35957.00","35957.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","HOLI","LEDERER","PAT COMM REPR","35957.00","35837.00","120.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","ALEJANDRA N","RUBIO","BLANK AST 2","35956.00","35956.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","LI","ZHANG","MED CTR COOK","35952.00","35487.00","168.00","297.00"]},
+{"id":"9","cell":["9","2018","Davis","DONNA L","ANDERSON","BLANK AST 3","35952.00","34088.00","1864.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","35951.00","30909.00","0.00","5042.00"]},
+{"id":"11","cell":["11","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","35951.00","30909.00","0.00","5042.00"]},
+{"id":"12","cell":["12","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","35951.00","30909.00","0.00","5042.00"]},
+{"id":"13","cell":["13","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","35951.00","30909.00","0.00","5042.00"]},
+{"id":"14","cell":["14","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","35951.00","30909.00","0.00","5042.00"]},
+{"id":"15","cell":["15","2018","San Diego","KAREN J","LEHMANN","SCENE TCHN","35951.00","35911.00","40.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","NAMRATA","KUMAR","CUSTODIAN","35950.00","33857.00","19.00","2074.00"]},
+{"id":"17","cell":["17","2018","Santa Cruz","JOSHUA MICHAEL","MEKO","LAB AST 2","35950.00","35950.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","35949.00","30907.00","0.00","5042.00"]},
+{"id":"19","cell":["19","2018","San Francisco","GRACE YEEUN","KIM","SRA 1","35948.00","35021.00","927.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","JIEYU","CHEN","POSTDOC-EMPLOYEE","35948.00","35948.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "5886",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Cruz","EMILY ANNE","DAVIS","STDT LIFE DEV SPEC 3","49489.00","49239.00","0.00","250.00"]},
+{"id":"2","cell":["2","2018","San Francisco","RASHIDA","PETROVICH","NURSE PD","49488.00","48204.00","0.00","1284.00"]},
+{"id":"3","cell":["3","2018","Riverside","VICTORIA","AVALOS","BLANK AST 3","49488.00","49488.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","XIOMARA","CERNA","CUSTODIAN SR","49488.00","49140.00","244.00","104.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","GLORIA","RAMIREZ","CUSTODIAN SR","49485.00","48070.00","1415.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","KRISTIN REBEKAH","HAYNES","ADMIN OFCR 2","49484.00","49240.00","244.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","BEN","ANDERSON","MUSEUM SCI","49484.00","49288.00","0.00","196.00"]},
+{"id":"8","cell":["8","2018","San Francisco","GINA A","GALLETTI","REG DIETETIC TCHN","49483.00","47265.00","770.00","1448.00"]},
+{"id":"9","cell":["9","2018","Irvine","JESSICA ZUNIGA","VILLEGAS","ADMITTING WORKER PRN","49483.00","46725.00","1718.00","1040.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","PAUL","DENVER","POSTDOC-EMPLOYEE","49483.00","49483.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","KAMESWARI ANANTH","MANDA","POSTDOC-EMPLOYEE","49483.00","49483.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","NORA D","BLANCO","BLANK AST 3","49482.00","49482.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","RYAN D","FANE","ACAD ACHIEVEMENT CNSLR 2","49482.00","48482.00","0.00","1000.00"]},
+{"id":"14","cell":["14","2018","Merced","MICHELE","KLEEMAN","STDT LIFE DEVT SUPV 1","49482.00","49482.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","PATRICIA H.","TUNG","LIBRARY AST 3","49482.00","46664.00","0.00","2818.00"]},
+{"id":"16","cell":["16","2018","San Francisco","MARY MARTHA","MANTLE","EEG TCHNO PRN","49481.00","49478.00","0.00","3.00"]},
+{"id":"17","cell":["17","2018","Davis","GUYLA F","YOAK","BLANK AST 4","49480.00","36714.00","25.00","12741.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","JORGE","MONROY","PAT TRANSPORT TCHN 2 PD","49479.00","38669.00","4936.00","5874.00"]},
+{"id":"19","cell":["19","2018","Davis","KELLY M.F","SAYERS","MED AST 1","49479.00","48847.00","632.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","DANIELA D","TELLES","ACAD ACHIEVEMENT CNSLR 2","49477.00","48667.00","150.00","660.00"]}]
+}

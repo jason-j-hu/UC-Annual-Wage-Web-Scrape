@@ -1,0 +1,26 @@
+{
+"page" : "1592",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","MAELYN","ARENDAIN","CLIN NURSE 2","126915.00","114231.00","1508.00","11176.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ELSA","RANGEL","CLIN NURSE 3","126908.00","118414.00","1468.00","7026.00"]},
+{"id":"3","cell":["3","2018","Santa Cruz","DAREN R","DILLON","RSCH AND DEV ENGR 4","126908.00","125908.00","0.00","1000.00"]},
+{"id":"4","cell":["4","2018","Berkeley","LESLIE","SILVERS","ADMIN MGR 1","126908.00","126908.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","PAUL E","FRANKE","PLNG SPEC 5","126906.00","126906.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","CYNTHIA A","DENNIS","DIR","126906.00","126906.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Riverside","RUOYAO","SHI","ASST PROF-AY-B/E/E","126906.00","114017.00","0.00","12889.00"]},
+{"id":"8","cell":["8","2018","San Diego","SHERYL RINGOR","PO","CLIN NURSE 2","126904.00","101301.00","22377.00","3226.00"]},
+{"id":"9","cell":["9","2018","Merced","FLORIN","RUSU","ASSOC PROF-AY-B/E/E","126902.00","114525.00","0.00","12377.00"]},
+{"id":"10","cell":["10","2018","San Diego","BEATRICE","DORMOY","TCHL PROJECT MGT PROFL 5","126902.00","126302.00","0.00","600.00"]},
+{"id":"11","cell":["11","2018","San Francisco","ALEXANDRA L","FORTESCUE","CLIN NURSE 2","126900.00","123115.00","0.00","3785.00"]},
+{"id":"12","cell":["12","2018","Davis","ELIZABETH ASILO","NAVARRA","CLIN NURSE 2","126897.00","118795.00","3095.00","5007.00"]},
+{"id":"13","cell":["13","2018","San Francisco","JYOTI S","SINGH","AMBUL CARE PAT MGR 1","126896.00","126896.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","GOLI HAMIDI","SHAYBANI","CLIN NURSE 4","126892.00","121175.00","2661.00","3056.00"]},
+{"id":"15","cell":["15","2018","Irvine","DALE","DI STEFANO","STF PHYSCN","126892.00","78950.00","0.00","47942.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","TRENT","THIXTON","MRI TCHNO LD","126889.00","126889.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","MICHAEL","BRATENG","RSCH AND DEV ENGR 4","126889.00","126889.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","ALI","AGHAYAN","EHS MGR 2","126888.00","126888.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Santa Cruz","JONATHAN ROBERT","KAHANA","PROF-AY","126883.00","126883.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","LUKE","ROBERTS","PROF-AY","126883.00","126883.00","0.00","0.00"]}]
+}

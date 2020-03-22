@@ -1,0 +1,26 @@
+{
+"page" : "7290",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","GUADALUPE","JACOBO","CUSTODIAN","34190.00","34188.00","2.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","34190.00","34190.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Merced","*****","*****","GSR-PARTIAL FEE REM","34190.00","30590.00","0.00","3600.00"]},
+{"id":"4","cell":["4","2018","Santa Cruz","HILARY KAY","TREECE","COOK SR","34189.00","33743.00","67.00","379.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","34189.00","34189.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","*****","*****","GSR-TUIT & FEE REM","34189.00","34189.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Irvine","BROOKE MADISON","BRYANT","HOSP AST SR","34188.00","32222.00","1046.00","920.00"]},
+{"id":"8","cell":["8","2018","Davis","*****","*****","LECT-AY-1/9","34187.00","22145.00","0.00","12042.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","ROBERT","BARRON","BLANK AST 3","34187.00","33863.00","324.00","0.00"]},
+{"id":"10","cell":["10","2018","Santa Cruz","MICHAEL C.","PECK","ENGR SR","34187.00","34187.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Santa Barbara","HUALIN","MEI","POSTDOC-EMPLOYEE","34187.00","31487.00","0.00","2700.00"]},
+{"id":"12","cell":["12","2018","San Francisco","FRANCESCA MARIE","DINGLASAN","WRITER EDITOR 3","34186.00","34186.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Cruz","MARYAH SHYANN","LAX","COOK SR","34186.00","30847.00","3339.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","DAISY NGUYEN","ORCA","LAB AST 2","34184.00","34184.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","ANTHONY","ROLDAN","LIFT TEAM TCHN LD 3","34182.00","30138.00","3836.00","208.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","*****","*****","GSR-NO REM","34182.00","33896.00","0.00","286.00"]},
+{"id":"17","cell":["17","2018","Irvine","DEBORAH A","LETOURNEAU","LECT-AY-1/9-CONTINUING","34181.00","22027.00","0.00","12154.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","JOSHUA","JONES","ADMIN CARE CLIN PARTNER","34181.00","26533.00","1570.00","6078.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","THOMAS","SIMS","LECT-FY-CONTINUING","34181.00","32607.00","0.00","1574.00"]},
+{"id":"20","cell":["20","2018","Irvine","*****","*****","GSR-FULL FEE REM","34180.00","34180.00","0.00","0.00"]}]
+}

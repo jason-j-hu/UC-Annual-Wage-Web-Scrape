@@ -1,0 +1,26 @@
+{
+"page" : "1330",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","RAFAEL","DAGANG","CLIN LAB SCI SPEC","138247.00","123531.00","14283.00","433.00"]},
+{"id":"2","cell":["2","2018","San Diego","CYNTHIA MARASIG","VELASQUEZ","CLIN NURSE 2","138244.00","121555.00","15661.00","1028.00"]},
+{"id":"3","cell":["3","2018","San Francisco","AMANDA CATHERINE","HEINTZ","CLIN NURSE 2","138243.00","120848.00","6269.00","11126.00"]},
+{"id":"4","cell":["4","2018","Davis","RAJNEET","PADDA","CLIN LAB SCI","138243.00","88254.00","33550.00","16439.00"]},
+{"id":"5","cell":["5","2018","San Diego","JUDY L","PIERCEY","COMM MGR 1","138243.00","134243.00","0.00","4000.00"]},
+{"id":"6","cell":["6","2018","Santa Cruz","GEORGE CLAY","BUNCH","PROF-AY","138236.00","111458.00","0.00","26778.00"]},
+{"id":"7","cell":["7","2018","Davis","GLEE","VAN LOON","HEALTH EDUC MGR 1","138234.00","124141.00","0.00","14093.00"]},
+{"id":"8","cell":["8","2018","UCOP","RAYMOND","BOYLE","RSCH GNT PRG OFCR 5","138233.00","132391.00","0.00","5842.00"]},
+{"id":"9","cell":["9","2018","Berkeley","ELIZABETH","HONIG","PROF-AY","138233.00","132233.00","0.00","6000.00"]},
+{"id":"10","cell":["10","2018","San Francisco","CHRYSTAL C.","WILSON","CLIN NURSE 2","138227.00","135322.00","2905.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","ADAM","GREENSPAN","RECALL HCOMP","138227.00","128330.00","0.00","9897.00"]},
+{"id":"12","cell":["12","2018","Davis","AMY E","ZARATE","CLIN NURSE 2","138211.00","113090.00","12070.00","13051.00"]},
+{"id":"13","cell":["13","2018","Merced","KARI","GOMES","POLICE SERGEANT SUPV 2","138210.00","97753.00","23100.00","17357.00"]},
+{"id":"14","cell":["14","2018","San Francisco","JEANETTE","D\"AMBROSIO","CLIN NURSE 2","138209.00","137534.00","0.00","675.00"]},
+{"id":"15","cell":["15","2018","Davis","SARAH A","MILLER","ASST PROF-AY-B/E/E","138209.00","110948.00","0.00","27261.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","NATALIE","MASUOKA","ASSOC PROF-AY","138208.00","68208.00","0.00","70000.00"]},
+{"id":"17","cell":["17","2018","San Francisco","SHARON M","SAMSON","CLIN NURSE 2","138203.00","113361.00","2069.00","22773.00"]},
+{"id":"18","cell":["18","2018","San Francisco","RACHELLE ELIZABE","DASH","CLIN NURSE 2","138202.00","133056.00","1128.00","4018.00"]},
+{"id":"19","cell":["19","2018","San Diego","FANNY ESQUINCA","DE JIMENEZ","CLIN NURSE 3","138195.00","121507.00","4168.00","12520.00"]},
+{"id":"20","cell":["20","2018","Davis","DEBORAH","HONG LEE","ASC PHYSCN","138192.00","81000.00","0.00","57192.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "7644",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","*****","*****","GSR-FULL FEE REM","30241.00","30241.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Merced","*****","*****","TEACHG ASST-GSHIP","30241.00","30241.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","ANGELINE CALA","YAP","NURSE PD","30241.00","29598.00","365.00","278.00"]},
+{"id":"4","cell":["4","2018","Davis","*****","*****","GSR-FULL FEE REM","30240.00","27860.00","0.00","2380.00"]},
+{"id":"5","cell":["5","2018","Riverside","*****","*****","GSR-PARTIAL FEE REM","30239.00","30139.00","0.00","100.00"]},
+{"id":"6","cell":["6","2018","Santa Cruz","CHRISTINE ELAINE","VOENELL","BLANK AST 2","30238.00","30238.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","ALMA","MENDOZA","FOOD SVC WORKER SR","30238.00","26825.00","3048.00","365.00"]},
+{"id":"8","cell":["8","2018","San Diego","*****","*****","GSR-TUIT & FEE REM","30236.00","21875.00","0.00","8361.00"]},
+{"id":"9","cell":["9","2018","Berkeley","YOGITA","SHARMA","POSTDOC-EMPLOYEE","30231.00","30231.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","XU HUA","FU","POSTDOC-EMPLOYEE","30231.00","30231.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","DIEGO","GARRIDO RUIZ","INTRM POSTDOC SCHOLAR-EMPLOYEE","30231.00","30231.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","XIAO","HAN","POSTDOC-EMPLOYEE","30231.00","30231.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","ALEX","CANTO PASTOR","POSTDOC-EMPLOYEE","30231.00","30231.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","30231.00","30231.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","30231.00","30131.00","0.00","100.00"]},
+{"id":"16","cell":["16","2018","San Diego","JULIANA MARI","NAVIA PELAEZ","POSTDOC-EMPLOYEE","30231.00","30231.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","ADRIAN HANSEN","FLORES","ASC PHYSCN","30230.00","14699.00","0.00","15531.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","DANIELLE ELYSE","CHAPMAN","BLANK AST 3","30230.00","29088.00","0.00","1142.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","EMILY","LAM","RESC NURSE PD","30229.00","28780.00","41.00","1408.00"]},
+{"id":"20","cell":["20","2018","Berkeley","LYNSAY","SKIBA","LECT-AY-1/10","30229.00","25327.00","0.00","4902.00"]}]
+}

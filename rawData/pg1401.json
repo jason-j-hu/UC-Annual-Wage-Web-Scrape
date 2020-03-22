@@ -1,0 +1,26 @@
+{
+"page" : "1401",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","CATALINA","BILLOT","CLIN NURSE 2","134843.00","117268.00","2486.00","15089.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ERIC","VALLADARES","CLIN NURSE 2","134839.00","110584.00","7647.00","16608.00"]},
+{"id":"3","cell":["3","2018","Davis","BENSON D","COBBOLD","CLIN NURSE 2","134838.00","124787.00","3228.00","6823.00"]},
+{"id":"4","cell":["4","2018","San Francisco","ERIN MAIRE","FOWLER","CLIN NURSE 2","134837.00","133147.00","0.00","1690.00"]},
+{"id":"5","cell":["5","2018","San Francisco","SARAH ELAINE","WOLFS","CLIN NURSE 2","134835.00","131332.00","0.00","3503.00"]},
+{"id":"6","cell":["6","2018","San Diego","BAOYUAN","ZHAO","INFO SYS MGR 1","134835.00","134835.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","ANNE M","MURPHY","CLIN NURSE 2","134832.00","110848.00","2380.00","21604.00"]},
+{"id":"8","cell":["8","2018","San Diego","SHARYN RONI","WILENSKY","CLIN NURSE 2","134830.00","118913.00","5127.00","10790.00"]},
+{"id":"9","cell":["9","2018","Davis","MARX Y","ONG","CLIN NURSE 2","134825.00","120176.00","1509.00","13140.00"]},
+{"id":"10","cell":["10","2018","San Francisco","PATRICK","MAH","REG RESP THER PD","134823.00","107939.00","24245.00","2639.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","PATRICK","GONZALES","CLIN NURSE 2","134821.00","99769.00","16031.00","19021.00"]},
+{"id":"12","cell":["12","2018","San Diego","KRISTY ROSE","ABDOU","NURSE PRACT 2","134821.00","134432.00","389.00","0.00"]},
+{"id":"13","cell":["13","2018","Irvine","HERMELINDA","SOTELO","CLIN NURSE 2","134819.00","118175.00","15787.00","857.00"]},
+{"id":"14","cell":["14","2018","Davis","DIANE A","BOYER","CLIN NURSE 2","134819.00","123172.00","5118.00","6529.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","TERESA","ZARODA","ADMIN NURSE 3","134819.00","134819.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","SYDNEY S","MULLINS","CLIN NURSE 3","134817.00","132379.00","78.00","2360.00"]},
+{"id":"17","cell":["17","2018","San Francisco","ALEXANDER S.","ROBINSON","SYS ADM 4","134815.00","128856.00","0.00","5959.00"]},
+{"id":"18","cell":["18","2018","Berkeley","JONATHAN","HAYS","INFO SYS MGR 1","134812.00","133812.00","0.00","1000.00"]},
+{"id":"19","cell":["19","2018","Berkeley","DENISE","CRONIN","ORGANIZATIONAL CNSLT 4","134807.00","133807.00","0.00","1000.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","SEUNG","RYU","SPEC","134806.00","134806.00","0.00","0.00"]}]
+}

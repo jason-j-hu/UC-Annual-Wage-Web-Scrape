@@ -1,0 +1,26 @@
+{
+"page" : "8775",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","MARY J.","MALLOY","RECALL HCOMP","19420.00","19170.00","0.00","250.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","EDWIN","LINDAIN","RADLG TCHNO","19420.00","18768.00","644.00","8.00"]},
+{"id":"3","cell":["3","2018","Berkeley","ARASH","NAMVAR","LECT IN SUMMER SESSION","19418.00","0.00","0.00","19418.00"]},
+{"id":"4","cell":["4","2018","Irvine","MICHAEL QING-YUN","NG","GI ENDOSCOPY TCHN 1 PD","19417.00","18430.00","836.00","151.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","FRANCES M","WILEY","ACADEMIC APPT","19417.00","0.00","0.00","19417.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","BLAKE","GEORGE","LECT IN SUMMER SESSION","19417.00","14878.00","0.00","4539.00"]},
+{"id":"7","cell":["7","2018","San Diego","*****","*****","TEACHG ASST-GSHIP","19417.00","19317.00","0.00","100.00"]},
+{"id":"8","cell":["8","2018","Riverside","*****","*****","GSR-NO REM","19416.00","19416.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","19415.00","19415.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","*****","*****","GSR-FULL FEE REM","19413.00","19413.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","EMILY REBECCA","BENSTEAD","SRA 1","19413.00","19413.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","RASLYN","PRESTON","SRA 1","19412.00","19412.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","DIANNE CARLA","DE GUZMAN","SRA 1","19412.00","19412.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Berkeley","DANIEL","SPIEGEL","LECT-AY","19412.00","18552.00","0.00","860.00"]},
+{"id":"15","cell":["15","2018","Irvine","KATHERINE M","FECHTIG","SOUND TCHN","19411.00","17082.00","1081.00","1248.00"]},
+{"id":"16","cell":["16","2018","Berkeley","JACQUELINE","MARTINEZ","ATH TRAINER 3","19410.00","19410.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Francisco","MOHAMMAD HOSSEIN","GHAZBAN","CLIN NURSE 2","19410.00","19047.00","363.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","*****","*****","STDT 1","19409.00","19409.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Irvine","*****","*****","GSR-FULL FEE REM","19408.00","19408.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","MERRY","BUCKMAN","LECT-FY","19408.00","15948.00","0.00","3460.00"]}]
+}

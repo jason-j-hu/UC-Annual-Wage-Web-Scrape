@@ -1,0 +1,26 @@
+{
+"page" : "7350",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","*****","*****","RESID PHYS I/NON REP","33403.00","26493.00","0.00","6910.00"]},
+{"id":"2","cell":["2","2018","Irvine","MARINA CRYSTAL","HALL","CLIN NURSE 1","33402.00","28113.00","3446.00","1843.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","JENNIFER","CARNEY","BLANK AST 2","33402.00","33402.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Davis","CARRIE","DEL GRANDE","MED OFC SVC CRD 2","33401.00","33248.00","153.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","CARSON","DEL GRECO","ADMIN SPEC","33400.00","33400.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","MARINA","KOUTSIOUMPA","POSTDOC-EMPLOYEE","33400.00","32900.00","0.00","500.00"]},
+{"id":"7","cell":["7","2018","Santa Barbara","MARITZA L","RODRIGUEZ","HOSP BLANK AST 1","33400.00","33041.00","72.00","287.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","*****","*****","STDT 1","33400.00","29151.00","0.00","4249.00"]},
+{"id":"9","cell":["9","2018","Davis","DEBRA K","RODRIGUEZ","PUBL EDUC SPEC 1","33399.00","27026.00","471.00","5902.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","JOSEPH","LUFTMAN","ASC PHYSCN DIPLOMATE","33398.00","30124.00","0.00","3274.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","RYAN","MAULL","BLANK AST 2","33398.00","31737.00","259.00","1402.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","JEONGHYUN","KIM","DEMO TEACHER","33398.00","33398.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","*****","*****","LECT-AY","33398.00","33398.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","BRANDON","WEAVER","BLANK AST 1","33397.00","32630.00","267.00","500.00"]},
+{"id":"15","cell":["15","2018","Santa Cruz","PERLA GARCIA","MIRANDA","STDT SVC ADVISOR 2","33396.00","30672.00","0.00","2724.00"]},
+{"id":"16","cell":["16","2018","San Francisco","MICHELLE","PASLAY-RODRIGUE","ADMIN OFCR 2","33395.00","33087.00","0.00","308.00"]},
+{"id":"17","cell":["17","2018","Davis","ANNA","ADHIKARI","JR SPECIALIST NEX","33390.00","30933.00","0.00","2457.00"]},
+{"id":"18","cell":["18","2018","San Diego","OLIVIER","GEORGE","LECT-AY-1/9","33389.00","24031.00","0.00","9358.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","*****","*****","RESID PHYS II-VIII/NON REP","33388.00","24638.00","0.00","8750.00"]},
+{"id":"20","cell":["20","2018","San Diego","SARA MARY","PETERSON","NURSE PD","33384.00","33384.00","0.00","0.00"]}]
+}

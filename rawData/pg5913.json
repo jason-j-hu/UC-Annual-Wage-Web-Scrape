@@ -1,0 +1,26 @@
+{
+"page" : "5913",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","ALBERT","GATUS","MED CTR COOK","49273.00","43667.00","4554.00","1052.00"]},
+{"id":"2","cell":["2","2018","San Francisco","ESTELITA","MENDOZA","CUSTODIAN SR","49272.00","49237.00","35.00","0.00"]},
+{"id":"3","cell":["3","2018","San Diego","ARIANA ESTE","VILLAVICENCIO","HOSP BLANK AST 3","49271.00","47403.00","1102.00","766.00"]},
+{"id":"4","cell":["4","2018","Davis","GEORGINA","MILAM","PUBL EDUC SPEC 1","49270.00","48487.00","783.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","LORI","WALKER","CHILD DEV CTR TEACHER 1","49270.00","48440.00","330.00","500.00"]},
+{"id":"6","cell":["6","2018","Davis","ISIDRO","CONTRERAS","HVY DUTY EQUIP TCHN AST","49269.00","49069.00","0.00","200.00"]},
+{"id":"7","cell":["7","2018","San Diego","JINA","HUH-YOO","ASST ADJ PROF-HCOMP","49269.00","34336.00","0.00","14933.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","JAN","HASTINGS","STDT AFFAIRS OFCR 2","49268.00","49268.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","CHRISTOL","JAMES THEOGA RA","POSTDOC-EMPLOYEE","49268.00","49268.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","IVONNE","RUIZ","DENTAL AST","49268.00","47455.00","1052.00","761.00"]},
+{"id":"11","cell":["11","2018","San Diego","DIANA","KANCHANASUWAN","EVENTS SPEC 2","49268.00","49125.00","143.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","SHERRY T","MATTHIS","MED CTR CUSTODIAN SR","49266.00","46381.00","2885.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","NASHA","HILL","PAT BILLER 3","49266.00","47676.00","893.00","697.00"]},
+{"id":"14","cell":["14","2018","Davis","VLADISLAV V","CHAPLYGIN","OPS ROOM AST 1","49266.00","43827.00","3430.00","2009.00"]},
+{"id":"15","cell":["15","2018","Santa Cruz","ANNA JULIETTE","ALCORN","K TO 12 EDUCATOR 3","49266.00","49266.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","SUKANYA","SASMAL","POSTDOC-EMPLOYEE","49265.00","49265.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","STEPHANIE","ALLEN","MED AST 3","49265.00","46099.00","2637.00","529.00"]},
+{"id":"18","cell":["18","2018","San Diego","EDUARDO","REYNOSO MORENO","POSTDOC-EMPLOYEE","49264.00","49264.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Riverside","MATTHEW","PRIOR","POSTDOC-EMPLOYEE","49264.00","49264.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","ELIANA","HURWICH-REISS","POSTDOC-EMPLOYEE","49264.00","49264.00","0.00","0.00"]}]
+}

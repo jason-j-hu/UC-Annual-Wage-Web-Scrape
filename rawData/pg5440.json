@@ -1,0 +1,26 @@
+{
+"page" : "5440",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","SHELLY A","FERREIRA","REG RESP THER 1","53316.00","52318.00","713.00","285.00"]},
+{"id":"2","cell":["2","2018","Riverside","RAY","VARELA","CUSTODIAL SUPV 1","53316.00","52866.00","0.00","450.00"]},
+{"id":"3","cell":["3","2018","San Diego","BRYTTSSA","BELTRAN","BLANK AST 3","53316.00","52296.00","20.00","1000.00"]},
+{"id":"4","cell":["4","2018","San Diego","APRIL ELIZABETH","MANNING","FAC SUPV 1","53316.00","49586.00","2931.00","799.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","MINAZ","PARMAR","MED AST 3","53316.00","52998.00","235.00","83.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JONATHAN","EBUENG","PROGR ANL 2","53315.00","52315.00","0.00","1000.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","TIFFANIE","RAYAS","BLANK AST 3","53314.00","50628.00","2217.00","469.00"]},
+{"id":"8","cell":["8","2018","San Francisco","DANIEL J","SCHRADER","CLIN RSCH CRD AST","53313.00","53313.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","NAFEESA","ISLAM","SRA 2 NEX","53313.00","53313.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","MATHIEU","BAILLY-GRANDVAU","POSTDOC-EMPLOYEE","53313.00","53313.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","ALEJANDRO","SANTILLAN","CUSTODIAN LD","53313.00","53020.00","293.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","VERONICA","DE SANTIAGO","CLIN RSCH CRD","53312.00","53312.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","JUDY","YANG","SRA 2 NEX","53312.00","53312.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","WILLIAM","AYALA","ADMIN CARE CLIN PARTNER","53312.00","46077.00","5671.00","1564.00"]},
+{"id":"15","cell":["15","2018","San Diego","WENYU","ZHOU","POSTDOC-EMPLOYEE","53308.00","53308.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","KATHY MARIA","PEREZ","BLANK AST 3","53307.00","51494.00","842.00","971.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","ARIELL","PETENZI","ADMIN SPEC SUPV","53307.00","50774.00","1533.00","1000.00"]},
+{"id":"18","cell":["18","2018","San Francisco","QI","FU","POSTDOC-EMPLOYEE","53306.00","53306.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","SANDRA ELIZABETH","RAMIREZ","BLANK AST 3","53306.00","53306.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","GINA M","COSTA","PAT BILLER 3","53306.00","53066.00","240.00","0.00"]}]
+}

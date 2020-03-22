@@ -1,0 +1,26 @@
+{
+"page" : "7235",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","LEONARD","KLEINROCK","RECALL FACULTY","34839.00","34839.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Riverside","CARRIE","PYLE","BLANK AST 3","34839.00","34460.00","28.00","351.00"]},
+{"id":"3","cell":["3","2018","Santa Cruz","JOSEFINA C","PIMENTEL","CHILD DEV CTR TEACHER 1","34838.00","30854.00","1421.00","2563.00"]},
+{"id":"4","cell":["4","2018","Irvine","*****","*****","GSR-FULL FEE REM","34837.00","31887.00","0.00","2950.00"]},
+{"id":"5","cell":["5","2018","Irvine","ALEXANDER JORDAN","DEJESUS","CLIN NURSE 2","34836.00","29409.00","3328.00","2099.00"]},
+{"id":"6","cell":["6","2018","Irvine","DOLORES","MACIAS","MED CTR CUSTODIAN PD","34835.00","32095.00","2740.00","0.00"]},
+{"id":"7","cell":["7","2018","Santa Cruz","MARILYN","PATTON","LECT-AY","34835.00","32645.00","0.00","2190.00"]},
+{"id":"8","cell":["8","2018","San Diego","HEATHER LORENA","PEREZ","VOC NURSE","34835.00","34835.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","LUPE A","HOGAN","NURSE PD","34834.00","32760.00","155.00","1919.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ELAINE","PILLADO","HOSP BLANK AST 3","34834.00","32544.00","2123.00","167.00"]},
+{"id":"11","cell":["11","2018","Berkeley","WENDY","PETERSON","NURSE PRACT PD","34834.00","34011.00","780.00","43.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","34833.00","34833.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","HE","HU","ASST PROJ SCIENTIST-FY-B/E/E","34833.00","33333.00","0.00","1500.00"]},
+{"id":"14","cell":["14","2018","San Diego","HUI","CAI","ASST PROJ SCIENTIST-FY-B/E/E","34833.00","33333.00","0.00","1500.00"]},
+{"id":"15","cell":["15","2018","San Diego","SOURABH","SHUKLA","ASST PROJ SCIENTIST-FY-B/E/E","34833.00","33333.00","0.00","1500.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","34832.00","30540.00","0.00","4292.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","ALMIRA","LADAREVIC","BLANK AST 3","34832.00","34365.00","467.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ANGELA","ROSA","CUSTODIAN SR","34832.00","34035.00","797.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","*****","*****","GSR-NO REM","34832.00","34348.00","0.00","484.00"]},
+{"id":"20","cell":["20","2018","Riverside","*****","*****","GSR-PARTIAL FEE REM","34831.00","32581.00","0.00","2250.00"]}]
+}

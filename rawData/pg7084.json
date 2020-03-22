@@ -1,0 +1,26 @@
+{
+"page" : "7084",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","HANNAH","LIECHTY","LAB AST 2","36631.00","34718.00","1913.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","JAMIE M","GRACIANO","MED OFC SVC CRD 2","36630.00","36582.00","48.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","SANDHYA","HERMON","RSCH DATA ANL 3","36629.00","29336.00","0.00","7293.00"]},
+{"id":"4","cell":["4","2018","San Francisco","*****","*****","OTH POST-MD TRAIN 2-8/NON REP","36628.00","31188.00","0.00","5440.00"]},
+{"id":"5","cell":["5","2018","Irvine","KATRINA YOLANDA","JACKSON","HOSP AST SR","36628.00","33735.00","2053.00","840.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","ALAN","EBENSTEIN","LECT-AY","36628.00","36628.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","TIFFANIE","SIMPSON","SRA 3","36626.00","36626.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","WYATT","MATERN","RSDT ADVISOR","36626.00","38661.00","938.00","-2973.00"]},
+{"id":"9","cell":["9","2018","San Francisco","JESSICA CAMILLE","KUDLACEK","SRA 3","36625.00","34125.00","0.00","2500.00"]},
+{"id":"10","cell":["10","2018","Irvine","FLORA","HERNANDEZ","CUSTODIAN","36625.00","36625.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Irvine","MARIA DE LOURDES","MORENO","CUSTODIAN","36625.00","36625.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","MIRIAM","CANALES","CUSTODIAN","36625.00","36625.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Irvine","VICENTA","GONZALEZ","CUSTODIAN","36625.00","36625.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","DOLORES","MORENO","CUSTODIAN","36625.00","36625.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Irvine","AZUCENA","REYNOSO","CUSTODIAN","36625.00","36625.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","MARIA DEL CARMEN","SANDOVAL","CUSTODIAN","36625.00","36625.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Irvine","ANA ROSA","GONZALEZ","CUSTODIAN","36625.00","36625.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Santa Cruz","COURTNEY M","BONAM","ASST PROF-AY","36625.00","36625.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Riverside","CLAUDIA","HOLGUIN MENDOZA","ASST PROF-AY","36625.00","36625.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","HIDEO","KAGAYA","VIS ASST PROF-HCOMP","36624.00","36624.00","0.00","0.00"]}]
+}

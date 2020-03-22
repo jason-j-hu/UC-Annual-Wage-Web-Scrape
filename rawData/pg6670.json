@@ -1,0 +1,26 @@
+{
+"page" : "6670",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","HEATHER M","ANISODON","HOSP UNIT SVC CRD 3","41522.00","36171.00","3514.00","1837.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","DAVID","VELASQUEZ","LIBRARY AST 2","41522.00","41522.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Irvine","JOSE A","MUNOZ","PROGR ANL 2","41521.00","41521.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Irvine","LORENA B","SALAZAR","COLL REPR","41520.00","41431.00","89.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","FERESHTEH","HESARI","CHILD DEV CTR AST","41519.00","41070.00","449.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","RAMON","VELASQUEZ","MED CTR CUSTODIAN SR","41518.00","34282.00","3154.00","4082.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","HANAA","GHOBRIAL","BLANK AST 2","41518.00","41501.00","17.00","0.00"]},
+{"id":"8","cell":["8","2018","Davis","MATTHEW","ESPE","POSTDOC-EMPLOYEE","41518.00","41518.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","THAIR","TAKESH","PROJ SCIENTIST-FY","41517.00","41517.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","ARTUN","CINGOZ","LIBRARY BOOKBINDER PRN","41517.00","38569.00","1648.00","1300.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","SAM","THOMAS","STOREKEEPER","41515.00","39700.00","1815.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","CLAIRE","PICHEL","CLIN SOCIAL WORKER 2","41515.00","41515.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Riverside","LUCIO","RODRIGUEZ","LAB AST 3","41515.00","41515.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Irvine","DENICE MITCHELL","BAUTISTA","GI ENDOSCOPY TCHN 1","41514.00","35459.00","4987.00","1068.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","CESAR","SOLORZANO","CUSTODIAN SR","41514.00","39624.00","511.00","1379.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","*****","*****","STDT 4","41514.00","41514.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Riverside","HELEN","LEE","CUSTODIAN SR","41512.00","37988.00","2132.00","1392.00"]},
+{"id":"18","cell":["18","2018","San Diego","DANIEL JOHN","KONIG","TCHN SR","41512.00","40706.00","206.00","600.00"]},
+{"id":"19","cell":["19","2018","San Diego","JILL JACINTHIA","MEDLEY","CUSTODIAN SR","41512.00","40118.00","0.00","1394.00"]},
+{"id":"20","cell":["20","2018","San Francisco","SEN","GAO","POSTDOC-EMPLOYEE","41511.00","41511.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "2245",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Riverside","HEIDI","WALTZ","LECT-AY-CONTINUING","105040.00","88304.00","0.00","16736.00"]},
+{"id":"2","cell":["2","2018","San Francisco","GINGER SHU YUN","HUANG","RSCH CMPLNC ANL 4","105039.00","105039.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","JUDITH M","FORD","PROF IN RES-HCOMP","105038.00","105020.00","0.00","18.00"]},
+{"id":"4","cell":["4","2018","Davis","ASHLEY K","FERRER","CLIN NURSE 2","105038.00","98835.00","1412.00","4791.00"]},
+{"id":"5","cell":["5","2018","San Diego","NANCY ANN","GUY","PROF-AY","105033.00","104533.00","0.00","500.00"]},
+{"id":"6","cell":["6","2018","Berkeley","MICHELLE","DOUSKEY","SR LECT-AY-CONTINUING","105032.00","103782.00","0.00","1250.00"]},
+{"id":"7","cell":["7","2018","San Diego","JACQUELINE N.","GAW","CONTRACT ADM 4","105029.00","103029.00","0.00","2000.00"]},
+{"id":"8","cell":["8","2018","San Diego","STEPHANY JEAN","KING","CLIN NURSE 2","105028.00","91328.00","3109.00","10591.00"]},
+{"id":"9","cell":["9","2018","San Diego","TABITHA LAVINA","WELLS","REVENUE CYCLE HC ANL 3","105026.00","104026.00","0.00","1000.00"]},
+{"id":"10","cell":["10","2018","Irvine","LILAN THI","TRAN","PROGR ANL 4","105023.00","105023.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","GLENN S","COLE","LAB RSCH SUPV 1","105023.00","105023.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","GUY","SELTZER","SYS ADM 4","105022.00","105022.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Riverside","MISAKI","NISHIMURA","ASSOC PROF-AY","105017.00","105017.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Riverside","MICHAEL","NELSON","ASSOC PROF-AY","105017.00","105017.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","RAFAEL","PINEDA","STEAM OPS ENGR","105014.00","81329.00","23462.00","223.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","SEAN","BRENNER","EDITOR PRN","105010.00","105010.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","ALBERTO","LEDESMA","ACADEMIC COORD II-FY","105010.00","105010.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","REBECCA","ANDERSEN","CAREER SVC SPEC 4","105009.00","100469.00","0.00","4540.00"]},
+{"id":"19","cell":["19","2018","Irvine","IAN B","COLLER","ASSOC PROF-AY","105008.00","104608.00","0.00","400.00"]},
+{"id":"20","cell":["20","2018","Davis","DAVID A","MESSING","REG RESP THER 1","105005.00","99724.00","4680.00","601.00"]}]
+}

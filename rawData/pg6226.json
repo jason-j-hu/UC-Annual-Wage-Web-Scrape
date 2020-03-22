@@ -1,0 +1,26 @@
+{
+"page" : "6226",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","ARDEN MARIEL","GABOR","BLANK AST 3","46279.00","46152.00","127.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","JENNY M","TRIEU","RSCH DATA ANL 1","46278.00","44977.00","1301.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","ANA","AVILA","BLANK AST 2","46278.00","45808.00","470.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","MIAKIA","MCKINLEY","BLANK AST 2","46277.00","46269.00","8.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","MARGARET ANNE","WANGELINE","INTRM POSTDOC SCHOLAR-EMPLOYEE","46277.00","46277.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Davis","SYED GUL ABBAS S","SANI","POSTDOC-EMPLOYEE","46277.00","45756.00","0.00","521.00"]},
+{"id":"7","cell":["7","2018","Davis","EVA M.","GROSSINGER","POSTDOC-EMPLOYEE","46276.00","46276.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","TINA H","NGUYEN","STDT AFFAIRS OFCR 2","46276.00","45014.00","33.00","1229.00"]},
+{"id":"9","cell":["9","2018","Irvine","MARIBEL","JIMENEZ","ADMIN ANL AST","46276.00","46276.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","San Francisco","JOANNA","YEE","BLANK AST 2","46275.00","46269.00","0.00","6.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","KARINA","CHAVARIN","PAT COMM REPR","46275.00","46032.00","243.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","NATHAN","HUMBER","PAT TRANSPORT TCHN 2","46275.00","40570.00","274.00","5431.00"]},
+{"id":"13","cell":["13","2018","San Diego","SANDRA","MEZA","FOOD SVC SUPV 1","46275.00","45532.00","391.00","352.00"]},
+{"id":"14","cell":["14","2018","Riverside","*****","*****","POSTDOC-EMPLOYEE","46275.00","46275.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","SHARON K","HICKS","MED OFC SVC CRD 2","46275.00","46147.00","128.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","FLORINA C","VILLAGOMEZ","MED CTR CUSTODIAN SR","46274.00","45235.00","711.00","328.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","YIJIANG","SHI","SRA 4","46274.00","46274.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","LEAH","BYRD","MED OFC SVC CRD 2","46273.00","46254.00","19.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","KRISTEN","LIMON","PAT COMM REPR","46272.00","46038.00","234.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","OSCAR","VASQUEZ","SCRTY GUARD","46272.00","46252.00","0.00","20.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "3599",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","YEN-CHI","LAI","LECT-AY","74319.00","74319.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","STEVEN A","HARDINGER","SR LECT-AY-CONTINUING","74319.00","74319.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","EILEEN","GARCIA","CLIN SPEC EX","74318.00","74318.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","BYRON","WILLIAMS","DEV TCHN 5","74318.00","74318.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","JILL S","LEZAMA","ADMIN OFCR 2","74317.00","73317.00","0.00","1000.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","LAUREN","NORTH","CLIN NURSE 2","74314.00","71611.00","147.00","2556.00"]},
+{"id":"7","cell":["7","2018","Riverside","VICKI","LONG","FINANCIAL ANL 4","74314.00","58450.00","0.00","15864.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","TATIANA","SERGEEVA","SRA 3","74310.00","73147.00","1163.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","WAI F.","LOW","BLANK AST 3","74309.00","68750.00","0.00","5559.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ROBERT","SWERDLOW","COUNSEL SR","74309.00","74309.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","EMILY KA-LING","NGO","SRA 2 NEX","74308.00","67592.00","6716.00","0.00"]},
+{"id":"12","cell":["12","2018","San Diego","SUSAN SAVIDGE","MILLEN","COMM SPEC 3","74308.00","73058.00","0.00","1250.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","RAFAEL","ACAMPADO","HOSP LAB TCHN 2","74307.00","72606.00","753.00","948.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","MAYRA","ZAMORA","ADMIN ANL SR","74307.00","74307.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","JENNIFER BEVERLY","BELKE","CHILD LIFE SPEC 1 NEX","74306.00","66630.00","7676.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Cruz","DOUGLAS VANCOTT","NIVEN","SYS ADM 3","74306.00","73356.00","0.00","950.00"]},
+{"id":"17","cell":["17","2018","San Francisco","ANITA ATUL","GADKARI","CLIN DOC SPEC 4","74304.00","74304.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","DARRELL TODD","JIMERSON","CLIN APPLICATIONS PROFL 3","74304.00","70533.00","504.00","3267.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","VLADISLAV","STRELTSOV","RESC NURSE PD","74304.00","70861.00","381.00","3062.00"]},
+{"id":"20","cell":["20","2018","San Diego","ROSEMARIE C","DOMINGO","FINANCIAL ANL 3","74304.00","73804.00","0.00","500.00"]}]
+}

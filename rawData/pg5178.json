@@ -1,0 +1,26 @@
+{
+"page" : "5178",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","SONIA","ALVARADO","SRA 2 NEX","55680.00","55680.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Berkeley","JULIE","VARGAS","SRA 2","55680.00","55680.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","JULIAN N","RODRIGUEZ","SCRTY GUARD","55679.00","43162.00","10395.00","2122.00"]},
+{"id":"4","cell":["4","2018","San Diego","RONALD JASON,JR","BROOKES","EMERGENCY TRAUMA TCHN SR","55679.00","52482.00","2184.00","1013.00"]},
+{"id":"5","cell":["5","2018","Irvine","PETER TORMO","NIERVA","HOSP LAB TCHN 2","55677.00","54243.00","414.00","1020.00"]},
+{"id":"6","cell":["6","2018","Irvine","THERESA M","CORDIA","MGT SVC OFCR 2 SUPV","55677.00","55677.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","LAURA","VILLAVERDE","PAT BILLER 3","55677.00","55177.00","0.00","500.00"]},
+{"id":"8","cell":["8","2018","San Diego","VICTOR MANUEL","FRANCO","CHEF 2","55677.00","54808.00","869.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","ANN J","REILLY","ADMITTING WORKER PRN","55676.00","41966.00","300.00","13410.00"]},
+{"id":"10","cell":["10","2018","Davis","TUAN ANH","VU","POSTDOC-EMPLOYEE","55676.00","55676.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Davis","CHANG","LIU","POSTDOC-EMPLOYEE","55676.00","55676.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Santa Barbara","PRITAM","GANGULY","POSTDOC-EMPLOYEE","55676.00","55676.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Santa Barbara","JONATHAN","BERGER","POSTDOC-EMPLOYEE","55676.00","55676.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","ANEL","LIZCANO","POSTDOC-EMPLOYEE","55676.00","55676.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","THEKLA","CORDES","POSTDOC-EMPLOYEE","55676.00","55676.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","ESTEBAN ALE","MOYA CESPEDES","POSTDOC-EMPLOYEE","55676.00","55676.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","KENDRA","FOX-DAVIS","ETHICS AND CMPLNC PROFL 4","55675.00","55675.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Berkeley","MICHAEL","RAFFANTI","AEROSPACE MGR 2","55675.00","55675.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","JARED","PRESCOTT","MARKETING SPEC 3","55674.00","55674.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","NICHOLAS T","VU","PHARMACIST 2 PD","55673.00","54052.00","334.00","1287.00"]}]
+}

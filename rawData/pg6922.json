@@ -1,0 +1,26 @@
+{
+"page" : "6922",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Riverside","JAMAAL","PAUL","TCHN AST","38530.00","38218.00","291.00","21.00"]},
+{"id":"2","cell":["2","2018","Davis","DONALD L","KREUN","BLANK AST 2","38529.00","38529.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","YONGJIE","WEN","CUSTODIAN SR","38527.00","35780.00","193.00","2554.00"]},
+{"id":"4","cell":["4","2018","Irvine","MARIA M","GAONA DE ESTRAD","CUSTODIAN","38527.00","38527.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","ALEXIS FERNANDO","URBALEJO","MED CTR CUSTODIAN","38526.00","34734.00","1384.00","2408.00"]},
+{"id":"6","cell":["6","2018","Davis","ALFONSO","DAVALOS","TCHN","38525.00","37222.00","1303.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","VIVIAN N","DANG","BLANK AST 2","38525.00","38361.00","164.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","*****","*****","GSR-TUIT & FEE REM-UCSD-GRP E","38523.00","38523.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Berkeley","SEUNG HYUN","BAIK","SRA 1","38522.00","31349.00","4497.00","2676.00"]},
+{"id":"10","cell":["10","2018","San Diego","OLGA V","KHARITONOVA","BLANK AST 2","38521.00","38021.00","0.00","500.00"]},
+{"id":"11","cell":["11","2018","Davis","RONLEY A.","AVILES","NURSE PD","38520.00","38257.00","263.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","LAVON","WHITFIELD","PAT COMM REPR","38518.00","38518.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","OSCAR C","NOVENCIDO","TCHN","38518.00","34075.00","0.00","4443.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","MICHAEL","SMITH","COOK AST","38517.00","37034.00","1358.00","125.00"]},
+{"id":"15","cell":["15","2018","Berkeley","BAO","HUANG","CHILD DEV CTR AST","38517.00","38498.00","19.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","KEVIN B","DILLON","MAIL PROCESSOR SR","38516.00","28244.00","0.00","10272.00"]},
+{"id":"17","cell":["17","2018","Irvine","KATHRYN F","MOSLENER","HOSP AST SR","38515.00","33787.00","1736.00","2992.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","RAFAEL","REPREZA","MED CTR FOOD SVC WORKER PRN","38514.00","37607.00","625.00","282.00"]},
+{"id":"19","cell":["19","2018","San Diego","SHERYL M","WILLIAMS","BLANK AST 1","38514.00","34875.00","2379.00","1260.00"]},
+{"id":"20","cell":["20","2018","San Diego","CARMEN","ACEBO","CUSTODIAN SR","38513.00","37119.00","0.00","1394.00"]}]
+}

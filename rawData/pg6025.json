@@ -1,0 +1,26 @@
+{
+"page" : "6025",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Barbara","ELIZABETH","HOLOHAN","BLANK AST 3","48274.00","48274.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","ANH-THY","NGUYEN","BLANK AST 3","48274.00","48274.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","TANIA","MARIN","BLANK AST 3","48274.00","48274.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","DANIEL","DEVANT","PROGR ANL 1","48274.00","48274.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Riverside","PHILIP","CHIU","LIBRARY AST 4","48274.00","48274.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Riverside","MELISSA","FELIX-SMITH","BLANK AST 3","48274.00","48274.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Riverside","SOMPRATANA","CREIGHTON","LIBRARY AST 4","48274.00","48274.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","ZHIDONG","LIU","POSTDOC-EMPLOYEE","48273.00","48273.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","SHANNA","KWOCK","RESC NURSE PD","48273.00","46425.00","144.00","1704.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","BRITTANY","BUCHANAN","PRG REPR 3","48272.00","47896.00","376.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","DORRETH","KING-RUCKER","PUBL ADMSTN ANL SR SUPV","48272.00","44827.00","895.00","2550.00"]},
+{"id":"12","cell":["12","2018","Davis","LINDSAY B","MACIAS","CLIN LIC SOCIAL WORKER","48272.00","47164.00","1076.00","32.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","ANILA","SAEED","PUBL ADMSTN ANL","48271.00","45760.00","0.00","2511.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","HASAN","RASHID","ADMIN ANL PRN 1","48270.00","48270.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Francisco","JADE TYJANIQUE","BUSBY","MED CTR FOOD SVC WORKER SR PD","48268.00","42960.00","1995.00","3313.00"]},
+{"id":"16","cell":["16","2018","Irvine","ERICA MICHELLE","WEBSTER","COLL REPR","48268.00","47474.00","794.00","0.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","CHRISTOPHER","JOHNSON JR","BLDG MAINT WORKER SR","48268.00","46904.00","1364.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","JAMES TRINIDAD","MARTINEZ","BLANK AST 3","48267.00","47256.00","677.00","334.00"]},
+{"id":"19","cell":["19","2018","San Diego","CASSI ANN","BENAVIDES","ACAD HR ANL 2","48266.00","48266.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","EMMA","CHAVEZ","ADMIN CARE CLIN PARTNER","48266.00","46072.00","1304.00","890.00"]}]
+}

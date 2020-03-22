@@ -1,0 +1,26 @@
+{
+"page" : "3717",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Santa Cruz","DANIEL V","SIMPKINS","ADMIN OFCR 2","72447.00","70997.00","0.00","1450.00"]},
+{"id":"2","cell":["2","2018","San Diego","ARLENE BALAYAN","DE GUZMAN","CLIN LAB SCI SPEC","72447.00","69262.00","601.00","2584.00"]},
+{"id":"3","cell":["3","2018","San Francisco","KARISHMA BROBERG","OZA","PROJECT POLICY ANL 2","72445.00","67445.00","0.00","5000.00"]},
+{"id":"4","cell":["4","2018","Davis","TAMICA N","SPIVEY","PAT BILL AND COLL SUPV 1","72445.00","68498.00","2341.00","1606.00"]},
+{"id":"5","cell":["5","2018","Davis","ELIZABETH S","INGHAM","SRA 4","72444.00","72444.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","ALEX EDW","CORRALES-BARRIO","SURGICAL TCHN SR","72444.00","68915.00","1505.00","2024.00"]},
+{"id":"7","cell":["7","2018","Davis","STACEY SUE PETER","ZINDEL","HEALTH TCHN 3","72444.00","71244.00","0.00","1200.00"]},
+{"id":"8","cell":["8","2018","Davis","OLIVER","MARTINEZ","LAB RSCH SUPV 1","72444.00","68663.00","0.00","3781.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","JONATHAN","CECIL","SRA 4","72444.00","72444.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","LISA","EVEN","PROJECT POLICY ANL 3","72444.00","72444.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","JENNIFER CASCIO","STOWE","SRA 4","72444.00","72444.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","JAMIE BETH","MYRES","SPEECH PATHOLOGIST 2","72443.00","70435.00","0.00","2008.00"]},
+{"id":"13","cell":["13","2018","Irvine","RAYMOND W","LUDWIG","FIN ANL","72440.00","72405.00","35.00","0.00"]},
+{"id":"14","cell":["14","2018","Riverside","KATHLEEN","DE ATLEY","COMM SPEC 3","72439.00","72439.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Davis","JOEL","DEL RIO","ELECTRN","72438.00","71267.00","1171.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","COMFORT","ADEGBORO","ADMIN CARE CLIN PARTNER","72438.00","50297.00","13168.00","8973.00"]},
+{"id":"17","cell":["17","2018","San Francisco","MARIANNE L","DOYLE","AMBUL CARE ADMSTN MGR 1","72436.00","72436.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","DAVID","WHITE","EMERGENCY TRAUMA TCHN SR","72435.00","52718.00","17833.00","1884.00"]},
+{"id":"19","cell":["19","2018","Davis","GEORGJEAN A","SOARES","AMBUL CARE ADMSTN SUPV 1","72435.00","68980.00","2845.00","610.00"]},
+{"id":"20","cell":["20","2018","Santa Cruz","JONI D","SNEDDON","EVENTS SPEC 3","72434.00","70252.00","418.00","1764.00"]}]
+}

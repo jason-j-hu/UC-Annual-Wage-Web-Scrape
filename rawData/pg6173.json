@@ -1,0 +1,26 @@
+{
+"page" : "6173",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","SONGYI","BAE","POSTDOC-EMPLOYEE","46850.00","46850.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","DOUGLAS","WISHON","STOREKEEPER SR","46850.00","46805.00","45.00","0.00"]},
+{"id":"3","cell":["3","2018","Merced","MOHSEN","TORABI","POSTDOC-EMPLOYEE","46850.00","46850.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","SOFIYA","TARAKANOV","BLANK AST 2","46849.00","46849.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","JACQUELINE","GABERT","NURSE PD","46849.00","43138.00","34.00","3677.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","ROBERT LOUIS","ANNABLE","ATH TRAINER 3","46849.00","35559.00","0.00","11290.00"]},
+{"id":"7","cell":["7","2018","Berkeley","ANNA","MCCREEDY","STDT SVC ADVISOR 2","46848.00","46848.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","WENDELEN M","RODRIGUEZ","BLANK AST 3","46848.00","46848.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","ANTONIO C","ARREGUIN","TCHN","46848.00","43784.00","3064.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","RAYNA","JACKSON","PRG REPR 2","46847.00","46847.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","CHEWITIA","MCDOWELL","BLANK AST 3","46847.00","46600.00","0.00","247.00"]},
+{"id":"12","cell":["12","2018","Davis","IBIYEMI O","OLOWOYEYE","ENTERPRISE RISK MGT ANL 1","46846.00","46846.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","DONALD","KIDD","PUBL EVENTS MGR","46846.00","46846.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","DEVON S","WILLIAMS","MED AST 2","46846.00","45351.00","745.00","750.00"]},
+{"id":"15","cell":["15","2018","Irvine","ADRIANA","GOMEZ","ADMIN ANL AST","46845.00","46845.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","VICENTA","MARTINEZ","MED AST 2","46843.00","46804.00","39.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","NITA M","BARCENAS","MED OFC SVC CRD 2","46842.00","46504.00","338.00","0.00"]},
+{"id":"18","cell":["18","2018","Riverside","JUAN CARLOS","ATALAYA CHAVEZ","ASST PROJ SCIENTIST-FY","46842.00","46842.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Diego","MICHELLE","VASQUEZ","HOSP AST 3 PD","46842.00","45805.00","437.00","600.00"]},
+{"id":"20","cell":["20","2018","San Diego","VIVIAN ANN","PATE","STDT DISABILITY SPEC 2","46841.00","44672.00","0.00","2169.00"]}]
+}

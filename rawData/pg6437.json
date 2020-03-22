@@ -1,0 +1,26 @@
+{
+"page" : "6437",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","KAREN E.","TANENBAUM","ASST PROJ SCNTST-FY-B/E/E NEX","44059.00","44059.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Berkeley","CLAUDIA","AGUILAR","K to 14 ACAD PREP SPEC 4","44059.00","44059.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","KAYLA M","JAGER","SRA 2 NEX","44058.00","44058.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","CLARK","BILORUSKY","BUS TCHL SUPP SUPV 1","44058.00","44058.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","LAURIE","FEMMEL","ADMIN SPEC","44057.00","43571.00","486.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","MARLON V","ALBANO","INFO SYS ANL 1","44057.00","44057.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","KELLY","SETTLE","ADMIN SPEC","44056.00","44056.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","SHEEHAN","PARKER","STDT AFFAIRS OFCR 1","44056.00","44056.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","KELLY","CHEN","ADMIN SPEC","44056.00","44056.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Santa Barbara","GEORGE","PEREZ","CUSTODIAN SR","44056.00","43182.00","0.00","874.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","KAISHAN","LI","ADMIN SPEC","44056.00","44056.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","RUSTUM","KARANJIA","VIS ASST RES","44055.00","44055.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Merced","KIYOMI","NOT HELP HIM","ADMIN OFCR 2","44054.00","43804.00","0.00","250.00"]},
+{"id":"14","cell":["14","2018","San Diego","DIANA ELIZABETH","CLAYTON","PAT BILLER 3","44054.00","42972.00","57.00","1025.00"]},
+{"id":"15","cell":["15","2018","Davis","LONG","XIONG","PAT BILLER 2","44053.00","44045.00","8.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","MARY","WILLIAMS","REHAB AID 2","44053.00","43680.00","0.00","373.00"]},
+{"id":"17","cell":["17","2018","Davis","RACHEL L","BARRINGTON","PROJECT POLICY ANL 2","44052.00","43152.00","24.00","876.00"]},
+{"id":"18","cell":["18","2018","Davis","CARLA M","KOBZA","MATERIALS MGT HC SPEC 3","44052.00","33972.00","0.00","10080.00"]},
+{"id":"19","cell":["19","2018","San Diego","KHESHINI RUKMAL","DE ZOYSA","CLIN RSCH CRD AST","44052.00","44052.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","ROSSANA","CRUZ","HOSP AST SR","44050.00","39556.00","3442.00","1052.00"]}]
+}

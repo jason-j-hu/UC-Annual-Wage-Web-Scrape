@@ -1,0 +1,26 @@
+{
+"page" : "3480",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","76353.00","63503.00","0.00","12850.00"]},
+{"id":"2","cell":["2","2018","Irvine","JUAN ALFREDO","FREITES","ASSOC PROJ SCIENTIST-FY","76352.00","70903.00","0.00","5449.00"]},
+{"id":"3","cell":["3","2018","San Francisco","ANTHONY A","REYES","MED CTR SCRTY OFCR SR","76351.00","60022.00","9314.00","7015.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","HENA","MOIR","ADMIN CARE CLIN PARTNER","76351.00","53254.00","14467.00","8630.00"]},
+{"id":"5","cell":["5","2018","Santa Barbara","CLAUDIA","MOSER","ASST PROF-AY","76350.00","76350.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","DAYNA S.","KALLERES","ASSOC PROF-AY","76350.00","76350.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","RODELYN VITANGC","MONTEMAYOR","CLIN OPS SHS SUPV 1","76347.00","76347.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","JOHN","GUARINO","AST TO DEAN DIR CHAIR 1","76347.00","76347.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","AARON","DOUBERTEEN","ADMIN ANL","76344.00","73871.00","473.00","2000.00"]},
+{"id":"10","cell":["10","2018","UCOP","JOSEPHINE","MENESES","EXEC AST 3","76344.00","76344.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","ELAINE M","FLEMING","COMM SPEC 3","76344.00","75844.00","0.00","500.00"]},
+{"id":"12","cell":["12","2018","San Diego","JESUS","OLVERA","LAB RSCH SUPV 1","76344.00","73844.00","0.00","2500.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","DREW R","MARTIN","AEROSPACE ENGR 1","76343.00","69587.00","0.00","6756.00"]},
+{"id":"14","cell":["14","2018","Davis","GARY P","FITZPATRICK","PLUMBER","76340.00","71778.00","866.00","3696.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","JONATHAN CARLOS","TUAZON","VOC NURSE SR","76333.00","63199.00","6402.00","6732.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","BENJAMIN","EVANS","SRA 3","76332.00","76332.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Davis","RAUL R.","CASTANEDA","STEAMFITTER","76332.00","74352.00","1980.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","SUSANA","VELASCO","ACAD HR ANL 3","76329.00","76329.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Santa Cruz","CANDICE J","WARD","PUBLICATIONS PROD SPEC 3","76329.00","75289.00","0.00","1040.00"]},
+{"id":"20","cell":["20","2018","Irvine","SHIMAKO","KAWAUCHI","PROJ SCIENTIST-FY","76326.00","76326.00","0.00","0.00"]}]
+}

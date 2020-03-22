@@ -1,0 +1,26 @@
+{
+"page" : "3388",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","PATRICK C","PABLO","DIETITIAN 2","78072.00","76771.00","299.00","1002.00"]},
+{"id":"2","cell":["2","2018","San Francisco","SUSANA","TAPIA","MED CTR FOOD SVC WORKER SR","78070.00","53862.00","22933.00","1275.00"]},
+{"id":"3","cell":["3","2018","Irvine","JAIME","FERNANDEZ","CLIN SOCIAL WORKER 3","78070.00","77230.00","0.00","840.00"]},
+{"id":"4","cell":["4","2018","Davis","CATHERINE","KLINE","PAT RCDS ABSTRACTOR 3","78069.00","76985.00","1084.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","MORGAN","FRAZIER","FAC MECH","78069.00","56959.00","21110.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","KARINA","PALAU","ACAD ACHIEVEMENT CNSLR 3","78068.00","49035.00","0.00","29033.00"]},
+{"id":"7","cell":["7","2018","San Francisco","MARY E.","ULMAN","RSCH ADM 3","78067.00","78067.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Berkeley","VICKI","RICH","HS ASST CLIN PROF-FY","78067.00","73042.00","0.00","5025.00"]},
+{"id":"9","cell":["9","2018","UCOP","CARISSA","CRESS","ALUMNI EXTERNAL REL SPEC 4","78066.00","74866.00","0.00","3200.00"]},
+{"id":"10","cell":["10","2018","Davis","AMY L","LAMBROS","RESP THER 2","78059.00","75499.00","2192.00","368.00"]},
+{"id":"11","cell":["11","2018","San Francisco","*****","*****","RESID PHYS/SUBSPEC 4-8/NON REP","78056.00","65556.00","0.00","12500.00"]},
+{"id":"12","cell":["12","2018","San Francisco","ROSEMARY","ALBINANA","PAT BILL AND COLL REPR 3","78056.00","72155.00","0.00","5901.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","SUZANNE","WARREN","ADMIN ANL PRN 1","78055.00","78055.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","KRISTINA J","ZBYLUT","PAT RCDS ABSTRACTOR 3","78055.00","77702.00","205.00","148.00"]},
+{"id":"15","cell":["15","2018","San Diego","LYNN MARIE","DO","ADMIN OFCR 3","78055.00","77255.00","0.00","800.00"]},
+{"id":"16","cell":["16","2018","Davis","COLIN A","WEBSTER","ASST PROF-AY","78054.00","78054.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","NOELLE","FA-KAJI","APPLICATIONS PROGR 3","78053.00","78053.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","ROSA","AYALA","GI ENDOSCOPY TCHN 3","78053.00","60411.00","4700.00","12942.00"]},
+{"id":"19","cell":["19","2018","San Francisco","STEPHANIE A","DADIVAS","ADMITTING WORKER PRN","78052.00","75688.00","1199.00","1165.00"]},
+{"id":"20","cell":["20","2018","Davis","PIERCE WAYNE","BAE","BUS SYS ANL 3","78049.00","78049.00","0.00","0.00"]}]
+}

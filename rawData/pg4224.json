@@ -1,0 +1,26 @@
+{
+"page" : "4224",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","MEGAN ELIZABETH","MURPHY","EVENTS SPEC 3","65433.00","63827.00","856.00","750.00"]},
+{"id":"2","cell":["2","2018","Riverside","EMILY","MCCOY","STDT LIFE DEVT SUPV 2","65432.00","65432.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","SARIKA B","BATCHA","PHLEBOTOMIST CERT TCHN 2","65431.00","60327.00","5043.00","61.00"]},
+{"id":"4","cell":["4","2018","San Francisco","CRYSTAL JOANNA","DIAZ","PAT NAVGTR NON-CLIN 2","65430.00","61974.00","593.00","2863.00"]},
+{"id":"5","cell":["5","2018","San Francisco","SUSAN M","BUTNER WARAICH","HEALTH PROFNS EDUC SPEC 2","65430.00","62044.00","3386.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","MARTIN R.","WARTENBERG","TEACHER-UNEX-CONTRACT YR","65430.00","0.00","0.00","65430.00"]},
+{"id":"7","cell":["7","2018","Riverside","JAIME","BARROS DA SILVA FILHO","POSTDOC-EMPLOYEE","65430.00","65430.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","ISAAC SERRANO","OSTENDORF","IT SCRTY ANL 3","65429.00","65429.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Santa Cruz","COURTNEY M","MAHANEY","ADMIN OFCR 3","65427.00","64427.00","0.00","1000.00"]},
+{"id":"10","cell":["10","2018","Riverside","WESLEY","LOCKHART","EDUC TCHL SPEC 3","65427.00","57515.00","7912.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","LAURA","MILLER","MGT SVC OFCR 1","65426.00","65426.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","SONIA R","MAYORAL","ASSOC SPECIALIST","65424.00","65424.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","JUVENAL","SOLIS","FOOD SVC MGR SR","65424.00","66024.00","0.00","-600.00"]},
+{"id":"14","cell":["14","2018","Irvine","JASON EDWARD","TOMPKINS","STDT AFFAIRS OFCR 3 EX","65423.00","65423.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","JENNIFER BROWN","LEITNER","REGL AND CMPLNC HC SPEC 2","65422.00","64422.00","0.00","1000.00"]},
+{"id":"16","cell":["16","2018","Davis","TIMOTHY C","KEENAN","CLIN NURSE 2","65421.00","52426.00","5067.00","7928.00"]},
+{"id":"17","cell":["17","2018","Berkeley","LAURA","STELLY","PROJECT POLICY ANL 2","65421.00","65421.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Irvine","LINDA T.","VO","CLIN RSCH CRD","65420.00","60588.00","4832.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","SIMBI","MAHLANZA","STDT AFFAIRS OFCR 3 EX","65420.00","63920.00","0.00","1500.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","TIFFANI","WONG","ACCOUNTANT 3","65420.00","65420.00","0.00","0.00"]}]
+}

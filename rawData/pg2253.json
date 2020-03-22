@@ -1,0 +1,26 @@
+{
+"page" : "2253",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","MARTIN","GARCIA","TCHL PROJECT MGT PROFL 3","104802.00","103802.00","0.00","1000.00"]},
+{"id":"2","cell":["2","2018","San Francisco","DEBORAH KAY","COLLINS","CLIN APPLICATIONS PROFL 3","104800.00","104800.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","JENNIFER","LENG","CLIN NURSE 2","104798.00","89813.00","219.00","14766.00"]},
+{"id":"4","cell":["4","2018","San Francisco","BENJAMIN","MOW","RADLG SVC MGR 1","104796.00","71000.00","0.00","33796.00"]},
+{"id":"5","cell":["5","2018","Irvine","BOJIDAR ANGUELOV","PETKOV","BLDG AUTO CNTRL TCHN","104791.00","78730.00","22384.00","3677.00"]},
+{"id":"6","cell":["6","2018","Irvine","ERICE","CHENG","ADMIN ANL PRN 1","104789.00","104789.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","ALEXANDRE","GINGRAS","ASST ADJ PROF-HCOMP","104788.00","104788.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Francisco","AILENE R.","ESTALILLA","EXEC AST 3","104787.00","104787.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","WENDY MICHELE","SCOTT","EHS SPEC 3","104786.00","102228.00","0.00","2558.00"]},
+{"id":"10","cell":["10","2018","San Francisco","KATHY ELLEN","LUM","FINANCIAL ANL 4","104785.00","98785.00","0.00","6000.00"]},
+{"id":"11","cell":["11","2018","Irvine","ASHLEY DAWN","TYDON","DIR AST","104785.00","104785.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","JORDAN","PATRICIO","CLIN NURSE 2","104783.00","90340.00","490.00","13953.00"]},
+{"id":"13","cell":["13","2018","UCOP","AYMEN","MANAI","APPLICATIONS PROGR 3","104782.00","104782.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","BENJAMIN SALAZAR","FERNANDEZ","FINANCIAL ANL 4","104781.00","103781.00","0.00","1000.00"]},
+{"id":"15","cell":["15","2018","San Francisco","MARTHA","GEORGE","ADMIN SUPV 2","104781.00","104781.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","SAM","LEUNG","CLIN LAB SCI","104781.00","94442.00","9299.00","1040.00"]},
+{"id":"17","cell":["17","2018","Merced","OLAF","LOPEZ","POLICE OFCR","104781.00","77917.00","22816.00","4048.00"]},
+{"id":"18","cell":["18","2018","Irvine","CINDY D","CERVANTES","NURSE PRACT 2","104780.00","103193.00","1119.00","468.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","SHARON","CHANG","ADV OFCR 3","104780.00","104780.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","GIL","TAL","ACAD PRG MGT OFCR 4","104780.00","104780.00","0.00","0.00"]}]
+}

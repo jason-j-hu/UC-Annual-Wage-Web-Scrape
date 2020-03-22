@@ -1,0 +1,26 @@
+{
+"page" : "4585",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","JOHN P","LOZANO","ADMIN OFCR 2","61492.00","60742.00","0.00","750.00"]},
+{"id":"2","cell":["2","2018","Irvine","LEA ARANDA","CHUA","PAT BILLER 3","61491.00","58603.00","2221.00","667.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","TIARA","MOSLEY","VOC NURSE SR","61491.00","59449.00","1597.00","445.00"]},
+{"id":"4","cell":["4","2018","San Francisco","RAM P","NAIKAWADI","SPECIALIST","61488.00","61488.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Francisco","DANIELLE","OTTOLIA","PRACTICE CRD 3","61488.00","57462.00","3342.00","684.00"]},
+{"id":"6","cell":["6","2018","San Diego","SUNDER","MUDALIAR","HS CLIN PROF-HCOMP","61486.00","44437.00","0.00","17049.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","KARINA","GOMEZ","SRA 3 SUPV","61485.00","61485.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","JACKELINE","RODRIGUEZ","CLIN SOCIAL WORKER 1 NEX","61485.00","61485.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Riverside","ANGELIQUE","JONES-BUTLER","ACAD HR ANL 2","61485.00","60658.00","327.00","500.00"]},
+{"id":"10","cell":["10","2018","San Diego","ANNA MARIE","PLASTER","CLIN SOCIAL WORKER 1 NEX","61485.00","61485.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","LARDIN A","AMADOR","AUTO EQUIP OPR PRN","61484.00","57533.00","3951.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","DENISE A","NELSON","HEALTH PROFNS EDUC SPEC 3","61482.00","60607.00","0.00","875.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","CHRISTINE","SIREGAR","CLIN NURSE 2","61482.00","54631.00","0.00","6851.00"]},
+{"id":"14","cell":["14","2018","Davis","ELISA","ESCAMILLA","PHLEBOTOMIST CERT TCHN 2","61482.00","56127.00","2224.00","3131.00"]},
+{"id":"15","cell":["15","2018","UCOP","WENDY","FONG","LOAN ORIGINATION OFCR 2","61482.00","61395.00","87.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","MARIE JOSEPHINE","ANIAG","MED CTR FOOD SVC WORKER SR","61481.00","57361.00","4117.00","3.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","S","GERSKI","REG DENTAL AST","61481.00","61481.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","SILVIA","AQUINO","REG DENTAL AST","61481.00","61481.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","DANIEL","WIESE","BLANK AST 3","61479.00","60796.00","0.00","683.00"]},
+{"id":"20","cell":["20","2018","San Francisco","FLORENCE MARI","GUGLIELMETTI","ASSOC SPECIALIST","61478.00","60409.00","0.00","1069.00"]}]
+}

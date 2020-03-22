@@ -1,0 +1,26 @@
+{
+"page" : "4293",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","RICHARD JOHN","STAFFORD","CUSTODIAN LD","64690.00","46419.00","16394.00","1877.00"]},
+{"id":"2","cell":["2","2018","San Francisco","KATRINA ANNE B","RAGAZA","HOSP LAB TCHN 1","64689.00","64629.00","47.00","13.00"]},
+{"id":"3","cell":["3","2018","San Diego","RYOSUKE","OKAMURA","CLIN RSCH CRD AST","64688.00","64688.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","CYNTHIA L","SVACINA","RSCH ADM 3","64688.00","63688.00","0.00","1000.00"]},
+{"id":"5","cell":["5","2018","Irvine","ELIZABETH","MAI","VOC NURSE SR","64687.00","61116.00","2541.00","1030.00"]},
+{"id":"6","cell":["6","2018","Berkeley","CHRISTINA","MARINO","ASSOC LIBRARIAN-POTNTL CAREER","64687.00","64687.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","UCOP","KIMBERLEE","STERMAN","HR GENERALIST 2","64684.00","62517.00","2167.00","0.00"]},
+{"id":"8","cell":["8","2018","Irvine","VANAN THI","PHAM","ADMIN ANL SR","64683.00","63783.00","0.00","900.00"]},
+{"id":"9","cell":["9","2018","Riverside","JUDY","SWINEFORD","EXEC AST 3","64682.00","64682.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","TYLER","BROWNE","COACH AST 3","64682.00","60932.00","0.00","3750.00"]},
+{"id":"11","cell":["11","2018","San Francisco","ALEJANDRA","NAVARRO","HOSP BLANK AST 3","64680.00","60243.00","524.00","3913.00"]},
+{"id":"12","cell":["12","2018","Davis","MAGDALENA","PLANCARTE","SRA 2","64680.00","64680.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","ANN H","BECKER","SRA 2","64680.00","64680.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","San Diego","CHARLES V.","LANGSETT","EXHIBITIONS SPEC 4","64680.00","64180.00","0.00","500.00"]},
+{"id":"15","cell":["15","2018","San Diego","EVANGELINE SARI","MOSE","SRA 2","64680.00","64680.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Diego","SEAN A","KIPPERMAN","SRA 2","64680.00","64680.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","RUTH E.","RODRIGUEZ","SRA 2","64680.00","64680.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","ALIGNA","SOMSANITH","GEOGRAPHIC INFO SYS PROGR 3","64677.00","64677.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Davis","DANIEL W.","HAHN","GEOGRAPHIC INFO SYS PROGR 3","64677.00","64677.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Davis","WILLIAM C","KJAR","CLIN APPLICATIONS PROFL 3","64676.00","62884.00","0.00","1792.00"]}]
+}

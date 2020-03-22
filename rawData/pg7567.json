@@ -1,0 +1,26 @@
+{
+"page" : "7567",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","APRIL L.","BURCHAM","ACAD HR ANL 2","31049.00","30299.00","0.00","750.00"]},
+{"id":"2","cell":["2","2018","Berkeley","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","31048.00","21230.00","0.00","9818.00"]},
+{"id":"3","cell":["3","2018","Berkeley","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","31048.00","21230.00","0.00","9818.00"]},
+{"id":"4","cell":["4","2018","Berkeley","*****","*****","ASSOC IN __ -AY-1/9-GSHIP","31048.00","21230.00","0.00","9818.00"]},
+{"id":"5","cell":["5","2018","Davis","ANTONIO","LOPEZ","AGRICULTURAL TCHN PRN","31048.00","25107.00","1018.00","4923.00"]},
+{"id":"6","cell":["6","2018","Davis","RAVINAY","SINGH","HOSP BLANK AST 3","31048.00","26960.00","4088.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","ALANA","IGLEWICZ","HS ASSOC CLIN PROF-HCOMP","31048.00","18448.00","0.00","12600.00"]},
+{"id":"8","cell":["8","2018","Santa Barbara","FABIEN","ALIBART","VIS PROJ SCIENTIST","31047.00","31047.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Irvine","YASAMEEN F","SATTARI","MGT SVC OFCR 3","31044.00","30742.00","0.00","302.00"]},
+{"id":"10","cell":["10","2018","Irvine","RAJESH KUMAR","RAJPUT","SURGICAL TCHN SR","31043.00","26597.00","2953.00","1493.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","JOAN ISABELLE","BARCENAS","CLIN NURSE 2","31043.00","29127.00","411.00","1505.00"]},
+{"id":"12","cell":["12","2018","Irvine","MOHAMMAD REZA","AMIRKHIZI","LECT-AY","31041.00","31041.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","KRISTIN E","MENDOZA-FABIANI","RSCH ADM 2","31040.00","31040.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Riverside","*****","*****","TEACHG FELLOW-GSHIP","31040.00","30940.00","0.00","100.00"]},
+{"id":"15","cell":["15","2018","Berkeley","*****","*****","GSR-FULL FEE REM","31040.00","31040.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","CHRISTIAN ALAIN","SERVERA","PRACTICE CRD 2","31039.00","27492.00","609.00","2938.00"]},
+{"id":"17","cell":["17","2018","Irvine","ALISSA C","THURAISINGHAM","NURSE PD","31037.00","30461.00","576.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","*****","*****","GSR-FULL FEE REM","31037.00","31037.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Santa Cruz","*****","*****","GSR-PARTIAL FEE REM","31035.00","31035.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","DYLAN","HENSON","ADMIN ANL SR","31034.00","31034.00","0.00","0.00"]}]
+}

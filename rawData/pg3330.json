@@ -1,0 +1,26 @@
+{
+"page" : "3330",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","BERNADETTE","AUSTIN-BOWER","ACADEMIC COORD II-FY","79155.00","79155.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Davis","DENNIS M","THOMPSON","CMPTL AND DATA SCI RSCH SPEC 3","79153.00","76262.00","0.00","2891.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","RONALD","BURGER","ADMIN ANL PRN 1","79152.00","75535.00","112.00","3505.00"]},
+{"id":"4","cell":["4","2018","Santa Barbara","MONA","DAMLUJI","ASST PROF-AY","79150.00","79150.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Irvine","JOHN","SEMINARA","HVAC MECH","79145.00","74169.00","852.00","4124.00"]},
+{"id":"6","cell":["6","2018","San Diego","JARROD STEPHEN","REMERS","ELECTRN","79145.00","78888.00","56.00","201.00"]},
+{"id":"7","cell":["7","2018","Davis","ADRIANA","TORRES","CNSLNG PSYCHOLOGIST 2 HX","79143.00","76796.00","0.00","2347.00"]},
+{"id":"8","cell":["8","2018","Santa Cruz","NORMAN","LOCKS","PROF-AY","79141.00","79141.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Merced","MEGAN","TOPETE","STDT ACAD SUPV 2","79140.00","71763.00","0.00","7377.00"]},
+{"id":"10","cell":["10","2018","San Francisco","CHRIS C","CHAN","ADMITTING WORKER PRN","79138.00","78118.00","0.00","1020.00"]},
+{"id":"11","cell":["11","2018","San Francisco","ANALISA","LONO","EVENTS SPEC 3","79138.00","77138.00","0.00","2000.00"]},
+{"id":"12","cell":["12","2018","Santa Cruz","JENNIFER RICH","PITTMAN","WRITER EDITOR 3","79138.00","79138.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","KELLY","DAVIS","VOC NURSE SR","79137.00","76846.00","2291.00","0.00"]},
+{"id":"14","cell":["14","2018","San Francisco","HUNTER KEITH","DENNISON","SURGICAL TCHN SR","79136.00","76603.00","1254.00","1279.00"]},
+{"id":"15","cell":["15","2018","Davis","JARED L","CAMPBELL","ASSOC LIBRARIAN -CAREER STATUS","79136.00","79136.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","DEBORAH","SCHLOSBERG","ACADEMIC COORD I-FY","79136.00","79136.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","CAITLIN","APPERT","DIGITAL COMM SPEC 3","79132.00","79131.00","1.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","ANTONIO","MAYORGA","ADMITTING WORKER SR","79130.00","72924.00","4174.00","2032.00"]},
+{"id":"19","cell":["19","2018","San Diego","DAPHNE","PLEASANT","FINANCIAL ANL 2","79130.00","74531.00","186.00","4413.00"]},
+{"id":"20","cell":["20","2018","San Francisco","CATHERINE J","MARKS","DIETITIAN 1 EX","79128.00","77903.00","369.00","856.00"]}]
+}

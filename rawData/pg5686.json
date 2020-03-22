@@ -1,0 +1,26 @@
+{
+"page" : "5686",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","ANNA DOMINIQUE B","RODRIGUEZ","RSCH CMPLNC SUPV 2","51163.00","47389.00","0.00","3774.00"]},
+{"id":"2","cell":["2","2018","Irvine","POOJA","IDNANI","MGT SVC OFCR 1 SUPV","51163.00","44032.00","0.00","7131.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","LYNNE","YORITA","MGR","51163.00","51163.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","AMALIA","ICREVERZI","SRA 2 NEX","51163.00","39161.00","9300.00","2702.00"]},
+{"id":"5","cell":["5","2018","Berkeley","XIZE","WANG","POSTDOC-EMPLOYEE","51162.00","51162.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Francisco","ANDREW MICHAEL","TORRES","PAT CARE DIALYSIS TCHN 2","51161.00","48274.00","1720.00","1167.00"]},
+{"id":"7","cell":["7","2018","Davis","MICHAEL D","MCGRAW","REPROGRAPHICS TCHN PRN","51161.00","50291.00","870.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","JEFFREY","HUNGER","POSTDOC-EMPLOYEE","51161.00","51161.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","DAMIA","ROMERO MOYA","POSTDOC-EMPLOYEE","51159.00","51159.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Davis","CHONG","HER","MED AST 2","51159.00","50531.00","628.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","JEESUN","KIM","SRA 2 NEX","51159.00","50814.00","345.00","0.00"]},
+{"id":"12","cell":["12","2018","Davis","ALAIN","DIB","POSTDOC-EMPLOYEE","51158.00","51158.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","WILLIAM","JONES","CUSTODIAN LD","51158.00","45399.00","4250.00","1509.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","ELIZABETH","HEATH-HECKMAN","POSTDOC-EMPLOYEE","51157.00","51157.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","NADIYAH","HURD","BLANK AST 3","51157.00","51120.00","37.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","KELLY A","ZEPPENFELDT","STDT AFFAIRS OFCR 2","51156.00","51156.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Santa Cruz","JESSICA MARIE","WAGGONER","ASSOC LIBRARIAN -CAREER STATUS","51156.00","51156.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Diego","JONATHAN FERRER","ROJAS","NURSE AID SR","51155.00","43715.00","4316.00","3124.00"]},
+{"id":"19","cell":["19","2018","Irvine","ARIELLE LUCILLA","GARCIA","STDT AFFAIRS OFCR 3 SUPV","51154.00","50654.00","0.00","500.00"]},
+{"id":"20","cell":["20","2018","San Diego","SAUL C","GARCIA","CUSTODIAL SUPV 1","51154.00","50142.00","0.00","1012.00"]}]
+}

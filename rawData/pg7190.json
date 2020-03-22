@@ -1,0 +1,26 @@
+{
+"page" : "7190",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","MAIA Y","PAUL","CLIN RSCH CRD","35387.00","35366.00","21.00","0.00"]},
+{"id":"2","cell":["2","2018","Irvine","LUCILA SANDOVAL","PINEDA","TELEMETRY TCHN","35387.00","32171.00","679.00","2537.00"]},
+{"id":"3","cell":["3","2018","Irvine","MIGUEL","VARELA RODRIGUE","COOK SR","35387.00","34063.00","624.00","700.00"]},
+{"id":"4","cell":["4","2018","San Diego","WAYNE BARRINGTON","CAMPBELL","CUSTODIAN SR","35386.00","35176.00","210.00","0.00"]},
+{"id":"5","cell":["5","2018","Merced","SONYA","ZARAGOZA","CHILD DEV CTR TEACHER 1","35385.00","35385.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Riverside","SAMEER","SAROA","LAB AST 2","35383.00","35287.00","96.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","NIRI","CARROLL","GENETIC CNSLR 2 NEX","35381.00","35163.00","218.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","35380.00","35380.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","CELIDA","ESPERANO DE DAV","CUSTODIAN SR","35379.00","35369.00","10.00","0.00"]},
+{"id":"10","cell":["10","2018","Riverside","JAMES","DAIL","LECT-AY-1/9","35379.00","35379.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Los Angeles","RENZEN","BRIONES","MED CTR CUSTODIAN SR PD","35378.00","31496.00","437.00","3445.00"]},
+{"id":"12","cell":["12","2018","Davis","MELISSA B.A.","MARRS","CMTY EDUC SPEC 2","35377.00","35377.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","TRACEY","WIGGINS","EMERGENCY TRAUMA TCHN SR","35377.00","32004.00","2034.00","1339.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","35377.00","35377.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","FARIS","NATOUR","ALUMNI EXTERNAL REL SPEC 4","35376.00","35376.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Davis","JEFFERY A","MAJOR","COOK","35374.00","33730.00","856.00","788.00"]},
+{"id":"17","cell":["17","2018","Irvine","PRASANTHI V","TATA","SRA 2 NEX","35374.00","35374.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","San Francisco","CALVIN","JIANG","PHARMACIST PD","35372.00","32047.00","1814.00","1511.00"]},
+{"id":"19","cell":["19","2018","Berkeley","PATINA","MENDEZ","LECT-AY-CONTINUING","35372.00","34622.00","0.00","750.00"]},
+{"id":"20","cell":["20","2018","Irvine","CECILIA","GARCIA","STDT AFFAIRS OFCR 3 EX","35370.00","26412.00","0.00","8958.00"]}]
+}

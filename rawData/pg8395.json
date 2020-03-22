@@ -1,0 +1,26 @@
+{
+"page" : "8395",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","KATHY NGUYEN","LAM","POSTDOC-EMPLOYEE","22845.00","22845.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","San Francisco","KRISTINA R","SAYLER","CLIN RSCH CRD","22845.00","22001.00","0.00","844.00"]},
+{"id":"3","cell":["3","2018","Davis","*****","*****","GSR-FULL FEE REM","22845.00","22745.00","0.00","100.00"]},
+{"id":"4","cell":["4","2018","San Diego","LAURA J","MERRILL","CLIN NURSE 2","22845.00","21403.00","933.00","509.00"]},
+{"id":"5","cell":["5","2018","San Francisco","ROSSANA","HERRERA","SRA 3","22844.00","21059.00","0.00","1785.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","KATHERINE A","TIRONE","AST TO DEAN DIR CHAIR 1","22844.00","20998.00","0.00","1846.00"]},
+{"id":"7","cell":["7","2018","Berkeley","*****","*****","READER-GSHIP","22843.00","22743.00","0.00","100.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","*****","*****","GSR-PARTIAL FEE REM","22842.00","20104.00","0.00","2738.00"]},
+{"id":"9","cell":["9","2018","Davis","VICTORIA","MATTOX","NURSE PRACT PD","22842.00","19167.00","2876.00","799.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","JENNIFER","RUIZ","CLIN NURSE 1","22842.00","20244.00","598.00","2000.00"]},
+{"id":"11","cell":["11","2018","San Francisco","MARK ANTHONY","KOONTZ","SRA 2 NEX","22841.00","22570.00","271.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","RAKHI","BAJAJ","ASSOC SPECIALIST","22841.00","22841.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Riverside","*****","*****","TEACHG ASST-GSHIP","22841.00","22741.00","0.00","100.00"]},
+{"id":"14","cell":["14","2018","Davis","JANICE S.","LEE","NON EVALUATED PSS NEX","22840.00","0.00","0.00","22840.00"]},
+{"id":"15","cell":["15","2018","Davis","TORIE A.","JOHNSON","ATH PROFL 1 BYA","22840.00","0.00","0.00","22840.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","CHERYL","LEAHY","ADMIN ANL SR","22839.00","22839.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Irvine","ISABEL Y","ASHBAUGH","JR SPECIALIST NEX","22838.00","20415.00","18.00","2405.00"]},
+{"id":"18","cell":["18","2018","Irvine","*****","*****","TEACHG ASST-GSHIP","22838.00","22738.00","0.00","100.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","CHRISTOPHER SUNG","LOPEZ","ADMIN CARE CLIN PARTNER","22838.00","16840.00","2283.00","3715.00"]},
+{"id":"20","cell":["20","2018","Santa Barbara","CELIA","ALARIO","LECT-AY-1/9","22838.00","22738.00","0.00","100.00"]}]
+}

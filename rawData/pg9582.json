@@ -1,0 +1,26 @@
+{
+"page" : "9582",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","ALIANA","LUNGO-SHAPIRO","BUDGET ANL PRN 1","12476.00","12088.00","0.00","388.00"]},
+{"id":"2","cell":["2","2018","San Diego","*****","*****","STDT 4","12476.00","532.00","0.00","11944.00"]},
+{"id":"3","cell":["3","2018","Santa Barbara","MICHELLE","SMITH","BLANK AST 3","12476.00","12476.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","MICHAEL RICHARD","TRAVERS","COACH AST 3","12476.00","0.00","0.00","12476.00"]},
+{"id":"5","cell":["5","2018","Berkeley","MARJORIE","JENSEN","READER-NON STDNT","12476.00","11726.00","0.00","750.00"]},
+{"id":"6","cell":["6","2018","Berkeley","JESSE","GOMEZ","POSTDOC-EMPLOYEE","12475.00","12475.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","ZHENTAO","YANG","POSTDOC-FELLOW","12475.00","0.00","0.00","12475.00"]},
+{"id":"8","cell":["8","2018","San Diego","VANESSA","BARONE","POSTDOC-EMPLOYEE","12475.00","12475.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","LUKE H","KARL","HEALTH PROFNS EDUC SPEC 2","12474.00","11905.00","0.00","569.00"]},
+{"id":"10","cell":["10","2018","Santa Cruz","JOANNE E","SORCI","CLERK SR OR SECR","12474.00","12328.00","146.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","*****","*****","STDT 3","12473.00","12473.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","*****","*****","STDT RECR","12473.00","12192.00","271.00","10.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","*****","*****","STDT RECR","12473.00","12225.00","68.00","180.00"]},
+{"id":"14","cell":["14","2018","Riverside","ENRIQUE","LOPEZ","LECT-AY-CONTINUING","12473.00","12473.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","SUSAN DAY","MATHESON","RSCH ADM 4","12473.00","10473.00","0.00","2000.00"]},
+{"id":"16","cell":["16","2018","Davis","*****","*****","STDT 4","12471.00","12471.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","PARKER J.","RICHARDSON","LAB AST 3","12471.00","11804.00","0.00","667.00"]},
+{"id":"18","cell":["18","2018","Berkeley","*****","*****","HEALTH EDUCATOR 1","12471.00","12471.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","ARTURO","SANTIAGO","PHYS THER 1 PD","12470.00","11477.00","0.00","993.00"]},
+{"id":"20","cell":["20","2018","San Francisco","JOSE M","EGUIA","ASC PHYSCN","12470.00","8382.00","0.00","4088.00"]}]
+}

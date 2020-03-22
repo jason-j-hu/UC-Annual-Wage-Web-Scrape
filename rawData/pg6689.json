@@ -1,0 +1,26 @@
+{
+"page" : "6689",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","JOSE A","CAMPOS","CMTY EDUC SPEC 2","41310.00","40810.00","0.00","500.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","EDGAR","GOMEZ-TORRES","MED CTR PARKING AST","41310.00","39634.00","988.00","688.00"]},
+{"id":"3","cell":["3","2018","Merced","ARIANNA","CAMPIANI","ASSOC SPECIALIST","41310.00","41310.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Diego","SAMUEL WESTLEY","SMITH","MED CTR CUSTODIAN SR","41310.00","38110.00","1483.00","1717.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ALEXANDER","SALAS","LAB AST 3","41309.00","41309.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","MADELINE","ROSENBERGER","LAB AST 3","41309.00","41309.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","GRACE","GILLESPIE","LAB AST 3","41309.00","41309.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","MARIA JOANNA SUZETTE","CALIP","ADMIN SPEC","41309.00","39687.00","1622.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","ERIC O","HERNANDEZ","CMTY EDUC SPEC 3","41309.00","41309.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","LOONG F.","KONG","ASST ADJ PROF-AY","41309.00","41309.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Berkeley","RAYMOND","LIFCHEZ","PROF-AY","41309.00","41309.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Berkeley","BRITTNEY","THORNTON","LAB AST 3","41309.00","41309.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","MARITZA","MONTEAGUDO","CUSTODIAN","41309.00","38390.00","947.00","1972.00"]},
+{"id":"14","cell":["14","2018","Davis","TSIGE","TEDLA","PARKING AST","41308.00","38782.00","1189.00","1337.00"]},
+{"id":"15","cell":["15","2018","Santa Barbara","*****","*****","STDT LIFE DEV SPEC 3","41307.00","37747.00","0.00","3560.00"]},
+{"id":"16","cell":["16","2018","Riverside","TRACEY","SMITH","RECR PRG INSTR 2","41307.00","0.00","0.00","41307.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","MILAN","KORDA","POSTDOC-EMPLOYEE","41306.00","41306.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","JOSE","ELIAS","MED CTR COOK","41305.00","40267.00","675.00","363.00"]},
+{"id":"19","cell":["19","2018","Davis","GREGORIO F","FANTILLO","CUSTODIAN SR","41304.00","39905.00","32.00","1367.00"]},
+{"id":"20","cell":["20","2018","ASUCLA","MICHAEL","LUSTER","COOK","41304.00","41304.00","0.00","0.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "11773",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","MAIA","MERIN","TEACHER-SPEC PROG","4200.00","0.00","0.00","4200.00"]},
+{"id":"2","cell":["2","2018","Berkeley","SARAH","TIMMERMAN","CAMP CNSLR L3","4200.00","0.00","0.00","4200.00"]},
+{"id":"3","cell":["3","2018","Berkeley","JASON","ROSS","CAMP CNSLR L3","4200.00","0.00","0.00","4200.00"]},
+{"id":"4","cell":["4","2018","Berkeley","SUNISA","MANNING","TEACHER-UNEX","4200.00","0.00","0.00","4200.00"]},
+{"id":"5","cell":["5","2018","San Francisco","*****","*****","STDT INTERN","4200.00","4200.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Irvine","*****","*****","STDT 4","4200.00","4181.00","0.00","19.00"]},
+{"id":"7","cell":["7","2018","Los Angeles","*****","*****","STDT 3","4200.00","4200.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","*****","*****","STDT 4","4200.00","4200.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","KARLA-ANNE A","SISON","RSDT ADVISOR 2","4200.00","0.00","0.00","4200.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","REXANNE ERICA","RICE","FOOD SVC WORKER","4200.00","3617.00","50.00","533.00"]},
+{"id":"11","cell":["11","2018","Davis","LINDSAY L","CHOI","RSDT ADVISOR 2","4200.00","0.00","0.00","4200.00"]},
+{"id":"12","cell":["12","2018","Davis","ANDREA D","POMICPIC","TEACHER-UNEX-CONTRACT YR","4200.00","0.00","0.00","4200.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","SIAMAK","BASIRATMAND","ADDL COMP-HGH&OLIVE VIEW MCS","4200.00","0.00","0.00","4200.00"]},
+{"id":"14","cell":["14","2018","Davis","MEHMET BURAK","YIKILMAZ","ASST RES-FY NEX","4200.00","4200.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Santa Barbara","*****","*****","STDT 1","4200.00","4200.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Santa Barbara","*****","*****","STDT 1","4200.00","3329.00","0.00","871.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","LORI","YOUNG","TEACHER-UNEX-CONTRACT YR","4200.00","0.00","0.00","4200.00"]},
+{"id":"18","cell":["18","2018","Davis","MICHAEL J.","GREEN","RSDT ADVISOR 2","4200.00","0.00","0.00","4200.00"]},
+{"id":"19","cell":["19","2018","Davis","SARAH L","IJAMES","RSDT ADVISOR 2","4200.00","0.00","0.00","4200.00"]},
+{"id":"20","cell":["20","2018","San Diego","SETH EUGENE","SMITH","RECR PRG INSTR 3","4200.00","0.00","0.00","4200.00"]}]
+}

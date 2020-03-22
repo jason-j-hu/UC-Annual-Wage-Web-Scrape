@@ -1,0 +1,26 @@
+{
+"page" : "5824",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","BABACK","ROSHANRAVAN","ASSOC PROF-HCOMP","50000.00","33980.00","0.00","16020.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","ANGELIC","ROBLES","CTRL SVC TCHN 2","50000.00","46753.00","2099.00","1148.00"]},
+{"id":"3","cell":["3","2018","Davis","CHENGYEE J","CHANG","VIS PROF","50000.00","50000.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","CHARLES SAMSON","MUNN","ADDL COMP-HGH&OLIVE VIEW MCS","50000.00","0.00","0.00","50000.00"]},
+{"id":"5","cell":["5","2018","Davis","JARED D","KAPLAN","VIS PROF","50000.00","50000.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","JENNIFER","CHUN","ASSOC PROF-AY","50000.00","50000.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","*****","*****","NON-PHYS CLIN TRAIN","50000.00","50000.00","0.00","0.00"]},
+{"id":"8","cell":["8","2018","San Diego","*****","*****","NON-PHYS CLIN TRAIN","50000.00","50000.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Davis","PAULO","ZAINI","VIS RES","50000.00","50000.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","ROLF","SCHNEIDER","VIS PROF","50000.00","50000.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","MARK DAVID","KROL","REPROGRAPHICS TCHN PRN","49999.00","48043.00","1956.00","0.00"]},
+{"id":"12","cell":["12","2018","Irvine","HEIDI CYNTHIA","GRAMM","BLANK AST 3","49999.00","49139.00","18.00","842.00"]},
+{"id":"13","cell":["13","2018","Riverside","NATASHA","GONZALES","BLANK AST 3","49999.00","49323.00","76.00","600.00"]},
+{"id":"14","cell":["14","2018","San Diego","DAVID T.","WILKINSON","GROUNDSKEEPER LD","49999.00","48355.00","1644.00","0.00"]},
+{"id":"15","cell":["15","2018","Los Angeles","MELISSA","FRYE","ADMIN ANL","49998.00","49998.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Irvine","LETICIA","SEGURA","MED AST","49997.00","48487.00","1086.00","424.00"]},
+{"id":"17","cell":["17","2018","Santa Cruz","BARBARA","CANO","CUSTODIAN SR","49997.00","48295.00","0.00","1702.00"]},
+{"id":"18","cell":["18","2018","Riverside","CHRISTOPHER","BAXTER","FINANCIAL SVC ANL 1","49997.00","47664.00","2033.00","300.00"]},
+{"id":"19","cell":["19","2018","San Diego","LAUREN ASHLEY","MILLER","SRA 1","49996.00","45488.00","4508.00","0.00"]},
+{"id":"20","cell":["20","2018","San Diego","SUDESHNA","SAHA","POSTDOC-EMPLOYEE","49996.00","49996.00","0.00","0.00"]}]
+}

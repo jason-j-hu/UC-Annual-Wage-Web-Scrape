@@ -1,0 +1,26 @@
+{
+"page" : "4022",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","SUSAN","MILLER","LIBRARY PROFL 4","68023.00","68023.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Hastings College Of Law","ERNESTO","PANTOJA-DIAZ","TECH SPECIALIST","68022.00","67018.00","1004.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","ASHIKA D","CHANDRA","PAT BILL AND COLL SUPV 1","68021.00","64010.00","2928.00","1083.00"]},
+{"id":"4","cell":["4","2018","Los Angeles","JOHN","SPRINGER","THEATER PROD SUPV","68020.00","65040.00","2980.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","CLINTON","LAM","PROGR ANL 3","68020.00","66020.00","0.00","2000.00"]},
+{"id":"6","cell":["6","2018","Los Angeles","*****","*****","CHIEF RESID PHYS-NON REP","68020.00","61770.00","0.00","6250.00"]},
+{"id":"7","cell":["7","2018","Berkeley","JEYASANKAR","KOTTALAM","APPLICATIONS PROGR 4","68020.00","67520.00","0.00","500.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","DAVID","ALLISON","ADMIN SPEC","68017.00","67471.00","546.00","0.00"]},
+{"id":"9","cell":["9","2018","San Francisco","YUNUEN","GARCIA","HEALTH EDUCATOR 2","68014.00","67014.00","0.00","1000.00"]},
+{"id":"10","cell":["10","2018","San Francisco","JOEY","CHIN","HEALTH EDUCATOR 2","68014.00","67014.00","0.00","1000.00"]},
+{"id":"11","cell":["11","2018","San Francisco","LINDSAY ALISON","REYNOSO","HEALTH EDUCATOR 2","68014.00","67014.00","0.00","1000.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","MARINA","NOVAK","ACCESS REPR PRN","68014.00","57980.00","8130.00","1904.00"]},
+{"id":"13","cell":["13","2018","San Diego","OLIVER CASTILLEJ","FAJARDO","EHS TCHN PRN","68014.00","60778.00","7236.00","0.00"]},
+{"id":"14","cell":["14","2018","UCOP","ELAINE","BULAWIN","LEGAL SUPP SPEC 3","68013.00","68013.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","San Diego","MARIANA","ZUMAYA","PAT ACCESS SVC SUPV 1","68013.00","66381.00","882.00","750.00"]},
+{"id":"16","cell":["16","2018","Berkeley","TIMOTHY","HURT","ASSOC SPECIALIST","68013.00","68013.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","KRYSTLE","BRITTON","CLIN NURSE 2","68011.00","57663.00","299.00","10049.00"]},
+{"id":"18","cell":["18","2018","Riverside","SABINE","THUERWAECHTER","LECT-AY-CONTINUING","68011.00","68011.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Riverside","LILIANA","QUERO DE GUEVARA","LECT-AY-CONTINUING","68011.00","68011.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Riverside","HAN-HUA","CHAO","LECT-AY-CONTINUING","68011.00","68011.00","0.00","0.00"]}]
+}

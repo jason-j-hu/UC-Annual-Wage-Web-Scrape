@@ -1,0 +1,26 @@
+{
+"page" : "1735",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","NIKKI KIANA","HICKENS","CLIN NURSE 2","121593.00","106146.00","7584.00","7863.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","SANDY","PORTILLO","CLIN NURSE 2","121585.00","99902.00","6204.00","15479.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","RUEL","MIRASOL","CLIN LAB SCI SPEC SR","121585.00","120587.00","984.00","14.00"]},
+{"id":"4","cell":["4","2018","Davis","ANDREW","KOROMA","CLIN NURSE 2","121584.00","110700.00","3965.00","6919.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","DAVID","KIM","ASSOC PROF-AY","121584.00","112183.00","0.00","9401.00"]},
+{"id":"6","cell":["6","2018","Santa Barbara","HOLLY","WOO","ADMIN MGR 1","121583.00","121583.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","MICHELE M","ORNELAS KNIGHT","BEH HEALTH PSYCHIATRIC SUPV 2","121580.00","117422.00","0.00","4158.00"]},
+{"id":"8","cell":["8","2018","San Francisco","ANANT","PATEL","CLIN APPLICATIONS PROFL 3","121579.00","116192.00","0.00","5387.00"]},
+{"id":"9","cell":["9","2018","San Francisco","LIZA JORDAN","FLORES","NURSE PD","121579.00","101567.00","745.00","19267.00"]},
+{"id":"10","cell":["10","2018","San Diego","ELAINE","TYLER","CLIN NURSE 2","121574.00","107413.00","997.00","13164.00"]},
+{"id":"11","cell":["11","2018","UCOP","ROBERT","FRAYSSE","TCHL PROJECT MGT PROFL 4","121573.00","121573.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Santa Barbara","TYLER","SUSKO","LECT PSOE-AY","121568.00","120068.00","0.00","1500.00"]},
+{"id":"13","cell":["13","2018","Berkeley","MICHAEL","LEEFERS","SYS ADM 4","121565.00","121565.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Davis","PATRICIA A","CRAWFORD","SPECIALIST COOP EXT","121563.00","120122.00","0.00","1441.00"]},
+{"id":"15","cell":["15","2018","San Francisco","MICHAEL A.","KEARNS","INFO SYS ANL 3","121557.00","116184.00","0.00","5373.00"]},
+{"id":"16","cell":["16","2018","San Francisco","TAMMY HOI YAN","CHAN","PLNG SPEC 4","121555.00","120555.00","0.00","1000.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","CATHERINE","HENNESSY","ULTRASOUND TCHNO","121555.00","117652.00","2639.00","1264.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","HUNTER","GEHLBACH","ASSOC PROF-AY","121555.00","115305.00","0.00","6250.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","DENIA","MARQUEZ-MARTINEZ","CYTOGENETIC TCHNO 2","121554.00","119354.00","920.00","1280.00"]},
+{"id":"20","cell":["20","2018","San Diego","SONJA J","STEINBRECH","ADMISSIONS RECRMT SPEC 4","121552.00","116552.00","0.00","5000.00"]}]
+}

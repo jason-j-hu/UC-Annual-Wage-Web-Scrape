@@ -1,0 +1,26 @@
+{
+"page" : "6859",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","GRANT","SAMPLE","MRI TCHNO","39317.00","37644.00","296.00","1377.00"]},
+{"id":"2","cell":["2","2018","San Diego","SEAN M","LIVINGSTON","CMTY EDUC SPEC 2","39317.00","39163.00","154.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","*****","*****","GSR-FULL FEE REM","39317.00","39317.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","San Francisco","MICHELLE","PERCHARDE","POSTDOC-EMPLOYEE","39316.00","39316.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","ESTELA","PORTILLO-LEMUS","PARKING REPR SR","39316.00","36717.00","2033.00","566.00"]},
+{"id":"6","cell":["6","2018","Berkeley","BETHANY","ZINN","CLIN OPS SHS SUPV 1","39315.00","38017.00","717.00","581.00"]},
+{"id":"7","cell":["7","2018","San Francisco","CLAIRE C","MUWELE","BLANK AST 3","39315.00","36489.00","594.00","2232.00"]},
+{"id":"8","cell":["8","2018","Riverside","SERGIO","GUTIERREZ CASTELLON","COOK","39315.00","38422.00","14.00","879.00"]},
+{"id":"9","cell":["9","2018","San Diego","JASEN","JIMENEZ","BLANK AST 1","39315.00","29541.00","290.00","9484.00"]},
+{"id":"10","cell":["10","2018","San Francisco","LIUER","YU","CUSTODIAN SR","39312.00","37072.00","0.00","2240.00"]},
+{"id":"11","cell":["11","2018","Berkeley","KAMESH","KRISHNAMURTHY","VIS ASST PROJ SCIENTIST","39311.00","39311.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","San Francisco","JENITA TARYN","NGO","JR SPECIALIST","39311.00","39311.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","San Diego","GLADIMIR","DUMORNE","MED CTR CUSTODIAN","39311.00","35615.00","1247.00","2449.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","LUIS","CRUZ","CUSTODIAN SR","39310.00","37459.00","1358.00","493.00"]},
+{"id":"15","cell":["15","2018","San Diego","AMY ROXANNE MERR","O\"KEEFE","LECT IN SUMMER SESSION","39308.00","31639.00","0.00","7669.00"]},
+{"id":"16","cell":["16","2018","San Francisco","PARVEZ","RAZA","MED CTR FOOD SVC WORKER SR","39305.00","37422.00","1869.00","14.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","KEVIN","ORELLANA","MED CTR SCRTY OFCR","39305.00","38601.00","704.00","0.00"]},
+{"id":"18","cell":["18","2018","Merced","ASHLEY","VIEIRA","TCHN","39305.00","35790.00","3247.00","268.00"]},
+{"id":"19","cell":["19","2018","Merced","ROSA","GARCIA","CUSTODIAN SR","39305.00","39305.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Irvine","PATRICIA","DIAZ","CUSTODIAN","39304.00","36625.00","1430.00","1249.00"]}]
+}

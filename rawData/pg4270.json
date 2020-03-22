@@ -1,0 +1,26 @@
+{
+"page" : "4270",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Davis","ROBERT B.","WILLIAMS","RSCH AND DEV ENGR 3","64981.00","64981.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","THERESA","JOHNSON","MGT SVC OFCR 1","64980.00","62380.00","0.00","2600.00"]},
+{"id":"3","cell":["3","2018","Berkeley","CATHARINE","RALPH","FLD WK CONSULT-AY-CONTINUING","64979.00","64979.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Riverside","RACHEL","PULIDO","FUNDRAISER 3","64978.00","64978.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","ELHAM","SADEGHOLVAD","ACADEMIC COORD I-AY","64978.00","64818.00","0.00","160.00"]},
+{"id":"6","cell":["6","2018","San Francisco","DRAYTON","MOODY","TRAINER 3","64977.00","63912.00","65.00","1000.00"]},
+{"id":"7","cell":["7","2018","Davis","CORNEL E","WADE","BUS TCHL SUPP ANL 3","64977.00","63261.00","0.00","1716.00"]},
+{"id":"8","cell":["8","2018","San Diego","GERALD J.","TEOTICO","COMPUTER RESC SPEC 1","64977.00","64542.00","435.00","0.00"]},
+{"id":"9","cell":["9","2018","Los Angeles","CAROLYN","SNOCK","DIETITIAN PD","64976.00","63060.00","1176.00","740.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","SARA","GHARIB","ADMIN ANL SR","64976.00","64976.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","PATRICIA M.","PACE","INSTITUTIONAL RSCH ANL 2","64976.00","63976.00","0.00","1000.00"]},
+{"id":"12","cell":["12","2018","Berkeley","ANNY","LIN","PROJECT POLICY ANL 2","64976.00","59835.00","2141.00","3000.00"]},
+{"id":"13","cell":["13","2018","San Francisco","JENNIFER S","FERNANDEZ","STERILE PROCESSING TCHN 3","64974.00","59693.00","126.00","5155.00"]},
+{"id":"14","cell":["14","2018","Irvine","EMILIA DOROTA","VOLLAIRE","CLIN LAB SCI SPEC","64972.00","62248.00","2584.00","140.00"]},
+{"id":"15","cell":["15","2018","Davis","EVELYN F","MILLER","DIETITIAN 2","64972.00","64972.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Los Angeles","STEPHEN","AUSTIN","PROGR ANL 2","64971.00","64825.00","146.00","0.00"]},
+{"id":"17","cell":["17","2018","San Diego","MARIANNE","BLOCKEY","HOSP BLANK AST 4","64970.00","61630.00","2590.00","750.00"]},
+{"id":"18","cell":["18","2018","San Diego","AMBER MARY","RIEDER","STDT SVC ADVISOR 3","64970.00","64970.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","San Francisco","JOHN HENRY S","SUAREZ","HOSP LAB TCHN 1","64969.00","58671.00","452.00","5846.00"]},
+{"id":"20","cell":["20","2018","Berkeley","DONALD","MACGREGOR","PHYS PLT LABORER GARDENER LD","64969.00","64461.00","508.00","0.00"]}]
+}

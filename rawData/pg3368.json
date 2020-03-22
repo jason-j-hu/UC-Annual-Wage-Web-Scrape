@@ -1,0 +1,26 @@
+{
+"page" : "3368",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Francisco","CARRIE A","TRIPLETT","ADMIN OFCR 3","78439.00","77439.00","0.00","1000.00"]},
+{"id":"2","cell":["2","2018","San Francisco","ARMANDO L.","BENAVIDES","STERILE PROCESSING TCHN 3","78439.00","61885.00","6227.00","10327.00"]},
+{"id":"3","cell":["3","2018","Los Angeles","MATTHEW","CONTRI","PROGR ANL 3","78439.00","77689.00","0.00","750.00"]},
+{"id":"4","cell":["4","2018","Berkeley","LAURA","VOGT","COMM SPEC 3","78439.00","73233.00","0.00","5206.00"]},
+{"id":"5","cell":["5","2018","San Francisco","LIZA M","PETERSON","RSCH ADM 3","78438.00","77438.00","0.00","1000.00"]},
+{"id":"6","cell":["6","2018","Riverside","EMMA","GEACH","EMPLOYMENT REPR 3","78437.00","78437.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Francisco","JOSE A.","BOHOL","BLANK AST 3","78435.00","70203.00","7059.00","1173.00"]},
+{"id":"8","cell":["8","2018","Davis","PARAMITA MITRA","GHOSH","PROF-HCOMP","78433.00","78408.00","0.00","25.00"]},
+{"id":"9","cell":["9","2018","Davis","MATTHEW T.","WALLACE","LECT-AY-CONTINUING","78433.00","75293.00","0.00","3140.00"]},
+{"id":"10","cell":["10","2018","Berkeley","BARBARA","PETERSON","ACAD PRG MGT OFCR 4","78433.00","78433.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Francisco","JAKE A","GARCES","PAT CARE AST","78430.00","57787.00","11471.00","9172.00"]},
+{"id":"12","cell":["12","2018","Riverside","DAVINA","BAILEY","EARLY CHILDHOOD EDUC MGR 2","78430.00","73562.00","0.00","4868.00"]},
+{"id":"13","cell":["13","2018","Los Angeles","ABNET","YIGEZU","PAT SPECIALTY SVC TCHN","78428.00","60087.00","15782.00","2559.00"]},
+{"id":"14","cell":["14","2018","San Francisco","ELIZABETH PHILOM","DELMAS","HOSP LAB TCHN 1","78426.00","76896.00","452.00","1078.00"]},
+{"id":"15","cell":["15","2018","Irvine","JOSHUA B.","WESTON","STDT AFFAIRS OFCR 4 SUPV","78426.00","78426.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","San Francisco","ZHEN","YAN","HS CLIN INSTR-HCOMP","78425.00","58042.00","0.00","20383.00"]},
+{"id":"17","cell":["17","2018","San Diego","SCOTTIE W","PROFITT","EHS SPEC 2 NEX","78425.00","72458.00","4667.00","1300.00"]},
+{"id":"18","cell":["18","2018","San Diego","SUSAN R","PEERSON","LECT-AY-CONTINUING","78424.00","70924.00","0.00","7500.00"]},
+{"id":"19","cell":["19","2018","San Francisco","ISHITA","SAMTANI","PROJECT POLICY ANL 3","78423.00","78423.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","San Francisco","PHYLLISS LORINE","WILLIAMS","REVENUE CYCLE HC ANL 2","78417.00","75481.00","583.00","2353.00"]}]
+}

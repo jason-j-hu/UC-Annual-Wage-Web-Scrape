@@ -1,0 +1,26 @@
+{
+"page" : "5854",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","San Diego","YUNLONG","ZHAO","POSTDOC-EMPLOYEE","49767.00","49767.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Riverside","HARPAL","DHILLON","POSTDOC-EMPLOYEE","49767.00","49767.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Davis","LEANNE M","WYATT","MED OFC SVC CRD 2","49766.00","49399.00","367.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","CASEY","MARSHALL","STDT SVC ADVISOR 3","49765.00","48765.00","0.00","1000.00"]},
+{"id":"5","cell":["5","2018","Irvine","KATHRYN","EASON","LECT-AY-CONTINUING","49765.00","49765.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","San Diego","TAMMY","HSU","PHARMACIST 2 PD","49765.00","49262.00","152.00","351.00"]},
+{"id":"7","cell":["7","2018","Riverside","ROCIO","STERN","BLANK AST 3","49764.00","48829.00","422.00","513.00"]},
+{"id":"8","cell":["8","2018","San Francisco","EMILIANO C","MAMARADLO JR","REPROGRAPHICS TCHN PRN","49762.00","48015.00","1747.00","0.00"]},
+{"id":"9","cell":["9","2018","San Diego","PHUONG BICH THI","LE","HOSP BLANK AST 3","49762.00","48287.00","1475.00","0.00"]},
+{"id":"10","cell":["10","2018","San Diego","WILLIAM ANDREW","BOLD","LECT-AY-1/9","49761.00","49761.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","San Diego","GARY O","TEDESCHI","SRA 2","49761.00","49761.00","0.00","0.00"]},
+{"id":"12","cell":["12","2018","Los Angeles","XOCHILT","ORTIZ","BLANK AST 3","49760.00","49760.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","STEVE","BECERRA","AUTO EQUIP OPR SR","49760.00","49760.00","0.00","0.00"]},
+{"id":"14","cell":["14","2018","Los Angeles","MATHEUS","PINTO DE OLIVEIRA","POSTDOC-EMPLOYEE","49759.00","49759.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","COLIN","BRANT","EDUC TCHL SPEC 3","49759.00","46178.00","309.00","3272.00"]},
+{"id":"16","cell":["16","2018","San Diego","WILLIE LANUZA","VILLANUEVA","CARE SUPV 1","49758.00","49758.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Los Angeles","MEGAN","LONG","BLANK AST 2","49757.00","45293.00","2454.00","2010.00"]},
+{"id":"18","cell":["18","2018","Santa Barbara","RACHEL","OGLETREE","STDT ACAD ADVISOR 2","49757.00","49757.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Irvine","VERONICA","MARTINEZ LEMUS","MED AST","49756.00","47823.00","1508.00","425.00"]},
+{"id":"20","cell":["20","2018","Los Angeles","SILVIA","CHILIN","BLANK AST 3","49756.00","49756.00","0.00","0.00"]}]
+}

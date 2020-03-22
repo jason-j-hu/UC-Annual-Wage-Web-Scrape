@@ -1,0 +1,26 @@
+{
+"page" : "1410",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Los Angeles","MARIA LOURDES","BROWN","MGR","134435.00","134435.00","0.00","0.00"]},
+{"id":"2","cell":["2","2018","Santa Barbara","COLLIE","CONOLEY","PROF-AY","134433.00","134433.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","San Francisco","SUZANNE E","SCHWARTZ","CLIN NURSE 3","134430.00","129218.00","516.00","4696.00"]},
+{"id":"4","cell":["4","2018","San Diego","MONETTE OBEDOZA","ARELLANO","CLIN NURSE 2","134428.00","112472.00","6565.00","15391.00"]},
+{"id":"5","cell":["5","2018","Los Angeles","MARK","DEMARS","ADMIN ANL PRN 2","134428.00","134428.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","SUZANNE","HALPIN","ADMIN MGR 1","134425.00","134425.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","San Diego","NADIA MOHIEDDIN","KHARTABIL","STF PHARMACIST 2","134423.00","127047.00","2777.00","4599.00"]},
+{"id":"8","cell":["8","2018","San Francisco","MELISSA ALANE","LOVE","CLIN NURSE 3","134421.00","129232.00","236.00","4953.00"]},
+{"id":"9","cell":["9","2018","Berkeley","PADMAVATHI","VEMULA","APPLICATIONS PROGR 4","134418.00","132918.00","0.00","1500.00"]},
+{"id":"10","cell":["10","2018","Irvine","SUSAN RUTH","KJELLGREN","CLIN NURSE 4","134417.00","124944.00","5440.00","4033.00"]},
+{"id":"11","cell":["11","2018","Berkeley","KAZIM","SENOGLU","APPLICATIONS PROGR 4","134416.00","133916.00","0.00","500.00"]},
+{"id":"12","cell":["12","2018","San Francisco","VICTOR DANIEL","JIMENEZ","ADMIN MGR 1","134413.00","134413.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Davis","ALVARO R","SALUD","ULTRASOUND TCHNO SR","134412.00","132987.00","1408.00","17.00"]},
+{"id":"14","cell":["14","2018","San Francisco","STACEY J","BROMLEY","RAD THER TCHNO","134411.00","133266.00","0.00","1145.00"]},
+{"id":"15","cell":["15","2018","San Diego","BOBBIE MARIE","ALLEN","LECT-AY-CONTINUING","134408.00","133608.00","0.00","800.00"]},
+{"id":"16","cell":["16","2018","Berkeley","MATTHEW","PODOLSKY","ACAD PRG MGT OFCR 4","134406.00","134406.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Santa Barbara","MICHAEL","MARCELLI","FINANCIAL ANL MGR 2","134404.00","134404.00","0.00","0.00"]},
+{"id":"18","cell":["18","2018","Davis","DANTE O","PADUA","CLIN NURSE 2","134403.00","123724.00","3732.00","6947.00"]},
+{"id":"19","cell":["19","2018","Los Angeles","PAUL","CABANTING","PROGR ANL 4","134399.00","128399.00","0.00","6000.00"]},
+{"id":"20","cell":["20","2018","Davis","CHRISTOPHER V","WRIGHT","EHS MGR 2","134398.00","131898.00","0.00","2500.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "1153",
+"total" : "15515",
+"records" : "310295",
+"rows":[
+{"id":"1","cell":["1","2018","Irvine","KARLA","LARA","CLIN NURSE 4","147403.00","123270.00","18486.00","5647.00"]},
+{"id":"2","cell":["2","2018","Los Angeles","BETH","KARLAN","PROF-HCOMP","147400.00","100695.00","0.00","46705.00"]},
+{"id":"3","cell":["3","2018","Berkeley","KALPATARU","BARMAN","INFO SYS MGR 1","147400.00","146400.00","0.00","1000.00"]},
+{"id":"4","cell":["4","2018","Irvine","WILLIAM","TO","PHYSCN AST","147399.00","121720.00","25679.00","0.00"]},
+{"id":"5","cell":["5","2018","San Diego","MIRANDA MAY","COVALESKY","CLIN NURSE 3","147398.00","103925.00","3289.00","40184.00"]},
+{"id":"6","cell":["6","2018","Riverside","MARK","DURBIN","RES-FY-B/E/E","147397.00","147397.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Davis","BRIAN P","GAYLORD","PROF-AY","147395.00","139502.00","0.00","7893.00"]},
+{"id":"8","cell":["8","2018","Los Angeles","RYAN","CHAPMAN","INTERVENTIONAL RADLG TCHNO","147393.00","114519.00","14610.00","18264.00"]},
+{"id":"9","cell":["9","2018","Riverside","JAMES","BORNEMAN","PROF-FY","147392.00","147392.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Los Angeles","ANTHONY","TOLBERT","DIR","147390.00","147390.00","0.00","0.00"]},
+{"id":"11","cell":["11","2018","Riverside","PAULINE","LIBRENJAK","ACCOUNTING MGR 2","147388.00","146288.00","0.00","1100.00"]},
+{"id":"12","cell":["12","2018","Davis","SARAH M","CAPORALE","CLIN NURSE 2","147387.00","136349.00","2607.00","8431.00"]},
+{"id":"13","cell":["13","2018","Davis","MARY ANNE","PETRELLA","CLIN NURSE 2","147384.00","140162.00","2651.00","4571.00"]},
+{"id":"14","cell":["14","2018","Irvine","RUBY","WHITTAKER","CLIN NURSE 4","147378.00","136519.00","10429.00","430.00"]},
+{"id":"15","cell":["15","2018","San Francisco","NATALIE M.","CENTURIONI","CLIN NURSE 2","147371.00","144917.00","0.00","2454.00"]},
+{"id":"16","cell":["16","2018","Davis","PAMELA C","WU","MEDIA COMM MGR 2","147371.00","132167.00","0.00","15204.00"]},
+{"id":"17","cell":["17","2018","Davis","CHAO-YIN","CHEN","PROF-HCOMP","147367.00","134475.00","0.00","12892.00"]},
+{"id":"18","cell":["18","2018","Los Angeles","DANIEL DUMITRU","ANDREI","ASST PROF-AY-B/E/E","147367.00","141517.00","0.00","5850.00"]},
+{"id":"19","cell":["19","2018","Irvine","WILLIAM MICHAEL","KOVICH","DATABASE ADM 4","147365.00","141728.00","0.00","5637.00"]},
+{"id":"20","cell":["20","2018","Davis","PETER","LENTINO","PLNG MGR 1","147363.00","130363.00","0.00","17000.00"]}]
+}
