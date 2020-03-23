@@ -8,18 +8,38 @@ from time import time
 start = time()
 
 
-def download_json(url, path = 2017):
+def run_once(f):
+    def wrapper(*args, **kwargs):
+        if not wrapper.has_run:
+            wrapper.has_run = True
+            return f(*args, **kwargs)
+    wrapper.has_run = False
+    return wrapper
+
+
+@run_once
+def create_dir(folder_path):
+    try:
+        os.mkdir(folder_path)
+    except:
+        pass
+
+
+def download_json(url):
+    pg_num = re.findall(r'\d+', url)[2]
+    folder_path = "./" + re.findall(r'\d+', url)[3]
+
+    create_dir(folder_path)
     """
     r_text_json = json.loads(r_text_fixed)
     pg_num = r_text_json['page']
     """
-    pg_num = re.findall(r'\d+', url)[2]
-    if not os.path.isfile(f"{path}/pg{pg_num}.json"):
+    if not os.path.isfile(f"{folder_path}/pg{pg_num}.json"):
         print("pg" + pg_num + " data collected\n")
         r = requests.get(url)
         r.raise_for_status()
         r_text_fixed = r.text.replace("\'", "\"")
-        with open(f"{path}/pg{pg_num}.json", "x") as obj:
+        with open(f"{folder_path}/pg{pg_num}.json", "x") as obj:
             obj.write(r_text_fixed)
     else:
         print("pg" + pg_num + " data skipped\n")
@@ -35,8 +55,11 @@ def get_urls(list, row_num, yr_num):
 
 
 if __name__ == '__main__':
+    rows = input("How Many Rows? ")
+    year = input("What Year? ")
+
     urls_list = []
-    get_urls(urls_list, 2000, 2017)
+    get_urls(urls_list, rows, year)
 
     """
     p = multiprocessing.Pool(2)
