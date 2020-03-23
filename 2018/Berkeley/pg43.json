@@ -1,0 +1,26 @@
+{
+"page" : "43",
+"total" : "1770",
+"records" : "35383",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","ANDREAS","STAHL","AGRON AES-AY","196198.00","138883.00","0.00","57315.00"]},
+{"id":"2","cell":["2","2018","Berkeley","JAMES","PITMAN","PROF-AY","196175.00","196175.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","HANNAH","STUART","ASST PROF-AY-B/E/E","196104.00","92533.00","0.00","103571.00"]},
+{"id":"4","cell":["4","2018","Berkeley","DAVID","BROWNE","SYS ADMSTN MGR 3","196062.00","196062.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","JOHN","MATSUI","ASST DEAN","195894.00","195894.00","0.00","0.00"]},
+{"id":"6","cell":["6","2018","Berkeley","DAVID","ROLAND-HOLST","ADJ PROF-AY","195789.00","144427.00","0.00","51362.00"]},
+{"id":"7","cell":["7","2018","Berkeley","CHRISTOPHER","DAMES","PROF-AY-B/E/E","195747.00","141250.00","0.00","54497.00"]},
+{"id":"8","cell":["8","2018","Berkeley","KEVIN","GRIMES","HEAD COACH 5","195682.00","195682.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Berkeley","MARY","POWER","PROF-AY","195667.00","195667.00","0.00","0.00"]},
+{"id":"10","cell":["10","2018","Berkeley","JENNIFER","AHERN","ASSOC PROF-AY","195485.00","124142.00","0.00","71343.00"]},
+{"id":"11","cell":["11","2018","Berkeley","MARK","HANSEN","PROF-AY-B/E/E","195427.00","173975.00","0.00","21452.00"]},
+{"id":"12","cell":["12","2018","Berkeley","BENJAMIN","SCHOEFER","ASST PROF-AY-B/E/E","195366.00","140634.00","0.00","54732.00"]},
+{"id":"13","cell":["13","2018","Berkeley","SERENA","CHEN","PROF-AY","195328.00","158175.00","0.00","37153.00"]},
+{"id":"14","cell":["14","2018","Berkeley","THOMAS","WING","POLICE SERGEANT SUPV 2","195163.00","134434.00","49929.00","10800.00"]},
+{"id":"15","cell":["15","2018","Berkeley","BENJAMIN","RECHT","ASSOC PROF-AY-B/E/E","195029.00","146192.00","0.00","48837.00"]},
+{"id":"16","cell":["16","2018","Berkeley","AMY","AMBROSE","FUNDRAISER 5","195008.00","172294.00","0.00","22714.00"]},
+{"id":"17","cell":["17","2018","Berkeley","ROBERT","SHARF","PROF-AY","194986.00","161892.00","0.00","33094.00"]},
+{"id":"18","cell":["18","2018","Berkeley","DAVID","BILDER","PROF-AY","194928.00","146171.00","0.00","48757.00"]},
+{"id":"19","cell":["19","2018","Berkeley","THOMAS","WEST","RSCH AND DEV ENGR MGR 2","194846.00","194846.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","GREGORY","BARTON","PROF-AY","194711.00","192258.00","0.00","2453.00"]}]
+}

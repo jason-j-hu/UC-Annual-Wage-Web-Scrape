@@ -1,0 +1,26 @@
+{
+"page" : "58",
+"total" : "1770",
+"records" : "35383",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","GABRIEL","LENZ","ASSOC PROF-AY","170317.00","153017.00","0.00","17300.00"]},
+{"id":"2","cell":["2","2018","Berkeley","BENJAMIN","MANGAN","ACAD PRG MGT OFCR 5","170315.00","170315.00","0.00","0.00"]},
+{"id":"3","cell":["3","2018","Berkeley","DUNG-HAI","LEE","PROF-AY","170267.00","170267.00","0.00","0.00"]},
+{"id":"4","cell":["4","2018","Berkeley","CAROLINE","WILLIAMS","ASST PROF-AY","170175.00","93792.00","0.00","76383.00"]},
+{"id":"5","cell":["5","2018","Berkeley","ERICA","ROSENBLUM","ASSOC AGRON AES-AY","170151.00","129067.00","0.00","41084.00"]},
+{"id":"6","cell":["6","2018","Berkeley","MING","GU","PROF-AY","170147.00","153358.00","0.00","16789.00"]},
+{"id":"7","cell":["7","2018","Berkeley","CHRISTIAN","PAIZ","ASST PROF-AY","170050.00","85183.00","0.00","84867.00"]},
+{"id":"8","cell":["8","2018","Berkeley","DYLAN","RILEY","PROF-AY","169897.00","139450.00","0.00","30447.00"]},
+{"id":"9","cell":["9","2018","Berkeley","IRENE","BLOEMRAAD","PROF-AY","169875.00","153775.00","0.00","16100.00"]},
+{"id":"10","cell":["10","2018","Berkeley","CRAIG","MILLER","ASSOC PROF-AY","169850.00","127350.00","0.00","42500.00"]},
+{"id":"11","cell":["11","2018","Berkeley","MARIA","SONEVYTSKY","ASST PROF-AY","169694.00","37167.00","0.00","132527.00"]},
+{"id":"12","cell":["12","2018","Berkeley","MICHEL","LAGUERRE","PROF-AY","169667.00","169667.00","0.00","0.00"]},
+{"id":"13","cell":["13","2018","Berkeley","ISAAC","ORR","COMM AND NETWORK TCHL MGR 1","169651.00","169151.00","0.00","500.00"]},
+{"id":"14","cell":["14","2018","Berkeley","FENG","WANG","PROF-AY","169620.00","140650.00","0.00","28970.00"]},
+{"id":"15","cell":["15","2018","Berkeley","MARCI","HOFFMAN","ASSOC LAW LIBRARIAN","169583.00","169583.00","0.00","0.00"]},
+{"id":"16","cell":["16","2018","Berkeley","DEMIAN","POUZO","ASSOC PROF-AY-B/E/E","169583.00","169583.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","FREDERIC","THEUNISSEN","PROF-AY","169218.00","149778.00","0.00","19440.00"]},
+{"id":"18","cell":["18","2018","Berkeley","TINA","SACKS","ASST PROF-AY","169211.00","94750.00","0.00","74461.00"]},
+{"id":"19","cell":["19","2018","Berkeley","BEATRICE","CARDONA","PROD CNTRL MGR 1","169180.00","169180.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","VANESSA","OGLE","ASSOC RES-AY","169176.00","137842.00","0.00","31334.00"]}]
+}

@@ -1,0 +1,26 @@
+{
+"page" : "30",
+"total" : "1770",
+"records" : "35383",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","NILABH","SHASTRI","PROF-AY","222675.00","175275.00","0.00","47400.00"]},
+{"id":"2","cell":["2","2018","Berkeley","DAVID","STEIGMANN","PROF-AY-B/E/E","222660.00","180042.00","0.00","42618.00"]},
+{"id":"3","cell":["3","2018","Berkeley","DAN-VIRGIL","VOICULESCU","PROF-AY","222618.00","195517.00","0.00","27101.00"]},
+{"id":"4","cell":["4","2018","Berkeley","SHENG","LUAN","AGRON AES-AY","222408.00","178208.00","0.00","44200.00"]},
+{"id":"5","cell":["5","2018","Berkeley","PHILIP","STARK","PROF-AY","221775.00","209775.00","0.00","12000.00"]},
+{"id":"6","cell":["6","2018","Berkeley","SANDRA","SMITH","PROF-AY","221459.00","146333.00","0.00","75126.00"]},
+{"id":"7","cell":["7","2018","Berkeley","JAMES","SALLEE","ASST AGRON AES-AY-B/E/E","221416.00","163700.00","0.00","57716.00"]},
+{"id":"8","cell":["8","2018","Berkeley","PETER","QUAIL","AGRON AES","221150.00","221150.00","0.00","0.00"]},
+{"id":"9","cell":["9","2018","Berkeley","MATIAS","TARNOPOLSKY","PERF ARTS MGR 3","221012.00","190719.00","0.00","30293.00"]},
+{"id":"10","cell":["10","2018","Berkeley","MICHAEL","HUTCHINGS","PROF-AY","220964.00","165942.00","0.00","55022.00"]},
+{"id":"11","cell":["11","2018","Berkeley","JEREMY","MAGRUDER","ASSOC AGRON AES-AY-B/E/E","220702.00","180117.00","0.00","40585.00"]},
+{"id":"12","cell":["12","2018","Berkeley","IKHLAQ","SIDHU","ACAD PRG MGR 2","220671.00","212671.00","0.00","8000.00"]},
+{"id":"13","cell":["13","2018","Berkeley","KARSTEN","GRONERT","PROF-AY","220658.00","165650.00","0.00","55008.00"]},
+{"id":"14","cell":["14","2018","Berkeley","PHYLLIS","HOFFMAN","EXEC ADVISOR MGR 2","220636.00","220636.00","0.00","0.00"]},
+{"id":"15","cell":["15","2018","Berkeley","BAOXIA","MI","ASSOC PROF-AY-B/E/E","220471.00","115775.00","0.00","104696.00"]},
+{"id":"16","cell":["16","2018","Berkeley","PRIYA","MEHTA","ALUMNI EXTERNAL REL MGR 3","220367.00","219367.00","0.00","1000.00"]},
+{"id":"17","cell":["17","2018","Berkeley","XIANG","ZHANG","PROF-AY-B/E/E","220253.00","172433.00","0.00","47820.00"]},
+{"id":"18","cell":["18","2018","Berkeley","ALI","JAVEY","PROF-AY-B/E/E","219886.00","170008.00","0.00","49878.00"]},
+{"id":"19","cell":["19","2018","Berkeley","THOMAS","BRUNS","AGRON AES-AY","219583.00","219583.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","BRUCE","BALDWIN","PROF-AY","219246.00","180157.00","0.00","39089.00"]}]
+}

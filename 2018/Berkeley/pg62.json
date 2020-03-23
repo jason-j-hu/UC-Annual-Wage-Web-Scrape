@@ -1,0 +1,26 @@
+{
+"page" : "62",
+"total" : "1770",
+"records" : "35383",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","NORRIS","HERRINGTON","FAC PROJECT MGT SPEC 5","165937.00","156937.00","0.00","9000.00"]},
+{"id":"2","cell":["2","2018","Berkeley","WILLIAM","WHITE","ASST PROF-AY","165810.00","80083.00","0.00","85727.00"]},
+{"id":"3","cell":["3","2018","Berkeley","DANICA","CHEN","ASSOC AGRON AES-AY","165749.00","124258.00","0.00","41491.00"]},
+{"id":"4","cell":["4","2018","Berkeley","SUDHA","SHETTY","ACADEMIC COORD III-FY","165604.00","165604.00","0.00","0.00"]},
+{"id":"5","cell":["5","2018","Berkeley","JAMES","ANALITIS","ASSOC PROF-AY","165522.00","125492.00","0.00","40030.00"]},
+{"id":"6","cell":["6","2018","Berkeley","PHENG","CHEAH","PROF-AY","165483.00","165483.00","0.00","0.00"]},
+{"id":"7","cell":["7","2018","Berkeley","RICHARD","BLIGH","DATABASE ADM 5","165433.00","164183.00","0.00","1250.00"]},
+{"id":"8","cell":["8","2018","Berkeley","ARASH","KOMEILI","AGRON AES-AY","165412.00","128842.00","0.00","36570.00"]},
+{"id":"9","cell":["9","2018","Berkeley","MOHAMMAD-REZA","ALAM","ASSOC PROF-AY-B/E/E","165377.00","122908.00","0.00","42469.00"]},
+{"id":"10","cell":["10","2018","Berkeley","OLGA","HOLTZ","PROF-AY","165336.00","149133.00","0.00","16203.00"]},
+{"id":"11","cell":["11","2018","Berkeley","LIA","FERNALD","PROF-AY","165295.00","139508.00","0.00","25787.00"]},
+{"id":"12","cell":["12","2018","Berkeley","AMY","GARDNER","ADMIN MGR 1","165268.00","161571.00","0.00","3697.00"]},
+{"id":"13","cell":["13","2018","Berkeley","DANIEL","GRIEB","DATA SYS MGR 1","165260.00","155982.00","0.00","9278.00"]},
+{"id":"14","cell":["14","2018","Berkeley","RAURI","BOWIE","CURATOR","165200.00","149500.00","0.00","15700.00"]},
+{"id":"15","cell":["15","2018","Berkeley","CARLO","CARRARO","ADJ PROF-AY-B/E/E","165196.00","123475.00","0.00","41721.00"]},
+{"id":"16","cell":["16","2018","Berkeley","KIMBERLY","KINCANNON","EXEC ADVISOR 4","165040.00","165040.00","0.00","0.00"]},
+{"id":"17","cell":["17","2018","Berkeley","GLORIA","SAITO","BEH HEALTH CNSLNG MGR 1","165039.00","148007.00","0.00","17032.00"]},
+{"id":"18","cell":["18","2018","Berkeley","ELIZABETH","BRASHERS","PROJECT POLICY ANL 5","165000.00","165000.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","ALESSANDRA","LANZARA","PROF-AY","165000.00","165000.00","0.00","0.00"]},
+{"id":"20","cell":["20","2018","Berkeley","JOHN","BATTLES","PROF-AY","164989.00","147158.00","0.00","17831.00"]}]
+}

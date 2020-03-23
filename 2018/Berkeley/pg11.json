@@ -1,0 +1,26 @@
+{
+"page" : "11",
+"total" : "1770",
+"records" : "35383",
+"rows":[
+{"id":"1","cell":["1","2018","Berkeley","CHARLES","WEISSELBERG","PROF-AY-LAW","304672.00","282800.00","0.00","21872.00"]},
+{"id":"2","cell":["2","2018","Berkeley","JOHN","COATES","AGRON AES-AY","303955.00","181650.00","0.00","122305.00"]},
+{"id":"3","cell":["3","2018","Berkeley","VICTOR","COUTURE","ASST PROF-AY-B/E/E","303654.00","227792.00","0.00","75862.00"]},
+{"id":"4","cell":["4","2018","Berkeley","PRADEEP","CHHIBBER","DIRECTOR","303533.00","219808.00","0.00","83725.00"]},
+{"id":"5","cell":["5","2018","Berkeley","PRUDENCE","CARTER","DEAN","303458.00","278458.00","0.00","25000.00"]},
+{"id":"6","cell":["6","2018","Berkeley","RASMUS","NIELSEN","PROF-AY","303273.00","237810.00","0.00","65463.00"]},
+{"id":"7","cell":["7","2018","Berkeley","JUDITH","BUTLER","PROF-AY","302258.00","300408.00","0.00","1850.00"]},
+{"id":"8","cell":["8","2018","Berkeley","DAVID","SCHAFFER","PROF-AY-B/E/E","301543.00","206603.00","0.00","94940.00"]},
+{"id":"9","cell":["9","2018","Berkeley","PHILLIP","MESSERSMITH","PROF-AY-B/E/E","301220.00","225684.00","0.00","75536.00"]},
+{"id":"10","cell":["10","2018","Berkeley","YURIY","GORODNICHENKO","PROF-AY-B/E/E","301176.00","300850.00","0.00","326.00"]},
+{"id":"11","cell":["11","2018","Berkeley","JACK","GALLANT","PROF-AY","300827.00","265492.00","0.00","35335.00"]},
+{"id":"12","cell":["12","2018","Berkeley","CARLA","HESSE","DEAN","300692.00","268092.00","0.00","32600.00"]},
+{"id":"13","cell":["13","2018","Berkeley","TERRENCE","HENDERSHOTT","PROF-AY-B/E/E","300278.00","268900.00","0.00","31378.00"]},
+{"id":"14","cell":["14","2018","Berkeley","LAUREL","FLETCHER","ADJ PROF-AY","300111.00","269633.00","0.00","30478.00"]},
+{"id":"15","cell":["15","2018","Berkeley","JEFFREY","BOKOR","PROF-AY-B/E/E","298194.00","220308.00","0.00","77886.00"]},
+{"id":"16","cell":["16","2018","Berkeley","STEVEN","LOUIE","PROF-AY","298117.00","264583.00","0.00","33534.00"]},
+{"id":"17","cell":["17","2018","Berkeley","HAROLD","WILLIAMS","ATH MGR 4 PAC12","297685.00","223771.00","0.00","73914.00"]},
+{"id":"18","cell":["18","2018","Berkeley","MICHELLE","MCCLELLAN","FUNDRAISING MGR 4","297675.00","297675.00","0.00","0.00"]},
+{"id":"19","cell":["19","2018","Berkeley","ERIC","RAKOWSKI","PROF-AY-LAW","297472.00","282700.00","0.00","14772.00"]},
+{"id":"20","cell":["20","2018","Berkeley","JOHN JR","COLFORD","PROF-AY","296652.00","228158.00","0.00","68494.00"]}]
+}
