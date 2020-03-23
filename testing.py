@@ -1,6 +1,23 @@
-import requests
+"""import requests
+import re
 url = "https://ucannualwage.ucop.edu/wage/search.action?_search=false&nd=1584252598793&rows=20&page=1&sidx=EAW_GRS_EARN_AMT&sord=desc&year=2018&location=Berkeley&firstname=&lastname=&title=&startSal=&endSal="
+regex_split = re.split('&|=', url)
+print(regex_split)
+"""
+import requests
+url = "https://ucannualwage.ucop.edu/wage/search.action?_search=false&nd=1584252598793&rows=20&page=1&sidx=EAW_GRS_EARN_AMT&sord=desc&year=2018&location=ALL&firstname=&lastname=&title=&startSal=&endSal="
+r = requests.get(url)
+r_text_fixed = r.text.replace("\'", "\"")
+with open(f"./2018/ALL/pg1.json", "r+") as fp:
+    #print(r_text_fixed)
+    print(fp.read())
+    if r_text_fixed == fp.read():
+        print(f"pg1 data already exists. ")
+    else:
+        fp.write(r_text_fixed)
+        print(f"pg1 data overwritten. ")
 
+"""
 r = requests.get(url)
 print(r.text)
 r_text_fixed = r.text.replace("\'", "\"")
@@ -14,7 +31,7 @@ if requests.get(url).text.replace("\'", "\"") == open('./2018/Berkeley/pg1.json'
     print('Success')
 else:
     print('Fail')
-
+"""
 
 
 

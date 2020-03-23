@@ -32,15 +32,26 @@ def download_json(url):
     folder_path = f"./{yr_num}/{loc_val}"
     create_dir(folder_path)
 
-    if os.path.isfile(f"{folder_path}/pg{pg_num}.json"):
-        print("pg" + pg_num + " data skipped\n")
-    else:
-        print("pg" + pg_num + " data collected\n")
+    try:
         r = requests.get(url)
         r.raise_for_status()
-        r_text_fixed = r.text.replace("\'", "\"")
+    except requests.exceptions.HTTPError as errh:
+        print("Http Error:", errh)
+        return
+
+    r_text_fixed = r.text.replace("\'", "\"")
+    if not os.path.isfile(f"{folder_path}/pg{pg_num}.json"):
         with open(f"{folder_path}/pg{pg_num}.json", "x") as obj:
             obj.write(r_text_fixed)
+        print("pg" + pg_num + " data downloaded. ")
+    else:
+        if r_text_fixed == open(f"{folder_path}/pg{pg_num}.json").read():
+            open(f"{folder_path}/pg{pg_num}.json").close()
+            print("pg" + pg_num + " data already exists. ")
+        else:
+            with open(f"{folder_path}/pg{pg_num}.json", "w") as obj:
+                obj.write(r_text_fixed)
+            print("pg" + pg_num + " data overwritten. ")
 
 
 def get_urls(list, yr_num, loc_val, row_num):
@@ -75,8 +86,11 @@ def get_valid_int(prompt, param):
             else:
                 break
         elif param == 'rows':
-            if not 1 <= int_val <= 999999999:
-                print("Each json file must contain at least 1 data row. The maximum data rows per json file is 999,999,999. \n")
+            if int_val <= 1:
+                print("Each json file must contain at least 1 data row.\n")
+                continue
+            elif int_val >= 999999999:
+                print("The maximum data rows per json file is 999,999,999.\n")
                 continue
             else:
                 break
@@ -107,9 +121,10 @@ if __name__ == '__main__':
     urls_list = []
     get_urls(urls_list, year, location, rows)
 
-    results = ThreadPool(6).imap_unordered(download_json, urls_list)
+    results = ThreadPool(10).imap_unordered(download_json, urls_list)
 
     for r in results:
         pass
 
-    print(f"Time to download: {time() - start}")
+    print("All files downloaded!")
+    print(f"Download Time: {time() - start}")
