@@ -1,70 +1,51 @@
 import json
 
-if __name__ == "__main__":
 
-    # just for testing purposes to truncate json file and make sure it starts out with correct formatting
-    with open('allJsonAppendedTogether.json', 'w') as fp:
-        #fp.truncate(0)
-        # json.dump({"rows":[]}, fp)
+def setup_file(new_file_name):
+    with open(new_file_name + ".json", 'w') as fp:
+        fp.truncate(0)
         fp.write("{\"employees\":[]}")
 
-    with open('allJsonAppendedTogether.json', 'r+') as fp:
+
+def func(new_file_name, original_file_path):
+    with open(new_file_name + '.json', 'r+') as fp:
         information = json.load(fp)
 
-    pgNum = 1
-    for fileRange in range(1, 15515+1):
-        with open('data/pg' + str(fileRange) + '.json', 'r') as jsonStr:
-            jsonStrText = json.load(jsonStr, strict=False)
-        for index, item in enumerate(jsonStrText['rows']):
-            itemNum = item['cell']
-            item['id'] = pgNum * 20 + int(item['id']) - 20
-            item['year'] = itemNum[1]
-            item['location'] = itemNum[2]
-            for character in itemNum[3]:
+    with open(original_file_path + "/pg1.json", 'r') as fp:
+        max_pgs = int(json.load(fp)['total'])
+
+    for fileRange in range(1, max_pgs+1): #15515+1
+        with open(original_file_path + '/pg' + str(fileRange) + '.json', 'r') as json_fp:
+            json_string = json.load(json_fp, strict=False)
+        for index, item in enumerate(json_string['rows']):
+            item_num = item['cell']
+            item['year'] = item_num[1]
+            item['location'] = item_num[2]
+            for character in item_num[3]:
                 if character == " ":
-                    itemNum3 = itemNum[3].split(" ", 1)
-                    item['firstName'] = itemNum3[0].title()
-                    #print(item['firstName'])
-                    item['middleName(s)'] = itemNum3[1].title()
-                    #print(item['middleName(s)'])
+                    item_num_temp = item_num[3].split(" ", 1)
+                    item['firstName'] = item_num_temp[0].title()
+                    item['middleName(s)'] = item_num_temp[1].title()
                     break
                 else:
-                    item['firstName'] = itemNum[3].title()
+                    item['firstName'] = item_num[3].title()
                     item['middleName(s)'] = ''
-            item['lastName'] = itemNum[4].title()
-            item['title'] = itemNum[5]
-            item['grossPay'] = itemNum[6]
-            item['regularPay'] = itemNum[7]
-            item['overtimePay'] = itemNum[8]
-            item['otherPay'] = itemNum[9]
+            item['lastName'] = item_num[4].title()
+            item['title'] = item_num[5]
+            item['grossPay'] = item_num[6]
+            item['regularPay'] = item_num[7]
+            item['overtimePay'] = item_num[8]
+            item['otherPay'] = item_num[9]
+            item.pop('id')
             item.pop('cell')
-            rowInfo = jsonStrText["rows"][index]
+            rowInfo = json_string["rows"][index]
             information["employees"].append(rowInfo)
-        pgNum += 1
 
-    #print(information)
+    with open(new_file_name + '.json', 'w') as fp:
+        json.dump(information, fp, indent=1)
 
-    with open('allJsonAppendedTogether.json', 'w') as fp:
-        json.dump(information, fp, indent = 1)
-
-
-
-
-
-
-
-    """with open('allJsonAppendedTogether.json', 'r+') as obj:
-    
-
-        data = json.load(obj)
-        print(data['rows'][1])"""
-
-
-
-    #TODO:
-    # 1. Make a new file that is for combining all the json stuff
-    # 2. Open pg1 and extract data from pg1 to new file
-    # 3. Open pg2
-    # 4. Make ID unique by a math calculation: pgNum * 10 + id
-    # 5. Append contents of pg 2 to new file
-    # 6. Loop 3-5
+if __name__ == "__main__":
+    setup_file("allJsonAppendedTogether")
+    for yr in range(2010, 2018+1):
+        func("allJsonAppendedTogether", f'./{yr}/ALL')
+        print(f"Year {yr} Data Combined")
