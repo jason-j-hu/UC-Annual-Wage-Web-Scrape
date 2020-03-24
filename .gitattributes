@@ -1,0 +1,2 @@
+allJsonAppendedTogether.json filter=lfs diff=lfs merge=lfs -text
+allJsonAppendedTogether.csv filter=lfs diff=lfs merge=lfs -text
